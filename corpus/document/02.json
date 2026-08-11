@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "titre": "Rapport d'évaluation des capacités minimales requises aux Points d'Entrée pour l'application des dispositions du Règlement Sanitaire International au Sénégal",
+    "annee": "2014",
+    "source": "Ministère de la Santé et de l'Action Sociale, Organisation Mondiale de la Santé, Organisation Ouest Africaine de la Santé",
+    "type_document": "Rapport d'évaluation"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "Rapport d'évaluation des capacités minimales requises aux Points d'Entrée pour l'application des dispositions du Règlement Sanitaire International au Sénégal. Ministère de la Santé et de l'Action Sociale, Organisation Mondiale de la Santé, Organisation Ouest Africaine de la Santé. Octobre 2014.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Globe terrestre stylisé",
+          "description": "Image graphique représentant un globe terrestre bleu-vert avec un maillage géométrique, centré sur l'Europe et l'Afrique, utilisée en couverture du rapport."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Remerciements",
+      "texte": "L'équipe conjointe d'évaluation (DP – OMS) tient à remercier le Ministère de la Santé et de l'Action Sociale pour avoir autorisé et facilité le bon déroulement de cette mission à Dakar. Elle remercie également les autorités du Port Autonome de Dakar, de l'Aéroport International Léopold Sedar Senghor et du Poste frontière de Kalifourou pour leur disponibilité et leur soutien ayant contribué à l'atteinte des objectifs de la mission. L'équipe conjointe exprime sa profonde gratitude à l'Organisation Mondiale de la Santé et à l'Organisation Ouest Africaine de la Santé pour le soutien financier et matériel ayant permis la réalisation de cette importante activité. Elle adresse enfin ses sincères remerciements à la Représentation de l'OMS au Sénégal, la coordination de l'Equipe Inter-Pays au Burkina Faso, au Bureau Régional de l'OMS à Brazzaville, au département GCR/SID/PAG and GCR/MPI/APM Teams du Bureau de l'OMS à Lyon ainsi qu'à l'USAID pour le déploiement des experts pour la conduite de l'évaluation des Capacités Minimales Requises aux Points d'Entrée.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des abréviations et sigles",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste des abréviations et sigles",
+          "colonnes": ["Sigle", "Signification"],
+          "lignes": [
+            {"Sigle": "ADS", "Signification": "Aéroport du Sénégal"},
+            {"Sigle": "AIBD", "Signification": "Aéroport International Blaise Diagne"},
+            {"Sigle": "AILSS", "Signification": "Aéroport International Léopold Sédar Senghor"},
+            {"Sigle": "ANACIM", "Signification": "Agence National de l'Aviation Civile du Sénégal"},
+            {"Sigle": "ASECNA", "Signification": "Agence pour la Sécurité et la Navigation Aérienne"},
+            {"Sigle": "CAPSCA", "Signification": "Collaborative Arrangement for the Prévention and Management of Public Health Events in Civil Aviation"},
+            {"Sigle": "CDC", "Signification": "Center for Disease Control"},
+            {"Sigle": "CEDEAO", "Signification": "Communauté Economique des Etats de l'Afrique de l'Ouest"},
+            {"Sigle": "CMR", "Signification": "Capacités Minimales Requises"},
+            {"Sigle": "CSFA", "Signification": "Contrôle Sanitaire aux Frontières Aériennes"},
+            {"Sigle": "CSF", "Signification": "Contrôle sanitaire aux Frontières"},
+            {"Sigle": "CSFM", "Signification": "Contrôle Sanitaire aux Frontières Maritimes"},
+            {"Sigle": "CSFT", "Signification": "Contrôle Sanitaire aux Frontières Terrestres"},
+            {"Sigle": "DKR", "Signification": "Code IATA de l'Aéroport International Léopold Sédar senghor"},
+            {"Sigle": "GOOY", "Signification": "Code OACI de l'Aéroport International Léopold Sédar Senghor"},
+            {"Sigle": "IATA", "Signification": "International Air Transport Association"},
+            {"Sigle": "IST WA", "Signification": "Inter Country Support Team for West Africa"},
+            {"Sigle": "MCD", "Signification": "Médecin Chef de District"},
+            {"Sigle": "MCR", "Signification": "Médecin Chef de Région"},
+            {"Sigle": "MSAS", "Signification": "Ministère de la Santé et de l'Action Sociale"},
+            {"Sigle": "OACI", "Signification": "Organisation de l'Aviation Civile Internationale"},
+            {"Sigle": "OMS", "Signification": "Organisation Mondiale de la Santé"},
+            {"Sigle": "ONG", "Signification": "Organisation Non Gouvernementale"},
+            {"Sigle": "OOAS", "Signification": "Organisation Ouest Africaine de la Santé"},
+            {"Sigle": "PE / PoE", "Signification": "Point d'entrée / Point of Entry"},
+            {"Sigle": "PFN RSI", "Signification": "Point Focal National Règlement Sanitaire International"},
+            {"Sigle": "PFR", "Signification": "Point Focal Régional"},
+            {"Sigle": "PMAD", "Signification": "Port Maritime Autonome de Dakar"},
+            {"Sigle": "RSI", "Signification": "Règlement Sanitaire International"},
+            {"Sigle": "SAMU", "Signification": "Service d'Assistance Médicale d'Urgence"},
+            {"Sigle": "USAID", "Signification": "United-State Agency for International Development"},
+            {"Sigle": "USPPI", "Signification": "Urgence de Santé Publique de Portée Internationale"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Table des matières",
+      "texte": "I Principaux constats 6. II Introduction 7. III Termes de références de la mission 7. IV Méthode de l'évaluation 8. V Chronogramme 9. VI Résultats 10. 6.1 Poste frontière de Kalifourou 10. 6.1.1 Localisation et description du poste 10. 6.1.2 Niveau de mise en œuvre des CMR 11. 6.1.3 Points Forts et Points Faibles 11. 6.2 Port Autonome de Dakar (PAD) 12. 6.2.1 Localisation et description du PAD 12. 6.2.2 Niveau de mise en œuvre des CMR 15. 6.2.3 Points Forts et Points Faibles 15. 6.3 Aéroport International Léopold Sédar Senghor (ALSS) 16. 6.3.1 Localisation et description de l'ALSS 16. 6.3.2 Niveau de mise en œuvre des CMR à l'ALSS 17. 6.3.3 Points Forts et Points Faibles 17. 6.4 Aéroport International Blaise Diagne (AIBD) 20. 6.4.1 Localisation et description de AIBD 20. 6.4.2 Points Forts et Points Faibles 20. VII Recommandations 21. 7.1.1 Recommandations techniques 21. 7.1.2 Recommandations juridiques 21. 7.1.3 Recommandations Coordination/Communication 21. VIII Identification du support technique de l'OMS et de l'OACI 22. IX Etapes suivantes 22. Annexes. X Références 22. XI Agenda de la mission 27. XII Liste des Participants 28.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "I. Introduction",
+      "texte": "Le Règlement Sanitaire International (RSI) est un instrument juridique international qui a force obligatoire pour 194 pays dont le Sénégal. Adopté par l'Assemblée Mondiale de la Santé le 23 mai 2005, il est entré en vigueur le 15 juin 2007. Son objectif est de « Prévenir la propagation internationale des maladies, s'en protéger, la maîtriser et y réagir par une action de santé publique proportionnée et limitée aux risques qu'elle présente pour la santé publique, en évitant de créer des entraves inutiles au trafic et au commerce internationaux ».  Compte tenu des définitions élargies des termes « maladie », « événement », « risque pour la santé publique » et autres termes pertinents du RSI (2005), le Règlement couvre bien davantage qu'une liste de maladies infectieuses spécifiques. Le RSI (2005) porte ainsi sur un large éventail de risques pour la santé publique pouvant être d'ampleur internationale : (i) qu'ils soient d'origine ou de source biologique, chimique ou radionucléaire, et (ii) qu'ils puissent être transmis par : (iii) des personnes (SRAS, grippe, poliomyélite, Ebola, par exemple), (iv) des marchandises, des denrées alimentaires, des animaux (risques de zoonoses inclus), (v) des vecteurs (peste, fièvre jaune, fièvre à virus West Nile, par exemple) ou encore (vi) l'environnement (fuites radionucléaires, déversements de substances chimiques ou autres contaminations, par exemple).  Aux termes des articles 5 et 13 du RSI, chaque État devrait acquérir, renforcer et maintenir les compétences requises dès que possible mais au plus tard dans les cinq (05) ans suivant l'entrée en vigueur du RSI (15 juin 2012).  En effet, les États ont pris l'engagement d'évaluer leurs capacités entre 2007 et 2009 et de mettre en place des plans d'action de mise en œuvre des capacités principales pour la période 2009-2012.  Au niveau de la Région africaine, à l'état actuel, 44 pays sur 47 soit 94% ont réalisé l'évaluation des Capacités Minimales Requises et développé des plans d'action pour la mise en œuvre du RSI. Pour permettre aux États de s'acquitter de leurs obligations, OMS-AFRO a élaboré un guide pour accélérer l'application du RSI et permettre aux pays membres d'avoir une prorogation de délai jusqu'en 2016.  Le Sénégal a pour sa part évalué la mise en œuvre du RSI. Deux (02) ateliers ont été tenus, avec la participation effective des partenaires comme l'OMS et de treize (13) autres ministères. L'évaluation de la situation a été faite et le plan d'action initié est au stade de la budgétisation. Devant le retard de mise en œuvre constaté à la date butoir du 15 juin 2012, le pays a demandé auprès du Directeur Général de l'OMS et obtenu une extension de deux (2) ans selon les dispositions des textes. L'évaluation des Capacités Minimales Requises au niveau des Points d'Entrée (PE) n'est pas encore faite.  En 2014, la situation est restée inchangée et les explications notamment relatives aux insuffisances des ressources ont été fournies. Le pays a sollicité et obtenu une seconde prolongation de deux (2) ans, jusqu'en juin 2016 pour mettre en œuvre le plan d'action pour le renforcement des capacités Minimales Requises après deux (2) activités majeures qui sont la finalisation de la budgétisation du plan d'action (i) et l'évaluation et l'élaboration d'un plan d'action des trois (3) Points d'Entrée sélectionnés que sont l'Aéroport International Léopold Sédar Senghor à Dakar, le Port Maritime Autonome de Dakar et le Poste Frontalier Terrestre de Kalifourou dans la région de Kolda.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "II. Objectifs de la mission",
+      "texte": "La présente mission a pour but d'appuyer le pays à combler le retard accusé depuis l'entrée en vigueur du Règlement Sanitaire International le 15 Juin 2007 afin de faciliter l'élaboration du plan d'action pour le renforcement des Capacités Minimales Requises aux Points d'Entrée et soutenir la demande d'extension de 2 ans (jusqu'au 15 juin 2016) accordée par l'OMS.  Les objectifs de la mission étaient : - D'informer les autorités nationales sur les Capacités Minimales Requises pour l'application du Règlement Sanitaire International (2005) et le rôle des autorités compétentes aux Points d'Entrée ; - D'informer et former les autorités nationales sur la méthodologie de l'évaluation approfondie des Points d'Entrée désignés ; - De déterminer l'état actuel des capacités essentielles pour l'application du RSI aux principaux Points d'Entrée désignées ; - D'élaborer un plan d'action prioritaire pour le renforcement des Capacités Minimales requises aux Points d'Entrée désignés visités.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "III. Méthode de l'évaluation",
+      "texte": "Le Gouvernement du Sénégal a sollicité l'appui des Experts de l'OMS et du CDC / Atlanta pour la réalisation de l'évaluation qui s'est déroulée du 6 au 20 octobre 2014.  Ainsi, une équipe conjointe Ministère de la santé et de l'Action Sociale – Organisation Mondiale de la santé constituée à cet effet était composée : - Du Point Focal National RSI du Ministère de la Santé et de l'Action Sociale ; - Des experts venant du Bureau de l'OMS à Lyon, du Bureau Régional de l'OMS pour l'Afrique (AFRO) à Brazzaville, de l'Equipe Inter Pays pour l'Afrique de l'Ouest (IST/WA) à Ouagadougou, et du Bureau de la Représentation de l'OMS à Dakar ; - Des experts venant du CDC / Atlanta.  L'évaluation des Capacités Minimales Requises aux Points d'Entrée a été réalisée à travers : - la revue documentaire ; - l'administration de questionnaires permettant d'identifier et les forces les insuffisances en séances plénières ; - l'organisation des visites de l'Aéroport International Léopold Sédar Senghor, du Port Maritime Autonome de Dakar, de l'Aéroport International Blaise Diagne et du Poste Frontière de Kalifourou suivies des entretiens avec les responsables des Points d'Entrée visités et ceux des secteurs concernés par l'application des dispositions du RSI ; - la restitution des résultats aux autorités nationales.  L'évaluation a porté sur les composantes suivantes : - Coordination et communication ; - Principales capacités à tout moment (routine) ; - Principales capacités pour faire face à un événement pouvant constituer une urgence de santé publique de portée internationale (USPPI).  L'analyse des données a été assurée en utilisant l'outil OMS « Evaluation des principales capacités requises des Ports, Aéroports et Postes-frontières désignés » conçu à cet effet et disponible sur le site de l'OMS : http://www.who.int/ihr/ports_airports/PoE/fr/index.html  Cet outil permet l'évaluation des composantes ci-dessus mentionnées sur une échelle à trois niveaux : - 0% : si la composante n'a pas été mise en œuvre ; - 50% : si la composante a été partiellement mise en œuvre ; - 100% : si la composante a été entièrement mise en œuvre.  L'acquisition des Capacités Minimales Requises aux Points d'Entrée est effective pour une composante si le score moyen obtenu est supérieur ou égale à 75%.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "IV. Constats - 4.1. Principaux constats sur les Capacités Minimales Requises (CMR) aux Points d'entrée visités en vertu du RSI",
+      "texte": "4.1.1 Coordination et Communication Des instances de coordination existent au niveau des points d'entrée visités, toutefois la participation à ces instances des équipes responsables du contrôle sanitaire aux points d'entrée est faible, et irrégulière. Une participation de haut niveau plus soutenue serait bénéfique aux services du contrôle sanitaire non seulement au plan du partage de l'information avec les autres secteurs évoluant au niveau du point d'entrée, mais également, au plan de la mobilisation des ressources au profit des activités de contrôle sanitaire. La coordination du service de contrôle sanitaire au niveau du point d'entrée avec la tutelle centrale n'est pas organisée de façon ciblée et périodique sur les activités spécifiques du contrôle sanitaire. Une telle organisation permettrait aux services de contrôle sanitaire aux points d'entrée et à la tutelle centrale de suivre ensemble les progrès réalisés et les difficultés rencontrées à ce niveau, et de réajuster au besoin. Aucun des points d'entrée visités ne dispose d'un répertoire avec les contacts détaillés des services ou agents nécessaires à l'application des mesures de santé de publique conformément au RSI tant au plan international que national. Un tel dispositif pourrait à tout moment permettre aux différentes équipes du contrôle sanitaire de disposer d'un contact pour aider à la prise de décision ou pour une référence.  4.1.2 Capacités Minimales Requises aux Points d'entrée à tout moment Les missions et responsabilités des services nationaux du contrôle sanitaire aux points d'entrée et leur lien avec le RSI ne sont pas bien connues par les agents. Une diffusion formelle du cadre institutionnel et réglementaire du contrôle sanitaire aux points d'entrée, de même qu'un renforcement des compétences des agents sur l'application du RSI sont nécessaires ; Au niveau des différents points d'entrée visités, il a été constaté l'inexistence d'activités de contrôle sanitaire notamment au niveau des points d'entrée terrestre. Par ailleurs, les services de contrôle sanitaire existants sont confrontés à un important déficit en ressources humaines, en équipement et les locaux sont vétustes et inadaptés ; Le seul Point Focal National RSI (PFN RSI) ne peut apporter un soutien technique conséquent aux équipes dans les activités de contrôle sanitaire en lien avec le RSI. Ainsi, Il importe de réajuster la composition et le fonctionnement du PFN RSI, en favorisant l'approche multisectorielle dans la composition du PFN RSI en vue d'une meilleure évaluation des évènements sanitaires et une prise de décision adéquate.  4.1.3 Principales capacités pour faire face à un événement pouvant constituer une Urgence de Santé Publique de Portée Internationale (USPPI) L'épidémie de la maladie à virus Ebola en cours en Afrique de l'Ouest, a permis de constater que les CMR ont été mises en place tardivement. Elles ne sont pas encore effectives. Il existe des gaps en termes de procédures, de renforcement des compétences du personnel et d'équipements ; Les rares plans d'urgence élaborés au niveau des points d'entrée sont incomplets.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.2. Constats spécifiques identifiés par Point d'Entrée visité - 4.2.1 Poste frontière de Kalifourou",
+      "texte": "4.2.1.1 Localisation et description du poste Le village de Kalifourou est situé à 458 km à l'Est de Dakar, dans le District Sanitaire de Vélingara, Région de Kolda. La ligne de démarcation marquant la frontière est à environ 62 km au Nord-Ouest de la ville Guinéenne de Koundara et d'environ 35 km du village de Kalifourou. Le poste de santé de Kalifourou est la première structure de santé du côté Sénégalais. Il offre un Paquet Minimum d'Activités de soins de santé primaire. Cependant, un important chantier d'intégration sous régionale est en cours en ce poste sous les auspices de la CEDEAO. Il s'agit de deux (2) postes de contrôle frontalier juxtaposés de part et d'autres de la ligne de démarcation incluant toutes les activités régulières au niveau d'un poste frontière (Douanes, sécurité, Santé, etc.). Le financement serait disponible mais les travaux sont interrompus à cause de la fermeture de la frontière.  4.2.1.2 Niveau de renforcement des CMR au Poste Frontière de Kalifourou",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Forces et Insuffisances identifiées à l'évaluation des CMR au Poste Frontière de Kalifourou",
+          "colonnes": ["Composantes", "Forces", "Insuffisances"],
+          "lignes": [
+            {
+              "Composantes": "Coordination et communication",
+              "Forces": "Disponibilité de l'information au Point d'Entrée. Disponibilité effective des procédures (directives nationales, fiches techniques). Forte coordination interne.",
+              "Insuffisances": "Caractère informel des annuaires et des listes de contacts. Moyens de communication insuffisants (ordinateurs, réseau téléphonique, internet)."
+            },
+            {
+              "Composantes": "Principales capacités à tout moment",
+              "Forces": "Existence d'un service d'hygiène formel à la frontière avec un personnel affecté. Existence d'un code national de l'hygiène.",
+              "Insuffisances": "Locaux non adaptés (dépistage des maladies à potentiel épidémique et exécution des procédures de santé publique). Plateau technique insuffisant (équipement d'inspection et de contrôle, absence de protocole standardisés). Absence de programme d'inspection. Personnel insuffisant. Absence d'un plan d'hygiène et de contrôle au niveau local."
+            },
+            {
+              "Composantes": "Principales capacités pour faire face à un événement pouvant constituer une USPPI",
+              "Forces": "Existence de directives nationales pour les urgences de santé publique. Disponibilité d'un soutien politique local pour la coordination.",
+              "Insuffisances": "Absence d'un plan d'interventions pour les Urgences de Santé Publique au Poste frontière de Kalifourou."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Carte 1 : Aperçu du poste de Kalifourou à 35 km de la ligne de démarcation",
+          "description": "Carte Google Maps montrant la localisation de Kalifourou, dans la région de Kolda au Sénégal, proche de la frontière avec la Guinée-Bissau et la Guinée, ainsi que la Gambie. La carte situe le village de Kalifourou par rapport à Dakar, Vélingara, Kolda et les pays voisins (Guinée-Bissau, Guinée, Mali)."
+        },
+        {
+          "type": "graphique",
+          "titre": "Niveau de renforcement des CMR au Poste Frontière de Kalifourou",
+          "axes": {
+            "horizontal": "Pourcentage de mise en œuvre (0% à 100%)",
+            "vertical": "Composantes évaluées"
+          },
+          "donnees": [
+            {"composante": "Coordination et communication", "valeur": "58%"},
+            {"composante": "Principale capacité à tout moment", "valeur": "26%"},
+            {"composante": "Principale capacité pour faire face à un événement pouvant constituer une urgence de santé publique de portée internationale", "valeur": "26%"}
+          ],
+          "tendance": "Les trois composantes évaluées au poste frontière de Kalifourou restent en dessous du seuil de 75% requis pour considérer les Capacités Minimales Requises comme acquises, avec la coordination et communication en tête (58%) mais les capacités de routine et d'urgence nettement plus faibles (26% chacune)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4.2.2. Port Maritime Autonome de Dakar (PMAD)",
+      "texte": "4.2.2.1 Localisation et description du PMAD Les travaux de la construction du PMAD commencent en 1862 après la prise de la côte par les Français en 1957 et s'achèvent en 1866 par son inauguration. Depuis lors le PMAD connait une évolution croissante en termes d'infrastructures et de trafic comme l'indique le graphique 1 ci-dessous.  Le Port occupe une position stratégique à l'intersection des lignes maritimes reliant l'Europe à l'Amérique du Sud, L'Amérique du Nord à l'Afrique.  Organisation Le Port Autonome de Dakar est administré par un Conseil d'Administration, un Conseil de Surveillance et une Direction Générale. a) Le Conseil d'Administration est composé de douze (12) membres. Il statue sur les grandes orientations de la politique générale de la Société. b) Le Conseil de Surveillance est présidé par le PCA. Il se réunit en séance ordinaire au moins une fois par an, dans les six (6) derniers mois de la clôture de l'exercice. c) Direction générale.  Les différentes réorganisations qui ont suivi le changement de statut intervenu en 1987 ont permis au Port Maritime Autonome de Dakar de se doter d'un organigramme intégrant toutes les fonctions essentielles à l'administration d'un Port moderne.  L'administration du Port dispose aussi des directions sectorielles dont la direction des systèmes d'information et la direction de l'exploitation et de la sécurité.  La direction des systèmes d'information est chargée de : - Elaborer et de mettre en œuvre un plan directeur informatique et des télécommunications et de veiller à son application en relation avec les services utilisateurs ; - Assurer une gestion optimale et concertée des systèmes d'information ainsi que des moyens télématiques ; - Assurer une veille au regard de l'évolution des nouvelles technologies de l'information et de la communication et de mettre en œuvre toutes mesures concertées d'adaptation aux moyens télématiques du PMAD ; - Orienter les choix stratégiques et technologiques en ce qui concerne les investissements pour les logiciels et les équipements ; - Participer à la mise en place et au développement d'un système informatique communautaire, en relation avec les organisations professionnelles de la place portuaire de Dakar ; - Contribuer à la formation du personnel et à la vulgarisation des nouvelles technologies de l'information et de la communication, en relation avec le Département des Ressources Humaines.  La direction de l'Exploitation et de la Sécurité est chargée de : - Coordonner et de contrôler les services opérationnels d'exploitation de l'outil portuaire au plan interne et externe ; - Veiller à l'application des règlements de police et d'exploitation ; - Participer à l'élaboration de projets d'aménagement et d'amélioration des installations portuaires ; - Assurer en permanence depuis la rade externe, la prise en charge, le placement et le service aux navires dans les meilleures conditions de rapidité, de sécurité et de sûreté ; - Prendre toutes mesures justifiées pour garantir, dans le périmètre portuaire, y compris la rade intérieure, le libre accès aux navires et le transit des marchandises dans les meilleures conditions de sécurité et de sûreté ; - Gérer les terres pleins, hangars et bâtiments à usage personnel situés à l'intérieur de la barrière douanière ; - Mettre en œuvre la politique de maintenance de l'armement et d'assurer le suivi du carénage en relation avec la direction des Infrastructures et de la Logistique ; - Veiller au bon usage des installations mises à la disposition de la clientèle, à la propreté du plan d'eau, des terres pleines, des hangars, des voies de circulation et des quais ainsi que la protection de l'environnement ; - Veiller à la bonne application des dispositions des cahiers des charges des sociétés concessionnaires et auxiliaires agrées installés à l'intérieur de la bannière douanière.  Hygiène et Santé Dans le cadre de la poursuite de la politique de mise en œuvre des mesures préventives, le service de la médecine sanitaire du Port a orienté ses actions dans le domaine de la santé de l'homme dans ses relations avec le travail vu sous plusieurs angles : au plan économique, social, physique et mental. Tout comme de 2011 et 2010, il n'y a pas eu de cas de maladie professionnelle déclarée en 2012. Par contre, le nombre d'accidents du travail a largement baissé passant de sept (07) en 2011 à trois (3) cas cette année avec cependant un taux de fréquence (TF) de 0,15 et un taux de gravité (TG) de 0,05.  4.2.2.2. Niveau de renforcement des CMR au Port Maritime Autonome de Dakar",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Forces et Insuffisances identifiées à l'évaluation des CMR au PMAD",
+          "colonnes": ["Composantes", "Forces", "Insuffisances"],
+          "lignes": [
+            {
+              "Composantes": "Coordination et communication",
+              "Forces": "Partage d'information avec les autres acteurs concernés par l'application des dispositions du RSI au niveau de l'espace portuaire. Document annonçant l'arrivée des bateaux, partagés et exploités. Réponse globale à Ebola portée par le PORT. Participation du CSFM au cadre de concertation au Ministère de la santé. Existence de renforcement du système d'information du CSFM, bon suivi situation épidémiologique.",
+              "Insuffisances": "Points d'entrée non désignés officiellement et notifiés à l'OMS. Appui institutionnel insuffisant. Faiblesse dans la communication et dans la coordination avec les autres acteurs concernés par l'application des dispositions du RSI au niveau de l'espace portuaire."
+            },
+            {
+              "Composantes": "Principales capacités à tout moment",
+              "Forces": "Existence d'un service d'hygiène formel à la frontière avec un personnel affecté. Existence de compétences pour le contrôle sanitaire (surveillance épidémiologique, contrôle de l'eau et des aliments, lutte anti vectorielle…). Examen et interprétation des documents sanitaires (carnet de vaccination…).",
+              "Insuffisances": "Locaux non adaptés au dépistage des Maladies à Potentiel Epidémique et à l'application des procédures de santé publique. Locaux insuffisants et inadéquats. Cadre juridique et réglementaire inadaptés à l'application correcte des dispositions du RSI."
+            },
+            {
+              "Composantes": "Principales capacités à tout moment",
+              "Forces": "Surveillance épidémiologique (outils et protocoles sur la surveillance épidémiologique des maladies disponibles, participation du CSFM aux réunions du comité de gestion des épidémies).",
+              "Insuffisances": "Absence de moyens d'investigation, absence de collaboration avec les prestataires du PMAD. Ressources financières, humaines et matérielles insuffisantes pour l'inspection correcte des bateaux et la mise en œuvre des activités de surveillance épidémiologique. Personnel du CSFM non formés sur les risques chimiques, microbiologiques et radionucléaires. Absence de matériel technique (prélèvement, contrôle de l'eau et des aliments, surveillance entomologique, lutte anti vectorielle). Personnel non formé à l'inspection des bateaux."
+            },
+            {
+              "Composantes": "Principales capacités pour faire face à un événement pouvant constituer une urgence de santé publique de portée internationale (USPPI)",
+              "Forces": "Existence et application du Protocole d'arraisonnement. Existence des outils et protocole pour la surveillance épidémiologique. Existence de directives nationales pour les Urgences de Santé Publique.",
+              "Insuffisances": "Non disponibilité d'un plan d'urgence santé et d'un protocole définissant les interventions. Insuffisance de la logistique. Insuffisance dans la coordination. Absence d'un plan d'intervention pour les urgences de santé publique au CSFM."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Position stratégique du Port Autonome de Dakar",
+          "description": "Carte du monde illustrant les lignes maritimes reliant le Port de Dakar à l'Europe, l'Amérique du Sud, l'Amérique du Nord et l'Afrique, mettant en évidence la position stratégique du port à l'intersection de ces routes maritimes internationales."
+        },
+        {
+          "type": "graphique",
+          "titre": "Graphique 1 : Evolution du trafic portuaire de 2009 à 2013 en tonnes",
+          "axes": {
+            "horizontal": "Tonnes de trafic portuaire",
+            "vertical": "Année"
+          },
+          "donnees": [
+            {"annee": "2009", "valeur": "8 742 971"},
+            {"annee": "2010", "valeur": "10 271 371"},
+            {"annee": "2011", "valeur": "11 408 799"},
+            {"annee": "2012", "valeur": "11 869 557"},
+            {"annee": "2013", "valeur": "12 217 987"}
+          ],
+          "tendance": "Le trafic portuaire du Port Autonome de Dakar a connu une croissance continue entre 2009 et 2013, passant de 8 742 971 tonnes à 12 217 987 tonnes, soit une augmentation constante d'année en année."
+        },
+        {
+          "type": "graphique",
+          "titre": "Niveau de renforcement des CMR au Port Maritime Autonome de Dakar",
+          "axes": {
+            "horizontal": "Pourcentage de mise en œuvre (0% à 100%)",
+            "vertical": "Composantes évaluées"
+          },
+          "donnees": [
+            {"composante": "Coordination et communication", "valeur": "44%"},
+            {"composante": "Principale capacité à tout moment", "valeur": "11%"},
+            {"composante": "Principale capacité pour faire face à un événement pouvant constituer une urgence de santé publique de portée internationale", "valeur": "18%"}
+          ],
+          "tendance": "Les niveaux de renforcement des CMR au PMAD sont globalement faibles, avec une coordination et communication à 44% mais des capacités de routine (11%) et d'urgence (18%) très insuffisantes, en dessous du seuil de 75% requis."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4.2.3. Aéroport International Léopold Sedar Senghor",
+      "texte": "4.2.3.1 Localisation et description de l'aéroport C'est le principal aéroport du Sénégal, situé à proximité du village de Yoff, commune située au Nord-Ouest de la capitale Dakar (Code AITA : DKR et code OACI : GOOY). L'Aéroport International Léopold Sédar Senghor (AILSS) de Dakar qui accueille près de 1 800 000 passagers (2 000 000 en 2013, objectif de 2 200 000 en 2014) et plus d'une quarantaine de compagnies aériennes, est, au point de vue trafic, le premier aéroport des pays membres de l'Union Économique et Monétaire Ouest Africaine (UEMOA) et le troisième de la Communauté Économique des États de l'Afrique de l'Ouest (CEDEAO). Leader dans l'espace ASECNA en Afrique de l'Ouest de par son trafic, sa sécurité, son niveau de sûreté, la qualité des services offerts aux usagers et la modernité de ses installations aéroportuaires, l'aéroport de Dakar dispose d'un ensemble d'infrastructures et d'équipements lui permettant de recevoir tous les types d'aéronefs et de les traiter dans les conditions optimales de sûreté et de sécurité. Sa position géographique privilégiée explique en partie la présence d'une quarantaine de compagnies aériennes majeures dont Air France, Emirates, South Africa Airways, Delta Airlines, …  Depuis le 09 mai 2008, l'Agence des Aéroports du Sénégal a été créée pour assurer la gestion technique et commerciale de l'ensemble des aéroports du Sénégal dont les plus importants sont : Dakar, Ziguinchor, Cap Skirring, Saint Louis et Tambacounda.  Le contrôle sanitaire est bien pris en compte à l'Aéroport International Léopold Sédar Senghor. Les travaux en cours sur l'extension et le réaménagement des salles Embarquement, Arrivée en plus de l'aménagement d'une nouvelle salle de transit, prévoient de nouveaux locaux pour le service du contrôle sanitaire.  Aujourd'hui, au-delà des problèmes d'infrastructures, il existe un déficit de coordination et d'harmonisation des activités des principaux acteurs (ASECNA, ANACIM, ADS, Douane, Police, Service de l'Immigration…) au niveau de la plateforme aéroportuaire relativement au contrôle sanitaire. Ainsi, un cadre plus structuré, impliquant tous les acteurs dans un organigramme clair, permettra au point d'entrée que constitue l'aéroport de Dakar de participer positivement à la mise en œuvre du Règlement Sanitaire International (RSI) par le Sénégal.  4.2.3.2. Niveau de renforcement des CMR à l'Aéroport Léopold Sédar Senghor de Dakar",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Forces et insuffisances identifiées à l'évaluation des CMR de l'Aéroport Léopold Sédar Senghor de Dakar",
+          "colonnes": ["Composantes", "Forces", "Insuffisances"],
+          "lignes": [
+            {
+              "Composantes": "Coordination et communication",
+              "Forces": "Existence des mécanismes de communication courante et rapide de l'information et des recommandations de l'OMS avec le point focal national RSI. Existence d'un répertoire des hôpitaux, cliniques et centres de santé et laboratoires.",
+              "Insuffisances": "Absence de répertoire avec les coordonnées des points d'entrée des autres secteurs et du PFN RSI. Les secteurs de pêche, élevage et phytosanitaire ne sont pas intégrés dans le réseau de communication. Irrégularité des mises à jour du répertoire. Répertoire non accessible à tout le personnel."
+            },
+            {
+              "Composantes": "Capacité à tout moment (routine)",
+              "Forces": "Existence d'un code de l'hygiène. Existence d'un service médical, des moyens de transport pour le transfert des malades et de collaboration avec le SAMU pour les interventions d'urgence ; disponibilité des médicaments et existence d'entrepôts pour le stockage. Existence des capacités pour l'évaluation ou la vérification des documents de vaccination ou de prophylaxie. Existence d'un service médical de l'aéroport. Existence d'un espace dédié aux entretiens avec les voyageurs affectés ou suspects. Existence d'un personnel d'inspection sanitaire des aéronefs, existences des connaissances de bases sur l'utilisation des EPI. Existence d'un contrat avec l'Institut Pasteur pour le contrôle de la qualité de l'eau destinée aux aéronefs. Existence d'une brigade d'hygiène pour la lutte anti vectorielle disposant des moyens humains et des équipements appropriés. Existence des contrats entre les compagnies et les prestataires pour la lutte anti vectorielle, désinsectisation et désinfection. L'existence d'un diagramme d'alerte pour communiquer rapidement mettant en réseau les personnels à bord de l'aéronef, la tour de contrôle, le bureau de piste, le commandant de permanence de l'aéroport et le service de contrôle sanitaire aux frontières.",
+              "Insuffisances": "Le code de l'hygiène en vigueur n'intègre pas les dispositions relatives aux Points d'Entrée conformément au RSI 2005. Contrat avec le SAMU arrivé à son terme et sa reconduction est conditionnée par le processus de passation des marchés ; absence de mémorandum d'entente formel avec les structures de santé privées. Manque de personnel qualifié pour la détection, la communication, l'évaluation et l'application des premières mesures de lutte contre les événements. Absence de convention entre les compagnies aériennes et le service médical de l'aéroport pour la prise en charge d'un voyageur suspect. Insuffisance de personnel qualifié, absence de recyclage et absence d'interprète. Insuffisance des locaux pour satisfaire tous les besoins du contrôle sanitaire au départ, personnel insuffisant, capacités non mises à jour. Manque des exercices de simulations. Brigade d'hygiène non impliquée et inexistence d'un plan de recyclage du personnel de santé sur les techniques de lutte anti vectorielle. Absence des espaces, équipements et fournitures pour le personnel d'inspection et le personnel de la lutte anti vectorielle ; absence d'un système de surveillance des vecteurs au niveau du Point d'Entrée et sur un périmètre de 400 m. Manque de personnel formé pour la détection du risque santé lié aux vecteurs et réservoirs. Insuffisance de la supervision des installations pour la lutte anti vectorielle. Insuffisance de collaboration entre les services de contrôle sanitaires aux frontières et les prestataires chargés d'évaluer, contrôler et d'effectuer en toute sécurité la désinsectisation de l'aéronef et d'autres méthodes de lutte anti vectorielle tel que recommandé par l'OMS. Inexistence d'un plan de gestion de la qualité de l'air. Absence de directives/procédures pour la gestion sécurisée des restes humains."
+            },
+            {
+              "Composantes": "Principale capacité pour faire face à un événement pouvant constituer une USPPI",
+              "Forces": "Existence d'un plan d'urgence de l'aéroport. Existence d'un service vétérinaire de l'aéroport disposant d'un personnel qualifié. Existence d'un contrat entre le SAMU national et l'aéroport d'une part et entre les compagnies aériennes et autres prestataires de santé. Existence de structures sanitaires et des moyens de transports désignés par l'état en cas de survenue d'une urgence de santé publique de portée internationale affectant un voyageur. Existence d'un espace dédié aux entretiens avec les voyageurs affectés ou suspects avec sortie indépendante ainsi que du personnel formé à cet effet. Existence des mesures de contrôle de la contamination des espaces réservés à l'interrogatoire des voyageurs affectés, existence des intrants et équipements. Disponibilité d'une ambulance à l'aéroport et possibilité d'accéder au service du SAMU en moins de 15 mn, accès aux ambulances des structures sanitaires environnantes.",
+              "Insuffisances": "Plan d'urgence n'intégrant pas tous aspects d'urgence de santé publique de portée internationale. Insuffisance de locaux, de personnel, d'équipements (EPI) et matériels appropriés pour évaluer, isoler et prendre en charge les animaux malades. Contrat avec le SAMU arrivé à son terme et sa reconduction est conditionnée par le processus de passation des marchés ; absence de mémorandum d'entente formel avec les structures de santé privées. Coordonnées de structures sanitaires et moyens de transport désignés non vulgarisées. Personnel dédié à l'examen du voyageur suspect insuffisamment formé et insuffisant, locaux insuffisamment aménagés et équipés. Mesures de contrôle de la contamination ne non mises à jour et non testées régulièrement. Nombre d'ambulance insuffisant, insuffisance de matériel de protection individuelle pour le personnel des ambulances."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Niveau de renforcement des CMR à l'Aéroport Léopold Sédar Senghor de Dakar",
+          "axes": {
+            "horizontal": "Pourcentage de mise en œuvre (0% à 100%)",
+            "vertical": "Composantes évaluées"
+          },
+          "donnees": [
+            {"composante": "Coordination et communication", "valeur": "61%"},
+            {"composante": "Principale capacité à tout moment", "valeur": "39%"},
+            {"composante": "Principale capacité pour faire face à un événement pouvant constituer une urgence de santé publique de portée internationale", "valeur": "77%"}
+          ],
+          "tendance": "L'Aéroport International Léopold Sédar Senghor présente le niveau de capacité pour faire face à une USPPI le plus élevé des trois points d'entrée évalués (77%, au-dessus du seuil de 75%), tandis que la coordination et communication (61%) et les capacités de routine (39%) restent en dessous du seuil requis."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4.2.4. Aéroport International Blaise Diagne",
+      "texte": "4.2.4.1 Localisation et description de l'aéroport Ouverture prévue pour le courant de l'été 2015.  4.2.4.2. Points Forts et points faibles",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1 : Présentation des capacités de l'aéroport",
+          "colonnes": ["Domaines d'activités", "Capacités"],
+          "lignes": [
+            {"Domaines d'activités": "Capacité Annuelle", "Capacités": "3 millions de passagers"},
+            {"Domaines d'activités": "Surface", "Capacités": "1800 pax / heure de pointe (A+D)"},
+            {"Domaines d'activités": "Type d'aérogare", "Capacités": "42 000 m²"},
+            {"Domaines d'activités": "Côté ville", "Capacités": "3 niveaux (RDC, 1er étage, Mezzanine)"},
+            {"Domaines d'activités": "Côté Piste", "Capacités": "Viaduc"},
+            {"Domaines d'activités": "Typologie des passagers", "Capacités": "Internationaux, Domestiques, Arrivée / Départ / Transit"},
+            {"Domaines d'activités": "Typologie mouvements d'avions", "Capacités": "GP/MPIPP, Cat B (ATR…), Cat C (A321 - B737), Cat D (MD11 - B767), Cat E (B747 - A340)"},
+            {"Domaines d'activités": "Qualité de Service IATA", "Capacités": "B"},
+            {"Domaines d'activités": "Comptoirs d'enregistrement (44)", "Capacités": "44"},
+            {"Domaines d'activités": "Comptoirs Police Départ (16)", "Capacités": "16"},
+            {"Domaines d'activités": "Comptoirs Police Arrivée (20)", "Capacités": "20"},
+            {"Domaines d'activités": "Comptoirs Douanes Arrivée (04)", "Capacités": "04"},
+            {"Domaines d'activités": "Véhicule de première intervention", "Capacités": "01"},
+            {"Domaines d'activités": "Ambulance", "Capacités": "02"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Points Forts et points faibles - Aéroport International Blaise Diagne",
+          "colonnes": ["Forces", "Insuffisances"],
+          "lignes": [
+            {
+              "Forces": "Existence de bureaux adéquats pour le contrôle sanitaire aux frontières. Existence d'un centre médical. Toutes les dispositions sont envisagées pour la mise en œuvre effective du règlement sanitaire international.",
+              "Insuffisances": "Inexistence de comptoirs santé arrivée dans les équipements de l'aérogare passagers."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "VII. Recommandations",
+      "texte": "7.1. Recommandations techniques - Mettre en place une équipe technique chargée du suivi des recommandations de la mission et de la finalisation du plan ; - Réviser et compléter les informations déjà collectées dans les 3 Points d'Entrées visités lors de cette mission ; - Etablir les critères de priorités pour la continuation de l'évaluation des Points d'Entrées désignés au Sénégal ; - Actualiser les plans de gestion des risques spécifiques (eau potable, déchets, vecteurs etc.) y compris un plan intégré avec la participation de toutes les autorités impliquées, des gestionnaires, des opérateurs de moyens de transport et des concessionnaires ; - Développer les plans d'intervention pour les urgences de santé publique pour chaque point d'entrée avec l'ensemble des autorités concernées eux-mêmes être intégrés dans le plan d'urgence du point d'entrée considéré ; - Faire un plaidoyer auprès de la CEDEAO pour l'accélération des travaux du poste frontalier juxtaposé de Kalifourou ; - Identifier les besoins en formation et élaborer un plan de formation pour une mise à niveau des connaissances des agents chargés de la mise en œuvre du RSI aux Points d'Entrée ; - Elaborer des programmes d'inspection sanitaire des installations des Points d'Entrée et des moyens de transport ; - Etablir la liste des équipements nécessaires, les acquérir et les mettre à la disposition du personnel impliqué dans le point d'entrée ; - Evaluer les risques d'exposition sanitaires pour l'ensemble du personnel aux points d'entrée afin d'établir un contrôle du statut vaccinal adapté et, si nécessaire (Annexe 7, paragraphe 2. (g) du RSI) et mettre en place les procédures opérationnelles standard en vue d'une vaccination le cas échéant ; - Améliorer les infrastructures du service Contrôle Sanitaire aux Frontières (CSF) (port) permettant la mise en adéquation avec les capacités requises de par le RSI.  VI.2. Recommandations juridiques - Discuter avec les autres autorités impliquées afin d'harmoniser les textes/actes administratifs et les adapter pour l'application des dispositions du RSI ; - Réviser le statut juridique de l'autorité sanitaire compétente pour les missions sanitaires relatives à la mise en œuvre des capacités requises dans le cadre du RSI au Point d'Entrée ; - Actualiser la règlementation liée à l'inspection au niveau des Points d'Entrées et des moyens de transport y compris les missions de certification sanitaire des bateaux.  VI.3. Recommandations – Communication/Coordination - Promouvoir et coordonner les ateliers intersectoriels au niveau des acteurs du Point d'Entrée pour disséminer et échanger les informations relatives aux capacités requises par le RSI et obligations liées aux autres accords internationaux et développement des plans de coopération intersectoriels ; - Réviser les protocoles de communication avec le système de santé actuel et les autres autorités et consignataires du point d'entrée pour la mise en œuvre du RSI ; - Renforcer et maintenir la participation de l'autorité sanitaire dans les mécanismes de coordination aux points d'entrée ; - Prévoir une zone pour les affiches relatives à la promotion de la santé (visuel et sonore) ; - Prévoir une signalisation du service médical.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "VIII. Identification du potentiel support technique de l'OMS et de l'OACI",
+      "texte": "- Outil de formations à l'inspection sanitaire des navires et identification d'experts internationaux ; - Identification des opportunités de formation dans d'autres pays/régions OMS ; - Participation des personnes concernées par les Points d'Entrée au réseau PAGnet ; - Appui technique du bureau pays de l'OMS pour le suivi des activités ; - Explorer la possibilité d'intégration du Sénégal au projet OACI - CAPSCA pour la préparation des plans d'intervention pour les urgences de santé publique pour les aéroports.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "IX. Etapes suivantes",
+      "texte": "- Désignation d'une équipe multisectorielle de suivi ; - Atelier de finalisation des plans pour chaque point d'entrée ; - Finalisation du plan national de renforcement des capacités minimales ; - Renforcement du PFN-RSI (ressource humaine, moyens de communication et autres équipements) ; - Soumettre le plan national RSI aux autorités pour approbation ; - Soumettre le plan à l'OMS et aux autres partenaires.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "X. Références",
+      "texte": "1. Règlement Sanitaire International 2005 ; 2. Mission d'évaluation approfondie des Capacités aux Points d'Entrées pour la mise en œuvre du Règlement Sanitaire International au Gabon ; 3. Mission d'évaluation approfondie des Capacités aux Points d'Entrée pour la Mise en œuvre du Règlement Sanitaire International en Algérie ; 4. Plan d'action National de mise en œuvre du Règlement Sanitaire International RSI2005 2014-2016.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "IX. Annexes",
+      "texte": "1. Agenda ; 2. Liste des personnes rencontrées et des experts ; 3. Mission d'évaluation approfondie des Capacités aux Points d'Entrée pour l'application du Règlement Sanitaire International au Sénégal.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Annexe - Agenda de l'atelier d'évaluation et d'élaboration du plan d'action du Règlement Sanitaire International (RSI) au Sénégal, Dakar, 7-20 Octobre 2014",
+      "texte": "Lundi 6 Octobre 2014 : Arrivée des experts OMS / HQ.  Mardi 7 Octobre 2014 : 08:00 – 8:30 : Visite de courtoisie avec le Représentant Résident de l'OMS au Sénégal. 08:30 – 08:45 : Déplacement vers MSAS. 08:45 – 9:30 : Séance de travail avec les experts du Ministère de la Santé et l'Action Sociale. 09:30 – 9:45 : Retour à l'OMS. 10:00 – 17:30 : Voyage vers Tambacounda.  Mercredi 8 Octobre 2014 : 08:00 – 17:30 : Voyage Aller – Retour Tambacounda – Kalifourou. Séance de travail avec les équipes Cadres de la région de Kolda et de District de Vélingara à Kalifourou. Visite du Point d'entrée au Poste frontalier de Kalifourou. Discussions et Synthèse de la visite au poste frontalier de Kalifourou.  Jeudi 9 Octobre 2014 : 09:00 – 17:30 : Voyage Retour Tambacounda – Dakar.  Vendredi 10 Octobre 2014 : 08:30 – 13:30 : Séance de travail OMS – CDC sur les Points d'entrée. Séance de travail OMS-CDC-MS à l'Aéroport International Léopold Sédar Senghor. Séance de travail OMS-OACI. 15:00 – 17:30 : Briefing sur le RSI suivi de la projection d'un film. Méthodologie, Validation du questionnaire rempli à l'avance par l'équipe du Point d'entrée.  Samedi 11 Octobre 2014 : 09:00 – 13:30 : Séance de travail avec le Médecin-chef de la région médicale de Kolda : Discussions et Synthèse de la visite au poste frontalier de Kalifourou et Elaboration du plan d'action (OMS). 15:00 – 17:30 : Préparation des visites aux Points d'entrée (OMS).  Lundi 13 Octobre 2014 : 09:00 – 09:30 : Arrivée et enregistrement des participants. 09:30 – 10:00 : Cérémonie d'ouverture officielle de l'atelier d'évaluation : Allocution du Représentant Résident de l'OMS (OMS/Sénégal), Allocution du Représentant de l'USAID/CDC (USAID), Allocution du Représentant de l'OOAS (OOAS), Discours d'ouverture du Ministre de la Santé et de l'Action Sociale du Sénégal (MSAS Sénégal). 10:00 – 10:30 : Présentation des participants. 10:30 – 11:00 : Pause Café. 11:00 – 11:15 : Intérêts et Objectifs de la mission (OMS). 11:15 – 11:45 : Présentation du Règlement sanitaire international (2005) : application aux points d'entrée et expériences des pays dans la gestion de l'épidémie d'Ebola aux points d'entrée (OMS HQ). 11:45 – 12:00 : Etat de mise en œuvre du RSI dans la Région Africaine et en Afrique de l'Ouest (OMS AFRO / IST-WA). 12:00 – 12:30 : Etat de mise en œuvre du RSI au Sénégal (MSAS Sénégal). 12:30 – 13:00 : Discussion. 13:00 – 14:00 : Pause déjeuner. 14:00 – 15:00 : Capacités minimales requises pour le RSI aux Points d'entrée : Présentation des directives OMS, Outils et Cours en ligne sur la maladie à virus Ebola aux Points d'entrée (OMS HQ). 15:00 – 17:30 : Etudes de cas sur la gestion d'un cas de maladie à virus Ebola aux Points d'entrée (OMS HQ).  Mardi 14 Octobre 2014 : 09:00 – 13:30 : Visite du Port Autonome Maritime de Dakar (suite). Visite du Port Autonome Maritime de Dakar. Emission d'un certificat de contrôle sanitaire. Orientation sur l'élaboration d'un plan de renforcement des capacités du port (Port Maritime de Dakar). 13:30 – 15:00 : Pause déjeuner. 15:00 – 17:00 : Discussions du questionnaire rempli à l'avance par l'équipe du Point d'entrée (Port Maritime de Dakar).  Mercredi 15 Octobre 2014 : 09:00 – 13:30 : Briefing sur le RSI suivi de la projection d'un film. Briefing par CDC des activités déjà réalisées. Méthodologie de l'évaluation. Visite de l'Aéroport International Léopold Sédar Senghor. Présentation du questionnaire rempli à l'avance par l'équipe du Point d'entrée (Aéroport International Léopold Sédar Senghor). 13:30 – 15:00 : Pause déjeuner. 15:00 – 17:00 : Visite de l'Aéroport (suite). Discussions du questionnaire rempli à l'avance par l'équipe du Point d'entrée (Aéroport International Léopold Sédar Senghor).  Jeudi 16 Octobre 2014 : 09:00 – 13:30 : Séance de travail à l'OMS. Plan de renforcement des capacités du Point d'entrée de l'Aéroport International Léopold Sédar Senghor selon le RSI : Capacités de routine en « permanence » Capacités pour faire face aux urgences de santé publique (Equipe de l'Aéroport). 09:00 – 13:30 : Séance de travail à l'OMS. Plan de renforcement des capacités du Point d'entrée du Port Autonome de Dakar selon le RSI : Capacités de routine en « permanence », Capacités pour faire face aux urgences de santé publique (Equipe du Port Autonome). 13:30 – 15:00 : Pause déjeuner. 15:00 – 17:30 : Séance de travail à l'OMS. Plan de renforcement des capacités du Point d'entrée de l'Aéroport International Léopold Sédar Senghor selon le RSI : Capacités de routine en « permanence », Capacités pour faire face aux urgences de santé publique (Equipe de l'Aéroport). 15:00 – 17:30 : Séance de travail à l'OMS. Plan de renforcement des capacités du Point d'entrée de Port Autonome de Dakar selon le RSI : Capacités de routine en « permanence », Capacités pour faire face aux urgences de santé publique (Equipe du Port Autonome).  Vendredi 17 Octobre 2014 : 09:00 – 13:30 : Séance de travail à l'OMS (suite). Plan de renforcement des capacités du Point d'entrée de l'Aéroport International Léopold Sédar Senghor selon le RSI : Capacités de routine en « permanence » Capacités pour faire face aux urgences de santé publique (Equipe de l'Aéroport). 09:00 – 13:30 : Séance de travail à l'OMS (suite). Plan de renforcement des capacités du Point d'entrée du Port Autonome de Dakar selon le RSI : Capacités de routine en « permanence », Capacités pour faire face aux urgences de santé publique (Equipe du Port Autonome). 13:30 – 15:00 : Pause déjeuner. 15:00 – 17:30 : Séance de travail à l'OMS (suite). Plan de renforcement des capacités du Point d'entrée de l'Aéroport International Léopold Sédar Senghor selon le RSI : Capacités de routine en « permanence », Capacités pour faire face aux urgences de santé publique (Equipe de l'Aéroport). 15:00 – 17:30 : Séance de travail à l'OMS (suite). Plan de renforcement des capacités du Point d'entrée du Port Autonome de Dakar selon le RSI : Capacités de routine en « permanence », Capacités pour faire face aux urgences de santé publique (Equipe du Port Autonome).  Samedi 18 Octobre 2014 : 09:00 – 13:30 : Elaboration du rapport préliminaire de mission. 13:30 – 15:00 : Pause déjeuner. 15:00 – 17:00 : Elaboration du rapport préliminaire de mission (suite) (OMS).  Lundi 20 Octobre 2014 : 09:00 – 11:00 : Restitution des résultats de l'évaluation aux autorités nationales, Prochaines étapes. 11:00 – 11:30 : Cérémonie de clôture de l'atelier d'évaluation : Allocution du Représentant Résident de l'OMS (OMS/Sénégal), Allocution du Représentant de l'OOAS (OOAS), Discours de clôture du Ministre de la Santé et de l'Action Sociale du Sénégal (MSAS Sénégal). 13:30 – 14:00 : Pause déjeuner.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des Participants à l'évaluation",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste des Participants à l'évaluation",
+          "colonnes": ["Prénoms et Noms", "Institutions"],
+          "lignes": [
+            {"Prénoms et Noms": "Dr Tshioko Florimond Kweteminga", "Institutions": "OMS / AFRO"},
+            {"Prénoms et Noms": "Dr Adama Berthé", "Institutions": "OMS / IST – WA"},
+            {"Prénoms et Noms": "Mme Candice Vente", "Institutions": "OMS / HQ Lyon"},
+            {"Prénoms et Noms": "Dr Daniel Menucci", "Institutions": "OMS / HQ Lyon"},
+            {"Prénoms et Noms": "Dr Malang Coly", "Institutions": "OMS / WCO"},
+            {"Prénoms et Noms": "Dr Ibrahim Oumar BA", "Institutions": "OMS / WCO"},
+            {"Prénoms et Noms": "Mr Oumar Sarré", "Institutions": "OMS / WCO"},
+            {"Prénoms et Noms": "Dr Gérard Tatou", "Institutions": "Consultant OMS"},
+            {"Prénoms et Noms": "Dr Ousmane Diop", "Institutions": "DP / MSAS"},
+            {"Prénoms et Noms": "Dr Gorgui Lamine Diouf", "Institutions": "SNH / DCSF"},
+            {"Prénoms et Noms": "M. Malick Cissé", "Institutions": "Consultant RSI"},
+            {"Prénoms et Noms": "Dr Mamadou NDIAYE", "Institutions": "DP"},
+            {"Prénoms et Noms": "Dr Idrissa TALLA", "Institutions": "DLM"},
+            {"Prénoms et Noms": "Dr Gning Barnabé", "Institutions": "Région Médicale Kolda"},
+            {"Prénoms et Noms": "Dr Felix Mignane Diouf", "Institutions": "District sanitaire de Vélingara"},
+            {"Prénoms et Noms": "Mme Aissata Ndama Ba", "Institutions": "ADS"},
+            {"Prénoms et Noms": "Mr. NDiaga Diouf", "Institutions": "ADS"},
+            {"Prénoms et Noms": "Dr Aicha Fall", "Institutions": "ADS"},
+            {"Prénoms et Noms": "El Waly Soumaré", "Institutions": "ADS"},
+            {"Prénoms et Noms": "Dr Alioune FALL", "Institutions": "Service Contrôle sanitaire AILSS"},
+            {"Prénoms et Noms": "Dr Aissata O. Ba", "Institutions": "Base aérienne militaire"},
+            {"Prénoms et Noms": "M. Mbaye ka", "Institutions": "Contrôle sanitaire AILSS"},
+            {"Prénoms et Noms": "Dr Ousseynou BA", "Institutions": "Service Contrôle sanitaire du PAD"},
+            {"Prénoms et Noms": "Mr Aliou POUYE", "Institutions": "Service Contrôle sanitaire du PAD"},
+            {"Prénoms et Noms": "Mr Joseph Mbar NDIAYE", "Institutions": "Service Contrôle sanitaire du PAD"},
+            {"Prénoms et Noms": "DR MAME DIARRA FAYE", "Institutions": "MINISTERE DE LA PECHE"}
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

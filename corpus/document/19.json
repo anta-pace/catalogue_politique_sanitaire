@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "titre": "Préparation à la Réponse à l'épidémie de la Maladie à Virus Ebola - Rapport de Situation N°1 du 11-06-2021",
+    "annee": "2021",
+    "source": "République du Sénégal, Ministère de la Santé et l'Action sociale",
+    "type_document": "Rapport de situation épidémiologique"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "République du Sénégal. Ministère de la Santé et l'Action sociale. Préparation à la Réponse à l'épidémie de la Maladie à Virus Ebola. Rapport de Situation N°1 du 11-06-2021.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Drapeau du Sénégal",
+          "description": "Drapeau de la République du Sénégal, composé des couleurs vert, jaune et rouge avec une étoile verte au centre de la bande jaune."
+        },
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo du Ministère de la Santé et de l'Action sociale",
+          "description": "Logo institutionnel représentant un serpent stylisé en rouge, symbole du Ministère de la Santé et de l'Action sociale."
+        },
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Illustration du virus Ebola",
+          "description": "Illustration scientifique représentant des particules du virus Ebola en filaments rouges entourées de globules rouges, sur fond rouge."
+        },
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo Organisation mondiale de la Santé",
+          "description": "Logo de l'Organisation mondiale de la Santé (OMS)."
+        },
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo Centre des Opérations d'Urgence Sanitaire",
+          "description": "Logo du Centre des Opérations d'Urgence Sanitaire (COUS)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "POINTS SAILLANTS",
+      "texte": "Aucun cas suspect notifié au cours de la semaine (débutant le 07/06/2021) ; Aucune alerte signalée ; Évaluation initiale de l'état de préparation du pays ; Identification des districts prioritaires ; Paramétrage de l'alerte Ébola dans la plateforme de la cellule d'alerte ; Identification et évaluation d'un site de prise en charge ; Élaboration et partage du plan de préparation et de riposte ; Mise en œuvre des activités du Plan d'Action Incident n°1 ; Élaboration du Plan d'Action Incident n°2.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CONTEXTE",
+      "texte": "Le Sénégal n'a pas notifié de cas suspect de MVE depuis la déclaration d'un foyer de MVE par la Guinée le 14 février 2021, dans la préfecture de Nzérékoré. Compte tenu de cette réémergence de la MVE en Guinée et bien que la zone (Nzérékoré) où ont été enregistrés les premiers cas de la MVE soit éloignée de la frontière du Sénégal avec la Guinée, le pays s'est mis en alerte maximale et a élaboré un plan de préparation et de veille selon les recommandations de l'OMS. A ce jour, aucune alerte ni cas suspect n'ont été détectés par le système de surveillance mise en place sur l'ensemble du territoire national. Les facteurs de risque de la survenue d'une épidémie potentielle de MVE au Sénégal comprennent les mouvements des populations à travers les nombreux points d'entrée officiels et non officiels entre le pays et la Guinée. L'introduction du cas importé en 2014 par voie terrestre à partir de la frontière entre la Guinée et la région de Kolda confirme l'importance du facteur migratoire dans la propagation de l'épidémie. L'existence des forêts, refuges d'une faune animale très diversifiée dans la zone frontalière où les activités d'exploitation forestière sont intenses, notamment la chasse et la consommation de la viande de brousse, expose aussi fortement certaines populations au risque de contamination par les maladies zoonotiques.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "SITUATION EPIDEMIOLOGIQUE",
+      "texte": "En Guinée (situation au 09 Juin 2021) : 1er cas confirmé le 13/02/2021 ; Dernier cas confirmé le 03/04/2021 ; (J-11) avant la déclaration de la fin de l'épidémie de MVE (compte à rebours) ; Cumul de seize (16) cas confirmés et sept (07) cas probables ; Cumul de dix (10) guérisons du 13 février au 08 juin ; Cumul de douze (12) décès dont cinq (5) cas confirmés et sept (7) cas probables ; Cumul de cinq (05) cas suspects hospitalisés au CTE de Nzérékoré au 05 juin 2021 ; Tous les cas contacts sont sortis du suivi. Au Sénégal : Zéro alerte reçue à ce jour depuis la déclaration de l'épidémie en Guinée. Cumul de zéro alerte traitée depuis le début de la phase préparatoire. Zéro cas confirmé. Zéro cas suspect. Aucun contact suivi.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Situation épidémiologique en Guinée au 09 Juin 2021",
+          "colonnes": ["Indicateur", "Valeur"],
+          "lignes": [
+            {"Indicateur": "1er cas confirmé", "Valeur": "13/02/2021"},
+            {"Indicateur": "Dernier cas confirmé", "Valeur": "03/04/2021"},
+            {"Indicateur": "Compte à rebours avant déclaration de fin d'épidémie", "Valeur": "J-11"},
+            {"Indicateur": "Cumul de cas confirmés", "Valeur": "16"},
+            {"Indicateur": "Cumul de cas probables", "Valeur": "7"},
+            {"Indicateur": "Cumul de guérisons (13 février au 08 juin)", "Valeur": "10"},
+            {"Indicateur": "Cumul de décès", "Valeur": "12 (dont 5 confirmés et 7 probables)"},
+            {"Indicateur": "Cumul de cas suspects hospitalisés au CTE de Nzérékoré au 05 juin 2021", "Valeur": "5"},
+            {"Indicateur": "Cas contacts sortis du suivi", "Valeur": "Tous"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Situation au Sénégal",
+          "colonnes": ["Indicateur", "Valeur"],
+          "lignes": [
+            {"Indicateur": "Alerte reçue depuis la déclaration de l'épidémie en Guinée", "Valeur": "Zéro"},
+            {"Indicateur": "Cumul d'alertes traitées depuis le début de la phase préparatoire", "Valeur": "Zéro"},
+            {"Indicateur": "Cas confirmé", "Valeur": "Zéro"},
+            {"Indicateur": "Cas suspect", "Valeur": "Zéro"},
+            {"Indicateur": "Contact suivi", "Valeur": "Aucun"}
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Figure 1 : Répartition des régions du Sénégal",
+          "description": "Carte du Sénégal présentant les régions administratives colorées différemment : Saint Louis, Louga, Matam, Dakar, Thiès, Diourbel, Kaffrine, Tambacounda, Fatick, Kaolack, Ziguinchor, Sédhiou, Kolda, Kédougou. Source : Ministère de la Santé et de l'Action sociale."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "ACTIONS DE SANTE PUBLIQUE - Coordination",
+      "texte": "Evaluation de l'état de préparation du pays ; Partage de l'information par mail à tous les Médecins-chefs de Région ; Partage des fiches techniques Ébola à tous les niveaux de la pyramide sanitaire ; Élaboration et partage du plan de préparation et de riposte à une épidémie de maladie à virus Ébola ; Nomination d'un gestionnaire de l'incident ; Mise en place du Système de Gestion de l'Incident ; Organisation d'un atelier de révision des PON MVE ; Élaboration du manuel des procédures ; Mise à jour de la Check list Readiness pays ; Tenue régulière des réunions de l'IMS ; Tenue de réunions hebdomadaires du Comité National de Gestion des Epidémies (CNGE).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "organigramme",
+          "titre": "Organigramme du Système de Gestion de l'Incident",
+          "description": "Organigramme de coordination de la réponse Ébola. Gestionnaire d'Incident : Dr Barnabé GNING. Adjoint Gestionnaire d'Incident : Pr Aïda KANOUTE. Unité Communication : Dr Ousmane GUEYE. Unité de Liaison : Dr Paulette Suzanne NDIAYE. Unité Sécurité : Santé des Intervenants : Pr Mor Ndiaye ; Sécurité des Interventions : FDS. Chef Section Planification : Pr Aïda KANOUTE, avec Unité Connaissance de la Situation : Kalidou DIALLO, et Unité Documentation : Madeleine K SARR. Chef Section Opérations : Dr Jean Pierre DIALLO, avec Surveillance et Suivi des Contacts : DP ; PEC des Cas : Pr Daye KA, Pr Viviane CISSE ; PEC Psychosociale : Pr Abou SY, Dr Moyang NDIAYE ; Equipes d'Intervention ; Laboratoire : Dr Ousmane FAYE, Dr Rokhaya DIAGNE ; PCI : Dr Ndella KONATE. Chef Section Logistique : Abdoulaye DIOUF, avec Soutien : Amidou SYLLA, et Services : Dr Amina GUEYE. Chef Section Administration et Finances : Bamba NDIOUCK, avec Ndiaga FAYE et Rose M SARR."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Surveillance épidémiologique",
+      "texte": "Élaboration et partage de la note de service pour le renforcement de la surveillance ; Paramétrage des alertes Ébola dans la plateforme de la cellule d'alerte ; Mise à jour des PON ; Renforcement de la surveillance aux points d'entrée ; Transmission des requêtes pour la mise en œuvre des activités ; Identification des districts prioritaires.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Figure 2 : Priorisation des districts face à la menace Ébola au Sénégal, Février 2021",
+          "description": "Carte des districts prioritaires pour Ebola au Sénégal. Indique 35 districts sanitaires à risque sur un total de 79. Les districts à risque sont représentés en rouge, principalement dans les zones frontalières sud et est du pays (régions de Kolda, Kédougou, Tambacounda, Sédhiou, Ziguinchor, Kaolack, Kaffrine notamment), ainsi que la région médicale de Dakar en orange. Les autres districts sont représentés en vert. Source : MSAS_DP_DSR. Réalisation : Cellule en charge de la Carte sanitaire et Santé digitale (CSSDOS), le 15/02/2021. Auteur : D. NDOUR."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "PCI",
+      "texte": "Mise à jour des PON ; Transmission des requêtes pour la mise en œuvre des activités ; Planification des activités de formation.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Prise en charge des cas",
+      "texte": "Identification et évaluation d'un centre de traitement pour la prise en charge d'éventuels cas MVE ; Mise à jour des PON MVE sur la PEC médicale et Psychosociale.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Logistique",
+      "texte": "Élaboration des PON MVE ; Commande des fournitures essentielles pour 6 jours dans 4 districts prioritaires ; Commande des fournitures essentielles pour 6 semaines au niveau national ; Commande des intrants wash pour 9 régions.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Communication",
+      "texte": "Élaboration des PON MVE ; Transmission des requêtes pour la mise en œuvre des activités ; Mise à jour de l'aide-mémoire destiné aux ACS contre la MVE.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Vaccination",
+      "texte": "Désignation de l'investigateur principal pour l'utilisation du vaccin rVSV ZEBOV ; Elaboration des PON pour la vaccination du personnel et celle en anneau.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "DEFIS",
+      "texte": "Appropriation de la préparation générale à la MVE au niveau des districts prioritaires ; Mobilisation des ressources ; Gestion concomitante de plusieurs épidémies (Covid, Poliomyélite…) ; Mise en œuvre de toutes les activités: renforcement la surveillance pour la détection précoce au niveau des zones à risque, renforcement des capacités, gestion de la chaîne d'approvisionnement….",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PERSPECTIVES",
+      "texte": "Finalisation du manuel de procédures et des PON MVE ; Identification et mise aux normes de tous les sites d'isolement ; Acquisition et prépositionnement des fournitures essentielles pour 6 jours dans 4 districts prioritaires ; Acquisition et prépositionnement des fournitures essentielles pour 6 semaines au niveau national ; Acquisition et prépositionnement des intrants wash pour 9 régions ; Organisation de sessions d'orientation sur les PON MVE.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PARTENAIRES",
+      "texte": "OMS ; UNICEF ; CDC ; USAID / GHSA Advisor ; USAID / MTaPS ; USAID / IDDS ; USAID / BA ; PATH ; BM/REDISSE ; OIM ; Croix Rouge Sénégalaise.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "EVOLUTION DE L'ETAT DE PREPARATION DU PAYS",
+      "texte": "Graphique présentant l'évolution de l'état de préparation du pays entre Février 2021 et Mai 2021, selon plusieurs axes thématiques, sur une échelle de 0% à 100%.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Evolution de l'Etat de préparation du Pays",
+          "axes": {
+            "horizontal": "Pourcentage de préparation (0% à 100%)",
+            "vertical": "Domaines de préparation : Coordination, RRT, RCCE, IPC, Gestion de cas, Inhumation Digne sécurisée, Epi-Surveillance, Recherche des contacts, Laboratoire, POE, Logistique, Vaccination, État de préparation général"
+          },
+          "donnees": [
+            {"domaine": "Coordination", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "RRT", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "RCCE", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "IPC", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "Gestion de cas", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "Inhumation Digne sécurisée", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "Epi-Surveillance", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "Recherche des contacts", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "Laboratoire", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "POE", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "Logistique", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "Vaccination", "periode": "Février 2021 et Mai 2021"},
+            {"domaine": "État de préparation général", "periode": "Février 2021 et Mai 2021"}
+          ],
+          "tendances": "Le graphique compare deux séries de données, Mai 2021 et Février 2021, pour chacun des domaines de préparation à l'épidémie de MVE, sans que les valeurs numériques précises soient lisibles dans le document source."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Contacts",
+      "texte": "Pour plus d'informations, veuillez contacter : 1. Pour le Ministère de la Santé et de l'Action sociale (MSAS) : Dr Barnabé GNING, Gestionnaire d'Incident Ébola, docteurbg2000@yahoo.fr ; Dr Babacar GUEYE, Directeur de la Lutte contre la Maladie, bbcar137@gmail.com ; Dr Marie Khémesse Ngom NDIAYE, Directrice Générale de la Santé, ndiayekhemesse@yahoo.fr. 2. Pour l'OMS : Dr Mady BA, DPC OMS Sénégal, mba@who.int",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Contacts",
+          "colonnes": ["Organisation", "Nom", "Fonction", "Email"],
+          "lignes": [
+            {"Organisation": "MSAS", "Nom": "Dr Barnabé GNING", "Fonction": "Gestionnaire d'Incident Ébola", "Email": "docteurbg2000@yahoo.fr"},
+            {"Organisation": "MSAS", "Nom": "Dr Babacar GUEYE", "Fonction": "Directeur de la Lutte contre la Maladie", "Email": "bbcar137@gmail.com"},
+            {"Organisation": "MSAS", "Nom": "Dr Marie Khémesse Ngom NDIAYE", "Fonction": "Directrice Générale de la Santé", "Email": "ndiayekhemesse@yahoo.fr"},
+            {"Organisation": "OMS", "Nom": "Dr Mady BA", "Fonction": "DPC OMS Sénégal", "Email": "mba@who.int"}
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

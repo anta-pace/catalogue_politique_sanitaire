@@ -1,0 +1,634 @@
+{
+  "metadata": {
+    "titre": "UN GUIDE Capitaliser des Expériences de Santé et d'Action sociale",
+    "annee": "2020",
+    "source": "Ministère de la Santé et de l'Action sociale, Direction de la Planification, de la Recherche et des Statistiques, Division de la Recherche",
+    "type_document": "Guide méthodologique"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "MINISTERE DE LA SANTÉ ET DE L'ACTION SOCIALEDIRECTION DE LA PLANIFICATION, DE LA RECHERCHE ET DES STATISTIQUESDivision de la RechercheCapitaliser des Expériences de Santé et d'Action socialeAbtUN GUIDEAoût 2020",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "TABLE DES MATIERES",
+      "texte": "Remerciements | 3Comité de rédaction | 4Sigles et Acronymes | 5Préface | 6Glossaires des termes | 7Introduction | 8I. Contexte et Justification | 8II. Eléments conceptuels | 102.1. Concept de capitalisation | 102.2. Capitalisation comme référentiel comparativement aux autres approches | 12III. Objectifs du guide | 13IV. Démarches de capitalisation | 144.1. La Phase préparatoire | 144.1.1. Cartographie des acteurs porteurs de l'expérience | 144.1.2. Identification de l'objet à capitaliser | 154.1.3. Constitution de l'équipe de capitalisation | 164.1.4. Élaboration du protocole de capitalisation | 174.1.5. Soumission du protocole au Comité national d'éthique | 174.2. La Phase de mise en œuvre | 184.2.1. Revue documentaire | 184.2.2. Formation des acteurs et standardisation de la collecte | 194.2.3. Collecte des données | 194.2.4. Triangulation des données | 194.2.5. Analyse des données | 204.2.6. Validation des résultats ou triangulation « écologique » | 204.2.7. Rédaction du document de capitalisation | 204.2.7.1. Rapport générique de capitalisation | 204.2.7.2. Rapport de capitalisation à visée d'article | 214.2.7.3. Rapport de capitalisation à visée de policy brief | 214.3. La Phase de diffusion et de partage | 224.3.1. Identification des cibles | 224.3.2. Identification des canaux, instances et formes de diffusion et de partage | 224.3.3. Diffusion du document | 234.3.3.1. Formes de présentation du document | 234.3.3.2. Echelles de diffusion | 24V. Références bibliographiques | 25VI. Annexes | 26",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Remerciements",
+      "texte": "Le Ministère de la Santé et de l'Action sociale (MSAS), à travers la Direction de la Planification, de la Recherche et des Statistiques (DPRS) met en œuvre un programme de capitalisation des expériences de santé et d'action sociale.Afin d'assurer la qualité des productions issues de processus de capitalisation, un guide est ainsi mis à disposition des différents acteurs. L'élaboration dudit document ne saurait aboutir sans la contribution technique et financière des partenaires et agents du MSAS.Pour cela, la DPRS, au nom du Ministère de la Santé et de l'Action sociale, adresse ses vifs remerciements à tous les participants au processus, particulièrement, les experts des universités de Thiès et de Cheick Anta Diop de Dakar (UCAD), la Direction Générale de Santé (DGS), la DPRS, la Région médicale de Thiès et Abt Associates.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Comité de rédaction",
+      "texte": "Dr Youssoupha NDIAYE : Directeur de la Planification, de la Recherche et de Statistiques (DPRS/MSAS)Dr Samba Cor SARR : Chef de la Division de la Recherche (DR/DPRS/MSAS)Dr Abdoulaye DIALLO : DR/DPRS/MSASM. Abib NDIAYE : DR/DPRS/MSASDr Zeyni El Abidine SY : DSISS/DPRS/MSASMme Viviane M. Solange MBENGUE : DR/DPRS/MSASM. Mame Omar GUEYE : DR/DPRS/MSASMme Coumba Haby Dieng SARR : USAID/RSS+M. Papa Ousmane MBOW : Conseiller technique à la DGSDr Valéry RIDDE : Directeur de recherche à l'IRD",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Sigles et Acronymes",
+      "texte": "ACT : Thérapie Combinée à base d'ArtémisinineADEMA : Association pour le Développement du Management AssociatifCNERS : Comité National d'Ethique pour la Recherche en SantéCNGE : Comité National de Gestion des EpidémiesDGS : Direction Générale de la SantéDPRS : Direction de la Planification, de la Recherche et des StatistiquesGloPID-R : Global Research Collaboration for Infections Disease PreparednessMSAS : Ministère de la Santé et de l'Action socialeNU : Nations UniesOCB : Organisation Communautaire de BaseOMS : Organisation Mondiale de la SantéPAGOSAN : Projet d'Appui à la Gouvernance SanitairePAODES : Projet d'appui à l'offre et à la demande des soinsPCIME : Prise en Charge Intégrée des Maladies de l'EnfantPI : Investigateur PrincipalPROFADEL : Programme Francophone d'Appui au Développement localProjet DISC : Projet Décentralisation Initiatives de Santé CommunautaireProjet ISSU : Projet Initiative Sénégalaise de Santé UrbainePTF : Partenaire Technique et FinancierSMNEA : Santé de la Mère, du Nouveau-né, de l'Enfant et de l'Adolescent",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Préface",
+      "texte": "Les progrès réalisés au cours des siècles dans divers domaines de la santé des populations s'appuient sur des leçons tirées d'expériences antérieures. Qu'il s'agisse des activités de prévention, de la lutte contre la maladie ou du développement de technologies et de produits de santé, l'expérience engrangée par les acteurs a toujours servi de base de travail pour faire avancer la technique et la pratique professionnelles. C'est en ce sens que les leçons apprises et les bonnes pratiques identifiées au sein d'une organisation peuvent servir de support à l'amélioration de son efficacité.Ainsi, la capitalisation est utilisée pour permettre aux acteurs de mettre en évidence le patrimoine de savoirs et le capital d'expertise détenus par devers eux, de les traduire en termes intelligibles accessibles à d'autres. C'est un processus qui rend explicite la connaissance tacite, permet aux acteurs engagés dans la riposte d'identifier les leçons apprises et les bonnes pratiques en vue d'améliorer les interventions et de se préparer à une réactivité plus efficiente face à l'épidémie en cours et aux prochains défis similaires. Avec l'avènement de l'épidémie à coronavirus, tous les acteurs du système de santé se sont mobilisés pour mettre en œuvre une riposte susceptible d'enrayer ou de réduire la morbi-mortalité imputable à la Covid-19. Ainsi, les plateformes de diagnostic et de prise en charge sont renforcées avec des équipements de dernière génération et le personnel de santé formé dans l'élaboration et la mise en œuvre de stratégies de prévention et de prise en charge de la maladie.Pour le secteur de la santé, il s'agit d'apprendre de l'expérience quotidienne et de celle des autres parties prenantes à l'effort de santé, valoriser les savoirs induits par l'action et les processus qui la sous-tendent, afin de relever les défis qui se posent quotidiennement au système de santé. Cette opportunité d'apprentissage et d'action, bien comprise par les acteurs, est à l'origine d'initiatives plurielles de capitalisation des actions et autres processus utilisés pour lutter contre la Covid-19. L'efficacité d'une telle approche nécessite une harmonisation des méthodes et des outils pour une utilisation éclairée des produits générés par la capitalisation.Je remercie tous ceux qui ont contribué à l'élaboration de ce document et invite toutes parties prenantes à en faire un bon usage.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "tampon_et_signature",
+          "titre": "Signature et tampon officiel du Ministre",
+          "description": "Tampon circulaire rouge de la République du Sénégal, Ministère de la Santé et de l'Action sociale, Le Ministre, accompagné de la signature et de l'encadré contenant le nom : Abdoulaye Diouf SARR."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Glossaires des termes",
+      "texte": "Cahier des charges de capitalisation : c'est un document contractuel synallagmatique à respecter lors d'un projet. Il permet d'identifier ce qui est attendu du maître d'ouvrages, les pénalités en cas de non-respect, les besoins auxquels le prestataire doit répondre et organise les relations entre les acteurs tout au long du projet.Connaissance : une notion aux sens multiples, à la fois utilisée dans le langage courant et objet d'étude poussée de la part des sciences cognitives et des philosophes contemporains. Les connaissances, leur nature et leur variété, la façon dont elles sont acquises, leur processus d'acquisition, leur valeur et leur rôle dans les sociétés humaines, sont étudiées par une diversité de disciplines, notamment la philosophie, l'épistémologie, la psychologie, les sciences cognitives, l'anthropologie et la sociologie.Démarche itérative : c'est la possibilité de réviser un objectif au cours de la mise en œuvre d'un projet.Démarche Quick-Win : c'est un procédé qui permet d'amener un décideur à adopter un produit de recherche (connaissance capitalisée, bonnes pratiques) dans un très court délai.Étapes d'implémentation : ce sont les différents stades d'internalisation (processus) d'un changement ou d'une connaissance.Evaluation : l'évaluation permet d'identifier les savoirs, elle ne s'interroge pas sur la manière de faire. De plus, le regard externe « objectif » de l'évaluateur est d'orienter l'identification des savoirs or seuls les acteurs/auteurs sont légitimes pour sélectionner, analyser formaliser leurs propres savoirs.Leadership : il définit la capacité d'un individu à inspirer, influencer, guider, mener ou à conduire d'autres individus ou organisation dans le but d'atteindre certains objectifs.Management : c'est la mise en œuvre de moyens humains et matériels pour gérer ou piloter, contrôler, organiser, déléguer, animer et diriger un projet afin de l'amener à atteindre ses objectifs.Recherche : c'est une démarche systématique de capture et/ou de création de connaissances.Savoir implicite : c'est une connaissance regroupant les compétences innées ou acquises, le savoir-faire et l'expérience.Savoir explicite : c'est une connaissance acquise et présentée dans un format accessible.Systématisation : suppose une approche structurée qui elle-même propose une segmentation en amont de la capitalisation (que va-t-on regarder ?) et un tri en aval (que retenir et transposer des savoir-faire ?). Ces deux opérations ne sont pas toujours à la portée des acteurs de l'action. Elles leur échappent souvent en créant une rupture entre l'acteur mobilisant des savoir-faire et le tri et diffusion de sa pratique.Théorisation ancrée : c'est une méthode systématique des sciences sociales qui génère une théorie basée sur la collecte et l'analyse méthodique des informations. Elle est inductive par opposition à la méthode hypothético-déductive.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Introduction",
+      "texte": "Le besoin d'avoir des informations pertinentes pour la prise de décision est une préoccupation pour les pouvoirs publics. Cela les amène à initier des évaluations, des études et des capitalisations d'expériences pour générer des évidences afin d'éclairer les politiques et pratiques en lien avec l'amélioration des conditions d'épanouissement intégral des communautés.Au Sénégal, des évaluations périodiques sont menées pour améliorer la mise en œuvre des projets, programmes et politiques de santé et d'action sociale. Pourtant, il ne manque pas d'opportunités pour utiliser cette compétence afin de capturer les bonnes pratiques et les leçons apprises dans une perspective d'améliorer ce qui est en cours et de mieux élaborer les approches pour les prochains défis. En effet, selon Pierre de ZUTTER, la capitalisation est un moyen puissant de réaliser cet objectif. Selon lui, capitaliser « c'est le passage de l'expérience à la connaissance partageable », (ZUTTER, 1994). Elle offre des opportunités d'apprentissage en vue de renforcer les capacités des acteurs et des organisations dans la fourniture de réponses adéquates aux demandes de soins de santé et d'action sociale.Dans le cadre de la mise en œuvre de la politique de santé et d'action sociale, la capitalisation d'expériences permet de :- Améliorer la qualité des actions (efficacité, efficience, durabilité, pertinence) ;- Innover et de faire évoluer les pratiques professionnelles ;- Eviter que l'expérience se volatilise, en conservant, organisant et rendant disponibles les connaissances et savoir-faire existants au sein de l'organisation ;- Aider les acteurs à s'affirmer et se former, en conduisant de nouvelles activités ;- Favoriser une dynamique d'échanges entre les acteurs à travers un enrichissement mutuel ;- Promouvoir les actions exemplaires du ministère de la santé et de l'action sociale (MSAS) auprès des autres structures ;- Participer à la construction collective de savoirs (P. VILLEVAL et DELVILLE, 2003).Pour harmoniser la démarche de capitalisation et implémenter cette culture d'apprentissage, de génération et de capture de la connaissance, dans le champ de la santé et de l'action sociale, le MSAS élabore un document d'orientation au profit des acteurs du système appelés à utiliser cette compétence pour se former et améliorer leurs pratiques.Ledit guide comprend, en plus de l'introduction et de la conclusion, cinq parties (i) le contexte et la justification (ii) les éléments conceptuels (iii) les objectifs (iv), les démarches (v) la bibliographie.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "I. Contexte et Justification",
+      "texte": "L'Organisation mondiale de la Santé (OMS) a procédé à une évaluation du niveau actuel des connaissances sur la maladie à Coronavirus 2019 (COVID-2019), et a repéré des lacunes tant sur le plan de la maîtrise de la virulence et de la transmission du virus que sur les interventions visant à enrayer cette flambée et à préparer d'autres défis. Cela a amené le Global Research Collaboration for Infections Disease Preparedness (GloPID-R) et l'OMS à proposer des orientations susceptibles d'aider à une utilisation optimale de la compétence capitalisation pour plus d'efficacité et d'efficience dans la lutte contre la pandémie.Le Sénégal a une bonne expérience dans la gestion des épidémies avec des stratégies de riposte pilotées par des instances aux niveaux national, régional, départemental et local. Ce dispositif de management est de type pyramidal avec un Comité National de Gestion des Epidémies (CNGE) et des comités (régionaux, départementaux et locaux) dirigés respectivement par le Ministre de la Santé et les autorités administratives. L'approche est pluridisciplinaire et multisectorielle avec le leadership du secteur de la santé. Le processus de riposte est composé d'une phase de détection, de prise en charge des cas positifs et de prévention primordiale, primaire et secondaire. Ce dispositif est accompagné par un système de communication institutionnelle et technique. Il a été utilisé dans le cadre de la riposte contre Ebola et de la COVID-19.Cette riposte s'accompagne d'activités de recherche, de définition, de mise en œuvre d'interventions et d'expériences. Bien-entendu, ces expériences ne sont pas toutes génératrices de succès, mais chacune porte en elle des éléments d'apprentissage. Cela est pour dire que toutes ces expériences peuvent et doivent être décrites et analysées afin d'identifier les facteurs de succès, de limites, d'impact général et des conditions et/ou précautions de réplicabilité. Les évidences/connaissances produites pourraient être utilisées pour améliorer/orienter les politiques et pratiques de santé en cours ou éclairer les actions en perspective. En outre, les données produites vont contribuer à la constitution d'une base documentaire de la mémoire institutionnelle du MSAS afin d'assurer la traçabilité des évènements majeurs du MSAS pour créer les conditions d'une meilleure gestion des défis à venir. C'est dans ce cadre qu'une commission recherche et aspects éthiques a été mise en place par note de service n°5133/MSAS/DGS/CNGE du 29 avril 2020 dont l'une des missions principales est d'appuyer la capitalisation du processus de riposte. Dans cette même logique, une lettre circulaire 0051440/MSAS/DPRS/DR du 30 avril 2020 a été prise par le Ministre de la Santé et de l'Action sociale pour instruire le CNGE à impulser la capitalisation de la riposte conter la Covid-19 avec la coordination technique de la DPRS. Il convient également de signaler que le MSAS dispose d'une bonne expérience en matière de capitalisation à travers des initiatives dont certaines sont ci-dessous citées :- Capitalisation du projet PAODES/PAGOSAN ;- Capitalisation des interventions du projet ISSU ;- Capitalisation des polycliniques communautaires ;- Capitalisation du projet DISC ;- Capitalisation du système de motivation des « Bàjjenu Gox » dans le cadre du projet « renforcement de la SMNEA par le biais des OCB » ;- Capitalisation du projet de l'utilisation de la contraception par auto-injection « SAYANA PRESS » ;- Capitalisation sur l'utilisation des ACT ;- Capitalisation des meilleures pratiques et goulots d'étranglement du projet PCIME ;- Forum de partage des expériences dans la lutte contre Ebola.Aux vues de ces différentes expériences et des besoins de capitalisation formulés suite à l'avènement de l'épidémie Covid-19 et dans un souci d'harmonisation et de potentialisation des initiatives, il est opportun pour le MSAS de disposer d'un guide de capitalisation qui permettra de :- Promouvoir une culture de la capitalisation d'expériences et d'apprentissage continu au sein du secteur de la Santé et de l'Action sociale ;- Renforcer les capacités des acteurs en capitalisation ;- Documenter les expériences pour un archivage de qualité ;- Générer des évidences, bonnes pratiques et leçons apprises pour améliorer les interventions en cours et envisagées.Le but de ce guide de capitalisation est de mettre à la disposition des acteurs du système de santé et de d'action sociale ainsi que leurs partenaires, un outil d'aide à la capitalisation des expériences.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "II. Eléments conceptuels - 2.1. Concept de capitalisation",
+      "texte": "La capitalisation des connaissances s'inscrit dans le cadre global du management des connaissances ou « Knowledge management » défini par GRUNDSTEIN comme étant le « management des activités et des processus destinés à amplifier l'utilisation et la création des connaissances au sein d'une organisation selon deux finalités complémentaires fortement intriquées: une finalité patrimoniale et une finalité d'innovation durable; finalités sous-tendues par leurs dimensions économiques et stratégiques, organisationnelles, socioculturelles et technologiques. »Pour mieux comprendre ce qu'est la capitalisation, les travaux de VILLEVAL et DELVILLE apportent des éclairages à travers leur article intitulé « Capitalisation d'expériences, expérience de capitalisations: Comment passer de la volonté à l'action? ». Ces auteurs empruntent à ZUTTER la formule qui, selon eux, définit le plus clairement et de la manière la plus juste la capitalisation comme « le passage de l'expérience à la connaissance partageable. ». Selon eux, capitaliser n'est surtout pas un exercice académique qui serait conduit par des théoriciens. C'est un travail qui part de la pratique, pour enrichir la pratique. Ainsi, un travail de capitalisation doit permettre aux praticiens de mettre en évidence et d'expliciter en quoi une expérience (ou une série d'expériences) met en lumière des enseignements d'une validité plus générale et partageable. Selon ERMINE, le mot capitalisation doit être entendu au sens large du terme, qui dérive du mot « capital. » Il s'agit de tout faire pour accumuler ce capital dans un objectif de valorisation: le stocker, bien sûr, mais seulement ce qui a de la valeur, le préserver, notamment le protéger, le maintenir à son plus haut niveau de valeur. Capitaliser un patrimoine de connaissances n'est donc pas une chose simple, car il ne s'agit pas d'un stockage, et cet objectif est très fortement lié à la notion de valeur. Cela soulève la question « Quel type de connaissance capitaliser? » Pour répondre à cette question fondamentale, il convient de clarifier la notion de savoir explicite et implicite (tacite).A ce propos, NONAKA et TAKEUCHI (1995), analysant les dynamiques d'innovation dans les entreprises japonaises, ont distingué la connaissance tacite et la connaissance explicite. La connaissance tacite est celle qui est diffuse, non formalisée. Elle peut être individuelle, liée à des savoir-faire spécifiques, incorporée au sein d'une culture d'entreprise et transmise par socialisation entre les personnes. Elle peut relever de collectifs plus larges, où elle se transmet par échanges, rencontres, débats, etc. Ce type de connaissance s'oppose à une connaissance explicite, qui fait l'objet d'écrits, de normes, de références, et qui est formalisée.Selon GRUNDSTEIN (2002), « la connaissance tacite qui réside au sein de notre cerveau résulte du sens que nous donnons, au travers de nos schémas d'interprétation, aux données que nous percevons à partir des informations qui nous sont transmises. ».Quant aux connaissances explicites, elles sont des savoirs qui présentent la characteristic fondamentale d'être formalisées. Cette formalisation se doit d'être justifiée par l'existence d'éléments tangibles ou plus simplement par une énonciation claire et facilement partageable attestant de leur prise de conscience. Cependant, elles sont souvent de nature « hétérogène », « incomplète » ou « redondantes. »Dès lors, la capitalisation vise à expliciter la connaissance tacite. Elle repose sur un processus d'externalisation. Faute de capitalisation, les leçons tirées d'une expérience ne sont connues que de ceux qui l'ont vécue. Avec la capitalisation, les connaissances sont formalisées, rendues explicites et donc, accessibles plus facilement et plus durablement à des fins d'utilisation. Pour analyser et structurer les connaissances en vue d'élaborer un système opérationnel pour leur utilisation à des fins de gestion et de décision, plusieurs méthodes d'analyse et de modélisation issues de l'ingénierie des connaissances sont proposées.Le modèle ci-après (figure 1) constitue une représentation du processus de constitution des savoirs implicites et explicites. En effet, il s'agit d'un descriptif imagé du mécanisme d'apprentissage, de production et de reproduction intellectuelle. La personne, tout en cherchant, à atteindre son objectif institutionnel qui est de rendre disponible, par exemple, un document stratégique, suit un parcours d'apprentissage qui lui permet de construire de la connaissance tacite/explicite pouvant se traduire par la disponibilité de produits factuels. Il entre ainsi dans un cercle de production/reproduction.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Figure 1: modèle de construction des savoirs",
+          "description": "Schéma représentant le cycle de construction des savoirs. Au centre, un triangle englobant trois cercles interconnectés : Savoirs du vécu, Savoirs pratiques, Savoirs déclaratifs, générant Attitudes, Présomption et Habitudes. Ce triangle central est entouré par un cycle à 4 étapes : Expérience concrète -> Observation réflexive -> Construction de connaissances -> Application pratique."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.1. Concept de capitalisation (suite) - Le cycle de capitalisation",
+      "texte": "Le cycle de capitalisation (figure 2) d'expériences en vue de dégager des bonnes pratiques comporte cinq étapes c'est un processus participatif, itératif et non linéaire tel que schématiser dans le graphique ci-dessous.Ce cycle pourrait être utilisé comme outil de cadrage d'un processus de capitalisation d'une expérience. Chaque étape peut être désagrégée en autant de phases que nécessaires pour conduire le processus à bon terme.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "graphique",
+          "titre": "Figure 2: cycle de la capitalisation adapté de ADEMA",
+          "description": "Graphique circulaire illustrant un cycle itératif et participatif à 5 étapes : 1. Être dans l'action ; 2. Apprécier les expériences et en tirer des enseignements ; 3. Recueillir les bonnes pratiques et organiser la documentation ; 4. Partager et diffuser les bonnes pratiques ; 5. Adopter, adapter et appliquer les bonnes pratiques."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.2. Capitalisation comme référentiel comparativement aux autres approches",
+      "texte": "Il est important de noter la différence entre les concepts tels que recherche, systématisation, évaluation et capitalisation (tableau 1). En plus de ces approches, l'audit est une procédure qui certifie les comptes d'une entreprise ou valide le respect ou non des normes et protocoles dans l'utilisation ou la mise en œuvre d'une thérapie. Elle a pour objectifs de décortiquer le fonctionnement de l'entreprise afin de détecter les défauts et les risques susceptibles de mettre en cause la bonne marche des procédures.Encadré 01: Comparaison synthétique entre la capitalisation, la systématisation, l'évaluation et la recherche",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1: Comparaison synthétique entre la capitalisation, la systématisation, la recherche et l'évaluations",
+          "colonnes": [
+            "Dimensions",
+            "Capitalisation",
+            "Systématisation",
+            "Evaluation",
+            "Recherche"
+          ],
+          "lignes": [
+            {
+              "Dimensions": "Objectif de la démarche",
+              "Capitalisation": "Transformer l'expérience en savoir-faire partageable",
+              "Systématisation": "Faire une interprétation critique de la logique du processus objet de la systématisation. Extraire des savoirs de la pratique pour améliorer les actions",
+              "Evaluation": "Mesurer les résultats obtenus par la pratique. Confronter les résultats obtenus avec le diagnostic de départ, les buts et les objectifs",
+              "Recherche": "Générer des savoirs scientifiques visant à éclairer un aspect méconnu de la réalité"
+            },
+            {
+              "Dimensions": "Objet de la démarche",
+              "Capitalisation": "L'expérience des acteurs de développement dans leur démarche de travail sur le terrain",
+              "Systématisation": "La dynamique du processus objet de la systématisation. L'étude des actions réalisées",
+              "Evaluation": "Les résultats",
+              "Recherche": "La vérification des hypothèses"
+            },
+            {
+              "Dimensions": "Méthode",
+              "Capitalisation": "Méthode d'extraction et de catégorisation des savoirs-faires",
+              "Systématisation": "Méthodes et techniques adaptées à d'autres champs",
+              "Evaluation": "L'analyse des réalisations et des résultats",
+              "Recherche": "L'étude de la réalité"
+            },
+            {
+              "Dimensions": "Recherche d'une relation entre",
+              "Capitalisation": "Les résultats obtenus et les manières de faire des acteurs",
+              "Systématisation": "La conception et la pratique",
+              "Evaluation": "Techniques d'analyse comparative et de mesure basées sur des indicateurs",
+              "Recherche": "Méthodes scientifiques appliquées pour découvrir des vérités objectives"
+            },
+            {
+              "Dimensions": "Qui met en œuvre la démarche",
+              "Capitalisation": "Les acteurs eux-mêmes",
+              "Systématisation": "Une ou des personnes externes",
+              "Evaluation": "Les buts, les objectifs, les résultats, les activités et les moyens / De préférence une personne extérieure à l'action",
+              "Recherche": "Les faits, les processus et les concepts / De préférence une personne extérieure à l'action"
+            },
+            {
+              "Dimensions": "Met en évidence",
+              "Capitalisation": "Les habiletés, les savoirs implicites ou explicites développés par les acteurs",
+              "Systématisation": "Les apprentissages obtenus des processus vécus",
+              "Evaluation": "L'écart entre le prévu et le réalisé",
+              "Recherche": "De nouvelles connaissances sur des questions spécifiques"
+            },
+            {
+              "Dimensions": "Durée",
+              "Capitalisation": "Court ou moyen terme",
+              "Systématisation": "Long terme",
+              "Evaluation": "Court terme",
+              "Recherche": "Long terme"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "III. Objectifs du guide",
+      "texte": "Objectif général :Mettre à la disposition des acteurs du système de santé un outil d'aide à la capitalisation des expériencesObjectifs spécifiques :1. Fournir des éléments de compréhension des enjeux et de la démarche de capitalisation ;2. Fournir des outils et des repères pour préparer et concevoir un projet de capitalisation ;3. Aider à rendre disponibles des connaissances et des bonnes pratiques pour améliorer les compétences et les performances.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "IV. Démarches de capitalisation",
+      "texte": "La capitalisation est une démarche de construction des savoirs. Elle permet de reprendre et d'analyser l'expérience personnelle à l'intérieur de l'organisation ou dans la relation avec les autres parties prenantes. Elle est une forme d'apprentissage qui permet de passer des savoirs pratiques qui génèrent des connaissances implicites aux savoirs comme connaissances explicites. Cette démarche ne peut atteindre son niveau de productivité optimale que si elle s'appuie sur une bonne systématisation de l'expérience.Les démarches de capitalisation sont donc considérées comme l'ensemble des phases et étapes à utiliser/emprunter pour capturer la connaissance issue de l'expérience vécue et/ou mise en œuvre. Il s'agit, à ce niveau, de distinguer le contributeur-rédacteur du contributeur seul dans la matérialisation de la connaissance explicite.Dans une perspective de rendre davantage intelligible les démarches de capitalisation retenues dans ce guide, l'optique est de les séquencer en trois phases :- Préparation de la capitalisation ;- Mise en œuvre du processus de capitalisation ;- Diffusion et partage des résultats issus de la capitalisation.Le choix de la démarche de capitalisation devra intégrer les dimensions suivantes :- L'origine de la commande de capitalisation d'où vient la décision de capitaliser? Est-ce une décision individuelle ou institutionnelle ?- Le contrôle des décisions techniques de l'expérience: comment les décisions liées à la mise en œuvre de l'expérience sont prises? Quel est le mode de fonctionnement de l'équipe de mise en œuvre ? Démocratique ou hiérarchique ?- Le niveau de multidisciplinarité et de multisectorialité des parties prenantes: Quelle est la diversité des disciplines et des secteurs au niveau des parties prenantes?- Les relations de pouvoir qui existent entre les parties prenantes: Comment le leadership et le management sont organisés dans la mise en œuvre de l'expérience ?- La flexibilité de la mise en œuvre de l'expérience: Est-ce une expérience à démarche itérative ou systematic ?- Le niveau d'engagement et de contribution mais également, le temps passé dans l'expérience par chaque partie prenante: Il s'agit d'évaluer le niveau d'implication, de productivité et la durée de pratique dans le projet de chaque partie prenante.- La configuration de l'équipe de capitalisation: Les acteurs eux-mêmes porteurs de l'expérience, avec l'appui d'un expert externe, à travers la recherche de mise en œuvre qui met à contribution une équipe mixte chercheurs/participants à la recherche/décideurs.4.1. La Phase préparatoire4.1.1. Cartographie des acteurs porteurs de l'expérienceIl s'agit d'établir le répertoire des différents acteurs (encadré 2) engagés dans la conception, la mise en œuvre, le suivi et l'évaluation de l'expérience. Pour chaque acteur, il faudra disposer de ses identifiants nominatifs, profil professionnel, fonction dans l'expérience, position dans la hiérarchie managériale de l'expérience, l'appartenance institutionnelle, le temps passé dans l'expérience, l'adresse géographique au moment de la capitalisation pour évaluer les possibilités de son implication active dans le processus, les contacts téléphoniques et électroniques.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Encadré 02: Répertoire des acteurs",
+          "colonnes": [
+            "N°",
+            "Nom et Prénoms",
+            "Profil professionnel",
+            "Appartenance institutionnelle",
+            "Fonction dans l'expérience",
+            "Position hiérarchique dans l'expérience",
+            "Temps passé dans l'expérience (en heures)",
+            "Adresse géographique au moment de la capitalisation",
+            "Téléphone",
+            "Email"
+          ],
+          "lignes": [
+            {
+              "N°": "1",
+              "Nom et Prénoms": "N. F",
+              "Profil professionnel": "Géographe de la santé",
+              "Appartenance institutionnelle": "DSISS",
+              "Fonction dans l'expérience": "Chargée de la Cartographie",
+              "Position hiérarchique dans l'expérience": "Co-PI",
+              "Temps passé dans l'expérience (en heures)": "246",
+              "Adresse géographique au moment de la capitalisation": "Dakar",
+              "Téléphone": "77 xxx xx",
+              "Email": "xx@gamil.com"
+            },
+            {
+              "N°": "2",
+              "Nom et Prénoms": ".....",
+              "Profil professionnel": ".....",
+              "Appartenance institutionnelle": ".....",
+              "Fonction dans l'expérience": ".....",
+              "Position hiérarchique dans l'expérience": ".....",
+              "Temps passé dans l'expérience (en heures)": ".....",
+              "Adresse géographique au moment de la capitalisation": ".....",
+              "Téléphone": ".....",
+              "Email": "....."
+            },
+            {
+              "N°": "3",
+              "Nom et Prénoms": ".....",
+              "Profil professionnel": ".....",
+              "Appartenance institutionnelle": ".....",
+              "Fonction dans l'expérience": ".....",
+              "Position hiérarchique dans l'expérience": ".....",
+              "Temps passé dans l'expérience (en heures)": ".....",
+              "Adresse géographique au moment de la capitalisation": ".....",
+              "Téléphone": ".....",
+              "Email": "....."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.1.2. Identification de l'objet à capitaliser",
+      "texte": "Cette étape est déterminante pour le choix de la démarche appropriée pour faire la capitalisation (encadré 3). Le défi pour les acteurs est de départager l'essentiel de l'accessoire, l'universel du particulier. Pour ce faire, il convient d'intégrer les aspects suivants :- A travers un brainstorming avec les parties prenantes, lister l'ensemble des objets jugés significatifs dans l'expérience ;- Procéder à un arbitrage pour une classification par ordre de priorité de ces différents objets en utilisant de façon préférentielle, le consensus ou à défaut la notation ;- L'évaluation de la faisabilité de la capitalisation de l'objet ;- Les étapes d'implémentation de l'expérience en tenant compte du processus de changement ;- Le suivi et l'évaluation de l'implémentation en s'assurant de la pérennité de l'objet à capitaliser.L'objet à capitaliser, peut être un processus, un outil, un principe, une pratique ou une expérience de mise en œuvre d'un programme ou d'une intervention de santé fondée sur des preuves (avec des critères bien définis), qui améliorent les résultats. Les critères suivants peuvent être utilisés pour sélectionner l'objet efficacité, efficience, reproductibilité/mise à l'échelle, durabilité, validité éthique, respect des droits de l'homme et niveau d'implication des parties prenantes.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "encadre_texte",
+          "titre": "Encadré 03: Exemple de processus d'identification d'objets à capitaliser",
+          "description": "Texte explicatif détaillant les étapes d'identification d'objets à capitaliser (réformes institutionnelles, renforcement de capacités, etc.) ainsi qu'un questionnaire adressé aux parties prenantes."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4.1.3. Constitution de l'équipe de capitalisation",
+      "texte": "Pour mettre en œuvre la capitalisation, il est nécessaire de mettre en place une équipe dédiée au management du processus (encadré 4). Ladite équipe devrait être capacitée dans l'utilisation de la démarche constructiviste qui allie la systématisation et la capitalisation pour produire la connaissance explicite dans un format partageable. La configuration de l'équipe de capitalisation sera fonction de la disponibilité des expertises requises pour le traitement de la question d'apprentissage. En tout état de cause, les porteurs d'expérience devront être au cœur du dispositif. L'on peut ainsi disposer d'équipes à profils variés :- Porteurs d'expériences seuls ;- Porteurs d'expériences et experts externes ;- Chercheurs et participants à la recherche.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Encadré 04: Constitution d'équipes de capitalisation",
+          "colonnes": [
+            "N°",
+            "Nom et Prénoms",
+            "Profil professionnel",
+            "Fonction dans l'expérience",
+            "Rôle dans le processus de capitalisation",
+            "Temps consacré au processus de capitalisation",
+            "Signature"
+          ],
+          "lignes": [
+            {
+              "N°": "1",
+              "Nom et Prénoms": ".....",
+              "Profil professionnel": ".....",
+              "Fonction dans l'expérience": ".....",
+              "Rôle dans le processus de capitalisation": ".....",
+              "Temps consacré au processus de capitalisation": ".....",
+              "Signature": "....."
+            },
+            {
+              "N°": "2",
+              "Nom et Prénoms": ".....",
+              "Profil professionnel": ".....",
+              "Fonction dans l'expérience": ".....",
+              "Rôle dans le processus de capitalisation": ".....",
+              "Temps consacré au processus de capitalisation": ".....",
+              "Signature": "....."
+            },
+            {
+              "N°": "3",
+              "Nom et Prénoms": ".....",
+              "Profil professionnel": ".....",
+              "Fonction dans l'expérience": ".....",
+              "Rôle dans le processus de capitalisation": ".....",
+              "Temps consacré au processus de capitalisation": ".....",
+              "Signature": "....."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.1.4. Élaboration du protocole de capitalisation",
+      "texte": "La mise en œuvre réussie du processus de capitalisation obéit à une exigence d'élaboration d'un protocole qui définit l'objet, les objectifs et le cadre méthodologique de production et/ou capture de la connaissance à présenter dans un format partageable (encadré 5). Ce document devrait avoir l'onction du CNERS avant d'être mis en œuvre.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "encadre_texte",
+          "titre": "Encadré 05: Canevas de protocole de capitalisation",
+          "description": "Liste structurée comprenant : 1. Introduction, 2. Fiche synoptique, 3. Equipe de capitalisation, 4. Contexte et justification, 5. Questions d'apprentissage, 6. Cadre conceptuel, 7. Méthodes de capitalisation, 8. Budget, 9. Bibliographie, 10. Annexes."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4.1.5. Soumission du protocole au Comité national d'éthique",
+      "texte": "La Loi 2009-17 du 9 mars 2009 ordonne l'obtention d'un quitus éthique et administratif pour toute activité de collecte de données impliquant des sujets humains ou utilisant des données à caractère personnel avant sa mise en œuvre. Pour satisfaire à cette exigence, un dossier composé du protocole ci-dessus, d'une lettre de soumission signée par l'Investigateur principal (PI) et adressée à la Présidente du comité et d'un chèque de frais de soumission devra être soumis à travers le site suivant: www.cners.sn (encadré 6).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Encadré 06: Circuit de soumission de protocoles au CNERS",
+          "description": "Organigramme montrant le circuit d'information et de soumission entre Population, Chercheurs, CNERS (Secrétariat), Direction de la Pharmacie et du Médicament (DPM), Ministère de la Santé / Division de la Recherche, et Experts externes."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4.2. La Phase de mise en œuvre - 4.2.1. Revue documentaire",
+      "texte": "La revue documentaire (encadré 7) est une démarche consistant à faire une recension des littératures pertinentes (scientifiques, grises, stratégiques, techniques et juridiques) par rapport à la thématique de capitalisation et, d'en faire une analyse selon une fiche indicative de lecture dont les composantes sont :- Type de document (articles, rapports de recherche, plans stratégiques, etc.) ;- Titre du document (intitulé du sujet traité) ;- Auteurs individuels ou institutionnels (les responsables de la publication) ;- Année de publication ;- Descriptif de l'objet du document (le résumé explicatif de la thématique) ;- Méthodes (les moyens scientifiques et techniques utilisés pour générer la connaissance) ;- Principaux résultats (résultats et discussions).A partir de cette fiche indicative de lecture, procéder à l'analyse en lien avec l'objet de capitalisation. Cette partie permet d'identifier les acquis consignés dans le document et les écarts en lien avec les objectifs visés par la capitalisation qu'on projette de faire. Ce préalable de revue documentaire alimente la configuration des outils de collecte de données complémentaires.Pour cette partie de revue documentaire, le logiciel gratuit « ZOTERO » est le plus indiqué du fait de sa spécialisation dans la capture et la gestion des connaissances centrées sur les sciences de la vie. En effet, il permet de gérer la bibliothèque de façon virtuelle et de la partager avec le groupe des porteurs d'expériences de l'objet à capitaliser. Il permet également de récupérer de façon automatique des références bibliographiques sur internet ou intranet du MSAS, de réaliser une liste de références classées et mises dans un des trois (3) styles de présentation admis par les revues scientifiques. Ce logiciel conçu par l'Université Georges Mason (Virginia USA), permet de réaliser une veille documentaire sur un sujet précis avec la possibilité de faire des requêtes bibliographiques sur PubMed-Medline la plus importante base d'articles sur les sciences de la vie (indexation de 30 millions d'articles).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Encadré 07: Fiche indicative de lecture pour la revue documentaire",
+          "colonnes": [
+            "Type de document",
+            "Titre du document",
+            "Auteurs individuels ou institutionnels",
+            "Année de publication",
+            "Descriptif de l'objet du document",
+            "Méthodes",
+            "Principaux résultats"
+          ],
+          "lignes": [
+            {
+              "Type de document": ".....",
+              "Titre du document": ".....",
+              "Auteurs individuels ou institutionnels": ".....",
+              "Année de publication": ".....",
+              "Descriptif de l'objet du document": ".....",
+              "Méthodes": ".....",
+              "Principaux résultats": "....."
+            },
+            {
+              "Type de document": ".....",
+              "Titre du document": ".....",
+              "Auteurs individuels ou institutionnels": ".....",
+              "Année de publication": ".....",
+              "Descriptif de l'objet du document": ".....",
+              "Méthodes": ".....",
+              "Principaux résultats": "....."
+            },
+            {
+              "Type de document": ".....",
+              "Titre du document": ".....",
+              "Auteurs individuels ou institutionnels": ".....",
+              "Année de publication": ".....",
+              "Descriptif de l'objet du document": ".....",
+              "Méthodes": ".....",
+              "Principaux résultats": "....."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.2.2. Formation des acteurs à 4.2.7. Rédaction du document",
+      "texte": "4.2.2. Formation des acteurs et standardisation de la collecteCette étape permet une appropriation de la méthode et des outils retenus par les acteurs. Il s'agit de présenter le cahier de charge de capitalisation, de clarifier la méthode et les outils proposés, de faire des simulations d'application par des jeux de rôle et de procéder à des pré-tests de standardisation.4.2.3. Collecte des donnéesLa collecte des données est faite par et auprès des porteurs d'expériences de l'objet à capitaliser, à travers des sessions de brainstorming sous forme de groupes focalisés et d'entretiens individuels approfondis avec des acteurs clés du projet. Dans ce processus des observations directes libres sont faites pour renforcer les éléments d'analyse sur les transformations imputables à l'expérience capitalisée.Pour cette étape, il est possible de faire appel à des agents de collecte extérieurs à l'expérience pour procéder à l'administration des outils de capture.4.2.4. Triangulation des données.La triangulation est une procédure visant la validité des savoirs produits par la capitalisation. Elle est pour l'essentiel la superposition et la combinaison de plusieurs perspectives dans un souci d'une validation des connaissances subjectives capturées. On peut ainsi distinguer cinq grandes catégories de triangulation:- La triangulation théorique qui consiste à utiliser plusieurs perspectives théoriques pour analyser les données ;- La triangulation des outils de collecte qui renvoie à l'usage de plusieurs outils pour capturer la même information (entrevue, observation, analyse documentaire) ;- La triangulation des chercheurs est le fait de recourir au point de vue de plusieurs chercheurs sur un objet à explorer ;- La triangulation des sources qui signifie que les données sont recueillies auprès de plusieurs sources différentes ;- La triangulation « écologique » où les analyses et les interprétations sont soumises à la vérification auprès des participants au processus de capitalisation.4.2.5. Analyse des donnéesSur la base d'un plan d'analyse, procéder soit, au croisement des variables générées par les questions d'apprentissage ou les objectifs soit, à l'analyse par la méthode de la théorisation ancrée des différents discours capturés lors des groupes focalisés et entretiens individuels.Les résultantes de ces analyses vont être triangulées aux données issues de l'analyse documentaire et des observations directes libres.La transcription des connaissances/leçons apprises/bonnes pratiques pourrait être présentée soit, par profil d'acteurs porteurs d'expériences soit, par thématique.4.2.6. Validation des résultats ou triangulation « écologique »Les connaissances/leçons apprises/meilleures pratiques devront être partagées avec l'ensemble des acteurs porteurs d'expériences. Cette session devra permettre à l'équipe de capitalisation de partager la méthode utilisée et les résultats dans une perspective de récension des feed-back de clarification et de compréhension. Cette étape permet ainsi d'avoir un consensus avec l'ensemble des acteurs porteurs d'expériences sur les résultats obtenus.4.2.7. Rédaction du document de capitalisationLe document est rédigé dans des formats variables selon le destinataire. Ainsi, l'on peut faire appel à une forme rédactionnelle d'articles scientifiques, de documents d'orientation, de policy brief, d'abstract ou de communication orale. Il est important de transcrire l'entièreté du processus pour créer les conditions d'une exploitation plurielle de la capitalisation. Autrement dit, un rapport exhaustif de l'expérience capitalisée avec toutes les annexes pertinentes, doit être élaboré, selon les plans suivants.4.2.7.1. Rapport générique de capitalisationCe rapport est le document qui fait le point sur le tout le processus de capitalisation et décrit de façon exhaustive les résultats descriptifs, explicatifs et théoriques (connaissance). Il est le document de base utilisé pour produire les autres supports de partage selon la spécificité des destinataires. Le canevas ci-après peut être utilisé (encadré 8).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "encadre_texte",
+          "titre": "Encadré 08: Canevas standard de rapport générique de capitalisation",
+          "description": "Structure standard : 1. Titre, 2. Introduction, 3. Aspects généraux, 4. Méthode de collecte, 5. Analyse, 6. Résultats (Expérience capitalisée, Résultantes des discussions), 7. Références bibliographiques, 8. Annexes."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4.2.7.2. Rapport de capitalisation à visée d'article et 4.2.7.3. Policy brief",
+      "texte": "4.2.7.2. Rapport de capitalisation à visée d'articleCe document est une transcription du processus et de ses résultats dans un format éligible à la littérature scientifique. Il est utilisé pour un partage avec le monde scientifique à travers des articles publiés dans des journaux et sites scientifiques. Les formats qui suivent peuvent servir pour leur rédaction (encadré 9).4.2.7.3. Rapport de capitalisation à visée de policy briefLe rapport de capitalisation à visée de policy brief est destiné aux décideurs dans le but de les amener à internaliser les connaissances générées dans les politiques et pratiques de santé et d'action sociale.Ce document est élaboré à partir de l'exploitation du rapport générique de capitalisation en tenant compte du contexte économique environnement et social de mise en œuvre des politiques publiques de santé. Il décline les conditions minimales requises et clarifie les procédés techniques d'utilisation de la connaissance capitalisée. Son élaboration suit le canevas ci-après (encadré 10).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Encadré 09: Canevas de rapport à visée d'articles",
+          "colonnes": [
+            "Format 01",
+            "Format 02"
+          ],
+          "lignes": [
+            {
+              "Format 01": "1. Introduction",
+              "Format 02": "1. Introduction"
+            },
+            {
+              "Format 01": "2. Méthodes et résultats",
+              "Format 02": "2. Problématique de capitalisation (objet de capitalisation)"
+            },
+            {
+              "Format 01": "3. Références bibliographiques",
+              "Format 02": "3. Question de capitalisation"
+            },
+            {
+              "Format 01": "",
+              "Format 02": "4. Méthode"
+            },
+            {
+              "Format 01": "",
+              "Format 02": "5. Résultats"
+            },
+            {
+              "Format 01": "",
+              "Format 02": "6. Discussions"
+            },
+            {
+              "Format 01": "",
+              "Format 02": "7. Recommandations"
+            },
+            {
+              "Format 01": "",
+              "Format 02": "8. Références bibliographiques"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "encadre_texte",
+          "titre": "Encadré 10: Canevas de policy brief",
+          "description": "Structure pour un résumé aux décideurs : 1. Titre, 2. Résumé (Problème, pratiques actuelles, résultats, annonces), 1. Faits saillants, 2. Introduction, 3. Contexte, 4. Importance du problème, 5. Objectifs, 6. Approche et résultats, 7. Conclusion, 8. Recommandations, 9. Sources consultées."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4.3. La Phase de diffusion et de partage",
+      "texte": "Après la production du rapport de capitalisation, il reste important de procéder à sa diffusion dans l'optique de créer les conditions d'une appropriation réussie des connaissances générées. Pour ce faire, les cibles, canaux, instances et formes devront être bien identifiés.4.3.1. Identification des ciblesPour réussir la diffusion du produit de capitalisation, la communication devra être adaptée aux valeurs et intérêts du destinataire. Ce dernier, devra être identifié, selon sa capacité à contribuer à l'atteinte de l'objectif visé par le plan de diffusion.La cible peut être composée de décideurs, chercheurs, planificateurs, partenaires techniques et financiers (PTF), communautés, membres de projets, etc.4.3.2. Identification des canaux, instances et formes de diffusion et de partageLa diffusion du produit de capitalisation doit se faire à travers les canaux appropriés pour atteindre la cible préalablement identifiée. Il peut s'agir de:- La communication de masse (radio, presse écrite, télévision) ;- Réseaux sociaux (FB, Youtube, etc.) ;- Sites internet spécialisés (MSAS, CNERS, système des NU, universités, etc.) ;- Journaux et sites scientifiques ;- Insertion dans les quotidiens ;- Plateaux de télévision.Les instances et formes de diffusion et de partage devront également être sélectionnées en fonction de leurs capacités de création de conditions optimales d'interactions productives entre l'émetteur (porteur du produit de capitalisation) et le récepteur (cible). Dans cette logique, l'on peut utiliser, pour une cible avertie sur l'objet capitalisé, les espaces et formes suivants :- Conférences nationales et internationales ;- Ateliers de partage ;- Forums ;- Journées scientifiques.Pour les décideurs et membres de projets, la communication interpersonnelle, à travers des notes de policy brief, d'orientation, de face à face est plus appropriée. Cette approche peut s'inspirée de la démarche Quick-Win qui permet d'induire le changement à partir de la connaissance capitalisée en un temps record.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.3.3. Diffusion du document",
+      "texte": "4.3.3.1. Formes de présentation du documentLa diffusion du document obéit à une démarche pragmatique centrée sur le profil et les facteurs de réactivité de la cible. Pour ce faire, ledit document devra être présenté selon la forme appropriée pour susciter la réactivité appropriée (encadré 11). Il s'agit :- Plaquettes ;- Dépliants et Flyers ;- Fiches techniques de capitalisation ;- Notes techniques ;- Vidéo ;- Photos ;- Enregistrement de son, etc.4.3.3.2. Echelles de diffusionPour plus d'efficacité dans l'appropriation du produit de capitalisation, la diffusion pourrait se faire selon des échelles/audiences de niveaux différents :- Partage avec les porteurs d'expériences membres du projet capitalisé ;- Partage avec les acteurs du secteur ;- Partage au niveau national à travers d'ateliers, forums, etc. ;- Partage au niveau sous-régional et international à travers des communications orales lors de conférences internationales, d'articles et d'abstracts.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Encadré 11: Plaidoyer en 9 étapes",
+          "description": "Modèle de plaidoyer structuré en 3 phases et 9 étapes : Phase 1 (Établir un consensus : Étape 1 Décider qui impliquer, Étape 2 Définir l'objectif SMART, Étape 3 Identifier le décideur clé) ; Phase 2 (Concentrer les efforts : Étape 4 Examiner le contexte, Étape 5 Connaître le décideur, Étape 6 Définir la bonne requête) ; Phase 3 (Réussir le changement : Étape 7 Préparer un plan de travail, Étape 8 Établir des precedents, Étape 9 Appliquer et évaluer)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "V. Références bibliographiques",
+      "texte": "1. ERMINE, J.L. La gestion des connaissances, Hermès Sciences Publications, pp. 166, 2003;2. GRUNDSTEIN M., De la capitalisation des connaissances au renforcement des compétences dans l'entreprise étendue, 1er Colloque du groupe de travail Gestion des Compétences et des Connaissances en Génie Industriel « Vers l'articulation entre Compétences et Connaissances », Nantes, 12-13 décembre 2002;3. GRUNDSTEIN, M. De la capitalisation des connaissances au management des connaissances dans l'entreprise. Chapitre 1 dans: BOUGHZALA Imed, ERMINE Jean-Louis. 2004. Management des connaissances en entreprise, Edition Hermès Science, Pages 25-54;4. VILLAVICENCIO S. R, Aprendiendo a sistematizar. Las experiencias como fuente de conocimiento o producción de conocimiento à partir de las experiencias. Manual de autoinstructivo Escuela para el desarrollo et GTZ, 2009, 129 pages;5. VILLEVAL, P. et LAVIGNE-DELVILLE, P. Capitalisation d'expériences... expérience de capitalisation: Comment passer de la volonté à l'action ? Traverse n°15 Octobre 2004;6. ZUTTER, P. Des histoires, des savoirs, des hommes: l'expérience est un capital, Editions - Diffusion Charles Léopold Mayer, Paris, 1994",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "VI. Annexes",
+      "texte": "Liste des participants aux ateliers de consultation et de rédaction",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste des participants aux ateliers de consultation et de rédaction",
+          "colonnes": [
+            "N°",
+            "Prénoms et Nom",
+            "Structure",
+            "Email"
+          ],
+          "lignes": [
+            {
+              "N°": "1",
+              "Prénoms et Nom": "Abib NDIAYE",
+              "Structure": "DR/DPRS",
+              "Email": "abibndiaye@gmail.com"
+            },
+            {
+              "N°": "2",
+              "Prénoms et Nom": "Amadou SARR",
+              "Structure": "Archives/DPRS",
+              "Email": "sarr.amadou8587@gmail.com"
+            },
+            {
+              "N°": "3",
+              "Prénoms et Nom": "Assiétou FALL",
+              "Structure": "CES/DPRS",
+              "Email": "sissifall16@gmail.com"
+            },
+            {
+              "N°": "4",
+              "Prénoms et Nom": "Cheikh SARR",
+              "Structure": "RM Thiès",
+              "Email": "sarr975@gamil.com"
+            },
+            {
+              "N°": "5",
+              "Prénoms et Nom": "Coumba Haby SARR",
+              "Structure": "USAID/RSS+",
+              "Email": "coumba sarr@abtsn.com"
+            },
+            {
+              "N°": "6",
+              "Prénoms et Nom": "Daba FAYE",
+              "Structure": "CSSDOS",
+              "Email": "fayedabisko@gmail.com"
+            },
+            {
+              "N°": "7",
+              "Prénoms et Nom": "Dr Abdoulaye DIALLO",
+              "Structure": "DR/DPRS",
+              "Email": "allaye.diallo@gmail.com"
+            },
+            {
+              "N°": "8",
+              "Prénoms et Nom": "Dr Paulette Suzanne NDIAYE",
+              "Structure": "DSISS/DPRS",
+              "Email": "suz2703@yahoo.fr"
+            },
+            {
+              "N°": "9",
+              "Prénoms et Nom": "Dr Samba Cor SARR",
+              "Structure": "DR/DPRS",
+              "Email": "bathie65@yahoo.fr"
+            },
+            {
+              "N°": "10",
+              "Prénoms et Nom": "Dr Valéry RIDDE",
+              "Structure": "IRD",
+              "Email": "valery.ridde@ird.fr"
+            },
+            {
+              "N°": "11",
+              "Prénoms et Nom": "Dr Zeyni El Abidine SY",
+              "Structure": "DSISS/DPRS",
+              "Email": "zeynielabidine@hotmail.fr"
+            },
+            {
+              "N°": "12",
+              "Prénoms et Nom": "Louise Sarr BARBOZA",
+              "Structure": "DR/DPRS",
+              "Email": "louiannmar@yahoo.fr"
+            },
+            {
+              "N°": "13",
+              "Prénoms et Nom": "Mame Oumar GUEYE",
+              "Structure": "DR/DPRS",
+              "Email": "quevewaly12@yahoo.fr"
+            },
+            {
+              "N°": "14",
+              "Prénoms et Nom": "Modou Mamoune FALL",
+              "Structure": "DP/DPRS",
+              "Email": "fallmmdbl@gmail.com"
+            },
+            {
+              "N°": "15",
+              "Prénoms et Nom": "Ndèye Fama SALL",
+              "Structure": "CG/DPRS",
+              "Email": "sallndeyefama@yahoo.fr"
+            },
+            {
+              "N°": "16",
+              "Prénoms et Nom": "Ndèye Marème BA",
+              "Structure": "DSISS/DPRS",
+              "Email": "maremeba82@outlook.fr"
+            },
+            {
+              "N°": "17",
+              "Prénoms et Nom": "Papa Diogop NDAO",
+              "Structure": "DPRS",
+              "Email": "diogopmsas@gmail.com"
+            },
+            {
+              "N°": "18",
+              "Prénoms et Nom": "Papa Ousmane MBOW",
+              "Structure": "DGS",
+              "Email": "pombow@yahoo.com"
+            },
+            {
+              "N°": "19",
+              "Prénoms et Nom": "Pr Jean Louis NDIAYE",
+              "Structure": "UFR Santé/Thiès",
+              "Email": "jIndiaye@univ-thies.sn"
+            },
+            {
+              "N°": "20",
+              "Prénoms et Nom": "Pr Sylvain Landry B. FAYE",
+              "Structure": "Département de Sociologie/FLSH/UCAD",
+              "Email": "sylvain.faye@ucad.edu.sn"
+            },
+            {
+              "N°": "21",
+              "Prénoms et Nom": "Viviane M. Solange MBENGUE",
+              "Structure": "DR/DPRS",
+              "Email": "viviane.marisol@gmail.com"
+            }
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

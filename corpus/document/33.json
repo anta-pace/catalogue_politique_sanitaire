@@ -1,0 +1,1135 @@
+{
+  "metadata": {
+    "titre": "Plan Sénégal Emergent - SECTEUR SANTE",
+    "annee": "2014",
+    "source": "Ministère de la Santé et de l'Action sociale - République du Sénégal",
+    "type_document": "Présentation institutionnelle / Plan stratégique"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "Plan Sénégal Emergent Liguey nguir ëlëk SECTEUR SANTE Dr Abdoulaye BOUSSO CT2 Ministre de la Santé et de l'Action sociale 15/07/14 REPUBLIQUE DU SENEGAL",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo Plan Sénégal Emergent",
+          "description": "Logo du Plan Sénégal Emergent avec les trois flèches aux couleurs nationales (vert, jaune, rouge) et une étoile verte, accompagné du slogan Liguey nguir ëlëk."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Plan de la présentation",
+      "texte": "PlanIntroductionDiagnostic économique et socialAnalyse secteur santéPSEDakar médical citySuivi - EvaluationPerspectives",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Introduction",
+      "texte": "Plan Sénégal Emergent. Documents de Politique Economique : DSRP I: 2003-2005, DSRP II: 2006-2010, DPES 2011-2015, SNDES 2013-2017, PSE 2014-2035. Plan d'Actions Prioritaires 2014-2018.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Évolution des Documents de Politique Économique au Sénégal",
+          "description": "Schéma montrant l'évolution chronologique des documents stratégiques nationaux, aboutissant au Plan Sénégal Emergent (PSE) 2014-2035 et au Plan d'Actions Prioritaires 2014-2018."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Diagnostic économique et social - Tendances démographiques, pauvreté et inégalités",
+      "texte": "Tendances démographiques : Population de 13,9 millions d'habitants en 2014. Taux de croissance annuel de 2,7%. Population majoritairement jeune: les moins de 15 ans = 42,6%, représentant une forte demande en services sociaux et emploi.Pauvreté et inégalités :",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Indicateurs de pauvreté selon le milieu de résidence",
+          "colonnes": [
+            "Indicateur",
+            "Dakar",
+            "Autres Urbains",
+            "Rural",
+            "National"
+          ],
+          "lignes": [
+            {
+              "Indicateur": "Incidence de pauvreté",
+              "Dakar": "26,2",
+              "Autres Urbains": "41,3",
+              "Rural": "57,3",
+              "National": "46,7"
+            },
+            {
+              "Indicateur": "Ecart de pauvreté",
+              "Dakar": "5,8",
+              "Autres Urbains": "13,1",
+              "Rural": "18,7",
+              "National": "14,6"
+            },
+            {
+              "Indicateur": "Sévérité de la pauvreté",
+              "Dakar": "2,1",
+              "Autres Urbains": "5,9",
+              "Rural": "8,7",
+              "National": "6,6"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Carte de l'incidence de la pauvreté au Sénégal",
+      "texte": "Carte administrative présentant l'incidence de la pauvreté par région au Sénégal édité par l'ANSD.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Pauvreté Incidence % par région (ANSD)",
+          "description": "Carte thématique de l'incidence de la pauvreté par région au Sénégal. Légende des taux d'incidence : 26,1 - 26,8% (Dakar 26,1%), 26,8 - 48,9% (Saint-Louis 39,5%, Louga 24,8%, Thiès 41,3%, Diourbel 47,8%, Matam 45,2%), 48,9 - 63,8% (Kaolack 61,7%, Kaffrine 63,8%, Tambacounda 62,5%), 63,8 - 71,3% (Fatick 67,8%, Ziguinchor 66,8%, Sédhiou 68,3%, Kédougou 71,3%), 71,3 - 76,6% (Kolda 76,6%)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Accès aux services sociaux de base et contexte macroéconomique",
+      "texte": "Accès aux services sociaux de base : habitat et cadre de vie : urbanisation rapide et mal maîtrisée ; protection sociale: ne prend en compte que 20% de la population.Au plan macroéconomique : Essoufflement croissance depuis 2005. Dominance très forte de l'informel : ~95% de l'emploi, ~50% PIB. Moteurs principalement liés à la consommation privée (BTP et Télécoms). Déficit de balance commerciale.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Comparaison des résultats OMD et cibles 2015",
+          "colonnes": [
+            "OMD",
+            "Résultats",
+            "Cible 2015"
+          ],
+          "lignes": [
+            {
+              "OMD": "Incidence de la pauvreté",
+              "Résultats": "46,7% en 2011",
+              "Cible 2015": "34%"
+            },
+            {
+              "OMD": "Taux d'achèvement du cycle primaire",
+              "Résultats": "66,7%",
+              "Cible 2015": "90%"
+            },
+            {
+              "OMD": "Mortalité des moins de cinq ans",
+              "Résultats": "72 pour mille (2011)",
+              "Cible 2015": "44 pour mille"
+            },
+            {
+              "OMD": "Mortalité maternelle",
+              "Résultats": "392 décès pour 100000 naissances",
+              "Cible 2015": "127 décès 100000 naissances"
+            },
+            {
+              "OMD": "Assainissement",
+              "Résultats": "Zone urbaine: 63,3%, Zone rurale: 34,3%",
+              "Cible 2015": "76%"
+            },
+            {
+              "OMD": "Prévalence du paludisme et du VIH/Sida",
+              "Résultats": "0,7%",
+              "Cible 2015": "Moins de 3%"
+            },
+            {
+              "OMD": "Accès à l'eau potable",
+              "Résultats": "milieu urbain: 98,7%, zone rurale: 80,1%",
+              "Cible 2015": "100%"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Analyse secteur santé - Chiffres et indicateurs clefs",
+      "texte": "A1 Etat de santé de la population : Principales causes de mortalité et morbidité. Espérance de vie en 2011: Homme 58 ans, Femme 60 ans. Mortalité à la naissance pour 1000 naissances en 2011: Infantile 64,8, Maternelle 3,7. Mortalité à 5 ans : 72 pour 1000 naissances.A2 Infrastructures de soins et personnel médical : Personnel médical (Nombre): Médecins 1813, Sages femmes 1103, Infirmiers 4102, Pharmaciens 1094. Points de prestations de soins (Nombre total 2967): Hôpitaux 88 / 36, Centres de soins 162, Postes de santé 1240, Cases de santé 1603. Ratio: ~14 médecins pour 100 000 habitants.A3 Dépenses de santé : Evolution des dépenses en Mds FCFA (2001: 115, 2008: 183, 2011: 347). Représente 4,5% du PIB en 2001, 6,0% en 2011. Représente 12% du budget de l'Etat. Sources de financement en 2008 (347 Mds FCFA): Ménages 200 Mds FCFA, Etat et CL 162 Mds FCFA, Assureurs 35 Mds FCFA, Bailleurs 13 Mds FCFA.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Principales causes de mortalité et morbidité",
+          "colonnes": [
+            "Maladie",
+            "Décès (Nombre/an)",
+            "Consultations (Milliers/an)"
+          ],
+          "lignes": [
+            {
+              "Maladie": "Paludisme",
+              "Décès (Nombre/an)": "8112",
+              "Consultations (Milliers/an)": "188"
+            },
+            {
+              "Maladie": "Infections respiratoires",
+              "Décès (Nombre/an)": "129",
+              "Consultations (Milliers/an)": "695"
+            },
+            {
+              "Maladie": "Hypertension Artérielle",
+              "Décès (Nombre/an)": "112",
+              "Consultations (Milliers/an)": "67"
+            },
+            {
+              "Maladie": "Diarrhées",
+              "Décès (Nombre/an)": "156",
+              "Consultations (Milliers/an)": "435"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Évolution de l'espérance de vie et de l'indice DALY",
+      "texte": "Un écart persistant avec les pays de référence, en dépit de progrès des principaux indicateurs de santé depuis 20 ans.- Un gain de 6 ans d'espérance de vie depuis 20 ans, mais un écart persistant avec les pays de référence. Nette amélioration de l'espérance de vie au Sénégal depuis 20 ans (+ 6 ans). Un rythme de progression dans la moyenne des pays pairs (gain d'1/3 année d'espérance de vie chaque année). Un décalage encore important avec les pays d'aspiration (e.g. 13 ans avec le Maroc, 20 ans avec le Costa Rica).- Une progression de l'espérance de vie en bonne santé plus rapide que celle des pays pairs. L'indice DALY de l'OMS évalue le nombre d'années de vie en bonne santé perdues dans un pays en prenant en compte les indices de morbidité et de mortalité. Depuis 1990, l'état de santé global du Sénégal s'est amélioré en continu, avec une accélération lors des 5 dernières années. Malgré une amélioration plus rapide que celles du Ghana, de la Côte d'Ivoire ou du Maroc, l'écart avec les pays de référence demeure important.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Evolution de l'espérance de vie (1990-2011)",
+          "donnees": [
+            {
+              "pays": "Costa Rica",
+              "tendance": "Autour de 75-78 ans"
+            },
+            {
+              "pays": "Maroc",
+              "tendance": "Progression de ~65 à ~72 ans"
+            },
+            {
+              "pays": "Sénégal",
+              "tendance": "Progression de ~53 à ~59 ans (+6 ans)"
+            },
+            {
+              "pays": "Ghana",
+              "tendance": "Progression de ~57 à ~64 ans"
+            },
+            {
+              "pays": "Côte d'Ivoire",
+              "tendance": "Stagnation/évolution entre 48 et 55 ans"
+            },
+            {
+              "pays": "Guinée",
+              "tendance": "Progression de ~45 à ~55 ans"
+            },
+            {
+              "pays": "UEMOA",
+              "tendance": "Autour de 48 à 55 ans"
+            }
+          ]
+        },
+        {
+          "type": "graphique",
+          "titre": "Evolution de l'indice DALY (1990-2010)",
+          "donnees": [
+            {
+              "pays": "Guinée",
+              "tendance": "Baisse de 123 à ~75"
+            },
+            {
+              "pays": "UEMOA",
+              "tendance": "Baisse de 113 à ~75"
+            },
+            {
+              "pays": "Côte d'Ivoire",
+              "tendance": "Baisse de 89 à ~75"
+            },
+            {
+              "pays": "Sénégal",
+              "tendance": "Baisse nette de ~78 à ~47"
+            },
+            {
+              "pays": "Ghana",
+              "tendance": "Baisse de 68 à ~47"
+            },
+            {
+              "pays": "Maroc",
+              "tendance": "Baisse de 43 à ~30"
+            },
+            {
+              "pays": "Costa Rica",
+              "tendance": "Stabilité autour de 22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Évolution de la mortalité infantile et maternelle",
+      "texte": "En particulier, un écart persistant avec les pays de référence sur les mortalités infantile et maternelle, en dépit de progrès significatifs.- Réduction d'1/3 de la mortalité infantile depuis 15 ans, mais un niveau toujours élevé par rapport aux pays de référence. Réduction de plus de la moitié de la mortalité infantile depuis 1995 permet d'obtenir le meilleur taux de l'UEMOA. Un écart toujours important avec les pays de référence (rapport de 1 à 2 avec le Maroc et de 1 à 6 avec le Costa Rica).- Réduction de 45% de la mortalité maternelle depuis 20 ans, mais un niveau absolu qui reste élevé. Baisse régulière de la mortalité maternelle depuis 20 ans (-45%). Rythme de baisse équivalent à celui des pays pairs. Un niveau de mortalité qui reste élevé et très en retard par rapport à un pays comme le Maroc (rapport de 1 à 4).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Mortalité des enfants de moins de 5 ans (Pour 1 000 naissances, 1990-2010)",
+          "donnees": [
+            {
+              "pays": "Guinée",
+              "tendance": "De 230 à 130"
+            },
+            {
+              "pays": "UEMOA",
+              "tendance": "De 200 à 125"
+            },
+            {
+              "pays": "Côte d'Ivoire",
+              "tendance": "De 150 à 115"
+            },
+            {
+              "pays": "Sénégal",
+              "tendance": "De 138 (1990) à 143 (1995) puis baisse nette jusqu'à ~65 (2010)"
+            },
+            {
+              "pays": "Ghana",
+              "tendance": "De 120 à 78"
+            },
+            {
+              "pays": "Maroc",
+              "tendance": "De 82 à 35"
+            },
+            {
+              "pays": "Costa Rica",
+              "tendance": "De 18 à 11"
+            }
+          ]
+        },
+        {
+          "type": "graphique",
+          "titre": "Mortalité maternelle (Pour 100 000 naissances, 1990-2010)",
+          "donnees": [
+            {
+              "pays": "Guinée",
+              "tendance": "De 1200 à 620"
+            },
+            {
+              "pays": "UEMOA",
+              "tendance": "De 860 à 440"
+            },
+            {
+              "pays": "Côte d'Ivoire",
+              "tendance": "De 710 à 400"
+            },
+            {
+              "pays": "Sénégal",
+              "tendance": "De 670 à 370 (-45%)"
+            },
+            {
+              "pays": "Ghana",
+              "tendance": "De 580 à 350"
+            },
+            {
+              "pays": "Maroc",
+              "tendance": "De 300 à 100"
+            },
+            {
+              "pays": "Costa Rica",
+              "tendance": "De 40 à 30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Comparaison du niveau d'infrastructures et de personnel médical",
+      "texte": "Niveau d'infrastructures de soins et de personnel médical comparable à celui des pays pairs, mais faible par rapport aux pays de référence.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Indicateurs d'infrastructures de soins et personnel médical par pays",
+          "colonnes": [
+            "Catégorie",
+            "Pays",
+            "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)",
+            "Nombre de médecins par habitants (Pour 1 000 habitants)",
+            "Nombre de médecins (Pour 1 000 habitants)",
+            "Nombre de lits d'hôpitaux (Pour 1 000 habitants)"
+          ],
+          "lignes": [
+            {
+              "Catégorie": "Pays émergents de référence",
+              "Pays": "Viet Nam",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "1,22",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "2,2"
+            },
+            {
+              "Catégorie": "Pays émergents de référence",
+              "Pays": "Malaisie",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "1,20",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "1,8"
+            },
+            {
+              "Catégorie": "Pays émergents de référence",
+              "Pays": "Costa Rica",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "Nd",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "1,2"
+            },
+            {
+              "Catégorie": "Pays africains de référence",
+              "Pays": "Afrique du Sud",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "0,76",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "Nd"
+            },
+            {
+              "Catégorie": "Pays africains de référence",
+              "Pays": "Maroc",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "0,62",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "1,1"
+            },
+            {
+              "Catégorie": "Pays pairs",
+              "Pays": "Côte d'Ivoire",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "Nd",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "0,14"
+            },
+            {
+              "Catégorie": "Pays pairs",
+              "Pays": "Mauritanie",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "0,13",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "Nd"
+            },
+            {
+              "Catégorie": "Pays pairs",
+              "Pays": "Guinée",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "0,10",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "0,3"
+            },
+            {
+              "Catégorie": "Pays pairs",
+              "Pays": "Ghana",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "0,09",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "0,9"
+            },
+            {
+              "Catégorie": "Pays pairs",
+              "Pays": "Mali",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "0,08",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "0,1"
+            },
+            {
+              "Catégorie": "Pays pairs",
+              "Pays": "UEMOA",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "0,06",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "0,5"
+            },
+            {
+              "Catégorie": "Pays pairs",
+              "Pays": "Sénégal",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "0,06",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "0,3"
+            },
+            {
+              "Catégorie": "Moyennes",
+              "Pays": "Moyenne Africains de référence",
+              "Nombre d'hôpitaux par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins par habitants (Pour 1 000 habitants)": "Nd",
+              "Nombre de médecins (Pour 1 000 habitants)": "Ø 0,46",
+              "Nombre de lits d'hôpitaux (Pour 1 000 habitants)": "Ø 0,93"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Pyramide sanitaire du Sénégal",
+      "texte": "Vue d'ensemble de la pyramide sanitaire du Sénégal. Description des structures publiques :- Niveau Région Médicale: 1-2 par région (22 au total). Ouverture 7j/7 24h/24. Services de consultation, urgences, chirurgie, accouchements.- Niveau District: 1 par District (76 au total). Ouverture 7j/7 24h/24. Services de consultation, accouchement et microchirurgie, urgences non chirurgicales.- Niveau périphérique: ~1200 PPS (~1/10000 habitants). Ouverture 5j/7 8h/j. Services de consultation et soins de base.- 1620 Cases de santé fonctionnelles/2245 pour 9Mn hab. (~1/4100 hab.): Ouverture 5j/7, 8h/j. Centre rural de soins basiques localisé dans les zones située >20km d'un Poste de Santé.- 703 sites communautaires (sites de rassemblements non médicalisés où opèrent les relais de la Case ou du PPS: causeries, séances d'information).- ~6000 Bâjenou Gox: Femmes d'influence implantées dans leurs communautés (visites à domiciles, causeries).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Pyramide sanitaire du Sénégal et quatre catégories",
+          "description": "Schéma représentant la pyramide sanitaire structurée en 5 niveaux/catégories : 1. Hôpital, 2. Centre de Santé, 3. Poste de Santé, 4. Santé communautaire (Cases de santé, sites communautaires, Bâjenou Gox), 5. Biens médicaux, ainsi que le secteur privé (Cliniques privées, Cabinets généralistes et spécialistes)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Chiffres et indicateurs clefs par type de structure de soins",
+      "texte": "Chiffres et indicateurs clefs suivant les différents types de structures de soins.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Offre de soins, consultations et dépenses par type de structure",
+          "colonnes": [
+            "Structure / Offre de soins",
+            "Postes de prestations de services (#)",
+            "Répartition des consultations (Milliers, 2009)",
+            "Poids des dépenses (Mds FCFA 2008)"
+          ],
+          "lignes": [
+            {
+              "Structure / Offre de soins": "Case de santé",
+              "Postes de prestations de services (#)": "1603",
+              "Répartition des consultations (Milliers, 2009)": "224",
+              "Poids des dépenses (Mds FCFA 2008)": "Nd"
+            },
+            {
+              "Structure / Offre de soins": "Poste de santé",
+              "Postes de prestations de services (#)": "1743",
+              "Répartition des consultations (Milliers, 2009)": "1328",
+              "Poids des dépenses (Mds FCFA 2008)": "16"
+            },
+            {
+              "Structure / Offre de soins": "Centre de santé",
+              "Postes de prestations de services (#)": "489",
+              "Répartition des consultations (Milliers, 2009)": "1166",
+              "Poids des dépenses (Mds FCFA 2008)": "40"
+            },
+            {
+              "Structure / Offre de soins": "Hôpital",
+              "Postes de prestations de services (#)": "36",
+              "Répartition des consultations (Milliers, 2009)": "998",
+              "Poids des dépenses (Mds FCFA 2008)": "76"
+            },
+            {
+              "Structure / Offre de soins": "Méd. libéraux / cliniques priv.",
+              "Postes de prestations de services (#)": "1166",
+              "Répartition des consultations (Milliers, 2009)": "216",
+              "Poids des dépenses (Mds FCFA 2008)": "50"
+            },
+            {
+              "Structure / Offre de soins": "Biens médicaux",
+              "Postes de prestations de services (#)": "7132",
+              "Répartition des consultations (Milliers, 2009)": "Nd",
+              "Poids des dépenses (Mds FCFA 2008)": "70"
+            },
+            {
+              "Structure / Offre de soins": "Autres (1)",
+              "Postes de prestations de services (#)": "~5200",
+              "Répartition des consultations (Milliers, 2009)": "337",
+              "Poids des dépenses (Mds FCFA 2008)": "96"
+            },
+            {
+              "Structure / Offre de soins": "Total",
+              "Postes de prestations de services (#)": "4007",
+              "Répartition des consultations (Milliers, 2009)": "998",
+              "Poids des dépenses (Mds FCFA 2008)": "347"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Secteur public : hôpitaux publics",
+      "texte": "Caractéristiques :- Nature de soins : Soins spécialisés (spécialités chirurgicales et médicales) disponibles au niveau des hôpitaux de niveau 3 (tous implantés dans la région de Dakar sauf 1 à Touba). Médecine générale, chirurgie générale et césarienne disponibles dans hôpitaux de niveau 2 implantés dans chefs-lieux de région.- Type de structures : Structures d'Etat ouvertes 7j/7 24h/24. Ecart des moyens à dispositions entre hôpitaux de niveau 2 et 3.- Mode de financement : Tarification à l'acte, Autonomie de gestion.- Un fort volume d'activité non uniformément réparti : Nombre de consultations: 100 Milliers. Nombre de PPS: 36 Unités. Hôpitaux représentant 25% des consultations et 1% du total des PPS. Region de Dakar concentre la majeure partie des hôpitaux de niveau 3.- Un financement mettant à contribution le secteur privé (Mode de financement en Mds FCFA 2008) : Total 84 Mds FCFA (Secteur Public: 32 Mds FCFA, Secteur Privé: 50 Mds FCFA représentant ~3/4 des versements directs des ménages, Reste du Monde: 3 Mds FCFA).Enjeux : Accès (Equilibrage de l'offre de soins sur le territoires), Qualité (Uniformisation de la qualité sur le territoire), Coût/financement (Réduire le coût pour les ménages).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "carte",
+          "titre": "Répartition du nombre d'hôpitaux par région",
+          "description": "Carte du Sénégal affichant le nombre d'hôpitaux par région. Dakar compte un ratio hôpital/habitant supérieur à la moyenne. Autres régions affichent des ratios inférieurs."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Secteur privé : médecins libéraux et cliniques privées",
+      "texte": "Une offre de soins diversifiées (22% du total des PPS).Caractéristiques :- Nature de soins : Soins et consultations de bases jusqu'à des opérations plus poussées dans les cliniques.- Diversité des structures : Structures privées de taille différentes (de l'hôpital au petits cabinets), généralistes ou spécialistes. Gérées par des médecins, dentistes ou infirmiers.- Mode de financement : Tarification à l'acte pour la plupart des structures et des soins.- Nombre de PPS (Unités) : Cabinets de soins infirmiers (585), Cabinets de spécialistes (210), Cabinets de généralistes (192), Cabinets dentaires (142), Cliniques et hôpitaux privés (37). Total = 1166.- Un financement reposant quasi-intégralement sur le secteur privé (Mode de financement en Mds FCFA) : Total 134 Mds FCFA (Secteur public: 0, Secteur privé: 125 Mds FCFA, Reste du monde: 9 Mds FCFA).Enjeux : Accès (Permettre le déploiement du secteur dans toutes les régions), Qualité (Favoriser les investissements et l'attractivité sous-régionale), Coût/financement (Réduire le frein économique des ménages).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Biens médicaux",
+      "texte": "Une offre de soins diversifiées et concentrée sur Dakar (15% du total des PPS).Caractéristiques :- Nature de soins : Vente de biens médicaux dont médicaments, lunettes, petits matériels, prothèses.- Structures : Pharmacies privées à but lucratifs, Opticiens. Concurrencés par le marché illicite (~1/8 du marché).- Mode de financement : Paiement comptant avec prix respectant en théorie une marge bénéficiaire maximum.- Nombre de pharmacies par région (Total 713 pharmacies privées) : Dakar (387), Thiès (99), Diourbel (44), Louga (24), Saint-Louis (17), Fatick (22), Kaolack (20), Kaffrine (10), Tambacounda (13), Kédougou (3), Kolda (10), Sédhiou (7), Ziguinchor (36), Matam (21).- Un financement privé pour l'ensemble des détaillants de bien médicaux (Mode de financement en Mds FCFA) : Total 70 Mds FCFA (Secteur public: 0, Secteur privé: 70 Mds FCFA, Reste du monde: 0).Enjeux : Accès (Uniformiser la couverture sur le territoire), Qualité (Garantir la qualité des médicaments circulant sur le territoire), Coût/financement (Garantir le non dépassement des marges bénéficiaires sur l'ensemble du réseau).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "carte",
+          "titre": "Répartition des pharmacies par région au Sénégal",
+          "description": "Carte indiquant le nombre de pharmacies par région administrative, faisant ressortir une très forte concentration dans la région de Dakar (387 pharmacies sur 713)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Compréhension des politiques publiques en cours",
+      "texte": "Exemples de politiques publiques mises en œuvre :",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Politiques publiques mises en œuvre dans le secteur de la santé",
+          "colonnes": [
+            "Domaine",
+            "Programme",
+            "Date",
+            "Description et objectifs clés",
+            "Budget (Mds FCFA)",
+            "Avancement"
+          ],
+          "lignes": [
+            {
+              "Domaine": "Plans nationaux d'action",
+              "Programme": "Programme National de Développement Sanitaire",
+              "Date": "2009 à 2018",
+              "Description et objectifs clés": "Définition d'une stratégie décennale de référence pour l'ensemble des acteurs du secteur de la santé et d'objectifs sur 11 thématiques (e.g.: mortalité infantile, maternelle, développement des RH...)",
+              "Budget (Mds FCFA)": "2573",
+              "Avancement": "En cours"
+            },
+            {
+              "Domaine": "Lutte contre les maladies infectieuses",
+              "Programme": "Programme national qualité",
+              "Date": "En continu",
+              "Description et objectifs clés": "Mise en synergie des compétences à tous les niveaux du système de santé. Amélioration de la qualité des soins et des services de santé (e.g: création des normes, formation des prestataires...)",
+              "Budget (Mds FCFA)": "Nd",
+              "Avancement": "En cours"
+            },
+            {
+              "Domaine": "Lutte contre les maladies infectieuses",
+              "Programme": "Programme National de Lutte contre le Paludisme",
+              "Date": "2011 à 2015",
+              "Description et objectifs clés": "Mise en place de plans d'action sur: La prévention (sensibilisation, hygiène...), La prise en charge des cas, La gestion logistique",
+              "Budget (Mds FCFA)": "112",
+              "Avancement": "En cours"
+            },
+            {
+              "Domaine": "Lutte contre les maladies infectieuses",
+              "Programme": "Programme National de Lutte contre les MST/SIDA",
+              "Date": "2011 à 2015",
+              "Description et objectifs clés": "Amélioration de la qualité des soins et des services de santé via: la réduction du nombre d'infections, l'égal accès aux soins des malades",
+              "Budget (Mds FCFA)": "128",
+              "Avancement": "En cours"
+            },
+            {
+              "Domaine": "Assurance maladie et couverture sociale",
+              "Programme": "Plan Stratégique Développement des Mutuelles de Santé au Sénégal",
+              "Date": "2004 à 2009",
+              "Description et objectifs clés": "Diagnostic de la situation de la mutualité dans le secteur de la santé. Défini but à long terme, objectifs, stratégies de mise en œuvre et ressources à mobiliser",
+              "Budget (Mds FCFA)": "4640",
+              "Avancement": "Fin"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Assurance maladie : présentation du projet de Couverture Maladie Universelle (CMU)",
+      "texte": "Principaux leviers et effets recherchés :- Environnement juridique et institutionnel : Stimuler l'extension de la couverture du risque maladie dans le secteur informel et le monde rural.- Décentralisation de la couverture d'assurance maladie : Faciliter l'étendue progressive de la couverture maladie universelle au niveau de chaque région.- Lier davantage mutuelles de santé et filets sociaux : Etendre la couverture maladie aux indigents et aux groupes vulnérables.Un développement progressif de la couverture et du financement associé.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Projections de couverture et budget de la CMU (2013-2017)",
+          "colonnes": [
+            "Indicateur",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+          ],
+          "lignes": [
+            {
+              "Indicateur": "Part de la population inscrite à une mutuelle (%)",
+              "2013": "7%",
+              "2014": "19%",
+              "2015": "36%",
+              "2016": "55%",
+              "2017": "62%"
+            },
+            {
+              "Indicateur": "Budget dédié par an (Mds FCFA)",
+              "2013": "29",
+              "2014": "32",
+              "2015": "42",
+              "2016": "54",
+              "2017": "57"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Principaux freins et enjeux d'avenir",
+      "texte": "Synthese des freins et des enjeux pour le secteur de la santé au Sénégal.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Principaux freins et enjeux d'avenir par domaine",
+          "colonnes": [
+            "Domaine",
+            "Principaux freins",
+            "Enjeux d'avenir pour le Sénégal"
+          ],
+          "lignes": [
+            {
+              "Domaine": "Santé communautaire",
+              "Principaux freins": "Faiblesse des compétences médicales (quasi-absence de formation médicale des travailleurs communautaires) et des moyens. Couverture territoriale inégale.",
+              "Enjeux d'avenir pour le Sénégal": "Développer la formation des travailleurs communautaires et renforcer les moyens (e.g. équipements médicaux). Garantir un pilotage coordonné (au sein du ministère et entre bailleurs)."
+            },
+            {
+              "Domaine": "Postes et centres de santé",
+              "Principaux freins": "Faiblesse des compétences médicales (e.g. médecins, sages-femmes) et des équipements. Couverture territoriale très inégale (densité variant de 1 à 10 suivant les régions). Enjeu d'accessibilité financière.",
+              "Enjeux d'avenir pour le Sénégal": "Garantir une meilleure répartition territoriale des professionnels de santé. Renforcer les moyens (e.g. équipements médicaux)."
+            },
+            {
+              "Domaine": "Hôpitaux",
+              "Principaux freins": "Répartition territoriale inégale (densité variant de 1 à 5 suivant les régions). Faiblesse du contrôle, financements des hôpitaux pas en lien avec leurs besoins et leurs performances. Enjeu d'accessibilité financière.",
+              "Enjeux d'avenir pour le Sénégal": "Garantir une meilleure répartition territoriale. Développer le financement à l'activité et à la performance. Renforcer les contrôles (e.g. contractualisation)."
+            },
+            {
+              "Domaine": "Secteur privé",
+              "Principaux freins": "Présence très concentrée sur Dakar et les grandes villes (e.g. Thiès).",
+              "Enjeux d'avenir pour le Sénégal": "Favoriser l'essor du secteur privé, notamment pour les soins secondaires (cliniques). Favoriser l'accessibilité financière."
+            },
+            {
+              "Domaine": "Biens médicaux",
+              "Principaux freins": "Faiblesse générale en équipements médicaux (e.g. 8 scanners pour tout le pays). Enjeux encore majeurs d'indisponibilité de médicaments, notamment en zones rurales. Forte présence de produits de contrefaçon limitant l'accès aux soins.",
+              "Enjeux d'avenir pour le Sénégal": "Poursuivre l'amélioration des circuits logistiques de distribution de médicaments. Renforcer drastiquement les contrôles des produits de santé. Lutter contre les détournements / la corruption."
+            },
+            {
+              "Domaine": "Pilotage et financement",
+              "Principaux freins": "Financement majoritairement non socialisé. Coûts administratifs excessifs (13% du total). Personnels de santé: mauvaise répartition territoriale et flux de formation insuffisants. Pilotage stratégique trop peu coordonné.",
+              "Enjeux d'avenir pour le Sénégal": "Développer les assurances santé publiques et privées. Réduire drastiquement les coûts administratifs. Accroître les flux de formation et améliorer la répartition territoriale des personnels de santé. Renforcer le pilotage stratégique du système."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Analyse des forces et faiblesses du Sénégal d'un point de vue investisseurs",
+      "texte": "Cartographie de l'analyse stratégique McKinsey positionnant les éléments d'évaluation selon le niveau de satisfaction et d'attente :- Les handicaps critiques (Attentes fortes / Satisfaction faible) : Énergie, Taille du marché intérieur et intégration régionale.- Les avantages concurrentiels (Attentes fortes / Satisfaction forte) : Stabilité cadre macro, Stabilité politique, Positionnement logistique et commerce transfrontalier, Développement du marché financier.- Les menaces potentielles (Attentes modérées / Satisfaction faible) : Fiscalité, Infrastructures de transport, Connectivité aérienne, Marché du travail (flexibilité et niveau de qualification), Accès / coût du financement, Qualité de service de l'administration.- Les atouts potentiels (Attentes modérées / Satisfaction forte) : Dynamisme économique / entreprenariat, Qualité de la vie, Disponibilités des ressources, Infrastructures de l'information et télécoms, Attrait de l'environnement et du climat.- Zone centrale : Qualité des services sociaux de base.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Matrice SWOT / Forces et Faiblesses du Sénégal selon les investisseurs",
+          "description": "Matrice à deux axes (Satisfaction faible à forte, Attentes modérées à fortes) classant 18 facteurs d'attractivité du Sénégal."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Plan Sénégal Emergent - Vision et Axes Stratégiques",
+      "texte": "Son Excellence Monsieur Macky SALL, PRÉSIDENT DE LA RÉPUBLIQUE DU SÉNÉGAL.Vision : « Un Sénégal émergent en 2035 avec une société solidaire et dans un Etat de droit ».3 Axes stratégiques :1. Transformation structurelle de l'économie et la croissance (66,5%) : Infrastructures et service des transports et de l'énergie ; Développement agriculture, élevage, pêche aquaculture, industrie agroalimentaire ; Développement habitat social et d'un écosystème de la construction ; Développement des ressources minières et fertilisants ; Positionnement de Dakar en hub logistique industriel régional et hub multiservice et touristique.2. Capital humain, protection sociale et développement durable (26,0%) : Éducation de qualité et développement des compétences et qualifications ; Accès aux soins de santé, à l'eau potable, à l'assainissement ainsi que le renforcement de la nutrition ; Protection sociale et la solidarité avec les groupes vulnérables ; Amélioration des conditions d'habitat et du cadre de vie ; Prévention et gestion des risques et catastrophe, la promotion de l'équité et de l'égalité de genre, à l'environnement et à la gestion des ressources naturelles et au développement durable.3. Gouvernance, institutions, paix et sécurité (7,5%) : Consolidation paix et sécurité ; Promotion des principes fondamentaux de l'Etat de droit, des droits humains et de la justice ; Promotion de l'équité et de l'égalité de genre ; Réforme de l'Etat et renforcement de l'Administration publique ; Aménagement du territoire, développement local et territorialisation ; Gouvernance stratégique, économique et financière.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Portrait du Président Macky Sall",
+          "description": "Photo officielle de Son Excellence Monsieur Macky Sall, Président de la République du Sénégal."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Architecture globale du Plan Sénégal Emergent",
+      "texte": "Batailles sectorielles de Sénégal Émergent articulées autour de 3 Piliers / Axes, soutenues par des Fondements de l'émergence et des Conditions de succès.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Schéma de la maison PSE - Piliers et fondements",
+          "description": "Représentation graphique de l'architecture du PSE comprenant les 3 piliers/axes (Moteurs d'emplois, Moyens d'amélioration des conditions de vie, Facteurs de performance), les Fondements de l'émergence (Changement de cap énergie, Environnement des affaires, Infrastructures, Capital humain, Télécoms, Financement) et la Condition de succès (Capacités d'impulsion de l'État)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Répartition du financement par axe",
+      "texte": "Répartition budgétaire globale du PSE entre les trois axes stratégiques.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Répartition du financement du PSE par axe stratégique",
+          "colonnes": [
+            "AXES STRATEGIQUES",
+            "Montant en milliards de FCFA",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "AXES STRATEGIQUES": "Transformation structurelle de l'économie et croissance",
+              "Montant en milliards de FCFA": "6 439,266",
+              "Pourcentage": "66,5%"
+            },
+            {
+              "AXES STRATEGIQUES": "Capital humain, Protection sociale et Développement durable",
+              "Montant en milliards de FCFA": "2 520,487",
+              "Pourcentage": "26,0%"
+            },
+            {
+              "AXES STRATEGIQUES": "Gouvernance, Institutions, Paix et sécurité",
+              "Montant en milliards de FCFA": "725,972",
+              "Pourcentage": "7,5%"
+            },
+            {
+              "AXES STRATEGIQUES": "TOTAL GENERAL",
+              "Montant en milliards de FCFA": "9 685,725",
+              "Pourcentage": "100%"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Ambitions macroéconomiques et cibles à 10 ans",
+      "texte": "Comparaison entre la situation actuelle du Sénégal et les cibles visées à 10 ans dans le cadre du PSE.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Indicateurs macroéconomiques : Sénégal aujourd'hui vs Sénégal à 10 ans",
+          "colonnes": [
+            "Indicateur",
+            "Sénégal aujourd'hui",
+            "Évolution",
+            "Sénégal à 10 ans"
+          ],
+          "lignes": [
+            {
+              "Indicateur": "Taux de croissance",
+              "Sénégal aujourd'hui": "3-4% de croissance annuelle",
+              "Évolution": "+3-4 pts",
+              "Sénégal à 10 ans": "7-8% de croissance durable"
+            },
+            {
+              "Indicateur": "Moteurs de croissance",
+              "Sénégal aujourd'hui": "70% de la croissance tirée par les services (télécom, services financiers)",
+              "Évolution": "+4",
+              "Sénégal à 10 ans": "4 nouveaux moteurs: agriculture et agroalim, habitat, mines, tourisme"
+            },
+            {
+              "Indicateur": "Exportations par tête",
+              "Sénégal aujourd'hui": "106 K FCFA d'exports par tête",
+              "Évolution": "x3",
+              "Sénégal à 10 ans": "340 K FCFA exports par tête : x3"
+            },
+            {
+              "Indicateur": "Emplois formels",
+              "Sénégal aujourd'hui": "250.000 emplois formels (6% du total des emplois)",
+              "Évolution": "x2,5",
+              "Sénégal à 10 ans": "~600.000 emplois formels (10% du total des emplois)"
+            },
+            {
+              "Indicateur": "Revenu discrétionnaire",
+              "Sénégal aujourd'hui": "3 millions de personnes disposent d'un revenu discrétionnaire",
+              "Évolution": "+ 3 mn",
+              "Sénégal à 10 ans": "6 millions de personnes disposent d'un revenu discrétionnaire (x2)"
+            },
+            {
+              "Indicateur": "PIB / tête",
+              "Sénégal aujourd'hui": "~1.000 $ de PIB / tête",
+              "Évolution": "x 1,5",
+              "Sénégal à 10 ans": "~1.500 $ de PIB / tête"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Trajectoire de la croissance du PIB (1995-2018)",
+          "donnees": [
+            {
+              "annee": "1995-2012",
+              "valeur": "Moyenne tendancielle autour de 3,5% - 4,0% avec variabilité de 0,7% à 6,7%"
+            },
+            {
+              "annee": "2014",
+              "valeur": "4,0%"
+            },
+            {
+              "annee": "2018 (Cible PSE)",
+              "valeur": "8,3% contre 5,7% selon le scénario tendanciel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Implantation spatiale des projets du PSE",
+      "texte": "Graphique 22: Implantation des projets sur l'étendue du territoire. Domaines d'intervention : Agri, pêche et produits de la mer ; Habitat et construction ; Modernisation graduelle de l'économie sociale ; Mines et fertilisants ; Hub industriel et logistique ; Hub de services ; Énergie.L'amélioration de la santé et de la nutrition passera par la mise en oeuvre adéquate du PNDS :1. Atteindre 80% enfants 0-11 mois vaccinés en 20172. Réduire morbi-mortalité maternelle et infanto-juvénile3. Maintenir prévalence du VIH/SIDA dessous de 1%4. Améliorer la gouvernance du secteur5. Avoir au moins 62% de la population inscrite à une mutuelle de santé en 2017 grâce à la CMULes objectifs suivants sont visés afin d'assurer des services performants de santé publique :1. Améliorer offre et qualité des services de santé2. Améliorer performances en matière de prévention et de lutte contre les maladies3. Améliorer la santé de la mère et de l'enfant4. Améliorer état nutritionnel mère et enfant5. Renforcer le dispositif de santé communautaire6. Améliorer la gouvernance sanitaire",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "carte",
+          "titre": "Implantation des projets stratégiques sur l'étendue du territoire sénégalais",
+          "description": "Carte du Sénégal localisant la répartition géographique des différents projets phares du PSE."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Projets phares du PSE et focus sur Dakar Medical City",
+      "texte": "Cartographie complète des projets phares répartis par pilier et secteur d'activité.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Matrice des projets phares du PSE par secteur",
+          "colonnes": [
+            "Piliers",
+            "Secteurs",
+            "Projets phares"
+          ],
+          "lignes": [
+            {
+              "Piliers": "Moteurs d'emploi et d'inclusion sociale",
+              "Secteurs": "Agriculture, produits de la mer et agro-alimentaire",
+              "Projets phares": "100-150 projets d'agrégation ciblés sur les filières HVA et élevage (PP1) ; Développement de 3-4 corridors céréaliers (PP2) ; 150-200 micro-projets de soutien de l'agriculture familiale (PP3) ; Restructuration de la filière arachide (PP4) ; Développement accéléré de l'aquaculture (PP5) ; Création de 3 agropoles intégrées (PP16a) ; 3 pôles industriels intégrés de transformation des produits de la mer (PP16b)"
+            },
+            {
+              "Piliers": "Moteurs d'emploi et d'inclusion sociale",
+              "Secteurs": "Habitat social et écosystème construction",
+              "Projets phares": "Programme d'accélération de l'habitat social (PP6) ; Écosystème de construction (matériaux et BTP) (PP16c) ; 20 centres de développement artisanal (PP7)"
+            },
+            {
+              "Piliers": "Moteurs d'emploi et d'inclusion sociale",
+              "Secteurs": "Modernisation graduelle de l'économie sociale",
+              "Projets phares": "Plan sectoriel pilote artisanat d'art (PP8) ; Plan sectoriel pilote Micro-tourisme (PP9) ; Infrastructures commerciales (PP10)"
+            },
+            {
+              "Piliers": "Moteurs d'exportation et d'IDE",
+              "Secteurs": "Mines et fertilisants",
+              "Projets phares": "Relance du projet intégré sur le fer - Falémé (PP11) ; Développement de la filière phosphates (PP12) ; Accélération de l'exploitation du zircon (PP13) ; Accélération de l'exploitation du secteur aurifère (PP14) ; Programme national mines artisanales (PP14a) ; Hub minier régional (PP15)"
+            },
+            {
+              "Piliers": "Moteurs d'exportation et d'IDE",
+              "Secteurs": "Hub logistique et industriel régional",
+              "Projets phares": "2-3 Plateformes Industrielles intégrées (PP16) ; Parcs Industriels intégrés (PP17) ; Hub logistique intégré (port, corridor Mali, plateformes) (PP18)"
+            },
+            {
+              "Piliers": "Moteurs d'exportation et d'IDE",
+              "Secteurs": "Hub régional multiservices et tourisme",
+              "Projets phares": "Économie numérique - Zones dédiées aux services export (PP19) ; Business park pour HQ régionaux et bases de vie (PP20) ; Dakar Medical City (PP21) ; Dakar Campus Régional de Référence (PP22) ; 3-6 zones touristiques intégrées (PP23) ; Plan de relance aérien (PP24)"
+            },
+            {
+              "Piliers": "Préalable",
+              "Secteurs": "Redressement stratégique du secteur de l'énergie",
+              "Projets phares": "Plan de relance intégré de l'électricité (PP25) ; Approvisionnement en hydrocarbures (PP26) ; Service universel de l'énergie (PP27)"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Dakar Medical City - Présentation détaillée du projet phare",
+      "texte": "PROJETS PHARES - HUB REGIONAL MULTISERVICES ET TOURISME : « Dakar Medical City ».- Ambitions stratégiques : Faire de Dakar le centre de soins de référence de la région (e.g 10.000 patients internationaux annuels supplémentaires).- Description du projet : Aménagement de la Dakar Medical City ayant pour vocation de proposer une offre de soins de qualité internationale aux patients de la région. Offre de soins primaires (e.g. cabinets), secondaires (e.g. clinique) et tertiaires (centre de type CHU pour les spécialités complexes) ciblée sur les besoins spécifiques de la région (e.g. cancérologie, ophtalmologie) et à des prix compétitifs. À travers notamment des partenariats avec des acteurs internationaux (e.g. fondations internationales, cliniques privées de renom) et des conventions de services privées et publiques avec les pays voisins.- Objectifs opérationnels à 10 ans : Avoir aménagé la Dakar Medical City ; Avoir développé un centre tertiaire de renommée régionale ; Avoir mis en place 1-3 cliniques privées spécialisées de qualité.- Calendrier indicatif (2014-2020) : Structuration financière et stratégique (2014-2015), Développement du centre tertiaire d'excellence et des 1-3 cliniques privées spécialisées et mise en place des enablers (2015-2020).- Fortes synergies entre les projets phares : Hub logistique et industriel, Business Park / HQ, Offshoring, Hub santé / éducation, Hub aérien, Hub minier, Tourisme.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Objectifs économiques à 10 ans et besoins de financement - Dakar Medical City",
+          "colonnes": [
+            "Indicateur Économique",
+            "Effets directs à 10 ans"
+          ],
+          "lignes": [
+            {
+              "Indicateur Économique": "PIB (Mds FCFA)",
+              "Effets directs à 10 ans": "~25"
+            },
+            {
+              "Indicateur Économique": "Emplois formels (K)",
+              "Effets directs à 10 ans": "6"
+            },
+            {
+              "Indicateur Économique": "Exports (Mds FCFA)",
+              "Effets directs à 10 ans": "~5"
+            },
+            {
+              "Indicateur Économique": "IDE (Mds FCFA)",
+              "Effets directs à 10 ans": "~20"
+            },
+            {
+              "Indicateur Économique": "Besoins de financement (Mds FCFA) - Total",
+              "Effets directs à 10 ans": "33"
+            },
+            {
+              "Indicateur Économique": "Besoins de financement (Mds FCFA) - Public",
+              "Effets directs à 10 ans": "5"
+            },
+            {
+              "Indicateur Économique": "Besoins de financement (Mds FCFA) - PPP",
+              "Effets directs à 10 ans": "50"
+            },
+            {
+              "Indicateur Économique": "Besoins de financement (Mds FCFA) - Privé",
+              "Effets directs à 10 ans": "0"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Opérationnalisation du Plan d'Actions Prioritaires (PAP 2014-2018)",
+      "texte": "Plan d'Actions Prioritaires 2014-2018 opérationnalise le PSE.- Le PSE est évalué à 9 685,6 milliards FCFA.- Financement acquis : 5 737,6 mrds de FCFA (59,2%), composé de : État : 3 218,6 milliards (56,1%), PTF : 2 056 milliards (35,8%), Privé : 463 milliards (8,1%).- Gap de financement : 2 964 mrds de FCFA (31%), réparti entre PTF (1 853 milliards FCFA), Privé (1 111 milliards FCFA) et État (984 milliards FCFA).- Le volet public du gap de financement s'élève à 2 361 milliards de FCFA, dominé par 6 secteurs principaux :  1. Infrastructures et transports: 621 milliards FCFA (26,3%)  2. Énergie: 304 milliards FCFA (13%)  3. Agriculture: 261,8 milliards FCFA (11,1%)  4. Éducation et formation: 257,3 milliards FCFA (10,9%)  5. Eau potable et assainissement : 251,6 milliards FCFA (10,7%)  6. Santé : 124,6 milliards de FCFA (5,3%)Programme national de relèvement plateaux techniques des hôpitaux et autres centres de santé et Dakar Médical City.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Projets et programmes du gap de financement Santé et Nutrition (PAP 2014-2018)",
+      "texte": "Projets et programmes inscrits dans le gap de financement du Ministère de l'Économie et des Finances (Février 2014) :",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Projets du gap de financement du sous-secteur Santé et Nutrition",
+          "colonnes": [
+            "N°",
+            "Titre du Projet / programme",
+            "Mode de financement",
+            "Total Gap (Millions FCFA)"
+          ],
+          "lignes": [
+            {
+              "N°": "91",
+              "Titre du Projet / programme": "Programme national de relèvement des plateaux techniques des hôpitaux et autres centres de santé",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "50 300"
+            },
+            {
+              "N°": "92",
+              "Titre du Projet / programme": "Renouvellement de la logistique du PEV",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "5 780"
+            },
+            {
+              "N°": "93",
+              "Titre du Projet / programme": "Projet d'Equipement des Hopitaux de Fatick et Ziguinchor",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "5 750"
+            },
+            {
+              "N°": "94",
+              "Titre du Projet / programme": "Dakar Medical City, volet public",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "2 600"
+            },
+            {
+              "N°": "95",
+              "Titre du Projet / programme": "Projet d'Appui à la Lutte contre le Paludisme au Sénégal",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "4 051"
+            },
+            {
+              "N°": "96",
+              "Titre du Projet / programme": "Projet de construction d'une maternité d'application des étudiants de l'école nationale de Développement Sanitaire (ENDSS)",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "5 100"
+            },
+            {
+              "N°": "97",
+              "Titre du Projet / programme": "Unité de production de vaccins contre la fièvre jaune",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "12 464"
+            },
+            {
+              "N°": "98",
+              "Titre du Projet / programme": "Projet de financement de la santé et de la Nutrition",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "21 150"
+            },
+            {
+              "N°": "99",
+              "Titre du Projet / programme": "Projet d'amélioration de la santé de la mère, de l'enfant et du nouveau né dans les régions de Kolda et de Sédhiou",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "6 550"
+            },
+            {
+              "N°": "100",
+              "Titre du Projet / programme": "Mise à Niveau International de l'Hôpital Principal de Dakar",
+              "Mode de financement": "Public",
+              "Total Gap (Millions FCFA)": "10 822"
+            },
+            {
+              "N°": "13",
+              "Titre du Projet / programme": "Dakar Medical City, volet PPP",
+              "Mode de financement": "PPP",
+              "Total Gap (Millions FCFA)": "15 676"
+            },
+            {
+              "N°": "13.1",
+              "Titre du Projet / programme": "Centre Hospitalier National Le Dantec",
+              "Mode de financement": "PPP",
+              "Total Gap (Millions FCFA)": "Nd"
+            },
+            {
+              "N°": "13.2",
+              "Titre du Projet / programme": "Construction de l'Institut du Cancer",
+              "Mode de financement": "PPP",
+              "Total Gap (Millions FCFA)": "Nd"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Dispositif de suivi-évaluation du PSE",
+      "texte": "Pilotage et gouvernance. Mécanismes de partage des résultats avec acteurs.Dispositif de pilotage et gouvernance :- Deux instances de gouvernance : Comité d'Orientation Stratégique (COS) présidé par le PR (Réunion tous les trimestres) et Comité de Pilotage (COP) présidé par le PM (Réunion tous les mois, veille à l'opérationnalisation plan et mise en œuvre orientation stratégique COS).- Bureau opérationnel de suivi du PSE (BOSSE) : Placé sous la direction d'un Ministre logé à la Présidence. Assure le secrétariat du COS et du COP. Coordination de la mise en œuvre et du suivi-évaluation. Dispose d'une équipe d'experts qui appuiera au besoin les ministères concernés.- Structures d'exécution (points focaux) : Chef de projet mis en place dans les ministères techniques. Responsable de l'atteinte des résultats auprès du ministère sectoriel concerné et de l'unité de coordination.Mécanismes de partage des résultats avec les acteurs :- Réunions trimestrielles de partage : PM-Gouvernement, représentants PTF, Société civile, AN, CESE et collectivités locales. Évaluer état d'avancement mise en œuvre plan.- Comités régionaux de suivi évaluation : Présidés par les Gouverneurs avec l'ensemble des catégories d'acteurs. Prépare rapport annuel du Plan au niveau région + recommandations.- Dispositif de suivi des indicateurs économiques et sociaux : Mise à jour régulière indicateurs suivi, en appui à tous les organes institutionnels de pilotage du PSE.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Organigramme des instances de gouvernance du PSE",
+          "description": "Schéma fonctionnel détaillant l'organisation entre le COS, le COP, le BOSSE et les structures d'exécution ministérielles."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Perspectives pour le secteur de la santé",
+      "texte": "Sénégal Emergent - Liguey nguir ëlëk.Actions et perspectives prioritaires :- Comité de réflexion interne DMC présidé par le SG- Identification de projets phares- Finalisation plan MSAS (plus tard mi-août ?)- Parler le même langageProjets phares identifiés :- Plateau technique- Urgences : SAMU, SAU, Unités mobiles- Hôpitaux : Hôpital Dalal Jamm, Hôpital Le Dantec, Hôpital Diamniadio, Hôpitaux régionaux, Cliniques / Hôpitaux privés- Industrie pharmaceutique : Production locale de soluté IV- Couverture Maladie Universelle (CMU)Merci.",
+      "tableaux": [],
+      "images": []
+    }
+  ]
+}

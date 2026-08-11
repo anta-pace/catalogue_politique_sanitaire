@@ -1,0 +1,465 @@
+{
+  "metadata": {
+    "titre": "Normes et Protocoles de Dépistage des Lésions Précancéreuses du Col de l'Utérus et de Détection Précoce du Cancer du Sein",
+    "annee": "2018",
+    "source": "République du Sénégal - Ministère de la Santé et de l'Action Sociale - Direction de la Lutte contre la Maladie - Division de Lutte contre les Maladies Non Transmissibles - JICA - Amref Health Africa",
+    "type_document": "Document de normes et protocoles validé en décembre 2018"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de couverture",
+      "texte": "RÉPUBLIQUE DU SÉNÉGAL - Un peuple - Un but - Une foi. MINISTERE DE LA SANTE ET DE L'ACTION SOCIALE. DIRECTION DE LA LUTTE CONTRE LA MALADIE - Division de Lutte contre les Maladies Non Transmissibles. NORMES ET PROTOCOLES DE DÉPISTAGE DES LÉSIONS PRÉCANCÉREUSES DU COL DE L'UTÉRUS ET DE DÉTECTION PRÉCOCE DU CANCER DU SEIN. Document validé en décembre 2018.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Autopalpation des seins",
+          "description": "Photographie montrant une main posée sur un torse effectuant un geste d'autopalpation mammaire."
+        },
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Spéculum vaginal",
+          "description": "Photographie d'une main tenant un spéculum vaginal transparent avec une seringue rose."
+        },
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logos institutionnels",
+          "description": "Drapeau du Sénégal, logo du Ministère de la Santé et de l'Action Sociale, logo JICA, logo Amref Health Africa."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "I. PRÉFACE",
+      "texte": "M. Abdoulaye Diouf SARR, Ministre de la Santé et de l'Action sociale. Les maladies non transmissibles (MNT) représentent une menace de santé publique pour le Sénégal. Elles sont responsables de 41% des décès au Sénégal (OMS, 2017). Faisant partie des Objectifs de Développement Durables, les MNT ont été déclarées nouvelles priorités du système de santé dans le Plan Sénégal Émergent et le Plan National de Développement Sanitaire et Social. Parmi ces maladies non transmissibles, les cancers occupent une place importante et sont responsables d'une mortalité considérable et de conséquences sociales dramatiques. La prévention et la prise en charge des cancers nécessitent une action à grande échelle pour l'atteinte de la cible 4 de l'objectif de développement durable 3 lequel vise à réduire d'un tiers la mortalité prématurité liées aux MNT. La volonté politique du Ministère de la Santé et de l'Action sociale s'est matérialisée par l'élaboration d'un plan stratégique national de lutte contre les cancers et d'un plan d'action de lutte contre les cancers du sein et du col de l'utérus. L'option de déconcentrer et de décentraliser le dépistage des lésions précancéreuses du col de l'utérus et la détection précoce du cancer du sein a été adoptée. Le renforcement des plateaux techniques et des ressources humaines, fait que la disponibilité et l'accessibilité des services de dépistage des lésions précancéreuses du col de l'utérus et de détection précoce du cancer du sein sont nettement améliorées. Ainsi, le présent document de normes et protocoles vise à rationaliser, harmoniser et standardiser l'offre de soins en fonction des différents niveaux de la pyramide sanitaire. Ce document est le fruit d'un travail consultatif de plusieurs acteurs impliqués dans la lutte contre les cancers gynécologiques à haut impact économique et social. Ils ont basé leurs réflexions sur les directives internationales actuelles. Tout au long du processus, un travail d'adaptation des normes et protocoles en fonction du paquet de services offerts aux différents niveaux de la pyramide sanitaire a prévalu. J'ai la ferme conviction que l'utilisation systématique de ce document contribuera à l'amélioration de la prévention et de la prise en charge des cancers dans nos structures sanitaires. Mon département saisit cette opportunité pour remercier les experts des régions médicales, des districts sanitaires, des structures hospitalières, des instituts de formation, de la société civile, des partenaires techniques et financiers qui ont contribué à l'élaboration de ce document de référence. J'invite tous les acteurs de la lutte contre les cancers gynécologiques à l'appropriation et à l'adoption systématique de ces normes et protocoles au profit des populations.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Portrait du Ministre",
+          "description": "Photo de M. Abdoulaye Diouf SARR, Ministre de la Santé et de l'Action sociale, en costume."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "II. REMERCIEMENTS",
+      "texte": "La réalisation de ce document est le fruit d'efforts concertés de la part de plusieurs acteurs. Le processus d'élaboration de ce document a suivi une démarche participative et consensuelle à travers plusieurs étapes impliquant les principaux acteurs. Le Ministère de la Santé et de l'action sociale remercie toutes les personnes, organisations et institutions qui ont contribué à la réalisation de ce document. La rédaction a été pilotée par la Division de Lutte contre les Maladies Non Transmissibles sous la supervision du Directeur Général de la Santé. Le Ministère de la Santé et de l'Action sociale remercie particulièrement le groupe d'élaboration et le comité restreint composés de : Dr Marie Khemesse NGOM-NDIAYE, Directeur Général de la Santé ; Dr Amadou DOUCOURE, Directeur de la lutte contre la Maladie ; Docteur Babacar GUEYE, Chef de la Division de la Lutte contre les Maladies Non Transmissibles ; Docteur Seynabou MBOW-KASSE, Médecin à la Division de la Lutte contre les Maladies Non Transmissibles, MSAS ; Docteur Ndeye Mbombe DIENG LO, Médecin à la Division de la Lutte contre les Maladies Non Transmissibles, MSAS ; Docteur Boly DIOP, Chef de la Division de la Surveillance Epidémiologique et de la Riposte ; Docteur Jean Pierre DIALLO, Direction de la Prévention ; Docteur Abdoulaye MANGANE, MCD du district sanitaire de Kolda ; Docteur Fatma SARR FALL, MCD du district sanitaire de Mbour ; Professeur Mamadou DIOP, Directeur Institut Joliot-Curie de l'hôpital Aristide Le Dantec ; Professeur Mamadou KANE GUEYE, Sénologue ; Professeur Mariétou Thiam Coulibaly, Gynécologue-obstétricienne Centre Hospitalier Régional de Thiès ; Docteur Abdoul Aziz KASSE, Cancérologue ; Docteur Omar GASSAMA, Gynécologue CGO Hôpital Aristide Le Dantec ; Docteur Mouhamadou Moustapha SECK, Gynécologue Centre de santé Nabil Choucair ; Docteur Ousmane DIENG, Gynécologue Centre de santé de Yeumbeul ; Docteur Dembo GUIRASSY, Direction de la Santé de la Mère et de l'Enfant ; Docteur Lamine Guèye, Gynécologue-obstétricienne Centre Hospitalier Régional de Thiès ; Madame Binty NIANG, Direction de la Santé de la Mère et de l'Enfant ; Monsieur Alioune SECK, Direction de la Lutte contre la Maladie ; Docteur Ferdinand Niokhor FAYE, Division de la Lutte contre les Maladies Non Transmissibles ; Madame Ndeye Fatou SOW KEBE, Division de la Lutte contre les Maladies Non Transmissibles ; Monsieur Paul NZALE, Division de la Lutte contre les Maladies Non Transmissibles ; Monsieur Amadou THIAM, Division de la Statistique et de l'Information Sanitaire et Sociale ; Monsieur Zeyni El Abedine SY, Division de la Statistique et de l'Information Sanitaire et Sociale ; Madame Ndeye Coumba THIOYE, Service National de L'Éducation et d'Information Pour la Santé (SNEIPS) ; Madame ADAMA MBAYE, Programme National de Lutte contre le Tabac ; Madame Coumba THIAM SECK, Coordonnatrice SR région médicale de Thiès ; Madame Madjiguène CISSE SOW, Sage-Femme District Sanitaire de Tambacounda ; Docteur Fatma GUENOUNE, présidente de la Ligue Sénégalaise de Lutte contre le Cancer ; Monsieur Mamadou Mansour NIANG, Ligue Sénégalaise de Lutte contre le Cancer ; Madame Bigue BA MBODJ, Association Nationale des Sages-Femmes d'Etat du Sénégal ; Madame Adja Amsatou FALL NDIAYE, Association Nationale des Sages-Femmes d'Etat du Sénégal ; Madame Barbara DIOP, Association Prévenir ; Madame Ndeye Fatou CISSE, Association Prévenir ; Monsieur Alioune DIOUF, ONG Amref Health Africa ; Madame Fatou GAYE, ONG Amref Health Africa ; Docteur Yuriko EGAMI, Conseiller Technique de la coopération japonaise ; Madame Maimouna SECK HAIDARA, Assistante Technique de la Coopération japonaise ; Madame Charlotte LEJEUNE, Clinton Health Access Initiative ; Professeur Andrew DYKENS, Université de l'Illinois-Chicago ; Equipes cadres et prestataires des Districts sanitaires de Thiès. Le Ministère de la Santé et de l'Action Sociale adresse également ses sincères remerciements à l'ONG Amref Health Africa et à l'Agence Internationale de Coopération Japonaise pour leurs soutiens techniques et financiers au processus d'élaboration et de reprographie de ce document.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Table des matières",
+      "texte": "I. PRÉFACE ..................................................................................................... 4. II. REMERCIEMENTS........................................................................................ 6. IV. LISTE DES ANNEXES................................................................................. 8. III. LISTE DES ABREVIATIONS, SIGLES ET ACRONYMES ................................. 9. I. INTRODUCTION.......................................................................................... 11. 1. Contexte ..........................................................................................................13. 2. Objectifs du document....................................................................................15. 3. Cible ............................................................................................................... 15. 4. Utilisation du document..................................................................................16. 5. Définition des normes.....................................................................................16. 6. Définition des Protocoles................................................................................16. 2. DEFINITIONS OPERATIONNELLES DES CONCEPTS................................... 17. 1. Dépistage ........................................................................................................18. 2. Détection précoce ...........................................................................................18. 3. DEPISTAGE DES LESIONS PRECANCEREUSES DU COL DE L'UTERUS ....... 19. 1. Normes ...........................................................................................................20. 2. Protocoles .......................................................................................................24. 2.1. Niveau communautaire............................................................................24. 2.2 Niveau poste de sante...............................................................................24. 2.3 Niveau centre de sante .............................................................................25. 2.4 Niveau eps 1,2...........................................................................................26. 2.5 Niveau eps 3..............................................................................................27. 4. DETECTION PRECOCE CANCERS DU SEIN................................................. 29. 1. Normes ...........................................................................................................30. 2. Protocoles .......................................................................................................34. 2.1 Niveau communautaire.............................................................................34. 2.2 Niveau poste de sante...............................................................................35. 2.3 Niveau centre de sante .............................................................................36. 2.4 Niveau eps 1,2...........................................................................................37. 2.5 Niveau eps 3..............................................................................................37. LISTE DES ANNEXES. 1. Fiche technique IVA.........................................................................................38. 2. Fiche Technique Cryothérapie ........................................................................39. 3. Fiche Technique colposcopie..........................................................................41. 4. Fiche Technique autopalpation des seins ......................................................42. 5. Fiche technique examen sénologique ............................................................44.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "III. LISTE DES ABREVIATIONS, SIGLES ET ACRONYMES",
+      "texte": "ACS : Acteurs Communautaires de Santé. ACs : Acteur Communautaire de Soins. ASC : Agent de Santé Communautaire. ASC-H : Atypies des cellules Malpighiennes ne permettant d'exclure une HSIL. ASC-US : Atypies des cellules Malpighiennes de signification indéterminée. BG : Bajenu Gox. CHL : Colpo-Hystérectomie Élargie avec Lymphadenectomie. CHR : Centre Hospitalier Régional. CHU : Centre Hospitalier Universitaire. CIN : Néoplasie Cervicale Intra-épithéliale. CO2 : Dioxyde de Carbone. CPN : Consultation Prénatale. CPON : Consultation Postnatale. CS : Centre de Santé. DHIS2 : District Health Information Software 2. DSDOM : Dispensateur de Soins à Domicile. ECAD : Électroconisation à l'Anse Diathermique. EPS : Établissement Public de Santé. ERAD : Électro-Résection à l'Anse Diathermique. GLOBOCAN : Global Cancer Statistics. HPV : Human Papilloma Virus (Virus du Papilloma Humain (VPH)). HSIL : High-Grade Squamous Intraepithélial Lesion (Lésion Malpighienne Intra-épithéliale de haut grade). IRM : Imagerie par Résonance Magnétique. IST : Infection Sexuellement Transmissible. IVA : Inspection Visuelle à l'Acide Acétique. IVL : Inspection Visuelle au Lugol. LSIL : Low-Grade Squamous Intraepithélial (Lésion intra-épithéliale de bas grade). MNT : Maladies Non Transmissibles. MSAS : Ministère de la Santé et de l'Action sociale. OMS : Organisation Mondiale de la Santé. PEC : Prise En Charge. PEV : Programme Élargi de Vaccination. PF : Planification Familiale. PMT : Phospharturic Mesenchymal Tumor / Praticien de la médecine traditionnelle. PNDSS : Plan National de Développement Sanitaire et Social. PPS : Point de Prestation de Soins. PS : Poste de Santé. PSNLC : Plan Stratégique National de Lutte contre le Cancer. RAD : Dose de Rayonnement Absorbé. REGSEN : Registre de cancer du Sénégal. RV : Rendez-vous. SFE : Sage-femme d'État. SOU : Soins Obstréticaux d'Urgence. VADI : Visite à Domicile Intégrée. VIH : Virus de l'Immunodéficience Humaine.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1. INTRODUCTION",
+      "texte": "Les maladies non transmissibles (MNT) apparaissent comme nouvelles priorités du système de santé. Parmi ces MNT, les cancers occupent une place importante et sont responsables d'une mortalité considérable et de conséquences sociales dramatiques. Le cancer du col de l'utérus est causé par la persistance de l'infection par l'un des 15 HPV oncogènes dont les sérotypes 16, 18, 31 et 45 sont les plus rencontrés (WHO/ICO Information Centre on HPV and Cervical Cancer, 2010). Le cancer du sein est le plus fréquent dans le monde avec 24% de l'ensemble des cancers de la femme (Globocan 2018). Selon les estimations de l'OMS, 2 088 849 de nouveaux cas ont été enregistrés en 2018. Au Sénégal, il est également classé premier cancer par rapport à l'ensemble des cancers chez les femmes, tout âge confondu (Rapport d'activités 2017 Institut Curie). Ces cancers ne sont diagnostiqués qu'à un stade avancé. De plus, les traitements sont onéreux et parfois inaccessibles à un grand nombre de femmes. Cette situation est en partie responsable de conséquences lourdes sur le plan physique, psychologique, économique et social chez les malades, leurs familles et la communauté. Ces cancers sont potentiellement évitables par des programmes de dépistage bien conçus et bien structurés. Parmi les mesures de prévention, à côté de la sensibilisation, la vaccination contre le HPV a été introduite dans le programme élargi de vaccination. Dans le cadre de la prévention secondaire, la stratégie « dépister-traiter » recommandé par l'OMS, offrant le meilleur rapport coût/efficacité a été adopté par le pays. Elle consiste à dépister les lésions précancéreuses en utilisant soit l'Inspection Visuelle à l'Acide acétique (IVA), soit le test HPV et les traiter soit par cryothérapie ou par thermo coagulation. Pour les cancers du sein, il est nécessaire d'orienter sur la reconnaissance précoce des signes en vue de prendre en charge le plus tôt possible. Pour l'harmonisation de la prise en charge, ce document de normes et protocoles est élaboré pour permettre aux prestataires de soins de disposer d'informations utilisables aux différents niveaux de la pyramide sanitaire et d'offrir des services standardisés et de qualité. Le document tient compte des prérequis des prestataires. Il a l'ambition de prendre en compte leur motivation à apprendre mais surtout à fournir aux populations cibles, les prestations les plus adéquates possibles. Ce document offre différentes orientations pour : Respecter les prescriptions de la prévention ; Prendre les décisions thérapeutiques appropriées ; Standardiser les techniques à tous les niveaux (niveau communautaire, niveau poste de santé, niveau centre de santé, niveau EPS) afin d'assurer la qualité des services ; Mettre en place un système de référence contre référence ; Mettre en place un système de contrôle qualité.",
+      "tableaux": [],
+      "images": [],
+      "notes": "Notes de bas de page: 1. WHO/ICO Information Centre on HPV and Cervical Cancer (HPV Information Centre). (2010) Human Papillomavirus and Related Cancers in Senegal. Summary Report Update. Available at www.who.int/hpvcentre. 2. Globocan 2018. 3. Rapport d'activités 2017 Institut Curie."
+    },
+    {
+      "type": "section",
+      "titre": "1. Contexte",
+      "texte": "Les maladies non transmissibles (MNT) représentent une menace de santé publique pour le Sénégal. Selon le rapport mondial de l'OMS 2017, les maladies non transmissibles (MNT) sont la cause de 41 millions de décès, soit 70 % dans le monde. Chaque année, 15 millions de personnes âgées entre 30 et 69 ans meurent d'une maladie non transmissible. Les cancers, 2e cause de mortalité dans le monde ont fait 9,6 millions de décès en 2018 (Globocan 2018). Près d'un décès sur six dans le monde est dû au cancer. Environ 70% des décès par cancer surviennent dans les pays à revenu faible ou intermédiaire (OMS, 2018). Au Sénégal, l'incidence du cancer selon GLOBOCAN est estimée à 10 549 nouveaux cas par an avec une mortalité d'environ 70% due essentiellement à un retard de consultation. Des données partielles du registre du cancer ont permis de notifier 1697 cas de cancer en 2010 avec une prédominance des cancers du sein et du col de l'utérus. Ces cancers ont des causes évitables, des mesures de prévention simples comme : une bonne sensibilisation, une vaccination des filles âgées entre 09 et 14 ans, un dépistage et un traitement des lésions précancéreuses du col de l'utérus, une détection précoce du cancer du sein, réduiraient la survenue des cancers gynécologiques les plus fréquents. Le Sénégal, conformément aux recommandations de l'OMS et à son Plan National de Développement Sanitaire et Social (PNDSS) a fait de la lutte contre les cancers une priorité. Il a élaboré le Plan Stratégique National de Lutte Contre le Cancer (PSNLC) 2015-2020 dont la mise en œuvre devrait contribuer à une amélioration de la santé des populations. Pour une meilleure prise en charge des cancers du sein et du col de l'utérus, un plan opérationnel déjà élaboré est en cours de mise en œuvre. L'absence de normes, protocoles de dépistage et de traitement harmonisés, utilisés à l'échelle nationale explique en grande partie les choix subjectifs des praticiens dans les activités de routine. L'accès réduit à des services de prévention et de dépistage de qualité pousse la majorité des femmes à ne consulter qu'au stade de cancer avancé. Face à cette situation, le Ministère de la Santé et de l'Action sociale (MSAS) s'est engagé à encadrer la prise en charge des cancers du col de l'utérus et du sein. Cette appropriation de la lutte contre le cancer, au plus haut niveau de la pyramide sanitaire, devra permettre de mieux asseoir la politique de prévention des cancers, particulièrement dans les zones où l'accès aux soins est difficile pour des raisons géographiques, financières ou culturelles. Ainsi, après avoir élaboré un PSNLC et un plan d'action de lutte contre les cancers du sein et du col de l'utérus, il était indispensable de mettre à la disposition des prestataires, un document de normes et protocoles de prévention et de prise en charge de ces maladies à haut fardeau. Ce dernier va constituer un outil d'aide aux prestataires pour offrir des services standardisés et de qualité et ainsi permettre une parfaite mise en œuvre de ces plans.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2. Objectifs du document",
+      "texte": "Ce document pratique permet de : Disposer d'un référentiel pour la gestion des différentes étapes du dépistage des lésions précancéreuses du col de l'utérus et la détection précoce des cancers du sein. Normaliser les actes de dépistage des lésions précancéreuses du col de l'utérus et de la détection précoce du sein. Spécifier les tâches des professionnels de santé à différents niveaux de compétences et de responsabilité.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3. Cible",
+      "texte": "Ce document est destiné aux : Gestionnaires de programmes de santé à tous les niveaux de la pyramide sanitaire ; Prestataires de soins des différents niveaux de la pyramide sanitaire ; Acteurs Communautaires de Santé (ACS) ; Organisations de la société civile.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4. Utilisation du document",
+      "texte": "Ce document peut être utilisé par tous les professionnels de santé. C'est un manuel de référence qui fournit l'information essentielle sur les différentes étapes du dépistage et celles du diagnostic des cancers du col de l'utérus et du sein. Il peut être utilisé comme support lors de la préparation des sessions de formation et d'apprentissage pour les prestataires de soins du niveau opérationnel. Il peut être considéré comme un manuel d'auto-apprentissage. Il permet de définir les rôles et de situer les responsabilités entre les prestataires des différents niveaux d'intervention et de soins.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5. Définition des normes",
+      "texte": "La détermination des normes a pour but d'améliorer la qualité des services. Les normes définissent, pour chaque volet et composante retenus : Le paquet de services à offrir à chaque niveau de la pyramide sanitaire ; Les bénéficiaires des services ; Les prestataires en fonction de leur qualification et de leurs compétences ; L'équipement minimum acceptable. Elles précisent en outre pour certains services ou activités quand et à quelle fréquence, ils doivent être exécutés. En résumé, les normes répondent pour chaque prestation aux questions suivantes : Comment ? Par qui ? Pour qui ? Où ? Quand ? Combien ? Avec quoi ? Pour faciliter l'utilisation du document, les normes sont présentées sous forme de tableau comportant : la cible, le niveau de la pyramide sanitaire, les activités, les prestataires et le plateau technique.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "6. Définition des Protocoles",
+      "texte": "Les protocoles répondent à la question : « comment atteindre le but de la politique sanitaire selon les normes de services prescrites ». Ils indiquent donc comment résoudre les problèmes liés au dépistage des lésions précancéreuses du col de l'utérus et à la détection précoce du cancer du sein à chaque niveau de la pyramide sanitaire. Le but de ces protocoles est de permettre aux prestataires de soins d'offrir des services standardisés et de qualité, et facilitent la prise de décisions. Les protocoles doivent être régulièrement adaptés et mis à jour.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2. DEFINITIONS OPERATIONNELLES DES CONCEPTS - 1. Dépistage",
+      "texte": "Le dépistage est l'identification présumée d'un cancer ou de lésions précancéreuse, à l'aide de tests appliqués de façon systématique et standardisée. Le dépistage est une action dirigée vers toute la population, supposée être exposée au risque de présenter une anomalie en faveur d'un cancer ; ce n'est pas une action pour proposer des services de diagnostic (clinique) ni examiner un échantillon de la population. Le principe du dépistage est de rechercher par un test (examen ou autre procédure), une anomalie ou un marqueur de cancer potentiel dans une population apparemment non malade. Le test de dépistage n'est pas un test diagnostic.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2. DEFINITIONS OPERATIONNELLES DES CONCEPTS - 2. Détection précoce",
+      "texte": "La détection précoce permet la découverte d'un cancer au stade de la maladie pour le traiter au plus tôt. L'objectif de la détection précoce est de diminuer la mortalité et la morbidité liées au cancer. Plus spécifiquement, elle permet de diagnostiquer les cancers à un stade de curabilité en vue de diminuer la mortalité liée au cancer et en utilisant des moyens de diagnostic susceptibles d'être proposés à un grand nombre de personnes et un traitement moins agressif.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3. DEPISTAGE DES LESIONS PRECANCEREUSES DU COL DE L'UTERUS - 1. NORMES",
+      "texte": "Cette section présente, sous forme de tableaux, les normes de dépistage des lésions précancéreuses du col de l'utérus pour chaque niveau de la pyramide sanitaire : communautaire, poste de santé, centre de santé, EPS1/EPS2 et EPS3, cible 30-69 ans.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Niveau COMMUNAUTAIRE - Cible : 30 - 69 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de service", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Case de santé / Site communautaire",
+              "Ressources humaines": "Acteurs Communautaires de Santé : Acteur Communautaire de Promotion et de Prévention (BG, relais, PMT..) ; Acteurs Communautaires de soins : ACs, DSDom ; Société civile",
+              "Equipements et matériels": "Supports de communication (Affiches, flyers, carte à image, dépliants, vidéo…)",
+              "Paquets de service": "Activités de sensibilisation : C4D (communication pour le développement, moyen de renforcer l'amélioration de la santé) ; Orientation de la population pour le dépistage ; Mobilisations communautaires",
+              "Outils de collecte": "Outils de collecte de données : cahier de visite A Domicile Intégrée (VADI), fiche de causerie… ; Registre IEC"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Niveau POSTE DE SANTE - Cible : 30 - 69 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de service", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Salles d'examen (consultation PF, CPN, CPoN, gynécologique, CPC)",
+              "Ressources humaines": "SFE ; Infirmier ; Assistant-infirmier",
+              "Equipements et matériels": "Spéculum vaginal ; Acide acétique 3 à 5% ; Lampe baladeuse ou frontale ; Loupe ; Table gynécologique + étrier ; Coton ; Porte coton ; Pinces à badigeonner ; Gants ; Solution chlorée à 0,5% ; Poubelle à pédale munie de sachet ; stérilisateur ; formulaire de compte rendu de résultats",
+              "Paquets de service": "IVA intégrée dans le paquet de service offert au niveau des PPS et lors des stratégies avancées et sorties en équipe mobile",
+              "Outils de collecte": "Registre de consultation pour le dépistage ; Fiche de référence et contre référence ; Formulaire de compte rendu des résultats ; Fiche de rapport mensuel à intégrer dans le rapport global de zone et le DHIS2"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Niveau CENTRE DE SANTE - Cible : 30 - 69 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de service", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Salles d'examen (consultation PF, CPN, CPoN, gynécologique, CPC)",
+              "Ressources humaines": "Gynécologues ; Médecins généralistes ; SFE ; Infirmiers ; Assistant infirmier ; Technicien supérieur labo ; Travailleur social",
+              "Equipements et matériels": "Spéculum vaginal stérile ; Acide acétique 3 à 5% ; Lampe baladeuse ou frontale ; Loupe ; Table gynécologique + étrier ; Coton ; Porte coton ; Gants ; Solution chlorée à 0,5% ; Poubelle à pédale munie de sachet ; Colposcope ; Appareil de cryothérapie ; Appareil de thermo coagulation ; Bonbonne de CO2 ou d'azote ; Flacon de formol ; Manodétenteur ; Générateur de bistouri électrique ; Boîtes gynécologiques (pinces à biopsie, pince à col, pinces à badigeonner) ; Anses diathermiques ; Autoclave",
+              "Paquets de service": "FCV ; Test HPV ; IVA ; Colposcopie / biopsie ; Cryothérapie ; Thermo coagulation ; ECAD (Electroconisation à l'anse diathermique) ; ERAD (électro résection à l'anse diathermique)",
+              "Outils de collecte": "Supports de communication ; Formulaire de compte rendu des résultats (FCV, colposcopie, cryothérapie, thermo coagulation, résection) ; Bulletin de demande d'anapath ; Registre de consultation pour le dépistage (voir annexe) ; Fiche de référence et de contre référence ; Fiche de rapport mensuel à intégrer dans le rapport global de zone et le DHIS2"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Niveaux EPS1 et EPS2 - Cible : 30 - 69 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de service", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Service de gynécologie-obstétrique ; Service de medecine interne ; Service de chirurgie générale ; Laboratoire ; Service d'anatomopathologie ; Service informatique ; Service social ; Unité de psychiatrie ; Service d'imagerie médicale ; Unité d'oncologie ; Pharmacie",
+              "Ressources humaines": "Gynécologue-obstétricien ; Médecin interniste ; Chirurgiens ; Anatomopathologistes ; Anesthésistes ; Biologiste ; SFE ; Infirmiers ; Techniciens en anatomo-pathologie ; Technicien supérieur de labo ; Oncologues ; Assistant social ; Radiologue ; Psychologue ; Pharmacien",
+              "Equipements et matériels": "Spéculum vaginal stérile ; Acide acétique 3 à 5% ; Lampe baladeuse ou frontale ; Loupe ; Porte coton ; Gants ; Solution chlorée à 0,5% ; Poubelle à pédale munie de sachets ; Colposcope ; Appareil de cryothérapie ou de thermo coagulation ; Bonbonne de CO2 ou d'azote ; Flacon de formol ; Manodétenteur ; Générateur de bistouri électrique ; Boites gynécologiques (pinces à biopsie, pinces à col, pinces à badigeonner) ; Anses diathermiques ; Boites de chirurgie gynécologique (voie haute et voie basse) ; Cœlioscopie ; Autoclave",
+              "Paquets de service": "FCV ; Test HPV ; IVA ; Colposcopie (biopsie) ; Cryothérapie ; ECAD (électroconisation) ; ERAD (électro résection) ; aspirateur ; Hystérectomie simple ; Chimiothérapie",
+              "Outils de collecte": "Formulaire de compte rendu des résultats (FCV, colposcopie, cryothérapie, thermocoagulation, résection, bulletin de demande d'anapath) ; Registre de consultation pour le dépistage (voir annexe) ; Fiche de référence et de contre référence ; Fiche de rapport mensuel (à intégrer dans le rapport global de zone et le DHIS2)"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Niveau EPS 3 - Cible : 30 - 69 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de service", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Service d'oncologie ; Service de gynécologie ; Service de medecine interne ; Service de chirurgie générale ; Service d'anatomopathologie ; Service d'imagerie médicale ; Laboratoire ; Service informatique ; Service social ; Unité de psychiatrie ; Service d'imagerie médicale ; Pharmacie",
+              "Ressources humaines": "Oncologues ; Psycho-oncologues ; Chimiothérapeutes ; Radiothérapeutes ; Gynécologues ; Médecin interniste ; Chirurgiens ; Anatomopathologistes ; Anesthésistes ; Virologues ; Physiciens ; Infirmiers ; SFE ; Techniciens en anatomo-pathologie ; Pharmacien biologiste ; Technicien supérieur de labo ; Radiologues ; Hématologue ; Personnel auxiliaire ; Assistant social ; TS en Radiologie ; Psychologue ; Pharmacien",
+              "Equipements et matériels": "Spéculum vaginal stérile ; Acide acétique 3 à 5% ; Lampe baladeuse ou frontale ; Table gynécologique + étrier ; Loupe ; Coton ; Porte coton ; Gants ; Solution chlorée à 0,5% ; Poubelle à pédale munie de sachets ; Colposcope ; Appareil de cryothérapie ou de thermo coagulation ; Bonbonne de CO2 ou d'azote ; Matériel de radiothérapie ; Molécules pour la chimiothérapie ; Médicaments pour les soins palliatifs ; Flacon de formol ; Manodétenteur ; Générateur de bistouri électrique ; Boites gynécologiques (pinces à biopsie, pinces à col, pinces à badigeonner) ; Anses diathermiques ; Boites de chirurgie gynécologique (voie haute et voie basse) ; Boîte de chirurgie pour CHL ; Cœlioscopie ; Aspirateur ; Autoclave",
+              "Paquets de service": "Test HPV ; IVA ; Colposcopie (biopsie) ; Cryothérapie ; ECAD (Electroconisation à l'anse diathermique) ; ERAD (électro résection à l'anse diathermique) ; Hystérectomie simple / CHL ; Chimiothérapie ; Radiothérapie",
+              "Outils de collecte": "Formulaire de compte rendu des résultats (colposcopie, cryothérapie ou thermo coagulation, résection) ; Bulletin de demande d'anatomo-pathologie ; Registre de consultation pour le dépistage (voir annexe) ; Fiche de référence et de contre référence ; Fiche de rapport mensuel (à intégrer dans le rapport global de zone et dans le DHIS2)"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Système reproducteur féminin",
+          "description": "Illustration médicale colorée (imagerie thermique/anatomique) de l'utérus et des trompes de Fallope."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "3. DEPISTAGE DES LESIONS PRECANCEREUSES DU COL DE L'UTERUS - 2. PROTOCOLES - 2.1 NIVEAU COMMUNAUTAIRE",
+      "texte": "Sensibiliser la communauté à travers les causeries, mobilisations sociales, VADI, les entretiens individuels sur : La vaccination HPV des filles âgées entre 09 et 14 ans ; L'intérêt du dépistage des lésions précancéreuses chez les femmes de 30 à 69 ans et leur traitement ; La prévention des IST ; Les facteurs favorisants : infection au virus du papilloma humain (VPH), activité sexuelle précoce, accouchements multiples, infection au virus de l'immuno-déficience humaine (VIH), antécédents d'IST, mariage et grossesse précoces, multipartenariat, infections génitales chroniques, tabagisme, absence de dépistage... Les premiers signes au stade avancé : saignement vaginal en dehors des règles, saignement après les rapports sexuels ou la toilette intime, écoulement liquidien abondant plus ou moins fétide, douleurs pelviennes. Orienter la population pour l'adoption de bonnes pratiques : Vaccination : Filles de 09 ans ; 02 injections espacées de 06 mois ; Vaccin (PEV : quadrivalent). Dépistage à partir de 30 ans tous les 3 ans. Réferer au poste de santé dès que la femme signale la présence d'un des signes cités plus haut.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.2 NIVEAU POSTE DE SANTE",
+      "texte": "2.2.1 Principales étapes du dépistage. Accueil de la cliente. Interrogatoire de la cliente : Identification: Nom prénom, âge, statut matrimonial, profession, gestité, parité, âge du premier rapport sexuel, âge de la première grossesse, activité génitale, utilisation d'une contraception ; Demander le motif de la consultation ; Rechercher des antécédents : gynéco-obstétricaux, familiaux, médicaux, chirurgicaux (intervention sur l'appareil génital), notion de vaccination HPV, de dépistage antérieur, notion de traitement antérieur sur le col, et d'infection à VIH ; Demander la date des dernières règles ; Rechercher certains facteurs de risque (multi partenariat sexuel, IST, Tabagisme, consommation d'alcool, et d'encens, …) ; counselling sur le dépistage. Examen de la cliente : Préparer le matériel nécessaire pour l'examen ; Respecter les règles de prévention des infections ; Expliquer le déroulement de l'examen ; Installer la patiente après lui avoir demandé de vider la vessie ; Inspecter la vulve ; Faire l'examen au spéculum : Introduire délicatement le spéculum dans le vagin ; Inspecter le col et les parois vaginales ; Technique IVA : (annexe fiche technique) ; Retirer le spéculum ; Faire le toucher vaginal combiné au palper abdominal ; Faire l'examen des seins et des autres appareils. 2.2.2 Conduite à tenir : Enregistrer la patiente quel que soit le résultat ; Si IVA négative, rassurer la patiente et donnez un rendez-vous dans un délai de trois ans pour un autre dépistage ; Si IVA positive : référer au centre de santé ; Suspicion de cancer invasif référer au centre de santé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.3 NIVEAU CENTRE DE SANTE",
+      "texte": "2.3.1 Etapes du dépistage : Idem niveau poste de santé. 2.3.2 Conduite à tenir : Pour toute patiente référée du poste de santé pour IVA positive, le prestataire du centre de santé doit refaire le test IVA. Si IVA négative : rassurer et refaire le dépistage dans un délai de 03 ans. Si IVA positive : Cryothérapie ou thermo coagulation si la lésion est éligible ; Colposcopie si lésion non éligible à la cryothérapie ou à la thermo-coagulation. Si lésions à la colposcopie ou zone de jonction non visible : biopsie ou ERAD ou ECAD ou FCV (cf. fiche technique colposcopie). Selon les résultats de l'anatomo-pathologie après une biopsie sous colposcopie ou après une ERAD ou ECAD : Si normal : dépistage tous les 03 ans ; Si lésions précancéreuses : ECAD ou ERAD (CS) ; Si Cancer référer au centre de traitement (Institut, EPS 2 et EPS 3). NB : Chez la femme enceinte pour qui l'IVA est recommandée au premier trimestre, si le test est positif et qu'on suspecte une lésion précancéreuse, le traitement sera différé à 3 mois après l'accouchement. Cependant un second examen est recommandé vers 6 mois de grossesse pour vérifier si la lésion n'est pas évolutive. En cas de suspicion de cancer invasif référer au centre de traitement (Institut, EPS 2 et EPS 3). Si lésions suspectes de cancer invasif faire la biopsie (Cf. fiche technique biopsie à élaborer) : Si négatif : faire investigations et traitement approprié ; Si positif : référer au centre de traitement (Institut, EPS 2 et EPS 3). Si Test HPV disponible, le faire : Si Test HPV positif, faire une IVA ou une colposcopie ; Si Test HPV négatif, refaire un autre test 05 ans après.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4 NIVEAU EPS 1,2",
+      "texte": "2.4.1 Etapes de la détection : Idem niveau centre de santé. 2.4.2 Résultats et conduite à tenir : Si IVA négative : rassurer et refaire le dépistage dans un délai de 03 ans. Si IVA positive : Cryothérapie ou thermo-coagulation si la lésion est éligible ; Colposcopie si lésion non éligible à la cryothérapie ; Si lésions à la colposcopie ou zone de jonction non visible : biopsie ou ERAD ou ECAD (cf. fiche technique colposcopie). Selon les résultats de l'anatomo-pathologie après une biopsie sous colposcopie ou après une ERAD ou ECAD : Si normal : dépistage tous les 03 ans ; Si lésions précancéreuses : ECAD ou ERAD ; Si cancer : PEC ou référer au centre de traitement (Institut, EPS3). Si lésions suspectes de cancer invasif faire la biopsie (Cf. fiche technique biopsie) : Si négatif : faire investigations et traitement approprié ; Si positif : PEC ou référer au centre de traitement (Institut, EPS3). Si Test HPV disponible, le faire : Si Test HPV positif, faire une IVA ou une colposcopie ; Si Test HPV négatif, refaire un autre test 05 ans après.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.5 NIVEAU EPS 3",
+      "texte": "Vérifier la certitude du diagnostic ; Demander un bilan d'extension ; Réunion de concertation pluridisciplinaire ; Prise de décision à la carte ; Mettre en route le traitement (chirurgie, chimiothérapie, radiothérapie, soins de support, thérapie ciblée…) ; Surveillance du patient et des traitements. 2.5.1 Etapes de la PEC : Idem niveau EPS 1. 2.5.2 Résultats et conduite à tenir : Si IVA négative : rassurer et faire le dépistage dans un délai de 03 ans. Si IVA positive : Cryothérapie ou thermo-coagulation si la lésion est éligible ; Colposcopie si lésion non éligible à la cryothérapie ou à la thermo-coagulation. Si lésions à la colposcopie ou zone de jonction non visible : biopsie ou ERAD ou ECAD (Cf. fiche technique colposcopie). Selon les résultats de l'anatomo-pathologie après une biopsie sous colposcopie ou après une ERAD ou ECAD : Si normal : dépistage tous les 03 ans ; Si lésions précancéreuses : ECAD ou ERAD ; Si cancer : PEC ou référer au centre de traitement (Institut). Si lésions suspectes de cancer invasif faire la biopsie (Cf. fiche technique biopsie) : Si négatif : faire investigations et traitement approprié ; Si positif : PEC ou référer au centre de traitement (Institut) ; Suspicion de cancer invasif : Biopsie. Si lésions précancéreuses non éligibles à la RAD ou cancer : biopsie. Frottis : En cas d'anomalies (AS-CUS, AS-CH, LSIL, HSIL-atypie des cellules granulaires) cf fiche technique. Biopsie : Si normal ou CIN 1 : contrôle à 06 mois, 01 an ou 02 ans ; Si CIN2+ : conisation, ERAD ou ECAD ; Si Cancer invasif : Traitement approprié ; Si Test HPV disponible, le faire : Si Test HPV positif, faire une IVA ou une colposcopie ; Si Test HPV négatif, refaire un autre test 05 ans après. 2.5.3 Stratégie thérapeutique définie selon les résultats des réunions de Concertation Pluridisciplinaire : Chirurgie ; Radiothérapie ; Chimiothérapie ; Soins de support.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4. DETECTION PRECOCE CANCERS DU SEIN - 1. NORMES",
+      "texte": "Cette section présente, sous forme de tableaux, les normes de détection précoce du cancer du sein pour chaque niveau de la pyramide sanitaire : communautaire, poste de santé, centre de santé, EPS1/EPS2 et EPS3, cible 25-74 ans.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Niveau COMMUNAUTAIRE - Cible : 25-74 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de soins", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Case de sante / Site communautaire",
+              "Ressources humaines": "Acteurs Communautaires de Santé ACS : Acteurs Communautaires de Promotion et de Prévention ACPP (BG, Leaders religieux, PMT..) ; Acteurs Communautaires de soins : ACs, Matrones DSDom",
+              "Equipements et matériels": "Supports de communication (Affiches, flyers, carte à image, dépliants, vidéo…)",
+              "Paquets de soins": "C4D (communication pour le développement, moyen de renforcer l'amélioration de la santé) ; Activités de sensibilisation (mobilisation sociale .......) ; Promotion de l'autopalpation des seins ; Référence des cas",
+              "Outils de collecte": "Cahiers de Visite à Domicile intégrée (VADI) ; Cahier du relais ; Registre de communication (voir SNEIPS) ; Fiches de référence"
+            },
+            {
+              "Infrastructures": "Salle de causerie",
+              "Ressources humaines": "ASC ; Sage femme ; infirmier ; assistant infirmier",
+              "Equipements et matériels": "Supports de communication (Affiches, flyers, carte à image, dépliants, vidéo…)",
+              "Paquets de soins": "Sensibilisation de la communauté (ACS ; BG, Leaders religieux, PMT)",
+              "Outils de collecte": "registre de causerie"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Niveau POSTE DE SANTE - Cible : 25-74 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de soins", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Salle d'examen (consultation PF, CPN, CPoN consultation generale)",
+              "Ressources humaines": "Infirmier, AI ; SFE",
+              "Equipements et matériels": "Table d'examen ; Lampe d'examen ; Consommables : gants d'examen",
+              "Paquets de soins": "Examen mammaire ; Promotion de l'autoexamen des seins ; Référence des cas ; Sensibilisation de la communauté",
+              "Outils de collecte": "Registres ; Fiche de rapport mensuel (à intégrer dans le rapport global de zone et le DHIS2)"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Niveau CENTRE DE SANTE - Cible : 25-74 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de soins", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Salle d'examen (consultation PF, CPN, consultation tri, consultation médecin) ; laboratoire",
+              "Ressources humaines": "Gynécologue ; Médecin compétent SOU ; Médecin généraliste ; SFE ; Infirmier ; Assistant Infirmier ; Travailleur social ; technicien supérieur en radiologie ; Educateur pour la santé ; Technicien supérieur en laboratoire formé en technique anatomo-pathologique",
+              "Equipements et matériels": "Table d'examen ; Lampe d'examen ; Consommables : gants d'examen, Lames, formol, pot pour prélèvement, seringue ; tru-cut (Pistolet de biopsie, aiguilles) ; Appareil d'échographie ; Supports de communication",
+              "Paquets de soins": "Examen mammaire ; Promotion de l'autoexamen des seins ; Ponction cytologique ; Ponction biopsie ; Echographie mammaire ; Activités de sensibilisation",
+              "Outils de collecte": "Registre ; Fiche de rapport mensuel (à intégrer dans le rapport global de zone et le DHIS2)"
+            },
+            {
+              "Infrastructures": "Salle de causerie",
+              "Ressources humaines": "ACS ; Sage femme ; Infirmier ; Médecin",
+              "Equipements et matériels": "Supports de communication (Affiches, flyers, carte à image, dépliants, vidéo…)",
+              "Paquets de soins": "Sensibilisation de la communauté (ACS ; BG, Leaders religieux, PMT)",
+              "Outils de collecte": "Cahier des ACS"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Niveaux EPS 1 et 2 - Cible : 25-74 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de service", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Service de gynécologie-obstétrique ; Service de medecine interne ; Service de cardiologie ; Service de dermatologie ; Service de chirurgie ; Service d'oncologie ; Service de radiologie ; Service d'anatomie pathologique ; Laboratoire ; Service de Kinésithérapie ; Unité de psychiatrie ; Unité de soins palliatifs ; Services sociaux ; Pharmacie ; Service de Chirurgie plastique ; Service informatique",
+              "Ressources humaines": "Gynécologue obstétricien ; Interniste ; Cardiologue ; Dermatologue ; Infirmier/ SFE ; CSSI ; Registraire/Informaticien ; Gestionnaire registre des tumeurs ; Radiologue ; Technicien supérieur en imagerie médicale ; Anatomo pathologiste ; Oncologue medical ; Physicien ; Psychologues ; Biologiste ; Kinésithérapeute ; Anesthésiste / réanimateur ; Chirurgien oncologue ; Assistants sociaux ; Pharmacien ; Plasticiens",
+              "Equipements et matériels": "Table d'examen ; Lampe d'examen ; Consommables : gants d'examen, Lames, formol, pot pour prélèvement, seringue ; tru-cut (Pistolet de biopsie, aiguilles) ; Echographe mammaire ; Mammographe ; Equipement de Laboratoire d'anatomopathologie ; Bloc opératoire ; Boîtes de sénologie ; Faxitron (boîte de radiologie pour radiographier pièce opératoire) ; Sonde de radiodétection + bleu patanté ; Armoire de rangement",
+              "Paquets de service": "Examen mammaire ; Promotion de l'autoexamen des seins ; Ponction cytologique ; Ponction biopsie ; Echographie mammaire ; Mammographie ; Repérage ; Bilan d'extension (IRM, Pet scan) ; Anatomie pathologie ; Chirurgie du sein et creux axillaire ; Chirurgie de reconstruction ; Chimiothérapie ; Radiothérapie ; Hormonothérapie ; Thérapie ciblée ; Kinésithérapie ; Psychothérapie",
+              "Outils de collecte": "Registres ; Rapport mensuel EPS (à intégrer dans le DHIS2) ; Registre de cancer du Sénégal (REGSEN) ; Fiche de référence contre référence ; Dossiers de patient"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Niveau EPS 3 - Cible : 25-74 ans",
+          "colonnes": ["Infrastructures", "Ressources humaines", "Equipements et matériels", "Paquets de service", "Outils de collecte"],
+          "lignes": [
+            {
+              "Infrastructures": "Service de gynécologie-obstétrique ; Service de medecine interne ; Service de cardiologie ; Service de dermatologie ; Laboratoire d'anatomo pathalogie (cyto histologie complete plus immunohistochimie) ; Service d'oncologie ; Service de Radiothérapie ; Laboratoire ; Service de Kinésithérapie ; Service de psychiatrie ; Service de chirurgie ; Unité de soins palliatifs ; Services sociaux ; Pharmacie ; Service de Chirurgie plastique ; Service de génétique ; Service informatique ; Radiologie interventionnelle (stéréotaxie, antenne de biopsie sous IRM)",
+              "Ressources humaines": "Gynécologue obstétricien ; Interniste ; Cardiologue ; Dermatologue ; Infirmier/ SFE ; CSSI ; Registraire/Informaticien ; Gestionnaire registre des tumeurs ; Radiologue ; Technicien supérieur en imagerie médicale ; Anatomo pathologiste ; Oncologue medical ; Physicien ; Psychologues ; Biologiste ; Kinésithérapeute ; Anesthésite ; Chirurgien oncologue ; Assistants sociaux ; Pharmacien ; Plasticiens",
+              "Equipements et matériels": "Table d'examen ; Lampe d'examen ; Consommables : gants d'examen, Lames, formol, pot pour prélèvement, seringue ; tru-cut (Pistolet de biopsie, aiguilles) ; Echographe mammaire ; Mammographe ; Equipement de Laboratoire d'anatomopathologie ; Bloc opératoire ; Boîtes de sénologie ; Faxitron (boîte de radiologie pour radiographier pièce opératoire) ; Sonde de radiodétection + bleu patanté ; Armoire de rangement",
+              "Paquets de service": "Examen mammaire ; Promotion de l'autoexamen des seins ; Ponction cytologique ; Ponction biopsie ; Echographie mammaire ; Mammographie ; Repérage ; Bilan d'extension (IRM, Pet scan) ; Anatomie pathologie ; Chirurgie du sein et creux axillaire ; Chirurgie de reconstruction ; Chimiothérapie ; Radiothérapie ; Hormonothérapie ; Thérapie ciblée ; Kinésithérapie",
+              "Outils de collecte": "Registres ; Rapport mensuel EPS (à intégrer dans le DHIS2) ; Registre de cancer du Sénégal (REGSEN) ; Fiche de référence contre référence ; Dossiers de patient"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Cancer du sein - imagerie",
+          "description": "Illustration médicale anatomique montrant un sein avec une masse tumorale mise en évidence en orange."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "4. DETECTION PRECOCE CANCERS DU SEIN - 2. PROTOCOLES - 2.1 NIVEAU COMMUNAUTAIRE",
+      "texte": "Cible de la sensibilisation communautaire : population générale. Types d'activités : Causeries éducatives ; Entretiens individuels ; Visites à domicile intégrée ; Mobilisation sociale ; Dialogues communautaires. Thèmes de sensibilisation de la communauté (causerie, mobilisation sociale, VADI…) : Facteurs favorisants : notion de cancer du sein familial, tabagisme, alimentation trop grasse, trop sucrée, trop salée, défaut d'allaitement (inférieur à 06 mois), première grossesse tardive après 35 ans, nulliparité, ménarches précoces (avant 12 ans) et ménopause tardive (après 55 ans), obésité, sédentarité, et maladies précancéreuses du sein…. ; Les premiers signes : écoulement mammelonnaire, sensation de nodule, sein avec asymétrie récente, modification de la peau (rougeur, aspect de peau d'orange, fossette, ride...), ganglion axillaire, douleur mammaire fixe, refus de tétée un sein, anomalie récente d'autopalpation ; Promotion de l'auto examen des seins tous les mois après les règles (Cf. fiche technique autopalpation) ; Conseiller la consultation précoce au moindre signe ; Se faire examiner annuellement les seins à partir de 25 ans (fiche technique examen clinique des seins) ; Se faire dépister par mammographie tous les 02 ans à partir de 40 ans ; Se faire dépister s'il y a 02 ou 03 cas dans la famille à partir de 35 ans ou 05 ans avant l'âge de survenue du cancer dans la famille ; conseiller de garder minutieusement les résultats des dépistages. RÉFERER AU POSTE DE SANTÉ dès la présence d'un de ces signes cités plus haut.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.2 NIVEAU POSTE DE SANTE",
+      "texte": "2.2.1 Principales étapes de la détection précoce. Accueil de la cliente. Interrogatoire de la cliente : Identification: Nom, prénom, âge, statut matrimonial, profession, âge des ménarches, gestité, parité, âge à la première grossesse, et âge de la ménopause, date de dernières règles ; Demander le motif de la consultation ; Demander les résultats du dépistage antérieur ; Rechercher des antécédents : gynécologiques, familiaux (notion de cancer familial), chirurgicaux (intervention chirurgicale sur les seins et les résultats anatomo-pathologiques de la pièce), personnels de cancer du sein, d'irradiation thoracique ; Rechercher la notion de prise médicamenteuse : Prise précoce et prolongée de contraceptifs oraux combinés sans aucune volonté d'espacement de naissances (plus de dix ans) ; Traitement hormonal de la ménopause ; Hygiène de vie : sédentarité, mauvaise alimentation, activité physique, tabagisme…. Examen de la cliente : Préparer le matériel nécessaire pour l'examen ; Expliquer le déroulement de l'examen ; Faire l'examen de la cliente (cf. Fiche technique de l'examen sénologique) ; Enseigner l'auto examen de seins. NB : Examen clinique systématique des seins de toute femme reçue en CPN ou en consultation. 2.2.2 Résultat de l'examen clinique et conduite à tenir : Examen normal : Conseiller l'auto examen des seins, donner RV dans 1an pour un dépistage clinique ; S'il y a lieu conseiller un dépistage mammographique (tous les 2 ans à partir de 40 ans) ou génétique (s'il y a 2 à 3 cas de cancer du sein dans la famille proche). Cas suspects: Présence de nodule ; Présence d'un ganglion au niveau axillaire ; Présence d'un écoulement mammelonnaire ; Modification de la peau (rougeur, aspect de peau d'orange, fossette, ride...) ; Douleur mammaire fixe ; Refus de tétée un sein ; anomalie récente d'autopalpation. En présence d'un de ces signes, RÉFÉRER AU CENTRE DE SANTÉ pour PEC.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.3 NIVEAU CENTRE DE SANTE",
+      "texte": "2.3.1 Etapes de la détection précoce : Idem qu'au niveau poste de santé. 2.3.2 Résultats et conduite à tenir : Résultats : Examen normal : Idem qu'au niveau du Poste de Santé. Cas suspects : présence de nodule ; Présence d'un ganglion au niveau axillaire ; Présence d'un écoulement mammelonnaire ; Modification de la peau (rougeur, aspect de peau d'orange, fossette, ride...) ; douleur mammaire fixe ; refus de tétée un sein ; anomalie récente d'autopalpation. Conduite à tenir en présence d'une anomalie : Nodule palpable : Demander une échographie mammaire si sujet jeune de moins de 35 ans, nullipare, si sein douloureux ; Mammographie et échographie chez le sujet âgé de 35 ans et plus ; Faire une cytoponction (Cf. fiche technique de cyto-ponction en annexe). Si la triade clinique, radiologique et cytologique est concordante bénigne référer vers les EPS 1 et 2 pour PEC d'une lésion bénigne selon l'indication. Si la triade clinique, radiologique et cytologique est discordante, référer vers les EPS 1 et 2 pour faire la biopsie mammaire. Si la triade clinique, radiologique et cytologique est concordante maligne référer vers les EPS 1 et 2 pour faire la biopsie mammaire. Nodule non-palpable : Lors d'un dépistage systématique par mammographie : Référer pour une biopsie écho-guidée par un radiologue compétent sur les techniques de prélèvements. Présence d'un ganglion au niveau axillaire : Référer pour une biopsie (Cf. fiche technique de biopsie). Présence d'un écoulement mammelonnaire : Le caractère uni ou bilatéral de l'écoulement ; Le nombre de pores ; L'aspect de l'écoulement (séreux, citrin, sanglant : purulent .....) ; Demander une cytologie, mammographie, galactographie, échographie mammaire. Modification de la peau (rougeur, aspect de peau d'orange, fossette, ride...) : Orienter vers le gynécologue pour une exploration. Refus de tétée un sein : Examen du sein à la recherche de masse ou de ganglions ; Faire une exploration par mammographie et/ou échographie.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4 NIVEAU EPS 1,2",
+      "texte": "2.4.1 Etapes de la détection précoce : Idem pour le niveau centre de santé. 2.4.2 Résultats et conduite à tenir : Idem niveau centre de santé. Cas suspects: Faire un examen histologique (confirmer et caractériser la lésion) ; Faire une biopsie (externe ou echo-guidée). Si lésion bénigne, idem conduite à tenir centre de santé ; Si lésion maligne, PEC au centre de traitement ou référer EPS 3.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.5 NIVEAU EPS 3",
+      "texte": "Vérifier la certitude du diagnostic. Demander un bilan d'extension. Réunion de concertation pluridisciplinaire. Prise de décision à la carte. Mettre en route le traitement (chirurgie, chimiothérapie, radiothérapie, hormonothérapie, thérapie ciblée…). Surveillance du patient et des traitements.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ANNEXES - FICHE TECHNIQUE INSPECTION VISUELLE A L'ACIDE ACETIQUE (IVA)",
+      "texte": "Définition : Méthodes d'inspection du col utérin à l'œil nu ou avec une loupe après application d'acide acétique à 3 à 5%. Principes : Les cellules exo-cervicales dysplasiques sont anormalement riches en protéines qui sont coagulées par l'acide acétique, prenant alors un aspect blanchâtre. Conditions : A distance des rapports sexuels ; En dehors des règles ; En absence infection ; Après oestrogénothérapie locale chez la femme ménopausée. Matériel : Spéculums ; Gants d'examen jetables ; Ecouvillons en coton ; Acide acétique 3 à 5% ; Loupe +/- ; Unité de cryochirurgie avec approvisionnement en gaz. Technique : Counseling avant, pendant, et après la procédure ; Examen du col sans préparation ; Puis application acide acétique et examen à l'œil nu ou avec une loupe. Résultats : Normaux : col rose, pas de lésions acidophiles ; Anormaux : lésions acidophiles blanchâtres dont il faut apprécier la vitesse d'apparition, l'intensité, les contours, le siège, l'étendu. Conduite à tenir : IVA négatif : Refaire dépistage dans 3 ans. IVA positif : Cryothérapie : « see and treat » si lésions anormales éligibles à la cryothérapie ; Colposcopie +/- Biopsies si lésions plus évoluées. Avantages et inconvénients : Simple, Rapide, Peu coûteux, Bonne sensibilité et spécificité.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ANNEXES - FICHE TECHNIQUE CRYOTHERAPIE",
+      "texte": "Principe de la cryothérapie : Destruction des cellules précancéreuses par congélation avec application d'un disque glacé ; Composante essentielle du « see and treat ». Avantages : Simple, peu coûteuse, ne nécessite pas d'électricité, ne nécessite pas d'anesthésie. Matériel : Spéculums ; Gants d'examen jetables ; Ecouvillons en coton pour essuyage du col ; Acide acétique 3 à 5% ; Unité de cryochirurgie avec approvisionnement en gaz. Indications : IVA + ; Lésions de bas grade ; Ectropion symptomatique ; Condylomes acuminés. Eligibilité à la cryothérapie : La lésion occupe moins de 75% de la surface du col ; Zone de jonction entièrement vue ; La limite de la lésion est vue (pas extension dans le canal cervical) ; Absence de suspicion de cancer. Déroulement : Counseling avant, pendant, et après la procédure ; Appliquer l'acide acétique ; Identifier le siège de la lésion ; Essuyer la surface de la sonde cryogénique avec du sérum physiologique ; Placer l'embout de la sonde cryogénique au centre de l'orifice cervical ; Vérifier qu'il couvre entièrement la lésion suspecte sans la dépasser de plus de 2 mm ; S'assurer que la sonde cryogénique n'entre pas en contact avec la paroi vaginale ; Régler la minuterie et relâcher la gâchette du pistolet cryothérapie pour le refroidissement de la sonde ; Voir la formation de la glace sur l'embout de la sonde et le col ; La congélation est satisfaisante si glace dépasse de plus de 5mm les bords externes de l'embout ; Faire deux cycles de congélation-décongélation : Congélation pendant 3 min, Décongélation pendant 5 min, Nouvelle congélation pendant 3 min ; Une fois que la congélation est achevée attendre un temps suffisant pour la décongélation avant de retirer la sonde du col pour ne pas arracher les tissus nécrosés ; Retirer la sonde en la faisant pivoter sur le col ; La zone congelée est devenue blanche ; Vérifier l'absence saignement du col utérin ; Retirer le spéculum. Après intervention : Utilisation de serviettes hygiéniques ; Abstinence sexuelle pendant 4 semaines ; Crampes pendant et après : donner des antalgiques ; Spotting, écoulement sanguinolant pendant une à deux semaines ; Ecoulement liquidien pendant 1 mois après l'intervention ; Informer sur complications. Suivi : Rendez-vous à 2-6 semaines pour contrôle cicatrisation par un examen gynécologique ; Revenir à la structure si complications: Fièvre ≥ 38,5 ; Frissons ; Douleurs pelviennes intenses ; Pertes purulentes nauséabondes ; Saignement pendant plus de 2 jours ; Frottis / colposcopie 6-12 mois après la cryothérapie.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ANNEXES - FICHE TECHNIQUE COLPOSCOPIE",
+      "texte": "La colposcopie est un examen qui permet une analyse approfondie du col de l'utérus. Grâce à des colorants et une observation soigneuse, à l'aide d'un appareil grossissant appelé colposcope (loupe binoculaire), les lésions précancéreuses pourront être mises en évidence, orientant avec précision les prélèvements biopsiques. 1. Préalables : Counseling ; Consentement clair écrit et signé (empreinte digitale…) ; Fiches renseignement ; Principes examen ; Déroulement ; Résultats attendus ; Prise en charge ; En dehors période menstruelle. 2. Étapes : Deux réactifs sont utilisés pour « révéler » les zones pathologiques : L'acide acétique : il ne provoque aucune brûlure. Le lugol : préparation iodée (il faut que le médecin soit informé en cas d'allergie à l'iode). Ce produit colore en marron foncé (on dit « brun acajou »). Examen sans préparation : Apprécier l'aspect général du col après avoir mis le spéculum. Examen après application d'acide acétique : Badigeonner le col d'acide acétique, attendre une à deux minutes (changement de coloration) ; Noter soigneusement : la zone de jonction, la vitesse d'apparition, la durée, l'intensité de l'acidophilie (opaque, blanc d'huître) l'uniformité de acidophilie, les variations de couleurs à l'intérieur des lésions, la présence de zones d'érosion à l'intérieur de la lésion, la taille, le nombre des lésions, l'uniformité des lésions, les limites des lésions, les marges nettes, floues, les marges surélevées ou lisses, les marges régulières ou irrégulières. Examen après application de lugol : Apprécier la coloration du col après application de lugol qui peut être brune acajou ou qui peut présenter des zones iodo-négatives dont il faut préciser l'aspect et les contours. Examiner les parois vaginales. 3. Conclusion colposcopie : Préciser : Normale, transformations atypiques grade 1 ou grade 2, Colpite virale, Ectropion ; Zone de jonction visible ou pas ; Suspicion de cancer : Lésions ulcérées visibles, excroissances, saignant ou suintant au toucher ; Biopsie ou non. Faire un schéma daté et signé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ANNEXES - FICHE TECHNIQUE AUTOPALPATION DES SEINS",
+      "texte": "Cette fiche technique présente en 8 étapes illustrées la technique d'autopalpation des seins.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Autopalpation des seins - étapes 1 à 8",
+          "description": "Série de 8 figures/schémas illustrant la technique d'autopalpation mammaire. Figure 1 : Mettez les bras le long du corps. Comparez la symétrie de vos seins. Recherchez des changements dans leur forme et leur coloration. Recherchez tout ce qui peut vous sembler inhabituel au niveau de la peau et du mamelon. Figure 2 : Les bras vers le haut, vérifiez de face et de profil la symétrie de vos seins, la direction des mamelons, l'apparence générale. Figure 3 : Mains sur les hanches, penchez-vous en avant. Vérifiez encore la symétrie, la direction des mamelons et l'apparence générale des seins. Figure 4 : Allongez-vous par terre en mettant une serviette pliée sous l'épaule droite. Mettez votre bras droit au-dessus de la tête. Figure 5 : Examinez avec le bout des doigts la zone partant du haut de l'aisselle jusqu'à la partie haute du sein puis le reste du sein. Figure 6 : Votre main à plat, les deuxième, troisième et quatrième doigts joints de la main gauche. Figure 7 : en utilisant successivement une pression douce puis moyenne puis appuyée. Figure 8 : Enfin, recommencez verticalement. De la même façon, examinez le sein gauche avec la main droite."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "ANNEXES - FICHE TECHNIQUE EXAMEN SENOLOGIQUE",
+      "texte": "Temps normal moyen : 15 min. Définition : Temps important de l'examen d'une femme, il fait partie intégrante de l'examen général. Il est comparatif et comprend l'inspection puis la palpation mammaire bilatérale mais également l'examen des creux axillaires, des creux sus et sous-claviculaires, la recherche d'un écoulement mammelonnaire et la réalisation de quelques manœuvres. Indications : À chaque consultation gynécologique ou sénologique ; Douleur mammaire ou mastodynie ; Autopalpation d'un nodule mammaire ou d'une adénopathie ; Écoulement mammelonnaire ; Changement d'apparence de la peau : plissement, aspect de peau d'orange, hématome, inflammation, rétraction, fossette ; Surveillance après cancer du sein ; Surveillance après un allaitement ; En cas d'antécédents familiaux de cancers du sein, de l'endomètre ou des ovaires ; Détecter des cancers du sein à croissance rapide passés inaperçus entre deux mammographies de dépistage. Informations à la patiente : L'examen clinique mammaire est une méthode fiable pour dépister le cancer du sein. La pratique régulière de l'auto-examen des seins permet de connaître l'état normal des seins et d'identifier les modifications récentes et suspectes. Il permet de dépister certains cancers non vus à la mammographie et reste performant pour des lésions centimétriques. Technique d'examen sénologique : 1. Conditions : Patiente dévêtue jusqu'à la ceinture, sous un bon éclairage, l'examen devra être méthodique, bilatéral et comparatif des seins et des aires ganglionnaires (axillaires, sous et sus claviculaires). Patiente couchée ensuite debout puis penchée vers l'avant, les bras le long du corps puis appuyés sur les hanches, puis soulevés au-dessus de la tête. Les résultats de l'examen devront être consignés sur un schéma daté. 2. Inspection des seins : En position assise puis couchée, face à l'opérateur, les bras le long du corps puis relevés au-dessus de la tête, sous un bon éclairage utilisable à jour frisant, il faut successivement et comparativement inspecter : L'étui cutané ; Le prolongement axillaire ; La plaque aréolomamelonnaire (PAM) ; Le sillon sous-mammaire. L'inspection permettra de reconnaître une poitrine normale : similitude de volume et d'aspects des seins, mamelons symétriques, aréole et texture de la peau normale ; Afin de détecter une tuméfaction, un changement d'aspect des seins, la présence d'une rétraction, d'un épaississement, d'une ulcération, une asymétrie, un écoulement mammelonnaire, un eczéma de l'aréole, la présence de ganglions axillaires et sus-claviculaires. 3. Palpation des seins : Patiente en position couchée, les bras au-dessus de la tête. Elle doit être douce avec les premières phalanges, la main bien à plat écrasant la glande contre le grill costal explorant tout le sein, quadrant par quadrant, sans oublier de palper le sillon sous mammaire, le prolongement axillaire et la zone rétroaréolaire. Cette palpation sera comparative et guidée par l'interrogatoire de la patiente. Plusieurs techniques de palpation sont utilisées : Palpation de la glande mammaire selon un mouvement centripète : les mouvements partent de l'extérieur vers l'intérieur de la glande et donc vers la plaque aréolo-mamelonnaire (PAM). Terminer par une petite expression du mamelon pour vérifier l'absence d'écoulement anormal à son niveau. Palpation verticale par des mouvements de bas en haut : Débuter la palpation par le prolongement axillaire vers la ligne médio-claviculaire. S'attarder au niveau du mamelon et de la PAM. Puis continuer à partir de la ligne médio-claviculaire vers le bord interne du sein. La palpation s'étend ainsi à partir du bord inférieur de la clavicule (creux sous-claviculaire), jusqu'au sillon sous-mammaire. Palpation circulaire : elle débute à partir du sillon sous-claviculaire, et se poursuit par des mouvements circulaires de l'extérieur vers l'intérieur de la glande, pour se terminer au niveau de la PAM. Cette palpation permet de rechercher : Une différence de consistance, la présence d'une boule ou tuméfaction dure, mal limitée ou indolore. Sa taille et son siège seront précisés par rapport aux quadrants du sein ; Des adhérences de la boule à la peau ou aux plans profonds (Manœuvre de Tillaux) ; Un écoulement mamelonnaire spontané ou provoqué dont les aspects (uni ou pluripore, sanglant ou séreux) seront précisés ; Une anomalie au niveau des aires ganglionnaires (le bras de la patiente sur l'épaule de l'examinateur) : adénopathies axillaires homolatérales, controlatérales ou sus claviculaires. Ces adénopathies sont dures, petites, mobiles, roulant sous le doigt ou au contraire volumineuses et fixées ; Après cet examen sénologique, tout peut paraître normal, alors la patiente est rassurée puis orientée vers un dépistage mammographique si cela s'avère opportun. En cas d'anomalie mammaire ou ganglionnaire retrouvée, il faut poursuivre l'examen physique par l'examen des autres appareils puis orienter la patiente vers des explorations complémentaires utiles pour le diagnostic suspecté.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ANNEXES - FICHE TECHNIQUE CYTOPONCTION",
+      "texte": "La cytoponction du sein consiste à prélever quelques cellules de tissu mammaire à l'aide d'une aiguille très fine. MATERIEL ET METHODES D'ETUDE. A) Matériel : Le matériel utilisé est simple ; Il se compose : de lames porte-objet, de seringues propres, de pistolet seringue rarement utilisé dans notre laboratoire, d'aiguilles stériles de 6/10e de diamètre et de 25 mm de longueur, comme fixateur nous disposons de l'alcool à 95°. B) Méthodes : Les malades sont reçus, munis d'une fiche de renseignements sur laquelle sont mentionnés : l'âge, le sexe et l'aspect clinique de la lésion. Les techniques de prélèvement varient en fonction des motifs de consultation. Frottis d'écoulement mamelonnaire : Le principe consiste à une pression du sein pour provoquer un écoulement mamelonnaire. Le liquide obtenu est immédiatement étalé sur des lames porte-objet. Cytoponction d'une masse tumorale, d'un nodule ou d'un ganglion axillaire : La cytoponction consiste à prélever quelques cellules de tissu mammaire à l'aide d'une aiguille très fine. Après désinfection cutanée, la lésion à ponctionner est immobilisée entre l'index et le majeur ; Et, à l'aide d'une aiguille, on effectue des mouvements de va-et-vient dans le tissu tumoral. Le matériel contenu dans l'aiguille est ensuite refoulé par une seringue sur une lame, puis étalé. Une deuxième ponction est pratiquée de la même façon dans une autre direction de la tumeur. En ce qui concerne les liquides issus des formations kystiques, ils sont recueillis dans un flacon et centrifugés avant d'être étalés. Dans tous les cas, plusieurs étalements sont effectués. Les lames sont séchées à l'air libre et rangées dans des portes lames puis acheminées vers le service d'anatomopathologie.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ANNEXES - FICHE TECHNIQUE DE BIOPSIE DU SEIN",
+      "texte": "Une biopsie consiste à prélever un fragment de tissu (ici, du sein) dans le but d'analyser les cellules et de déceler d'éventuelles anomalies. I. Préalables : Identification du patient (Prénom, Nom, âge, sexe, adresse, téléphone, mail …) ; Bonne information sur les motivations et l'indication et les résultats attendus de la biopsie ; Consentement éclairé ; Consulter les examens d'imagerie et de cytologie ; Expliquer la procédure (caractère invasif et sous anesthésie locale) ; Reprendre l'examen Sénologique ; Respect strict des règles de prévention des infections (lavage des mains, port de gant …) ; Respect des règles d'analgésie. II. Matériel : Le matériel utilisé est composé de : Une table d'examen ; Matériels de traitement des objets et instruments souillés ; Une paire de gants stériles et des gants d'examen ; Un flacon de Polyvidone iodée ; Un flacon de Lidocaïne 2% ; Une seringue 10 cc ; Une lame de bistouri N° 11, et porte lame ; Compresses stériles, ou une bande de gaze ; Sparadraps (10 x10 cm) ; Champs stériles ; Un scialytique ou lampe baladeuse ou toute autre source de lumière ; Un pistolet à biopsie 11G ou tru-cut fonctionnels ; Flacon de formol (5 à 10 cc de formol 3 à 5%) ; Bulletins d'examen d'anatomie pathologique. III. Procédure : 1. Accueil : Les malades sont reçus, munis d'une demande de biopsie ou d'examens indiquant la biopsie ; 2. Respect des préalables ; 3. Installation du patient en décubitus dorsal sur table d'examen, coté atteint face à l'opérateur et bras homolatéral relevé ; 4. Toilette et désinfection cutanée sur le site de biopsie et tout autour ; 5. Badigeonnage du site de biopsie et tout autour (parfois tout le sein) ; 6. Champage du site de biopsie par un champ troué, stérile ; 7. Anesthésie locale efficace sur le site de biopsie ; 8. Incision punctiforme (1 mm) à proximité de la masse, dans l'aire d'une éventuelle mastectomie (+++) ; 9. Armement du pistolet ; 10. Introduction du trocart jusqu'au contact de masse stabilisée entre deux doigts, redressement du trocart pour être tangentiel au thorax ; 11. Appui sur la gâchette de tir puis retrait du trocart ; 12. Libération de la carotte de tissus biopsie ; 13. Répétition des étapes 9 à 12 jusqu'à obtenir 3 à 4 carottes satisfaisantes ; 14. Hémostase par pression puis pansement stérile légèrement compressif ; 15. Surveillance 15 min du patient et du site de biopsie ; 16. Immersion des carottes dans la solution de formol ; 17. Identification du flacon de formol et remplissage du bulletin d'anatomie pathologie ; 18. Prescription d'antalgique si nécessaire ; 19. Conseils d'hygiène ; 20. Rendez-vous dans 72 Heures pour retirer le pansement et surveillance du point de piqure (défaut de cicatrisation, hémorragie, hématome, abcès…. autant de complications possibles mais rares ; à surveiller). IV. Conclusion : La biopsie percutanée du sein est une intervention simple, mais repose sur le respect rigoureux des règles d'identification des patients et des prélèvements, de prévention des infections, des procédures d'anesthésie locale et de prélèvement invasif per cutané. Par conséquent la consultation de cette fiche avant toute procédure est un préalable non négligeable car les résultats qui sont attendus de cette biopsie sont d'une importance capitale pour le diagnostic, la prise de décision et les traitements qui seront nécessaires. Toutefois la biopsie percutanée de lésions infra cliniques (non palpables), en plus des règles ci-dessus, est du ressort du radiologue compétent sur ces techniques de prélèvement guidé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Quatrième de couverture",
+      "texte": "MINISTERE DE LA SANTE ET DE L'ACTION SOCIALE.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Illustration cancer du sein",
+          "description": "Illustration médicale anatomique du sein avec une masse tumorale mise en évidence, similaire à celle de la section 4."
+        },
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo Ministère de la Santé et de l'Action Sociale",
+          "description": "Logo du Ministère de la Santé et de l'Action Sociale du Sénégal en rouge et noir, sur fond blanc et bleu."
+        }
+      ]
+    }
+  ]
+}

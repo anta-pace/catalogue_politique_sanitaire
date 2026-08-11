@@ -1,0 +1,719 @@
+{
+  "metadata": {
+    "titre": "Plan stratégique du Système d'Information Sanitaire du Sénégal 2012-2016",
+    "annee": "2012-2016",
+    "source": "Ministère de la Santé et de la Prévention (MSP) - Service National de l'Information Sanitaire (SNIS)",
+    "type_document": "Plan stratégique"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de couverture",
+      "texte": "Un Peuple -Un But -Une Foi. Ministère de la Santé et de la Prévention (MSP). Service National de l'Information Sanitaire (SNIS). Service National de l'Information Sanitaire. Plan stratégique du Système d'Information Sanitaire du Sénégal 2012-2016.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo SNIS",
+          "description": "Logo en forme de S rouge entourant un cœur noir, symbole du Service National de l'Information Sanitaire."
+        },
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo HMN (Health Metrics Network)",
+          "description": "Logo du Health Metrics Network avec une icône de silhouette humaine et graphique."
+        },
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Carte de localisation du Sénégal en Afrique",
+          "description": "Petite carte de l'Afrique de l'Ouest situant le Sénégal, avec la Mauritanie, le Mali, la Guinée et la Guinée-Bissau comme pays limitrophes visibles."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Table des matières",
+      "texte": "PREFACE. ACRONYMES ET ABREVIATIONS. INTRODUCTION. CONTEXTE. CHAPITRE I : PRESENTATION DU SENEGAL - 1. DONNEES GENERALES - 2. APERÇU SUR LE SYSTEME DE SANTE. CHAPITRE II : RAPPELS SUR L'ANALYSE DE LA SITUATION. CHAPITRE III : LE PLAN STRATEGIQUE - 1. BUT - 2. VISION - 3. OBJECTIF GENERAL - 4. OJECTIFS SPECIFIQUES - 5. AXES STRATEGIQUES. CHAPITRE IV : MISE EN OEUVRE. CHAPITRE V : SUIVI ET EVALUATION. CHAPITRE VI : CADRAGE/EVALUATION BUDGETAIRE SUR 5 ANS.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PREFACE",
+      "texte": "Les principes d'harmonisation et d'intégration des interventions sanitaires qui fondent l'approche holistique du secteur sont traduits dans les politiques de santé au Sénégal. Ainsi, depuis la création du Service National de l'Information Sanitaire en octobre 2004, le Ministère chargé de la santé s'est engagé à mettre en place un Système d'Information Sanitaire (SIS) apte à lui fournir à temps des indicateurs pertinents pour le suivi et l'évaluation de la mise en œuvre des interventions sanitaires, de même que les progrès réalisés vers l'atteinte des Objectifs du Millénaire pour le Développement (OMD).  Au regard des insuffisances notées au décours de l'évaluation du SIS effectué en 2009 avec l'appui du Réseau de Métrologie Sanitaire, il est apparu primordial d'organiser le Système d'Information Sanitaire autour d'une vision stratégique partagée, sous une perspective systémique afin d'offrir aux multiples intervenants du secteur une base de travail et un référentiel unifié.  Ainsi, le présent plan stratégique de développement du SIS comble un vide et constitue un document fédérateur des sous systèmes d'information du secteur de la santé et des secteurs apparentés.  Le plan donne des orientations majeures sur l'avenir du SIS sénégalais pour les cinq prochaines années et met en cohérence les interventions et activités essentielles pour disposer de statistiques utiles pour le monitoring et l'évaluation des programmes et la gestion des structures relevant du secteur.  En outre, il est surtout un outil de plaidoyer visant à susciter l'adhésion des parties prenantes et à stimuler l'implication effective des partenaires sur la base d'une ligne directrice commune.  Ce document contribue au renforcement de la gestion de notre système de santé car, le développement sanitaire n'est cohérent que s'il repose sur des choix judicieux inspirés par un système d'information sanitaire performant.  Dr Moussa DIAKHATE, MPH, MD, Msc. Responsable du Service National de l'Information Sanitaire.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ACRONYMES ET ABREVIATIONS",
+      "texte": "ANSD : Agence Nationale de la Statistique et de la Démographie. ASC : Agent de Santé Communautaire. BM : Banque Mondiale. CDSMT : Cadre des Dépenses Sectoriel à Moyen Terme. CESAG : Centre Africain d'Etudes Supérieures en Gestion. CNS : Conseil National de la Statistique. CTPS : Comité Technique des Programmes Statistiques. DPS : Direction de la Prévention et des Statistiques. DS : District Sanitaire. HMN : Health Metric Network. MSP : Ministère de la Santé et de la Prévention. OMD : Objectif du Millénaire pour le Développement. OMS : Organisation Mondiale de la Santé. PEV : Programme Elargi de Vaccination. PNDS : Plan National de Développement Sanitaire. QDS : Quartz Data System. RM : Région Médicale. RMS : Réseau de Métrologie Sanitaire. SIG : Système d'Information à des fins de Gestion. SIS : Système d'Information Sanitaire. SNIS : Service National de l'Information Sanitaire. UNFPA : Fonds des Nations Unies pour la Population. UNICEF : Fonds des Nations Unies pour l'Enfance. USAID : Agence des USA pour le Développement International.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "INTRODUCTION",
+      "texte": "Il est admis que l'information sanitaire constitue le levier central pour le management du secteur de la santé.  Le Gouvernement, les organismes publics, les acteurs et utilisateurs de tous bords ont, aujourd'hui plus qu'hier, un besoin de statistiques et d'informations sanitaires de qualité pour prendre des décisions opportunes et garantir l'information aux citoyens.  Cette demande croissante des données, liée à l'exigence de gestion axée sur les résultats, démontre à suffisance qu'il est impératif de mettre en place un dispositif adéquat de production des données puis de trouver des ressources suffisantes et des mécanismes appropriés pour accélérer le processus de son développement.  Les enseignements tirés de ces insuffisances ont servi d'inspiration pour dessiner les contours d'une ambition nouvelle envers le système d'information sanitaire.  Le fondement du plan stratégique est la production de donnée de qualité à temps et en quantité suffisante afin de faciliter la construction d'indicateurs valides à tous les niveaux et dans toutes les composantes du secteur pour le monitorage des actions sanitaires et la gestion des infrastructures de soins ou non.  La mise en œuvre de ce plan stratégique devrait permettre de disposer progressivement de données pour le pilotage de l'action sanitaire et servir de support à la promotion de la culture de l'information sanitaire et à la prise de décisions basées sur des statistiques sanitaires fiables.  Outre l'introduction et la section portant sur le contexte et la justification, le présent document est articulé autour de six parties : La première est une brève présentation du pays dans ses composantes physique et humaine ; la seconde fait un rappel des principaux résultats de l'analyse situationnelle consignés dans un document distinct ; la troisième partie est consacrée à la présentation du plan stratégique à travers ses principaux axes stratégiques ; la quatrième déroule la mise en œuvre tandis que la cinquième présente les éléments de suivi-évaluation ; la sixième et dernière partie est une articulation autour du document, relative au cadrage Budgétaire avec une proposition d'évaluation budgétaire minimale sur cinq (5) ans.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CONTEXTE ET JUSTIFICATION",
+      "texte": "Une mission composée du responsable des statistiques sanitaires au Bureau régional de l'OMS à Brazzaville et d'un représentant du Réseau de Métrologie sanitaire au siège de l'OMS à Genève a séjourné au Sénégal du 08 au 11 Août 2005. La mission a rencontré les responsables au Ministère de la Santé et de la Prévention Médicale, à la Direction de la Prévision et de la Statistique (MEF) et des Partenaires au développement qui sont l'OMS, l'UNICEF, l'USAID, la BM, l'UNFPA, la Coopération Belge. Le but de la mission était d'appuyer le Sénégal pour formuler une proposition au Réseau de Métrologie Sanitaire – Health Metrics Network (HMN) - pour l'évaluation rapide du SIS.  Elle a identifié comme principales forces : la création du SNIS, nouvelle structure rattachée au Cabinet du MSP ; la création de l'Agence Nationale de la Statistique et de la Démographie ; la création d'un observatoire national des conditions de vie des ménages et de la pauvreté (OCV) ; la production et diffusion régulière de l'annuaire statistique. Comme principales faiblesses, la mission a noté : l'absence de textes législatifs régissant la collecte, le traitement et la diffusion des informations sanitaires à travers le pays ; l'inexistence de plan directeur pour articuler au mieux les stratégies de développement de l'information sanitaire ; la multiplicité des sous systèmes d'information sanitaire et l'absence de coordination effective du système statistique national.  A la suite de cette mission, le Sénégal a bénéficié de l'appui technique et financier du Réseau de Métrologie Sanitaire pour l'élaboration de sa stratégie sectorielle de développement de la statistique. Le montant de l'appui financier annoncé pour le Sénégal s'élève à 91.000 dollars US dont la moitié, disponible depuis le mois de mars 2007, a permis la réalisation de l'évaluation du système d'information sanitaire.  Pour la mise en œuvre du plan d'action de l'évaluation du système d'information sanitaire et l'élaboration de la Stratégie Sectorielle de développement de statistiques sanitaires, un comité restreint composé par le Responsable du Service National de l'Information Sanitaire (Ministère de la Santé) et le Chef du Bureau de Suivi des Conditions de Vie des Ménages (Agence Nationale de la Statistique et de la Démographie = ex DPS) et le Point Focal OMS est mis en place pour piloter les activités.  Tout cet historique démontre à souhait la disponibilité et l'engagement des institutions internationales à soutenir les pays pour mettre en place des systèmes d'information sanitaire performants.  L'élaboration du Plan Stratégique fait suite à l'évaluation du SIS de 2009, cependant un léger retard a été noté et est dû à la non disponibilité de la totalité des ressources. Nonobstant ce retard, le processus d'élaboration a vu la participation des ressources humaines clé du secteur.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE I : PRESENTATION DU SENEGAL - 1. DONNEES GENERALES",
+      "texte": "Le Sénégal est situé à l'extrême Ouest du continent africain, entre 12,5 et 16,5 degrés de latitude Nord. Il couvre une superficie de 196 712 Km². Il est limité au Nord par la République Islamique de Mauritanie et à l'Est par le Mali, au Sud par la Guinée et la Guinée Bissau, à l'Ouest par l'Océan Atlantique.  La population est estimée à 12 855 155 habitants en 2011, soit une densité moyenne de 61.9 habitants au km². Toutefois, la dégradation des conditions de vie dans les zones rurales a favorisé d'importants flux migratoires vers les grandes villes, entraînant une grande disparité dans les niveaux d'urbanisation.  L'économie est basée essentiellement sur l'agriculture où 54 % de la population tirent leurs revenus. Le pays est malheureusement encore loin de l'auto suffisance alimentaire. L'agriculture comme l'élevage souffrent des aléas climatiques. La pêche par contre subit une forte expansion. C'est d'ailleurs le seul sous secteur où le Sénégal est auto suffisant sur le plan alimentaire.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Les Régions médicales du Sénégal et leurs districts sanitaires en 2010",
+          "description": "Carte du Sénégal découpée en régions médicales colorées différemment : Saint-Louis, Louga, Matam, Dakar, Thiès, Diourbel, Kaffrine, Tambacounda, Fatick, Kaolack, Ziguinchor, Sédhiou, Kolda, Kédougou. Carte confectionnée par le SNIS."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE I : PRESENTATION DU SENEGAL - 2. APERÇU SUR LE SYSTEME DE SANTE",
+      "texte": "Dans le cadre de la décentralisation, neuf domaines de compétences ont été transférés aux collectivités locales dont la santé (Loi 96-07 du 22 mars portant transfert des compétences aux régions, aux communes et aux communautés rurales et son décret d'application 96-1135 du 22 mars 1996).  Le système de santé du Sénégal est organisé selon une structure pyramidale à trois niveaux : central (ministère de la santé), intermédiaire (Régions Médicales) et périphérique appelé district sanitaire. Le district est considéré comme l'aire géographique opérationnelle dans le scénario de développement sanitaire et social au Sénégal. En 2010, le Sénégal compte 14 régions médicales et 75 districts sanitaires.  L'offre de soins épouse l'architecture de la pyramide sanitaire. Au sommet, l'hôpital constitue la référence, suivi du centre de santé au niveau intermédiaire et des postes de santé au niveau périphérique. Ce dispositif est complété par l'offre du secteur privé, la médecine traditionnelle et au niveau communautaire, par des cases de santé.  Pour les postes de santé, le chiffre 1 195 représente la compilation des postes de santé avec ou sans maternité et les maternités isolées.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1 : Principales infrastructures sanitaires du Sénégal par région (Source annuaire statistique 2009)",
+          "colonnes": ["Région", "Hôpitaux", "Centres de santé", "Postes de santé", "DPC", "Cases de santé"],
+          "lignes": [
+            {"Région": "DAKAR", "Hôpitaux": "9", "Centres de santé": "19", "Postes de santé": "222", "DPC": "12", "Cases de santé": "26"},
+            {"Région": "DIOURBEL", "Hôpitaux": "2", "Centres de santé": "6", "Postes de santé": "79", "DPC": "4", "Cases de santé": "69"},
+            {"Région": "KAFFRINE", "Hôpitaux": "0", "Centres de santé": "3", "Postes de santé": "44", "DPC": "3", "Cases de santé": "102"},
+            {"Région": "FATICK", "Hôpitaux": "1", "Centres de santé": "6", "Postes de santé": "82", "DPC": "9", "Cases de santé": "40"},
+            {"Région": "KAOLACK", "Hôpitaux": "1", "Centres de santé": "4", "Postes de santé": "81", "DPC": "5", "Cases de santé": "213"},
+            {"Région": "KEDOUGOU", "Hôpitaux": "1", "Centres de santé": "2", "Postes de santé": "20", "DPC": "2", "Cases de santé": "56"},
+            {"Région": "KOLDA", "Hôpitaux": "1", "Centres de santé": "2", "Postes de santé": "48", "DPC": "2", "Cases de santé": "160"},
+            {"Région": "LOUGA", "Hôpitaux": "1", "Centres de santé": "5", "Postes de santé": "81", "DPC": "1", "Cases de santé": "270"},
+            {"Région": "MATAM", "Hôpitaux": "1", "Centres de santé": "3", "Postes de santé": "66", "DPC": "", "Cases de santé": "27"},
+            {"Région": "SAINT LOUIS", "Hôpitaux": "2", "Centres de santé": "5", "Postes de santé": "116", "DPC": "2", "Cases de santé": "155"},
+            {"Région": "SEDHIOU", "Hôpitaux": "0", "Centres de santé": "2", "Postes de santé": "40", "DPC": "2", "Cases de santé": "54"},
+            {"Région": "TAMBACOUNDA", "Hôpitaux": "1", "Centres de santé": "7", "Postes de santé": "73", "DPC": "4", "Cases de santé": "89"},
+            {"Région": "THIES", "Hôpitaux": "3", "Centres de santé": "9", "Postes de santé": "126", "DPC": "18", "Cases de santé": "259"},
+            {"Région": "ZIGUINCHOR", "Hôpitaux": "2", "Centres de santé": "5", "Postes de santé": "95", "DPC": "12", "Cases de santé": "83"},
+            {"Région": "TOTAL", "Hôpitaux": "25", "Centres de santé": "78", "Postes de santé": "1195", "DPC": "76", "Cases de santé": "1603"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Pyramide de l'offre de soins au Sénégal",
+      "texte": "Missions des différents niveaux de la pyramide Sanitaire.  NIVEAU CENTRAL : Il conçoit les objectifs et les options stratégiques en santé. Il veille à : La mobilisation et l'utilisation des ressources ; L'acquisition des technologies traditionnelles et/ou modernes ; L'amélioration de la gestion.  NIVEAU INTERMEDIAIRE : Ce niveau sélectionne et adapte les techniques pour la mise en œuvre de la politique de santé et canalise l'expertise technique vers les Districts Sanitaires. La région médicale est chargée d'une mission permanente d'information, de coordination technique des structures sanitaires, de synthèse et de gestion administrative du personnel. La structure de dialogue du niveau régional est le fonds spécial régional pour la promotion de la santé.  NIVEAU PERIPHERIQUE : C'est l'échelon opérationnel du système national de santé. C'est ici que s'opère l'intégration des ressources pour rendre effective l'action sanitaire aux communautés, ménages et individus à travers diverses activités.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "diagramme",
+          "titre": "Pyramide de l'offre de soin au Sénégal",
+          "description": "Schéma pyramidal à quatre niveaux, du sommet à la base : Hôpitaux nationaux (EPS III) en rouge, Hôpitaux régionaux (EPS II) en orange, Centre de santé (EPS I) en jaune, Postes de santé en vert clair à la base."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE II : RAPPELS SUR L'ANALYSE DE LA SITUATION",
+      "texte": "L'analyse situationnelle de l'ensemble du dispositif national de production de l'information sanitaire a été réalisée sur la base de l'outil d'évaluation RMS, revu et adapté au contexte national.  L'évaluation du SIS avec l'outil RMS a couvert les 06 composantes ci-après : 1. Ressources (politique et planification / institution du SIS / ressources humaines et financements / infrastructures du SIS) ; 2. Indicateurs (taux spécifiques à la santé) ; 3. Sources (recensement, état civil, enquêtes des ménages, rapports sanitaires, système de surveillance, registres, rapports de services de santé, bases de données) ; 4. Gestion des données ; 5. Produits d'informations (taux de mortalité, prévalence VIH, fréquentations, accouchements assistés par les professionnels de santé, vaccination anti-rougeole, préservatifs, ratio des personnels de santé) ; 6. Dissémination et utilisation des données (politique et plaidoyer, analyse et utilisation des données, priorisation des interventions, allocations et ressources, mise en œuvre et action).  Au plan méthodologique, l'évaluation avait pour objectifs de collecter de façon directe, auprès des autorités sanitaires et statistiques des services centraux, des services des soins infirmiers des hôpitaux et des responsables sanitaires des districts de santé, des informations visant à évaluer le système d'information sanitaire sous une double orientation : l'existence des composantes du SIS ; la fonctionnalité de ces composantes.  L'évaluation du RMS a révélé un dispositif caractérisé par de nombreuses défaillances qui le rendent inapte à satisfaire efficacement les besoins des utilisateurs et des décideurs.  Les différents résultats issus de cette analyse ont été confirmés dans leurs tendances par des évaluations complémentaires effectuées sur la base d'outils différents. Les constats dégagés au plan national, malgré quelques différences d'intensité, sont identiques d'une région à l'autre.  En outre, leur rapprochement avec les conclusions d'études similaires menées antérieurement, a montré que les problèmes évoqués sont restés tels quels, certains ayant même, hélas, pris de l'ampleur avec l'effet du temps (Cas des ressources, des sources de données).  Les constats majeurs dégagés de l'évaluation peuvent ainsi être regroupés sous les deux grands volets suivants : • Absence et ou insuffisance des ressources (matérielle, humaines et financières). • Dysfonctionnement et irrégularité pour ce qui est du processus/mise en œuvre.  Selon les grandes lignes d'intérêt liées aux composantes du SIS, ces constats se résument en constats majeures comme suit :  1. En politique et planification : La législation du pays n'est pas à jour et n'offre pas de cadre formel pour la gestion de l'information sanitaire. L'absence de mécanismes cohérents et formels de coordination et/ou de collaboration entre les différents producteurs de statistiques sanitaires.  2. En ressources humaines et financement : Le Ministère de la santé ne dispose pas d'assez de compétences pointues dans les sciences liées à l'information sanitaire, notamment les statistiques, démographie, l'informatique et le système d'information.  3. En ce qui concerne les infrastructures du SIS : On note une vétusté et généralement l'étroitesse des infrastructures utilisées dans le cadre de la production des informations sanitaires.  4. Pour ce qui est des outils du SIS : Il existe une multiplicité des supports de collecte de données en raison d'un nombre élevé des programmes prioritaires de santé. Les formulaires de transmission sont indisponibles ; les ordinateurs, bien qu'assez disponibles, ont des spécifications techniques dépassées ; l'entretien et la maintenance des ordinateurs sont insuffisants et irréguliers. Les supports de base des TIC (accès Internet) existent plus ou moins mais sont instables/fragiles.  5. Pour les sources de données : Comme avec les précédentes opérations, des questions sur la mortalité ont été introduites dans le dernier recensement. Il existe une multiplicité des sources de données avec très souvent des informations contradictoires.  6. Les problèmes liés aux Ressources humaines : On note une insuffisance en qualité et en quantité des ressources humaines et ceci est plus marqué dans les régions médicales et les districts sanitaires. On relève par ailleurs l'absence ou la faible valorisation du personnel chargé de la production et/ou du traitement des statistiques sanitaires.  7. Pour ce qui est des statistiques d'état-civil : En matière de collecte des données, l'état-civil fonctionne assez mal : l'enregistrement des cas de décès est irrégulier. L'information sur les causes de décès est enregistrée, mais pas systématiquement selon la Classification Internationale des Maladies (CIM).  8. Les dossiers administratifs de santé : Le système d'information centré sur les données des services de santé est en restructuration. Les compétences impliquées au niveau des districts ont un besoin de formation spécialisée. Toutefois, le sous système de la surveillance épidémiologique semble bien fonctionner (bonne maîtrise des définitions de cas par les personnels, taux élevé de complétude et de promptitude de transmission des rapports et bulletins hebdomadaires).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE III : LE PLAN STRATEGIQUE - 1. BUT",
+      "texte": "Rendre plus performant le Système d'Information Sanitaire.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE III : LE PLAN STRATEGIQUE - 2. VISION",
+      "texte": "Le Plan Stratégique du Système d'Information Sanitaire du Sénégal s'inscrit dans la vision du Gouvernement au travers de l'Agence Nationale de la Statistique et de la Démographie qui dispose d'un Plan National de Développement des Statistiques et recommande au sectoriel d'élaborer un Plan Sectoriel de Développement des Statistiques. Le plan repose sur un cadre cohérent combinant structures de coordination et paquet d'outils harmonisés d'aide au management de la santé.  Il vise un système performant capable de garantir en permanence la disponibilité de l'information sanitaire de qualité et son utilisation effective dans la prise de décisions.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE III : LE PLAN STRATEGIQUE - 3. OBJECTIF GENERAL",
+      "texte": "Renforcer la disponibilité en temps réel, la qualité, la quantité et l'utilisation régulière de l'information sanitaire.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE III : LE PLAN STRATEGIQUE - 4. OBJECTIFS SPECIFIQUES",
+      "texte": "Les objectifs spécifiques peuvent être décryptés à travers les grands axes visant le renforcement du SIS. La mise en œuvre des activités liée à ces objectifs va permettre de : 1. Améliorer le cadre institutionnel en veillant à la fonctionnalité et à la cohérence du SIS de façon holistique ; 2. Harmoniser les procédures de collecte, de traitement et d'analyse des données sanitaires dans le sens d'une meilleure synergie entre les différents acteurs ; 3. Accroître la disponibilité de données intégrées pour un suivi et évaluation efficace des interventions de santé ; 4. Densifier le dispositif national de production de l'information sanitaire ; 5. Améliorer la qualité des décisions prises sur la base de l'évidence (santé de la mère, de l'adolescent, lutte contre la maladie, promotion de la santé et le renforcement du système de santé) ; 6. Contribuer à l'amélioration de la qualité du suivi des programmes et de la mise à disposition de données valides aux Partenaires Techniques Financiers, au Ministère de l'Economie et des Finances.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "AXE STRATEGIQUE 1 : RENFORCEMENT DU CADRE INSTITUTIONNEL",
+      "texte": "(Politique, planification, Coordination, Financement).  Produit : Un cadre institutionnel d'organisation et une gestion cohérentes du SIS aux plans administratif, technique et financier est mis en place.  A) Objectifs spécifiques : 1. Doter le système d'information sanitaire de textes et de procédure appropriés pour toutes les opérations de collecte et de diffusion de l'information sanitaire. 2. Elaborer le cadre organique du SIS. 3. Doter tous les cinq ans le système d'un plan stratégique national.  B) Activités liées aux objectifs spécifiques :  Objectif Spécifique 1 : Doter le système d'information sanitaire de textes et de procédures appropriés pour toutes les opérations de collecte et de diffusion de l'information sanitaire. 1. Procéder à une revue documentaire (Rechercher les textes existants réglementant le SIS et les structures connexes), 2. Actualiser les textes existants, 3. Définir un cadre règlementaire de gestion de l'information sanitaire (Tenir compte de la confidentialité, du stockage/archivage et du droit de réserve), 4. Multiplier ces textes réglementaires, 5. Diffuser ces textes auprès des différents acteurs, 6. Elaborer un Projet de Code des procédures relatives à la collecte, l'exploitation et la transmission des données en collaboration, 7. Valider le projet de Code des procédures (implication de personne es qualité), 8. Adopter le Code des procédures par les acteurs, 9. Diffuser le Code des procédures auprès de tous les partenaires et intervenants.  Objectif Spécifique 2 : Elaborer le cadre organique du système d'information sanitaire. 1. Elaborer un manuel d'organisation global du SIS-Sénégal, 2. Décrire le mode de fonctionnement du SIS et de son animation, 3. Identifier les principales sources d'alimentation du SIS, 4. Identifier les canaux de diffusion permanente des résultats du SIS, 5. Identifier les différents niveaux d'articulation du SIS avec la pyramide sanitaire, 6. Définir des instances de coordination, des mécanismes de suivi et d'animation du SIS à tous les niveaux, 7. Décrire le rôle et mission de la structure centrale chargée de la coordination et de l'animation permanente du SIS, 8. Identifier les différents acteurs intervenant dans le SIS, 9. Définir les rôles des différents acteurs du SIS, 10. Définir un cadre et mécanisme de collaboration avec les partenaires (sectoriel et stratégiques), 11. Elaborer un manuel des procédures de toutes les opérations de collecte, de transmission et de diffusion des informations sanitaires.  Objectif Spécifique 3 : Doter tous les cinq ans le système d'un plan stratégique national. 1. Evaluer le plan stratégique national du SIS-Sénégal 2012-2016 (évaluation à mi-parcours et évaluation finale). 2. Elaborer un nouveau plan Stratégique national du SIS-Sénégal 2017-2021.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "AXE STRATEGIQUE 2 : LE DISPOSITIF DE PRODUCTION DES INFORMATIONS SANITAIRES",
+      "texte": "A) Objectif général : Mettre en place selon un principe d'harmonisation, une meilleure disposition permettant d'accroître la productivité du Système d'Information Sanitaire.  B) Objectifs spécifiques : 1. Définir les besoins en information par niveau ; 2. Mettre à la disposition de toutes les structures sanitaires à tous les niveaux des outils harmonisés/intégrés de collecte, de traitement et de transmission des données ; 3. Doter les structures sanitaires à tous les niveaux des infrastructures, des équipements et des logiciels adaptés ; 4. Appliquer les normes et méthodes de collecte des données ; 5. Mettre en place un mécanisme de motivation à la production de l'information sanitaire ; 6. Rendre disponibles les ressources humaines nécessaires selon les profils ; 7. Renforcer les capacités opérationnelles des intervenants à tous les niveaux ; 8. Mettre à contribution toutes les institutions de production de l'information sanitaire.  C) Activités liées aux objectifs spécifiques :  Objectif spécifique 1 : Définir les besoins en information par niveau. 1. Identifier les types d'informations, 2. Identifier les sources d'information par niveau.  Objectif spécifique 2 : Mettre à la disposition de toutes les structures sanitaires du MSP et secteurs apparentés (éducation, défense, agriculture…), à tous les niveaux des outils harmonisés/intégrés de collecte, de traitement et de transmission des données. 1. Produire avec les structures sanitaires tous les outils harmonisés / intégrés de collecte, de traitement et de transmission des données ; 2. Valider les outils de collecte et de transmission ; 3. Diffuser dans les structures sanitaires tous les outils harmonisés / intégrés de collecte, de traitement et de transmission des données.  Objectif spécifique 3 : Doter les structures sanitaires à tous les niveaux d'infrastructures, d'équipements, de logiciels adaptés, et assurer leur maintenance. 1. Faire l'état des lieux à tous les niveaux du SIS ; 2. Aménager/réhabiliter un espace approprié dans toutes les structures sanitaires pour la collecte, le traitement et la transmission des données ; 3. Doter les structures du système d'informations sanitaires du matériel bureautique et informatique approprié, et logiciels adaptés ; 4. Acquérir les équipements ; 5. Mettre en place un planning de maintenance des matériels et logiciels.  Objectif spécifique 4 : Assurer l'utilisation des normes et méthodes de collectes de données. 1. Rendre disponibles les normes et méthodes de collecte des données, (Exp. : la CIM, surveillance épidémiologique des maladies,...) 2. Appliquer la périodicité de collecte, traitement et transmission des données, 3. Mettre à contribution les sources des données, 4. Utiliser les méthodes de collecte validées.  Objectif spécifique 5 : Mettre en place des mécanismes de motivation à la production de l'information sanitaire. 1. Valoriser le profil de carrière du personnel, 2. Impliquer le personnel dans les enquêtes de grande envergure sur les populations, 3. Superviser régulièrement le personnel du système d'informations sanitaires à tous les niveaux, 4. Développer un système de motivation durable par les primes.  Objectif spécifique 6 : Renforcer les capacités opérationnelles des intervenants à tous les niveaux. 1. Recruter le personnel spécialisé par niveau, 2. Former le personnel des différentes structures d'intervention, 3. Recycler les intervenants en place, 4. Encourager les voyages d'études et d'échanges.  Objectif spécifique 7 : Améliorer les statistiques d'Etat civil. 1. Veiller à l'harmonisation des procédures dans les lieux de collecte des données, 2. Collecter et rendre disponible les données (naissances, décès, causes de décès…).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "AXE STRATEGIQUE 3 : LA GESTION DES DONNEES",
+      "texte": "A) Objectif général : Redéfinir dans le sens d'une plus grande efficacité, des mécanismes de gestion intégrée des données à tous les niveaux.  B) Objectifs spécifiques : 1. Mettre en place des logiciels spécifiques et conviviaux pour le traitement des données du système de santé, 2. Mettre en place un mécanisme d'assurance continue de la qualité des données, 3. Renforcer la culture de l'Information sanitaire à tous les niveaux, 4. Actualiser les données de la Carte Sanitaire, 5. Assurer la double circulation (transmission et feedback) des données, 6. Renforcer les capacités des intervenants dans la production et la gestion documentation, la conservation et l'archivage des données.  C) Activités liées aux objectifs spécifiques :  Objectif spécifique 1 : Mettre en place des logiciels spécifiques pour le traitement des données du système de santé. Rendre disponibles à l'utilisation, selon les niveaux, des logiciels spécifiques et conviviaux.  Objectif spécifique 2 : Mettre en place un mécanisme d'assurance continue de la qualité des données. 1. Spécifier dans le Code de procédures les postes et responsabilités de reporting et de gestion, 2. Spécifier les procédures de stockage, d'actualisation et d'archivage des données, 3. Elaborer les procédures de validation sous le contrôle de la structure en charge du SIS, 4. Etablir la grille de lecture de la performance des districts, 5. Former le personnel en procédure d'archivage de données, 6. Valider les données á tous les niveaux du SIS (District, Région, Niveau Central).  Objectif spécifique 3 : Renforcer la culture de l'Information sanitaire à tous les niveaux. 1. Introduire les modules sur les SIS dans la formation initiale du personnel de santé, 2. Valoriser les activités du SIS auprès du personnel de Santé, 3. Prendre les décisions à tout niveau sur la base des données du SIS, 4. Associer les intervenants du SIS dans le processus gestionnaire à tous les niveaux, 5. Sensibiliser le personnel et les responsables de Santé à tous les niveaux sur l'importance de l'Information sanitaire.  Objectif spécifique 4 : Actualiser les données de la Carte Sanitaire. 1. Identifier les données manquantes de la Base, 2. Intégrer les nouveaux éléments dans la Base, 3. Exploiter les données intégrant les éléments nouveaux, 4. Diffuser la Carte sanitaire actualisée.  Objectif spécifique 5 : Assurer la double circulation (transmission et feedback) des données. 1. Actualiser et diffuser les circuits de transmission de données existants, 2. Faire le feed-back à tous les niveaux.  Objectif spécifique 6 : Renforcer les capacités en matière de documentation, de conservation et d'archivage des données. 1. Former / recycler le personnel des différentes structures d'intervention à la documentation, 2. Créer des structures de documentation et d'archivage à différent niveau, 3. Acquérir le matériel d'archivage adéquat, 4. Utiliser les technologies nouvelles d'archivage (exemple de Toolkit).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "AXE STRATEGIQUE 4 : LES PRODUITS DE L'INFORMATION",
+      "texte": "A) Objectif général : Assurer, dans la pérennité, une plus grande production documentaire de qualité au plan de l'information sanitaire.  B) Objectifs spécifiques : 1. Elaborer tous les indicateurs prioritaires du système de santé, 2. Mettre en œuvre la méthodologie harmonisée de collecte de données pour la production des « extrants » majeurs du système de santé, 3. Assurer le suivi des indicateurs en général et de performance en particulier.  C) Activités liées aux objectifs spécifiques :  Objectif spécifique 1 : Elaborer tous les indicateurs du SIS. 1. Passer en revue tous les indicateurs du SIS, 2. Constituer une liste d'indicateurs pouvant satisfaire les attentes de toutes les parties prenantes, 3. Constituer un fichier central de tous les indicateurs prioritaires du système de santé, et le mettre à la disposition des acteurs des différents niveaux de la pyramide.  Objectif spécifique 2 : Mettre en œuvre la méthodologie harmonisée de collecte de données pour la production des extrants majeurs du système de santé. 1. Promouvoir la concertation et le travail en équipe (Task force…), 2. Créer un groupe de travail qui fait la revue des méthodes de collecte et de production des extrants majeurs, 3. Passer périodiquement en revue les méthodes utilisées.  Objectif spécifique 3 : Assurer le suivi des indicateurs en général et de performance en particulier. 1. Mettre en place une équipe de supervision pour améliorer la qualité des indicateurs du SIS, 2. Evaluer périodiquement le niveau d'atteinte des indicateurs.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "AXE STRATEGIQUE 5 : LA PLATE-FORME DE PARTAGE ET D'UTILISATION DE L'INFORMATION SANITAIRE",
+      "texte": "A) Objectif général : Développer de façon durable entre producteurs et utilisateurs une plateforme de partage, de diffusion et d'utilisation des informations sanitaires.  B) Objectifs spécifiques : 1. Mettre en place un réseau national de l'Information, 2. Mettre en place un réseau intra services de l'Information Sanitaire, 3. Actualiser régulièrement le répertoire des intervenants du SIS, 4. Définir la fréquence et les mécanismes de diffusion des informations sanitaires, 5. Diffuser périodiquement les Informations synthétisées auprès des différents acteurs concernés, 6. Institutionnaliser le cadre de collaboration des parties prenantes, 7. Promouvoir l'utilisation de l'Information Sanitaire à tous les niveaux.  C) Activités liées aux objectifs spécifiques :  Objectif spécifique 1 : Mettre en place un réseau national de l'Information Sanitaire. 1. Identifier les différents intervenants et partenaires du SIS, 2. Etablir une interconnexion entre le MSP et les autres intervenants (autres ministère, secteur privé etc.…..), 3. Elaborer une charte du réseau pour les acteurs du SIS, 4. Animer le réseau, 5. Alimenter régulièrement le site web du MSP, 6. Réserver sur le site web du MSP un espace propre au SIS.  Objectif spécifique 2 : Mettre en place un réseau intra services de l'Information Sanitaire. 1. Etablir une interconnexion réactive entre le SNIS, les services en charge du SIS (niveaux central et opérationnel), 2. Etablir un cadre de concertation entre les acteurs du SIS.  Objectif spécifique 3 : Actualiser régulièrement le répertoire des intervenants du SIS. Mettre à jour périodiquement la liste des intervenants du SIS.  Objectif spécifique 4 : Définir la fréquence et les mécanismes de diffusion des informations sanitaires. 1. Identifier les différents acteurs concernés, 2. Identifier les canaux de diffusion par niveau, 3. Etablir un cadre de concertation pour déterminer la fréquence de production et de diffusion de l'information.  Objectif spécifique 5 : Diffuser périodiquement les Informations synthétisées auprès des différentes acteurs concernés. 1. Produire et Diffuser périodiquement un bulletin de publication des informations synthétisées, 2. Produire et diffuser l'annuaire statistique de la santé, 3. Rendre plus accessible l'information (affichage, bibliothèque, centre de documentation, site web etc.).  Objectif spécifique 6 : Promouvoir l'utilisation de l'Information pour la prise de décision. 1. Utilisation quotidienne de l'information au niveau opérationnel, 2. Intégrer dans la grille de supervision un item sur le SIS, 3. Encourager la recherche opérationnelle par niveau, 4. Utiliser les Comptes Nationaux de la Santé, 5. Faire une révision du rapport d'activités à chaque niveau de la pyramide.  L'ensemble des éléments sus-déroulés sont mis en articulation dans le cadre logique ci-après.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Cadre logique - AXE STRATEGIQUE 1 : Renforcement du cadre institutionnel",
+      "texte": "Objectif général : Améliorer le cadre institutionnel d'organisation et une gestion cohérentes du SIS aux plans administratif, technique et financier.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Cadre logique AXE 1 : Renforcement du cadre institutionnel",
+          "colonnes": ["Objectif spécifique", "Activités"],
+          "lignes": [
+            {"Objectif spécifique": "OS 1: Doter le système d'information sanitaire de textes et de procédures appropriés pour toutes les opérations de collecte et de diffusion de l'information sanitaire.", "Activités": "Procéder à une revue documentaire (Rechercher les textes existants réglementant le SIS et les structures connexes). Actualiser les textes existants. Définir un cadre règlementaire de gestion (tenir compte de la confidentialité, du stockage/archivage). Multiplier ces textes réglementaires. Diffuser ces textes auprès des différents acteurs. Elaborer un Projet de Code des procédures relatives à la collecte, l'exploitation et la transmission des données en collaboration. Valider le projet de Code des procédures. Adopter le Code des procédures par les acteurs. Diffuser le Code des procédures auprès de tous les partenaires et intervenants."},
+            {"Objectif spécifique": "OS 2 : Elaborer le cadre organique du système d'information sanitaire.", "Activités": "Elaborer un manuel d'organisation global du SIS-Sénégal. Elaborer un manuel des procédures de toutes les opérations de collecte, de transmission et de diffusion des informations sanitaires."},
+            {"Objectif spécifique": "OS 3 : Doter tous les cinq ans le système d'un plan stratégique national.", "Activités": "Evaluer le plan stratégique national du SIS-Sénégal 2012-2016 (évaluation à mi-parcours et évaluation finale). Elaborer un nouveau plan Stratégique national du SIS-Sénégal 2017-2021."}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Cadre logique - AXE STRATEGIQUE 2 : Le dispositif de production de l'information sanitaire",
+      "texte": "Objectif général : Mettre en place selon le principe d'harmonisation, un meilleur dispositif permettant d'accroitre la productivité du système d'information sanitaire.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Cadre logique AXE 2 : Le dispositif de production de l'information sanitaire",
+          "colonnes": ["Objectif spécifique", "Activités"],
+          "lignes": [
+            {"Objectif spécifique": "Définir les besoins en information par niveau", "Activités": "Identifier les types d'informations. Identifier les sources d'information."},
+            {"Objectif spécifique": "Mettre à la disposition de toutes les structures sanitaires à tous les niveaux des outils harmonisés/intégrés de collecte, de traitement et de transmission des données", "Activités": "Produire avec les structures sanitaires tous les outils harmonisés/intégrés de collecte, de traitement et de transmission des données. Valider les outils de collecte et de transmission. Diffuser dans les structures sanitaires tous les outils harmonisés/intégrés de collecte, de traitement et de transmission des données."},
+            {"Objectif spécifique": "Doter les structures sanitaires à tous les niveaux des infrastructures, des équipements et des logiciels adaptés", "Activités": "Faire l'état des lieux à tous les niveaux du SIS. Aménager/réhabiliter un espace approprié dans toutes les structures sanitaires pour la collecte, le traitement et la transmission des données. Doter les structures du système d'information sanitaires du matériel bureautique et informatique approprié, et logiciels adaptés. Acquérir les équipements. Mettre en place un planning de maintenance."},
+            {"Objectif spécifique": "Assurer l'utilisation des normes et méthodes de collecte des données", "Activités": "Rendre disponibles les normes et méthodes de collecte des données. Appliquer la périodicité de collecte, traitement et transmission des données. Mettre à contribution les sources de données. Utiliser les méthodes de collecte validées."},
+            {"Objectif spécifique": "Mettre en place un mécanisme de motivation à la production de l'information sanitaire", "Activités": "Valoriser le profil de carrière du personnel. Impliquer le personnel dans les enquêtes de grande envergure. Superviser régulièrement le personnel. Développer un système de motivation durable."},
+            {"Objectif spécifique": "Rendre disponibles les ressources humaines nécessaires selon les profils et renforcer les capacités opérationnelles des intervenants à tous les niveaux", "Activités": "Recruter le personnel spécialisé par niveau. Former le personnel des différentes structures. Recycler les intervenants en place. Encourager les voyages d'études et d'échanges."},
+            {"Objectif spécifique": "Mettre à contribution toutes les institutions de production de l'information sanitaire pour améliorer les statistiques d'état civil", "Activités": "Collecter et rendre disponible les données (naissances, décès, causes de décès…)."}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Cadre logique - AXE STRATEGIQUE 3 : La gestion des données",
+      "texte": "Objectif général : Redéfinir dans le sens d'une plus grande efficacité, des mécanismes de gestion intégrée des données à tous les niveaux.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Cadre logique AXE 3 : La gestion des données",
+          "colonnes": ["Objectif spécifique", "Activités"],
+          "lignes": [
+            {"Objectif spécifique": "Mettre en place des logiciels spécifiques pour le traitement des données du système de santé", "Activités": "Rendre disponibles à l'utilisation, selon les niveaux, des logiciels spécifiques et conviviaux."},
+            {"Objectif spécifique": "Mettre en place un mécanisme d'assurance continue de la qualité des données", "Activités": "Spécifier dans le Code de procédures les postes et responsabilités de reporting et de gestion. Spécifier les procédures de stockage, d'actualisation et d'archivage des données. Elaborer les procédures de validation. Etablir la grille de lecture de la performance des districts. Former le personnel en procédure d'archivage. Valider les données à tous les niveaux du SIS (District, Région, Niveau Central)."},
+            {"Objectif spécifique": "Renforcer la culture de l'Information sanitaire à tous les niveaux", "Activités": "Introduire les modules sur les SIS dans la formation initiale du personnel de santé. Valoriser les activités du SIS. Prendre les décisions sur la base des données du SIS. Associer les intervenants du SIS dans le processus gestionnaire. Sensibiliser le personnel et les responsables de santé sur l'importance de l'Information sanitaire."},
+            {"Objectif spécifique": "Actualiser les données de la Carte Sanitaire", "Activités": "Identifier les données manquantes de la Base. Intégrer les nouveaux éléments dans la Base. Exploiter les données intégrant les éléments nouveaux. Diffuser la Carte sanitaire actualisée."},
+            {"Objectif spécifique": "Assurer la double circulation (transmission et feedback) des données", "Activités": "Actualiser et diffuser les circuits de transmission de données existants. Faire le feed-back à tous les niveaux."},
+            {"Objectif spécifique": "Renforcer les capacités en matière de documentation, de conservation et d'archivage des données", "Activités": "Former/recycler le personnel des différentes structures d'intervention à la documentation. Créer des structures de documentation et d'archivage. Acquérir le matériel d'archivage adéquat. Utiliser les technologies nouvelles d'archivage."},
+            {"Objectif spécifique": "Assurer en qualité, en quantité et dans la pérennité, une plus grande production", "Activités": "Elaborer tous les indicateurs pertinents du SIS. Passer en revue les indicateurs. Constituer une liste critique d'indicateurs satisfaisant toutes les parties prenantes. Constituer un fichier central de tous les indicateurs et le mettre à disposition des niveaux."}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Cadre logique - AXE STRATEGIQUE 4 : Les produits de l'information",
+      "texte": "Objectif général : Assurer dans la pérennité, une plus grande production documentaire de qualité au plan de l'information sanitaire.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Cadre logique AXE 4 : Les produits de l'information",
+          "colonnes": ["Objectif spécifique", "Activités"],
+          "lignes": [
+            {"Objectif spécifique": "Assurer le suivi des indicateurs en général et de performance en particulier", "Activités": "Mettre en place une équipe de supervision pour améliorer la qualité des indicateurs du SIS. Evaluer périodiquement le niveau d'atteinte des indicateurs."},
+            {"Objectif spécifique": "Mettre en œuvre la méthodologie harmonisée de collecte de données pour la production des extrants majeurs du système de santé", "Activités": "Promouvoir la concertation et le travail en équipe. Créer un groupe de travail qui fait la revue des méthodes de collecte et de production. Passer périodiquement en revue les méthodes utilisées."},
+            {"Objectif spécifique": "Elaborer tous les indicateurs prioritaires du système de santé", "Activités": "Passer en revue tous les indicateurs. Constituer une liste d'indicateurs satisfaisant toutes les parties prenantes. Constituer un fichier central des indicateurs prioritaires du système de santé, mis à disposition des différents niveaux de la pyramide."}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Cadre logique - AXE STRATEGIQUE 5 : La plate-forme de partage et d'utilisation de l'information sanitaire",
+      "texte": "Objectif général : Développer de façon durable entre producteurs et utilisateurs une plateforme de partage, de diffusion et d'utilisation des informations sanitaires.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Cadre logique AXE 5 : La plate-forme de partage et d'utilisation de l'information sanitaire",
+          "colonnes": ["Objectif spécifique", "Activités"],
+          "lignes": [
+            {"Objectif spécifique": "Mettre en place un réseau national de l'Information Sanitaire", "Activités": "Identifier les différents intervenants et partenaires du SIS. Etablir une interconnexion entre le MSP et les autres intervenants (autres ministères, secteur privé). Elaborer une charte du réseau pour les acteurs du SIS. Animer le réseau. Alimenter régulièrement le site web du MSP. Réserver sur le site web du MSP un espace propre au SIS."},
+            {"Objectif spécifique": "Mettre en place un réseau intra services de l'Information Sanitaire", "Activités": "Etablir une interconnexion réactive entre le SNIS et les services en charge du SIS (niveaux central et opérationnel). Etablir un cadre de concertation entre les acteurs du SIS."},
+            {"Objectif spécifique": "Actualiser régulièrement le répertoire des intervenants du SIS", "Activités": "Mettre à jour périodiquement la liste des intervenants du SIS."},
+            {"Objectif spécifique": "Définir la fréquence et les mécanismes de diffusion des informations sanitaires", "Activités": "Identifier les différents acteurs concernés. Identifier les canaux de diffusion par niveau. Etablir un cadre de concertation pour déterminer la fréquence de production et de diffusion de l'information."}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE IV : MISE EN OEUVRE",
+      "texte": "« La capacité de mettre en œuvre une stratégie est plus importante que la qualité de la stratégie elle-même » Robert S. Kaplan et David P. Norton.  La réussite de la mise en œuvre est une exigence clé dans le déroulement du processus lié à ce plan stratégique.  La réussite de la mise en œuvre de ce plan stratégique, passe par sa diffusion, l'appropriation, et la prise en compte par tous les acteurs du SIS, des recommandations faites à l'intérieur. Celle-ci tient largement compte des réalités du contexte et de la faisabilité des activités envisagées.  Pour garantir la fonctionnalité du système, l'implication de tous les acteurs est essentielle.  Au niveau opérationnel, les RM et les DS, les responsables de structures doivent trouver des mécanismes pour intéresser et impliquer la majorité des personnels de santé (rotation des responsabilités, travaux en équipes, points focaux interchangeables…).  De ce point de vue, des dispositions seront prises pour rompre définitivement avec la pratique jusque là en cours qui consiste à affecter aux activités du SIS, des personnels « récalcitrants » ou « indésirables », sous le motif non avoué d'une sanction disciplinaire.  La cohérence doit être renforcée à travers un atelier annuel de concertation/évaluation entre responsables des structures impliquées dans la production des données, issues tant du MSP que des ministères apparentés et du secteur privé.  L'efficacité de la mise en œuvre passe par un appui effectif au renforcement du système de santé lui-même, notamment en ce qui concerne l'intégration des activités au niveau opérationnel.  L'intégration des activités contribue à conférer aux travaux du SIS non pas un caractère facultatif, mais contraignant au même titre que toutes les autres ; d'autant plus qu'il est certain que toutes interventions/prestations en matière de santé doivent être documentées.  C'est dire que des mesures incitatives seront envisagées sur un mode évolutif pour encourager l'effort, reconnaître le mérite et valoriser un personnel œuvrant jusque là sans grande visibilité.  Les mesures, applicables à tous les niveaux, seront de divers ordres ; entre autres : - motivations administratives (lettres d'encouragement ou félicitation, distinctions honorifiques…) - motivation matérielle dans le sens de l'amélioration du cadre de travail (réhabilitation des bureaux, mobiliers de qualité, équipements performants, motos, carburant, formation…) - octroi de quelques primes financières : ces avantages financiers pourraient, dans un premier temps être ponctuels, puis se systématiser progressivement, selon les ressources disponibles.  Il existe des primes d'écran pour personnel fortement impliqué dans les travaux informatiques. Ces primes se limitent au niveau central et intègrent parfois des personnels hors cible au détriment d'autres experts.  A l'inverse des éléments de motivation, diverses mesures sont également prévues (lettre de sanction, de relance, avertissement, suppression de prime…) contre de graves manquements à la responsabilité professionnelle (lenteurs dans l'exécution ou la transmission des activités, non respect des échéances, travaux peu fiables…).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE V : SUIVI ET EVALUATION",
+      "texte": "1. Approche stratégique Ce volet est essentiel pour pérenniser la fonctionnalité du SIS. Cela passe par la mise en place d'un dispositif de M & E systématique, continu mais simple, dont les mécanismes permettront de suivre les intrants, processus et résultats de ce plan de renforcement du SIS. Le tout dans une suite logique avec le suivi évaluation afin d'atteindre les OMD.  La supervision et le suivi des activités du SIS feront partie du processus de supervision et intégré aux autres activités. Le suivi est programmé pour les structures sanitaires conformément au schéma classique : Supervision mensuelle de l'aire par le district, trimestrielle du district par le niveau régional, semestrielle de la région par le niveau central.  Les activités cibleront les volets essentiels des divers domaines d'intervention ; elles s'appuieront sur les indicateurs prioritaires (intrants et surtout processus et résultats) mesurables et quantifiables sans exclure, de possibles recours à des évaluations qualitatives.  2. Outils et reporting Les outils de suivi évaluation (grille d'évaluation...) sont harmonisés dans le même esprit que les outils de collecte des données des formations sanitaires. Les besoins en information des communautés seront pris en compte. Ils seront modulés en fonction des limites en ressources.  Des outils de reporting harmonisés (canevas de rapport, résumés, rapport périodique…) pour les présentations formelles et la communication de l'information seront élaborés par niveau puis vulgarisés.  La collecte des données va privilégier l'approche participative, avec la participation du personnel et, le cas échéant, celle des communautés ; avec possibilité d'éventuelles évaluations externes ou conjointes.  Les équipes d'évaluation seront organisées autour des partenaires et impliqueront les personnels des structures de production de l'information sanitaire, dans et hors du MSP.  En rapport avec l'amélioration de ces aspects, les résultats de la mission seront valorisés, en particulier les travaux sur le PISE, les formulaires de transfert des données et les indicateurs.  L'évaluation des activités du SIS sera intégrée dans les plans d'action annuels et pluriannuels des différents niveaux en particulier ceux du district.  Elle se fera selon une périodicité identique à la supervision, avec rapport à la hiérarchie.  En rapport avec les besoins en financement, le suivi évaluation sera une composante à part entière du plan de développement sanitaire. Un plan intégré de suivi évaluation clairement budgétisé sera incorporé dans les différents plans d'actions.  3. Utilisation de l'information Cette question est capitale, tant il est vrai que l'utilité manifeste de l'information conditionne largement la survie du processus.  Cette question sera de fait, placée au centre des travaux d'analyse de l'information. Elle couvrira deux aspects : 1) la prise de décision pour les interventions, 2) le suivi des interventions découlant de cette décision.  - Les données des rapports seront stockées et serviront de bases factuelles à la planification de l'année suivante et aux évaluations futures. - L'information sera utilisée à : la relecture critique des résultats enregistrés (révision/modification ou abandon des activités menées) ; l'organisation des échanges avec les parties prenantes ; l'animation des sessions d'apprentissage pour consolider les expériences.  L'option majeure consistera à privilégier l'utilisation de l'information sur place, au lieu de collecte, pour répondre au souci de responsabilisation du niveau périphérique, en droite ligne de l'objectif de viabilisation du district de santé.  En ce sens, les activités de renforcement de la capacité de gestion et de planification des districts seront intensifiées.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE VI : CADRAGE/EVALUATION BUDGETAIRE SUR CINQ ANS",
+      "texte": "A propos de l'approche de l'évaluation, la proposition de budget ci-après, articulée sur 05 ans et relative au renforcement du SIS et du suivi-évaluation s'inspire, entre autres, des travaux de consultation sur l'élaboration d'un plan intégré de suivi évaluation et son plan d'action budgétisé sur 5 ans.  De fait, elle s'appuie sur les résultats de l'analyse situationnelle combinés à ceux de l'enquête complémentaire.  L'examen des problèmes relevés a servi de base à l'estimation des écarts et permis de dégager des ordres de grandeur pour les besoins à couvrir.  Cette proposition de budget, revue et corrigée, s'élève à un montant total de 3 094 000 000 FCFA (trois milliards quatre vingt quatorze millions de francs CFA).  Plus « réaliste » et englobant, elle essaye de conjuguer les éléments de l'existant aux réalités propres du secteur santé et aux diverses contraintes de l'environnement.  En termes de priorisation, deux aspects figurent au fronton des priorités : 1) le renforcement du cadre institutionnel en couplage avec la formation à la gestion du SIS ; 2) le renforcement du dispositif global de production de l'information.  Au plan institutionnel, une législation / réglementation minimale adaptée aux exigences actuelles est nécessaire pour créer un cadre harmonisé d'exercice de l'information sanitaire. Ce cadre va induire un certain nombre de mécanismes pour une coordination forte et agissante (Exemple d'une Charte du Réseau) entre les parties prenantes, articulée autour de la structure centrale du MSP.  A ce cadre doit s'arrimer la formation des différents personnels intervenant directement ou non, dans le circuit de production et de gestion de l'information sanitaire. Cette dimension formation/imprégnation/recyclage est un préalable majeur à l'édification d'un SIS performant et fiable.  Elle permettra de mieux faire connaître et partager l'intérêt et les enjeux liés à l'information sanitaire. Ainsi aurons-nous préparé des bases solides à l'édification et à l'appropriation d'une culture informationnelle à laquelle nous devons tous aspirer.  Au regard des réalités du terrain, nous proposons une formation courte mais bien circonscrite pour un renforcement des capacités des personnels déjà en service à la structure centrale de gestion du SIS. En effet, l'on retrouve à ce niveau, un personnel doté d'une formation professionnelle qui a juste besoin d'un renforcement des capacités dans le sens particulier du SIS. Ainsi, une formation spécifique dans une institution supérieure spécialisée en gestion de SIS serait de bon augure.  Il n'est pas superflu de relever le fait que cette option est d'un coût relativement peu élevé au regard des enjeux.  La deuxième priorité pour renforcer le SIS est, sans conteste, l'amélioration de l'environnement de travail, du cadre d'exercice des activités. Ceci renvoie essentiellement à l'équipement de collecte, de traitement, de dissémination et de conservation de l'information sanitaire. Au regard du coût assez élevé de cette rubrique nous avons, contrairement à la formation du personnel, étalé certaines rubriques sur les quatre années, quelques-unes des activités antérieurement insérées ont été soit supprimées, soit fusionnées au vu de leur lien.  Les missions de collecte de données et celles de supervision, ont été inscrites « pour mémoire » du fait qu'elles relèvent des activités routinières liées aux dépenses de fonctionnement du budget de l'Etat.  Le troisième élément clé pour le renforcement du SIS est la motivation du personnel dont hélas, l'affectation aux activités du SIS est souvent envisagée comme une sanction.  Au-delà d'une revalorisation organique souhaitée du SIS, il a été, en plus du cadre de travail stimulant, proposé un élément de motivation en terme numéraire sur une périodicité trimestrielle pour les acteurs du processus de production/gestion de l'information sanitaire.  Comme autre élément prioritaire, il faut noter les évaluations internes, à périodicité précise, les enquêtes de satisfaction et les enquêtes complémentaires (morbidité, état-civil..), les audits.  Ces aspects doivent permettre d'assurer l'entretien et la pérennisation du système de suivi évaluation lui-même. Un projet de cette nature et de cette ambition ne saurait faire l'économie de telles activités afin de consolider les acquis et favoriser l'appropriation continue des enjeux du SIS.  L'ensemble des activités à déployer va impliquer les responsables de différentes parties prenantes (MSP, ministères apparentés, secteur privé, organismes de recherche, société civile).  Les quantités appliquées aux coûts sont estimées sur une base qui combine l'existant (analyse situationnelle) à notre propre connaissance du terrain. Les calculs s'appuient sur une base constituée des 14 régions et des 75 districts sanitaires.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHRONOGRAMME : RENFORCEMENT DU CADRE INSTITUTIONNEL",
+      "texte": "Objectif Général : Améliorer le cadre institutionnel d'organisation et une gestion cohérentes du SIS aux plans administratif, technique et financier.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Chronogramme : Renforcement du cadre institutionnel",
+          "colonnes": ["Objectif Spécifique", "Activité planifiée", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Procéder à une revue documentaire", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Actualiser les textes existants", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Définir un cadre règlementaire de gestion de l'information sanitaire (confidentialité, stockage/archivage, droit de réserve)", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Multiplier ces textes réglementaires", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Diffuser ces textes auprès des différents acteurs", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Elaborer un Projet de Code des procédures relatif à la collecte, l'exploitation et transmission des données en collaboration", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Valider le projet de Code des procédures", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Adopter le Code des procédures par les acteurs", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Diffuser le Code des procédures auprès de tous les partenaires et intervenants", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Elaborer un manuel d'organisation global du SIS-Sénégal", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Elaborer un manuel des procédures de toutes les opérations de collecte, de transmission et de diffusion des informations sanitaires", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Evaluer le plan stratégique national du SIS-Sénégal 2012-2016 (évaluation à mi-parcours et évaluation finale)", "An 1": "", "An 2": "", "An 3": "X", "An 4": "", "An 5": "X"},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Elaborer un nouveau plan Stratégique national du SIS-Sénégal 2017-2021", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": "X"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHRONOGRAMME : DISPOSITIF DE PRODUCTION DES INFORMATIONS SANITAIRES",
+      "texte": "Objectif Général : Mettre en place selon un principe d'harmonisation, une meilleure disposition permettant d'accroître la productivité du Système d'Information Sanitaire.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Chronogramme : Dispositif de production des informations sanitaires",
+          "colonnes": ["Objectif Spécifique", "Activité planifiée", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Identifier les types d'informations", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Identifier les sources d'information par niveau", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Produire avec les structures sanitaires tous les outils harmonisés/intégrés de collecte, de traitement et de transmission des données", "An 1": "", "An 2": "x", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Valider les outils de collecte et de transmission", "An 1": "", "An 2": "x", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Diffuser dans les structures sanitaires tous les outils harmonisés/intégrés de collecte, de traitement et de transmission des données", "An 1": "", "An 2": "x", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Réviser les outils de collecte et de transmission", "An 1": "", "An 2": "", "An 3": "x", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Faire l'état des lieux à tous les niveaux du SIS", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Aménager/réhabiliter un espace approprié dans toutes les structures sanitaires pour la collecte, le traitement et la transmission des données", "An 1": "", "An 2": "x", "An 3": "x", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Acquérir les équipements (bureautique, informatique, logiciels adaptés, logistique,…)", "An 1": "", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Assurer la maintenance des matériels et mettre à jour les logiciels", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Rendre disponibles les normes et méthodes de collecte des données (Exp.: la CIM, surveillance épidémiologique des maladies)", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Appliquer la périodicité de collecte, traitement et transmission des données", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Mettre à contribution les autres producteurs de données/sources des données", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Utiliser les méthodes de collecte validées", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Valoriser le profil de carrière du personnel", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Impliquer les agents chargés des données du MSP dans les enquêtes de grande envergure sur les populations", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Superviser régulièrement le personnel du système d'informations sanitaires à tous les niveaux", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Faire le feedback à tous les niveaux", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 6", "Activité planifiée": "Mettre à niveau/former les intervenants des différentes structures en place", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 6", "Activité planifiée": "Recruter le personnel spécialisé par niveau", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 6", "Activité planifiée": "Encourager les voyages d'études et d'échanges", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 7", "Activité planifiée": "Veiller à l'harmonisation des procédures dans les lieux de collecte des données", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 7", "Activité planifiée": "Collecter et rendre disponible les données (naissances, décès, causes de décès…)", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 7", "Activité planifiée": "Collecter les données de l'état civil", "An 1": "X", "An 2": "X", "An 3": "X", "An 4": "X", "An 5": "X"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHRONOGRAMME (SUITE) : LA GESTION DES DONNEES",
+      "texte": "Objectif Général : Redéfinir dans le sens d'une plus grande efficacité, des mécanismes de gestion intégrée des données.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Chronogramme : La gestion des données",
+          "colonnes": ["Objectif Spécifique", "Activité planifiée", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Acquérir des logiciels spécifiques et conviviaux à tous les niveaux", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Former les utilisateurs à tous les niveaux sur tous les logiciels", "An 1": "x", "An 2": "x", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Assurer un suivi post formation", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Organiser une supervision périodique", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Spécifier dans le Code de procédures les postes et responsabilités de reporting et de gestion", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Spécifier les procédures de stockage, d'actualisation et d'archivage des données", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Elaborer les procédures de validation sous le contrôle de la structure en charge du SIS", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Etablir la grille de lecture de la performance des districts", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Former le personnel sur les procédures de gestion", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Valider les données à tous les niveaux du SIS (District, Région, Niveau Central)", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Introduire le module SIS dans la formation initiale du personnel de santé", "An 1": "x", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Instaurer un système d'appui sur la base d'une gestion de qualité des données", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Prendre les décisions à tout niveau sur la base des données du SIS", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Associer les intervenants du SIS dans le processus gestionnaire à tous les niveaux", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Sensibiliser le personnel et les responsables de Santé sur l'importance de l'Information sanitaire", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Mettre à jour annuellement la Base", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Renforcer le volet cartographique de la carte sanitaire", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Diffuser la Carte sanitaire actualisée auprès de tous les acteurs", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Actualiser et diffuser les circuits de transmission de données existants", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Faire le feed-back à tous les niveaux et à tous les acteurs", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 6", "Activité planifiée": "Recruter un archiviste-documentaliste pour le SNIS et au niveau régional", "An 1": "x", "An 2": "x", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité planifiée": "Mettre à niveau le personnel des différentes structures d'intervention à la documentation", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"},
+            {"Objectif Spécifique": "OS 6", "Activité planifiée": "Créer des structures de documentation et d'archivage à différent niveau", "An 1": "x", "An 2": "x", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité planifiée": "Acquérir le matériel d'archivage adéquat", "An 1": "x", "An 2": "x", "An 3": "x", "An 4": "x", "An 5": "x"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHRONOGRAMME (SUITE) : LES PRODUITS DE L'INFORMATION",
+      "texte": "Objectif Général : Redéfinir dans le sens d'une plus grande efficacité, des mécanismes de gestion intégrée des données.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Chronogramme : Les produits de l'information",
+          "colonnes": ["Objectif Spécifique", "Activité planifiée", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Passer en revue les indicateurs du SIS", "An 1": "X", "An 2": "X", "An 3": "X", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Constituer une liste d'indicateurs pouvant satisfaire les attentes de toutes les parties prenantes", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Constituer un fichier central de tous les indicateurs prioritaires du système de santé, et le mettre à la disposition des acteurs des différents niveaux de la pyramide", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Promouvoir la concertation et le travail en équipe (Task force)", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Créer un groupe de travail qui fait la revue des méthodes de collecte et de production des extrants majeurs", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Réviser périodiquement les méthodes de calcul utilisées", "An 1": "", "An 2": "X", "An 3": "", "An 4": "X", "An 5": "X"},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Mettre en place une équipe de supervision pour améliorer la qualité des indicateurs du SIS", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Evaluer périodiquement le niveau d'atteinte des indicateurs", "An 1": "X", "An 2": "X", "An 3": "X", "An 4": "X", "An 5": "X"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHRONOGRAMME (SUITE) : LA PLATE FORME DE PARTAGE ET D'UTILISATION DE L'INFORMATION SANITAIRE",
+      "texte": "Objectif Général : Développer durablement entre producteurs et utilisateurs une plate-forme de partage.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Chronogramme : La plate-forme de partage et d'utilisation de l'information sanitaire",
+          "colonnes": ["Objectif Spécifique", "Activité planifiée", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Identifier les différents intervenants et partenaires du SIS", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Etablir une interconnexion entre le MSP et les autres intervenants (autres ministères, secteur privé etc.)", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Elaborer une charte du réseau pour les acteurs du SIS", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Animer le réseau", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Alimenter régulièrement le site web du MSP", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité planifiée": "Réserver sur le site web du MSP un espace propre au SIS", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Etablir une interconnexion réactive entre le SNIS les services en charge du SIS (niveaux central et opérationnel)", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité planifiée": "Etablir un cadre de concertation entre les acteurs du SIS", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité planifiée": "Mettre à jour périodiquement la liste des intervenants du SIS", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Identifier les différents acteurs concernés", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Identifier les canaux de diffusion par niveaux", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 4", "Activité planifiée": "Etablir un cadre de concertation pour déterminer la fréquence de production et de diffusion de l'information", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Produire et Diffuser périodiquement un bulletin de publication des informations synthétisées", "An 1": "X", "An 2": "X", "An 3": "X", "An 4": "X", "An 5": "X"},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Produire et diffuser l'annuaire statistique de la santé", "An 1": "X", "An 2": "X", "An 3": "X", "An 4": "X", "An 5": "X"},
+            {"Objectif Spécifique": "OS 5", "Activité planifiée": "Rendre plus accessible l'information (affichage, bibliothèque, centre de documentation, site web etc.)", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité planifiée": "Utilisation quotidienne de l'information au niveau opérationnel; Intégrer dans la grille de supervision un item sur le SIS; Encourager la recherche opérationnelle par niveau; Utiliser les Comptes Nationaux de la Santé; Faire une révision du rapport d'activités à chaque niveau de la pyramide", "An 1": "X", "An 2": "", "An 3": "", "An 4": "", "An 5": ""}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "BUDGETISATION : LE RENFORCEMENT DU CADRE INSTITUTIONNEL",
+      "texte": "Détail budgétaire des activités liées au renforcement du cadre institutionnel. Montants exprimés en millions de FCFA (M). PM = Pour Mémoire (coût non chiffré, intégré au fonctionnement).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Budgétisation : Le renforcement du cadre institutionnel",
+          "colonnes": ["Objectif Spécifique", "Activité", "Coût total"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité": "Procéder à une revue documentaire (Rechercher les textes existants réglementant le SIS et les structures connexes)", "Coût total": "10M"},
+            {"Objectif Spécifique": "OS 1", "Activité": "Actualiser les textes existants", "Coût total": "PM"},
+            {"Objectif Spécifique": "OS 1", "Activité": "Définir un cadre règlementaire de gestion de l'information sanitaire (confidentialité, stockage/archivage, droit de réserve)", "Coût total": "PM"},
+            {"Objectif Spécifique": "OS 1", "Activité": "Multiplier ces textes réglementaires", "Coût total": "5M"},
+            {"Objectif Spécifique": "OS 1", "Activité": "Diffuser ces textes auprès des différents acteurs / Elaborer un Projet de Code des procédures relatives à la collecte, l'exploitation et la transmission des données en collaboration", "Coût total": "5M"},
+            {"Objectif Spécifique": "OS 1", "Activité": "Valider le projet de code des procédures (implication de personne en qualité)", "Coût total": "7M"},
+            {"Objectif Spécifique": "OS 1", "Activité": "Adopter le code des procédures par les acteurs", "Coût total": "PM"},
+            {"Objectif Spécifique": "OS 1", "Activité": "Diffuser le code des procédures auprès de tous les partenaires et intervenants", "Coût total": "5M"},
+            {"Objectif Spécifique": "OS 2", "Activité": "Elaborer un manuel d'organisation global du SIS-Sénégal", "Coût total": "5M"},
+            {"Objectif Spécifique": "OS 2", "Activité": "Réviser les manuels des procédures de toutes les opérations de collecte, de transmission et de diffusion des informations sanitaires", "Coût total": "10M"},
+            {"Objectif Spécifique": "OS 3", "Activité": "Evaluer le plan stratégique national du SIS-Sénégal 2012-2016 (évaluation à mi-parcours et évaluation finale)", "Coût total": "10M"},
+            {"Objectif Spécifique": "OS 3", "Activité": "Elaborer un nouveau plan stratégique national du SIS-Sénégal 2017-2021", "Coût total": "10M"},
+            {"Objectif Spécifique": "TOTAL", "Activité": "Total Budget : Renforcement du cadre institutionnel", "Coût total": "67M"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "BUDGETISATION : LE DISPOSITIF DE PRODUCTION DES INFORMATIONS SANITAIRES",
+      "texte": "Détail budgétaire des activités liées au dispositif de production des informations sanitaires, ventilé par année (An 1 à An 5). Montants en millions de FCFA (M). PM = Pour Mémoire.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Budgétisation : Le dispositif de production des informations sanitaires",
+          "colonnes": ["Objectif Spécifique", "Activité", "Coût total", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité": "Identifier les types d'informations / Identifier les sources d'information par niveau", "Coût total": "10M", "An 1": "10M", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité": "Produire avec les structures sanitaires tous les outils harmonisés/intégrés de collecte, de traitement et de transmission des données", "Coût total": "800M", "An 1": "400M", "An 2": "100M", "An 3": "100M", "An 4": "100M", "An 5": "100M"},
+            {"Objectif Spécifique": "OS 2", "Activité": "Réviser les outils de collecte de transmission / Valider les outils de collecte et de transmission / Diffuser dans les structures sanitaires tous les outils harmonisés/intégrés de collecte, de traitement et de transmission des données", "Coût total": "30M", "An 1": "", "An 2": "10M", "An 3": "10M", "An 4": "10M", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité": "Faire l'état des lieux à tous les niveaux du SIS", "Coût total": "60M", "An 1": "20M", "An 2": "20M", "An 3": "20M", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité": "Aménager/réhabiliter un espace approprié dans toutes les structures sanitaires pour la collecte, le traitement et la transmission des données / Acquérir les équipements / Assurer la maintenance des matériels et mettre à jour les logiciels", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 4", "Activité": "Rendre disponibles les normes et méthodes de collecte des données / Appliquer la périodicité de collecte, traitement et transmission des données / Mettre à contribution les autres producteurs de données/sources des données / Utiliser les méthodes de collecte validées", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 5", "Activité": "Valoriser le profil de carrière du personnel / Impliquer les agents chargés des données du MSP dans les enquêtes de grande envergure sur les populations", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 5", "Activité": "Superviser régulièrement le personnel du système d'informations sanitaires à tous les niveaux", "Coût total": "50M", "An 1": "10M", "An 2": "10M", "An 3": "10M", "An 4": "10M", "An 5": "10M"},
+            {"Objectif Spécifique": "OS 5", "Activité": "Faire le feedback à tous les niveaux", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité": "Mettre à niveau/former les intervenants des différentes structures en place", "Coût total": "50M", "An 1": "30M", "An 2": "5M", "An 3": "5M", "An 4": "5M", "An 5": "5M"},
+            {"Objectif Spécifique": "OS 6", "Activité": "Recruter le personnel spécialisé par niveau", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité": "Encourager les voyages d'études et d'échanges", "Coût total": "25M", "An 1": "5M", "An 2": "5M", "An 3": "5M", "An 4": "5M", "An 5": "5M"},
+            {"Objectif Spécifique": "OS 7", "Activité": "Veiller à l'harmonisation des procédures dans les lieux de collecte des données / Rendre disponible les données (naissances, décès, causes de décès…)", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 7", "Activité": "Collecter les données de l'état civil", "Coût total": "75M", "An 1": "15M", "An 2": "15M", "An 3": "15M", "An 4": "15M", "An 5": "15M"},
+            {"Objectif Spécifique": "TOTAL", "Activité": "Total Budget : Le Dispositif de production des informations sanitaires", "Coût total": "1100M", "An 1": "500M", "An 2": "135M", "An 3": "165M", "An 4": "135M", "An 5": "165M"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "BUDGETISATION : LA GESTION DES DONNEES",
+      "texte": "Détail budgétaire des activités liées à la gestion des données, ventilé par année. Montants en millions de FCFA (M). PM = Pour Mémoire.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Budgétisation : La gestion des données",
+          "colonnes": ["Objectif Spécifique", "Activité", "Coût total", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité": "Acquérir des logiciels spécifiques et conviviaux à tous les niveaux", "Coût total": "200M", "An 1": "200M", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité": "Former les utilisateurs à tous les niveaux sur tous les logiciels", "Coût total": "30M", "An 1": "30M", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 1", "Activité": "Assurer un suivi post formation / Organiser une supervision périodique", "Coût total": "100M", "An 1": "20M", "An 2": "20M", "An 3": "20M", "An 4": "20M", "An 5": "20M"},
+            {"Objectif Spécifique": "OS 2", "Activité": "Spécifier dans le Code de procédures les postes et responsabilités de reporting et de gestion / Spécifier les procédures de stockage, d'actualisation et d'archivage des données / Elaborer les procédures de validation sous le contrôle de la structure en charge du SIS / Etablir la grille de lecture de la performance des districts", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité": "Former le personnel sur les procédures de gestion", "Coût total": "50M", "An 1": "30M", "An 2": "5M", "An 3": "5M", "An 4": "5M", "An 5": "5M"},
+            {"Objectif Spécifique": "OS 2", "Activité": "Valider les données á tous les niveaux du SIS (District, Région, Niveau Central)", "Coût total": "150M", "An 1": "30M", "An 2": "30M", "An 3": "30M", "An 4": "30M", "An 5": "30M"},
+            {"Objectif Spécifique": "OS 3", "Activité": "Introduire le module SIS dans la formation initiale du personnel de santé / Instaurer un système d'appui / Prendre les décisions à tout niveau sur la base des données du SIS / Associer les intervenants du SIS / Sensibiliser le personnel et les responsables de Santé", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 4", "Activité": "Mettre à jour annuellement la Base", "Coût total": "25M", "An 1": "5M", "An 2": "5M", "An 3": "5M", "An 4": "5M", "An 5": "5M"},
+            {"Objectif Spécifique": "OS 4", "Activité": "Renforcer le volet cartographique de la carte sanitaire", "Coût total": "30M", "An 1": "10M", "An 2": "10M", "An 3": "10M", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 4", "Activité": "Diffuser la Carte sanitaire actualisée auprès de tous les acteurs", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 5", "Activité": "Actualiser et diffuser les circuits de transmission de données existants / Faire le feed-back à tous les niveaux et à tous les acteurs", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité": "Recruter un archiviste-documentaliste pour le SNIS et au niveau régional", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité": "Mettre à niveau le personnel des différentes structures d'intervention à la documentation", "Coût total": "25M", "An 1": "15M", "An 2": "5M", "An 3": "5M", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité": "Créer des structures de documentation et d'archivage à différent niveau", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 6", "Activité": "Acquérir le matériel d'archivage adéquat", "Coût total": "10M", "An 1": "10M", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "TOTAL", "Activité": "Total Budget : La Gestion des données", "Coût total": "620M", "An 1": "350M", "An 2": "60M", "An 3": "75M", "An 4": "60M", "An 5": "75M"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "BUDGETISATION : LES PRODUITS DE L'INFORMATION",
+      "texte": "Détail budgétaire des activités liées aux produits de l'information, ventilé par année. Montants en millions de FCFA (M). PM = Pour Mémoire.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Budgétisation : Les produits de l'information",
+          "colonnes": ["Objectif Spécifique", "Activité", "Coût total", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité": "Passer en revue tous les indicateurs du SIS / Constituer une liste d'indicateurs pouvant satisfaire les attentes de toutes les parties prenantes / Constituer un fichier central de tous les indicateurs prioritaires du système de santé, et le mettre à la disposition des acteurs des différents niveaux de la pyramide", "Coût total": "12M", "An 1": "4M", "An 2": "4M", "An 3": "4M", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité": "Promouvoir la concertation et le travail en équipe (Task force…) / Créer un groupe de travail qui fait la revue des méthodes de collecte et de production des extrants majeurs", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité": "Réviser périodiquement les méthodes de calcul utilisées et les supports de collecte", "Coût total": "12M", "An 1": "4M", "An 2": "4M", "An 3": "4M", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 2", "Activité": "Multiplier les supports de collecte pour l'ensemble des structures du Pays", "Coût total": "750M", "An 1": "250M", "An 2": "250M", "An 3": "250M", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité": "Mettre en place une équipe de supervision pour améliorer la qualité des indicateurs du SIS", "Coût total": "PM", "An 1": "", "An 2": "", "An 3": "", "An 4": "", "An 5": ""},
+            {"Objectif Spécifique": "OS 3", "Activité": "Evaluer périodiquement le niveau d'atteinte des indicateurs", "Coût total": "100M", "An 1": "20M", "An 2": "20M", "An 3": "20M", "An 4": "20M", "An 5": "20M"},
+            {"Objectif Spécifique": "TOTAL", "Activité": "Total Budget : Les produits de l'information", "Coût total": "874M", "An 1": "278M", "An 2": "20M", "An 3": "278M", "An 4": "20M", "An 5": "278M"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "BUDGETISATION : LA PLATE FORME DE PARTAGE ET D'UTILISATION DE L'INFORMATION SANITAIRE",
+      "texte": "Détail budgétaire des activités liées à la plate-forme de partage et d'utilisation de l'information sanitaire, ventilé par année. Montants en millions de FCFA (M). PM = Pour Mémoire.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Budgétisation : La plate-forme de partage et d'utilisation de l'information sanitaire",
+          "colonnes": ["Objectif Spécifique", "Activité", "Coût total", "An 1", "An 2", "An 3", "An 4", "An 5"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1", "Activité": "Identifier les différents intervenants et partenaires du SIS", "Coût total": "3M", "An 1": "3M", "An 2": "0", "An 3": "0", "An 4": "0", "An 5": "0"},
+            {"Objectif Spécifique": "OS 1", "Activité": "Etablir une interconnexion entre le MSP et les autres intervenants (autres ministères, secteur privé etc.) / Elaborer une charte du réseau pour les acteurs du SIS / Animer le réseau / Alimenter régulièrement le site web du MSP / Réserver sur le site web du MSP un espace propre au SIS", "Coût total": "PM", "An 1": "0", "An 2": "0", "An 3": "0", "An 4": "0", "An 5": "0"},
+            {"Objectif Spécifique": "OS 2", "Activité": "Etablir une interconnexion réactive entre le SNIS les services en charge du SIS (niveaux central et opérationnel)", "Coût total": "300M", "An 1": "300M", "An 2": "0", "An 3": "0", "An 4": "0", "An 5": "0"},
+            {"Objectif Spécifique": "OS 2", "Activité": "Etablir un cadre de concertation entre les acteurs du SIS", "Coût total": "PM", "An 1": "0", "An 2": "0", "An 3": "0", "An 4": "0", "An 5": "0"},
+            {"Objectif Spécifique": "OS 3", "Activité": "Mettre à jour périodiquement la liste des intervenants du SIS", "Coût total": "PM", "An 1": "0", "An 2": "0", "An 3": "0", "An 4": "0", "An 5": "0"},
+            {"Objectif Spécifique": "OS 4", "Activité": "Identifier les différents acteurs concernés / Identifier les canaux de diffusion par niveau", "Coût total": "PM", "An 1": "0", "An 2": "0", "An 3": "0", "An 4": "0", "An 5": "0"},
+            {"Objectif Spécifique": "OS 4", "Activité": "Etablir un cadre de concertation pour déterminer la fréquence de production et de diffusion de l'information", "Coût total": "5M", "An 1": "1M", "An 2": "1M", "An 3": "1M", "An 4": "1M", "An 5": "1M"},
+            {"Objectif Spécifique": "OS 5", "Activité": "Produire et Diffuser périodiquement un bulletin de publication des informations synthétisées", "Coût total": "25M", "An 1": "5M", "An 2": "5M", "An 3": "5M", "An 4": "5M", "An 5": "5M"},
+            {"Objectif Spécifique": "OS 5", "Activité": "Produire et diffuser l'annuaire statistique de la santé", "Coût total": "50M", "An 1": "10M", "An 2": "10M", "An 3": "10M", "An 4": "10M", "An 5": "10M"},
+            {"Objectif Spécifique": "OS 5", "Activité": "Rendre plus accessible l'information (affichage, bibliothèque, centre de documentation, site web etc.)", "Coût total": "50M", "An 1": "30M", "An 2": "5M", "An 3": "5M", "An 4": "5M", "An 5": "5M"},
+            {"Objectif Spécifique": "OS 6", "Activité": "Utilisation quotidienne de l'information au niveau opérationnel / Intégrer dans la grille de supervision un item sur le SIS / Encourager la recherche opérationnelle par niveau / Utiliser les Comptes Nationaux de la Santé / Faire une restitution du rapport d'activités à chaque niveau de la pyramide", "Coût total": "PM", "An 1": "0", "An 2": "0", "An 3": "0", "An 4": "0", "An 5": "0"},
+            {"Objectif Spécifique": "TOTAL", "Activité": "Total Budget : La Plate forme de partage et d'utilisation de l'information sanitaire", "Coût total": "433M", "An 1": "349M", "An 2": "21M", "An 3": "21M", "An 4": "21M", "An 5": "21M"},
+            {"Objectif Spécifique": "TOTAL GENERAL", "Activité": "Totaux des budgets", "Coût total": "3094M", "An 1": "1544M", "An 2": "236M", "An 3": "539M", "An 4": "236M", "An 5": "539M"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "SYNTHESE DE LA BUDGETISATION PAR ORIENTATIONS STRATEGIQUES",
+      "texte": "Synthèse budgétaire par objectif spécifique pour chaque axe stratégique. Montants en millions de FCFA (M).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Synthèse : Le dispositif de production des informations sanitaires",
+          "colonnes": ["Objectif Spécifique", "Coût total"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1 : Définir les besoin en information par niveau", "Coût total": "10M"},
+            {"Objectif Spécifique": "OS 2 : Mettre à la disposition de toutes les structures sanitaires du MSP et secteurs apparentés les outils de collecte, de traitement et de transmission de données", "Coût total": "830M"},
+            {"Objectif Spécifique": "OS 3 : Doter les structures sanitaires à tous les niveaux d'infrastructures, d'équipements, de logiciels adaptés, et assurer leur maintenance", "Coût total": "60M"},
+            {"Objectif Spécifique": "OS 4 : Assurer l'utilisation des normes et méthodes de collectes de données", "Coût total": "--"},
+            {"Objectif Spécifique": "OS 5 : Mettre en place des mécanismes de motivation à la production de l'information sanitaire", "Coût total": "50M"},
+            {"Objectif Spécifique": "OS 6 : Renforcer les capacités opérationnelles des intervenants à tous les niveaux", "Coût total": "75M"},
+            {"Objectif Spécifique": "OS 7 : Améliorer les statistiques d'état civil", "Coût total": "75M"},
+            {"Objectif Spécifique": "TOTAL", "Coût total": "1100M"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Synthèse : Le renforcement du cadre institutionnel",
+          "colonnes": ["Objectif Spécifique", "Coût total"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1: Doter le système d'information sanitaire de textes et de procédures appropriés pour toutes les opérations de collecte et de diffusion de l'information sanitaire", "Coût total": "32M"},
+            {"Objectif Spécifique": "OS 2 : Elaborer le cadre organique du système d'information sanitaire", "Coût total": "15M"},
+            {"Objectif Spécifique": "OS 3 : Doter tous les cinq ans le système d'un plan stratégique national", "Coût total": "20M"},
+            {"Objectif Spécifique": "TOTAL", "Coût total": "67M"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Synthèse : La gestion des données",
+          "colonnes": ["Objectif Spécifique", "Coût total"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1 : Mettre en place des logiciels spécifiques pour le traitement des données du système de santé", "Coût total": "330M"},
+            {"Objectif Spécifique": "OS 2 : Mettre en place un mécanisme d'assurance continue de la qualité des données", "Coût total": "200M"},
+            {"Objectif Spécifique": "OS 3 : Renforcer la culture de l'Information sanitaire à tous les niveaux", "Coût total": "--"},
+            {"Objectif Spécifique": "OS 4 : Actualiser les données de la Carte Sanitaire", "Coût total": "55M"},
+            {"Objectif Spécifique": "OS 5 : Assurer la double circulation (transmission et feedback) des données", "Coût total": "--"},
+            {"Objectif Spécifique": "OS 6 : Renforcer les capacités en matière de documentation, de conservation et d'archivage des données", "Coût total": "35M"},
+            {"Objectif Spécifique": "TOTAL", "Coût total": "620M"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Synthèse : Les produits de l'information",
+          "colonnes": ["Objectif Spécifique", "Coût total"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1 : Elaborer tous les indicateurs du SIS", "Coût total": "12M"},
+            {"Objectif Spécifique": "OS 2 : Mettre en œuvre la méthodologie harmonisée de collecte de données pour la production des extrants majeurs du système de santé", "Coût total": "762M"},
+            {"Objectif Spécifique": "OS 3 : Assurer le suivi des indicateurs en général et de performance en particulier", "Coût total": "100M"},
+            {"Objectif Spécifique": "TOTAL", "Coût total": "874M"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Synthèse : La plate-forme de partage et d'utilisation de l'information sanitaire",
+          "colonnes": ["Objectif Spécifique", "Coût total", "An 1", "An 2"],
+          "lignes": [
+            {"Objectif Spécifique": "OS 1 : Mettre en place un réseau national de l'Information Sanitaire", "Coût total": "3M", "An 1": "3M", "An 2": "--"},
+            {"Objectif Spécifique": "OS 2 : Mettre en place un réseau intra services de l'Information Sanitaire", "Coût total": "300M", "An 1": "300M", "An 2": "--"},
+            {"Objectif Spécifique": "OS 3 : Actualiser régulièrement le répertoire des intervenants du SIS", "Coût total": "--", "An 1": "--", "An 2": "--"},
+            {"Objectif Spécifique": "OS 4 : Définir la fréquence et les mécanismes de diffusion des informations sanitaires", "Coût total": "5M", "An 1": "1M", "An 2": "1M"},
+            {"Objectif Spécifique": "OS 5 : Diffuser périodiquement les Informations synthétisées auprès des différents acteurs concernés", "Coût total": "125M", "An 1": "45M", "An 2": "20M"},
+            {"Objectif Spécifique": "OS 6 : Promouvoir l'utilisation de l'Information pour la prise de décision", "Coût total": "--", "An 1": "--", "An 2": "--"},
+            {"Objectif Spécifique": "TOTAL", "Coût total": "433M", "An 1": "349M", "An 2": "21M"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "SYNTHESE DE LA BUDGETISATION PAR AXES STRATEGIQUES",
+      "texte": "Synthèse budgétaire globale, ventilée par axe stratégique et par année.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Synthèse de la budgétisation par axes stratégiques",
+          "colonnes": ["Axe stratégique", "Coût total", "An 1", "An 2"],
+          "lignes": [
+            {"Axe stratégique": "I. LE RENFORCEMENT DU CADRE INSTITUTIONNEL", "Coût total": "67M", "An 1": "67M", "An 2": "--"},
+            {"Axe stratégique": "II. LE DISPOSITIF DE PRODUCTION DES INFORMATIONS SANITAIRES", "Coût total": "1100M", "An 1": "500M", "An 2": "135M"},
+            {"Axe stratégique": "III. LA GESTION DES DONNEES", "Coût total": "620M", "An 1": "350M", "An 2": "60M"},
+            {"Axe stratégique": "IV. LES PRODUITS DE L'INFORMATION", "Coût total": "874M", "An 1": "278M", "An 2": "20M"},
+            {"Axe stratégique": "V. LA PLATE FORME DE PARTAGE ET D'UTILISATION DE L'INFORMATION SANITAIRE", "Coût total": "433M", "An 1": "349M", "An 2": "21M"},
+            {"Axe stratégique": "TOTAL", "Coût total": "3094M", "An 1": "1544M", "An 2": "236M"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des participants",
+      "texte": "Dr Moussa DIAKHATE (MSP/SNIS) Harouna BA (Région Médicale Fatick) Aliou DIOP (MSP/DRH) Médoune NDIAYE (MSP/SNIS) Dr Hyacinthe ZOUBI (MSP/SNIS) Dr Kémo DIEDHIOU (MSP/SNIS) Oumou Kalsom DIALLO GUEYE (MSP/SNIS) Arona MBENGUE (MSP/CAFSP) Abibou CISSE (MSP/DES) Ousmane DIA (MSP/DES) El Hadji Alioune CISS (MSP/SNIS) Boubacar SYLLA (MSP/CAB) Marie-Céline DIABONE (MSP/SNIS) Lalla SOW FALL (MSP/SNIS) Amadou Bamba CISS (MSP/SNIS) Bertrand DIATTA (MSP/SNIS) Alé NDAO (MSP/SNIS) Diodio NDIAYE (MSP/DES) Papa NDIAYE (MSP/DAGE) Dr Siaka COULIBALY (MSP/SNIS) Malick SALLA (MSP/DRH) Médoune N. DIOP (MSP/DS/PNLP) Dr Mohamed SANGARE (MSP/DS) Sokhna Diabakh GAYE (MSP/SNIS) Ibrahima Khaliloulahi DIA (MSP/SNIS) Babacar MANE (Population Council) Meïssa NDOUR (MEF/ANSD) Dr Cheikh NIANG (MSP/DS/DLSI) Mor GUEYE (Lux Development) Malick SY (MSP/DAGE) Diakhou MBAYE (MSP/DLSI) Ousmane BERTHE (MSP/CNTS) Ousmane Mhénar (Direction de la Santé des Armées) Diouma DIOUF NDOYE (MSP/DS/DSR) Aloïse DIANGHATINE (MSP/SNEIPS) Mme Aïssatou DIOP DIAGNE (MSP/DPM) Abdoulaye SECK (Région Médicale Thiès) Rokhaya DIAGNE (MSP/RNL) Dr Ndèye Codou LAKH (MSP/DS/DSSP) Ndiaga FAYE (MSP/SG)",
+      "tableaux": [],
+      "images": []
+    }
+  ]
+}

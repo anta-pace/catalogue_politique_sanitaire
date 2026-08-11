@@ -1,0 +1,832 @@
+{
+  "metadata": {
+    "titre": "Plan d'institutionnalisation du genre au MSAS et de renforcement des capacités en techniques d'intégration du genre",
+    "annee": "2015",
+    "source": "République du Sénégal - Ministère de la Santé et de l'Action Sociale (MSAS) / Institut Genre du Centre International pour le Renforcement des Capacités de Développement (CIRCADE)",
+    "type_document": "Plan stratégique / Rapport institutionnel"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "République du Sénégal. Ministère de la Santé et de l'Action Sociale MSAS. PLAN D'INSTITUTIONNALISATION DU GENRE AU MSAS ET DE RENFORCEMENT DES CAPACITES EN TECHNIQUES D'INTEGRATION DU GENRE. Version finale Sept 2015. Mission réalisée par l'INSTITUT GENRE du Centre International pour le Renforcement des Capacités de Développement (CIRCADE). Central Park, Avenue Malick Sy x Autoroute Dakar - Sénégal. Tél : (221) 821 84 24 Email : circades@gmail.com. Experts chargés de mission : Socé Sène et Astou Diop. Partenaires : CTB Sénégal, Coopération Sénégal - Luxembourg, USAID from the American People, IntraHealth, UNICEF, CRS Catholic Relief Services, ChildFund International.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Armoiries de la République du Sénégal",
+          "description": "Emblème officiel de la République du Sénégal avec étoile, lion et devise nationale."
+        },
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo du Ministère de la Santé et de l'Action Sociale (MSAS)",
+          "description": "Logo institutionnel du MSAS représentant un serpent et un cœur stylisés en rouge et noir, encadré de vert."
+        },
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Bâtiment du Ministère de la Santé et de l'Action Sociale",
+          "description": "Photographie du siège du MSAS à Dakar, bâtiment administratif de plusieurs étages avec rond-point en premier plan."
+        },
+        {
+          "type": "image",
+          "categorie": "logos partenaires",
+          "titre": "Logos des partenaires techniques et financiers",
+          "description": "Bandeau de logos incluant CTB Sénégal, Coopération Sénégal-Luxembourg, USAID, IntraHealth, UNICEF, CRS, ChildFund International."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Table des matières",
+      "texte": "Liste des abréviations et acronymes utilises. 1. Contexte du plan d'institutionnalisation du genre. 2. Justification du plan d'institutionnalisation du genre. 3. Orientations stratégiques du plan d'institutionnalisation du genre. 4. Cibles du plan d'institutionnalisation genre. 5. Principes directeurs de mise en œuvre du plan d'institutionnalisation du genre. 6. Résultats du plan d'institutionnalisation du genre. 6.1. Finalité du plan d'institutionnalisation du genre. 6.2. But du plan d'institutionnalisation du genre. 6.3. Chaine de résultats du plan d'institutionnalisation du genre. 7. Le Cadre logique du plan d'institutionnalisation du genre. 8. Matrice d'actions du Plan d'institutionnalisation du Genre. 9. Matrice d'activités de renforcement des capacités de la Cellule genre. 10. Risques pouvant affecter la mise en œuvre du plan d'institutionnalisation. 10.1. Analyse des risques pouvant affecter les résultats attendus. 10.2. Cadre de suivi et activités d'atténuation des risques. 11. Durabilité des résultats du plan d'institutionnalisation du genre. 12. Cadre des rapports sur l'exécution du plan d'institutionnalisation du genre. 13. Communication avec les parties prenantes à l'exécution du plan. 14. Cadre de mise en œuvre du plan d'institutionnalisation du genre. 14.1. Dispositif institutionnel de mise en œuvre du plan d'institutionnalisation. 14.2. Modalités et mécanismes de planification opérationnelle de l'exécution du plan. 14.3. L'actualisation du Cadre Logique. 14.4. Les revues périodiques de l'exécution du plan d'institutionnalisation du genre. 14.5. Le suivi du plan d'institutionnalisation du genre. 14.6. L'évaluation du plan d'institutionnalisation du genre. 15. Stratégie de promotion du plan d'institutionnalisation du genre.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des abréviations et acronymes utilisés",
+      "texte": "CS Centre de Santé. CSP Catégorie Socio Professionnelle. CTB Coopération Technique Belge. DAGE Direction de l'Administration Générale et de l'Equipement. DES Direction des Etablissements de Santé. DGS Direction Générale de la Santé. DGAS Direction Générale de l'Action Sociale. DIEM Direction des Infrastructures, Equipements et Matériel. DLM Direction de la Maladie et du Médicament. DPPD Document de Programmation Pluriannuelle des Dépenses. DPRS Direction de la Planification, de la Recherche et des Statistiques. DRH Direction des Ressources Humaines. DSRE Direction de la Santé de la Reproduction et de l'Enfant. ECR Equipe Cadre de Région. ENDSS Ecole Nationale de Développement Sanitaire et Social. ENTS Ecole Nationale des Travailleurs Sociaux. EPS Etablissement Public de Santé. GAR Gestion Axée sur les Résultats. MCD Médecin Chef de District. MCR Médecin Chef de Région. MSAS Ministère de la Santé et de l'Action Sociale. OMS Organisation Mondiale de la Santé. OOAS Organisation Ouest Africaine de la Santé. PAGOSAN Programme d'Appui à la Gouvernance Sanitaire. PAODES Programme d'Appui à l'Offre et à la Demande de Santé. PNA Pharmacie Nationale d'Approvisionnement. PNDRH Plan National de Développement des Ressources Humaines. PNDS Plan National de Développement Sanitaire. PNLP Programme National de Lutte contre le Paludisme. PNT Programme National Tuberculose. PS Poste de Santé. PTA Plan de Travail annuel. RAC Revue Annuelle Conjointe. SNEEG Stratégie Nationale pour l'Equité et l'Egalité de Genre. SNEIPS Service National d'Education et d'Information pour la Santé. SNH Service National d'Hygiène. SNIS Système National d'Information Sanitaire. SR Santé de la Reproduction. SSP Soins de Santé Primaire. UNFPA Fonds des Nations Unies pour les Activités de Population. UNICEF Fonds des Nations Unies pour l'Enfance. USAID Agence Internationale d'Aide au Développement des Etats-Unis. VIH Virus de l'Immunodéficience Humanitaire.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1. Contexte du plan d'institutionnalisation du genre",
+      "texte": "Le Sénégal a démarré, depuis l'année 2008, le processus de mise en œuvre de la Stratégie Nationale pour l'Équité et l'Égalité de Genre (SNEEG) afin de traduire, dans la vie des citoyens et citoyennes, le principe d'égalité des femmes et hommes consacré par la Constitution. La finalité visée par la SNEEG est de contribuer à l'instauration d'une société égalitaire, sans discrimination, où les femmes et les hommes auront les mêmes chances de participer à la vie économique et sociale et de jouir des bénéfices du développement.De plus, la constitutionnalisation de l'égalité des femmes et hommes, le droit à la santé et à la protection sociale, la circulaire primatorale du 26 mars 2013 invitant les différents départements ministériels à assurer la prise en compte du genre dans leur secteur et l'initiative de la Couverture Maladie Universelle sont autant d'indicateurs d'un choix de société qui accorde une place importante aux droits et à l'égalité des sexes. Dans ce cadre, il est attendu, de chaque ministère, le développement d'initiatives de promotion interne de l'intégration du genre dans les politiques, programmes et projets sectoriels.Au niveau du MSAS, les initiatives engagées portent sur : la signature du protocole d'entente et de collaboration entre le Ministère de la santé et de l'Action Sociale et le Ministère de la Femme, de la Famille et de l'Enfant à l'effet d'accélérer l'intégration du genre dans les interventions du MSAS ; la mise en place de la Cellule Genre du département, appelée à veiller à l'intégration de la dimension genre dans toutes les activités des structures du ministère notamment à travers sa prise en compte dans les politiques, programmes, projets de développement et les budgets y afférents ; la réalisation d'un \"Backstopping genre\" en vue d'accélérer la mise en œuvre des activités relatives au genre prévues avec PAGOSAN ; la réalisation de l'audit technique genre du MSAS, objet du présent rapport, destiné à apprécier le niveau d'intégration des questions de genre dans ses interventions en questionnant le degré de prise en compte de la situation et des besoins différenciés des hommes et des femmes dans la structuration de l'organisation et la définition des attributions de ses organes, l'établissement des procédures et pratiques de management, la gestion des ressources humaines et les modalités de programmation et d'exécution ; la formulation, sur la base des constats de l'audit genre, d'un premier plan d'institutionnalisation du genre dans le secteur de la santé sur la période 2016 - 2020.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2. Justification du plan d'institutionnalisation du genre",
+      "texte": "L'audit genre du MSAS, réalisé pour apprécier le niveau de sensibilité genre du cadre organisationnel et des interventions a mis en évidence, aux différents niveaux de la pyramide sanitaire, l'existence d'actions positives de prise en compte du genre dans les interventions et prestations de services. Toutefois, des faiblesses ont été relevées au niveau institutionnel et programmatique. Spécifiquement, les limites notées ont trait à la connaissance et maitrise des concepts clés, à leur traduction concrète en outils d'intégration du genre dans le management des différentes entités chargées d'offrir des prestations de services et plus particulièrement, dans la planification, la programmation, le suivi et l'évaluation des programmes et projets.Pour ce qui est de la connaissance des concepts utilisés en approche genre, il est apparu nécessaire d'accroitre le niveau de compréhension de l'approche genre en tant que technique pouvant améliorer l'efficacité des interventions. Globalement, les agents, tous niveaux confondus, n'ont pas une compréhension commune du concept genre et de ses implications opératoires dans le secteur de la santé. Majoritairement, l'évaluation du niveau de maitrise des concepts a révélé des difficultés à cerner les contours de l'approche et à en avoir une claire perception des modalités techniques d'application dans les interventions. Pour l'essentiel, les limites notées sont expliquées par le manque de maîtrise des techniques d'intégration du genre dans le secteur de la santé.Concernant la sensibilité genre de la gouvernance et du leadership du management, il a été relevé, au niveau central, un engagement effectif en faveur du genre au niveau du top management du MSAS. Ce constat, justifié par l'inscription de l'institutionnalisation du genre dans les orientations stratégiques du ministère, a été matérialisé par la création de la Cellule Genre, la nomination d'une coordinatrice et d'une conseillère technique genre au sein du cabinet et l'instauration de points focaux genre à tous les niveaux de la pyramide sanitaire.Au niveau intermédiaire, une faible perception du genre a été aussi notée chez la majorité des équipes-cadres de région où des difficultés à cerner les contours du genre et à avoir une claire compréhension ont été aussi relevées. Au-delà du déficit de connaissance des concepts clés et de leurs modalités d'opérationnalisation, on note un manque de conviction quant à la valeur ajoutée du genre dans la mise en œuvre des interventions. Il en a résulté une absence de leadership sensible au genre et prise en compte des questions de genre dans la gestion administrative des unités intermédiaires. Par contre, il est apparu, par endroit au niveau des districts, une sensibilité genre plus élevée et parfois une perception beaucoup plus claire du genre et de ses incidences au niveau de l'offre de services qui se traduit par une capacité à identifier les besoins différenciés des femmes et des hommes ainsi que les contraintes liée au genre qui les sous-tendent. Au niveau des hôpitaux sélectionnés, il est noté une faible perception et sensibilité genre justifiée par une compréhension encore confuse des concepts genre, équité et égalité et de l'intérêt d'en tenir compte dans les domaines d'actions. Au niveau des centres et postes de santé, l'audit a révélé une sensibilité genre plus grande et un engagement à prendre en charge les questions de genre dans les prestations pour mieux répondre à la demande. Les prestataires des centres et postes de santé, qui ont reconnu avoir un faible niveau de connaissance du concept genre et l'existence d'effort de prise en compte des sexospécificités des patients consultés, adoptent des démarches qui tiennent compte plus particulièrement des réalités des femmes et de certaines contraintes socioculturelles induites par l'utilisation d'approches communautaires.Relativement à la sensibilité genre des interventions, il a été relevé que la planification, la programmation, l'exécution, le suivi et l'évaluation des programmes et projets du MSAS sont faiblement sensibles au genre. Cependant, certains programmes ont eu à développer des initiatives d'intégration du genre fort intéressantes sous l'impulsion des partenaires techniques et financiers qui en ont fait, pour l'essentiel, une exigence programmatique explicite dans leur document d'appui. Excepté, les domaines d'intervention ciblant directement les femmes, à l'instar de la mortalité maternelle prise en charge dans le cadre de la santé de la reproduction (SR) et les initiatives de lutte contre le VIH/Sida, les questions de genre ne sont pas suffisamment intégrées dans la conception, la mise en œuvre, le suivi et l'évaluation des programmes et projets. Dans ce sens, il a été noté que les statistiques fournies par les prestataires de service, qui sont collectées de manière différenciée selon le sexe, aux divers centres d'activités, ne sont pas analysées et utilisées dans une perspective genre. Ceci est noté au fur et à mesure qu'on remonte la chaîne du système d'information sanitaire alors que la production et l'utilisation de données différenciées selon le sexe est indispensable pour réunir les conditions d'une sensibilité genre des interventions et du management des structures.Les raisons évoquées ont trait, pour l'essentiel, à l'absence de maitrise des techniques d'intégration du genre dans les politiques, programmes et projets de manière générale et dans le secteur de la santé en particulier. Ce dernier aspect est justifié par la quasi-absence de modules axés sur l'approche genre dans les programmes de formation de base et la formation continue des agents du MSAS. En effet, l'audit réalisé a démontré que l'intégration du genre dans les programmes des établissements de formation des agents du secteur de la santé devrait être améliorée pour doter les nouveaux agents de compétences techniques en matière de technique d'approche genre. Pour ce qui est spécifiquement de la formation continue, il n'a été relevé que très peu d'offres de formation aux techniques d'analyse, de planification et de programmation sensibles au genre. En témoigne, la faible proportion d'agents interrogés ayant déclaré avoir bénéficié de formations dans les domaines clés en matière de genre. Les capacités déclarées dans ce sens, sont encore largement en deçà du niveau requis pour permettre au MSAS de disposer d'une masse critique de compétences pouvant garantir l'effectivité d'une sensibilité genre appropriée des interventions et en milieux et situation de travail. A ce propos, il a été établi que les formations développées sont restées encore théoriques de l'avis des répondant-e-s au questionnaire sur l'appréciation des capacités des agents et l'évaluation de leurs besoins de formation en genre. Aussi, a-t-il été relevé, pour l'essentiel, que le degré de mise en pratique des capacités acquises en approche genre est resté, à date, très faible.Relativement à la sensibilité genre du dispositif institutionnel, la non intégration du genre dans le cadre organique a été notée plus spécifiquement au niveau des textes de base et procédures du MSAS avec comme indicateur, l'absence d'inscription explicite et formelle du genre dans les mandats et les textes portant création et organisation de l'institution.Quant à la gestion des ressources humaines, le niveau de sensibilité genre qui reste à améliorer à tous les niveaux, est matérialisé par une absence d'intégration du genre dans le management stratégique et opérationnel des ressources humaines, à l'échelle centrale, intermédiaire et périphérique. En atteste l'absence de définition de modalités d'intégration des questions de genre dans la gestion des ressources humaines et de critères sensibles au genre dans le management du personnel. En pratique, le genre n'est pas explicitement et clairement pris en compte dans les processus de recrutement et de gestion de la mobilité du personnel. Basée sur des critères fondés uniquement sur le niveau de qualification et de compétence technique, la gestion des ressources humaines intègre très peu la variable sexe et les relations et rapports entre femme et homme dans le milieu de travail. Dans le même sens, il a été souligné que le profil de représentation des femmes et des hommes aux différents postes de responsabilité est majoritairement marqué par l'importance des hommes à l'échelle centrale, intermédiaire et périphérique bien qu'il soit noté, au niveau central, une tendance à l'accroissement du nombre de femmes promues comme directeur. Relativement à l'appréciation de l'incidence de la non-prise en compte du genre dans le management des ressources humaines, trois problématiques majeures ont été identifiées. Il s'agit de : i) la problématique du taux d'absentéisme plus élevé chez les femmes que chez les hommes et ses incidences sur la continuité des services et la qualité des prestations ; ii) la problématique du rapprochement des conjoints pour les femmes plus que pour les hommes ; ces dernières étant davantage confrontées à la difficulté de servir loin de leur foyer conjugal du fait des statuts respectifs et, iii) la problématique récurrente de la femme travailleuse qui doit, en permanence faire face à l'obligation de conciliation des responsabilités familiales, sociales et professionnelles. Ces contraintes affectant la productivité des femmes, mais également, leur santé, il y a lieu d'adopter, grâce à l'utilisation de l'approche genre, des mesures idoines pour renforcer le niveau d'intégration du genre dans la gestion des ressources humaines du MSAS. A propos, l'absence de directives claires, de modalités et systèmes d'évaluation continue des disparités de genre au sein de l'organisation et du personnel a été relevée comme facteur explicatif de la non prise en compte des problématiques de genre dans la gestion des ressources humaines à l'échelle de la pyramide sanitaire.En ce qui concerne le contexte et l'environnement d'exercice des activités professionnelles, il a été établi que le niveau d'intégration du genre dans le milieu de travail et la protection du personnel du MSAS est à améliorer afin que les agents puissent réaliser leurs tâches dans des conditions qui tiennent compte des réalités spécifiques des femmes et hommes en situation de travail. En effet il a été relevé, partout dans la pyramide sanitaire, très peu de sensibilité genre dans la conception des infrastructures, l'organisation du milieu de travail, les moyens logistiques et équipements mis à la disposition du personnel.A propos de l'intégration des questions de genre dans la culture organisationnelle du MSAS, il n'existe pas d'initiatives de traduction et de vulgarisation des questions d'équité et d'égalité de genre en tant que valeurs organisationnelles malgré l'inscription de l'expression « l'équité et le genre » comme un des principes devant guider la mise en œuvre du PNDS. Dans le même sens, les supports d'information, de communication et d'éducation à la santé, utilisés dans le MSAS, bien qu'étant par endroit plus sensible au genre que par le passé devraient être améliorés de manière à éliminer certains stéréotypes de genre.Concernant les mécanismes de redevabilité et d'imputabilité des responsabilités en matière de promotion de l'intégration du genre, les initiatives prises, récemment, pour doter le MSAS d'un dispositif opérationnel, sont à renforcer pour garantir les capacités de prise en charge des actions d'institutionnalisation du genre. A cet effet, les organes composant la Cellule genre, à savoir, la Coordination, le Comité National des Points Focaux et les Comités Régionaux des Points Focaux sont à rendre opérationnels. Dans ce sens, les compétences des parties prenantes à ce dispositif sont à renforcer de même que celles de tous les acteurs intervenant dans la mise en œuvre de la politique sanitaire. A cette fin, les rôles et responsabilités attendus des points focaux pour l'intégration du genre aux différents niveaux sont à préciser et vulgariser à tous les niveaux. Dans ce sens, les modalités d'évaluation des progrès en matière de genre devraient être adoptées pour apprécier les performances de chacun des acteurs concernés. Plus spécifiquement et concernant les points focaux, il est nécessaire de renforcer leurs capacités en technique d'approche genre afin de soutenir leur leadership dans l'exécution de leurs missions de promotion de l'intégration du genre au niveau de leur structure.Ainsi, se fondant sur les résultats de l'audit genre du MSAS, l'institutionnalisation du genre vise à traduire en lignes d'actions les recommandations formulées à l'effet de soutenir l'effectivité de l'intégration du genre et son opérationnalisation dans les interventions du ministère tout au long de la pyramide sanitaire. Concrètement, le plan d'institutionnalisation du genre vise :Le renforcement de l'engagement et la redevabilité des centres de responsabilité en faveur de l'équité et de l'égalité de genre au niveau central et au niveau déconcentré à travers : l'élaboration d'une lettre circulaire, à la signature de l'autorité, à l'intention de tous les centres de responsabilité du MSAS (i) pour la prise en compte du genre dans les mécanismes, procédures, pratiques administratifs et financiers, outils de gestion du personnel y compris dans le cycle d'analyse, de conception, de programmation, d'exécution et de suivi-évaluation des interventions en matière de santé et (ii) pour l'implication effective de la Cellule genre et des points focaux genre dans les activités stratégiques et programmatiques ; l'inscription d'une directive claire pour la prise en compte du genre dans les attributions spécifiques des conseillers techniques ; l'introduction des critères d'équité et d'égalité des sexes dans les référents du mandat des inspections techniques respectifs ; l'assignation d'un indicateur de résultat lié au genre à chaque direction et programme ;l'accélération de l'institutionnalisation du genre dans les instruments organisationnels et les mécanismes d'évaluation du MSAS par : l'intégration du genre dans les textes de base et manuels de procédures administratives et programmatiques ; l'intégration du genre dans les textes et procédures de gestion du personnel ; l'intégration de la variable sexe dans toute la gestion des ressources humaines et adoption d'une directive instaurant l'analyse comparée selon les sexes des situations des travailleurs à tous les niveaux des formations sanitaires ; la mise en place de modalités d'analyse périodique de la sensibilité genre des milieux, situation et moyens de travail utilisés au sein des structures du MSAS ; l'intégration de la variable sexe dans tous les supports de collecte de données et adoption d'une directive instaurant l'analyse comparée selon les sexes des situations des femmes et des hommes à tous les niveaux des formations sanitaires.Le renforcement des capacités en approche genre et techniques sensibles au genre à travers : le développement d'un vaste programme de renforcement des capacités en genre à l'intention de tous les personnels du MSAS pour une plus grande internalisation du concept genre, une plus grande maîtrise de l'approche genre et son utilisation dans les interventions du MSAS à tous les niveaux de la pyramide sanitaire ; la conception de modules thématiques de formation dans les différents domaines en matière de santé ; l'introduction systématique d'un module genre et santé dans les curricula des structures de formation ; l'élaboration et la diffusion d'outils et guides d'intégration du genre dans la planification, mise en œuvre et le suivi-évaluation des programmes du MSAS ;le soutien au changement de comportement en faveur du genre, la lutte contre les stéréotypes et les violences basées sur le genre à travers : l'élaboration d'études socioculturelles dans les 14 régions du Sénégal pour une meilleure perception et compréhension des facteurs d'influence des contextes social, culturel et religieux ; le développement d'une stratégie de communication pour rompre définitivement avec les préjugés et stéréotypes sexistes et créer des relations saines de partenariat entre les femmes et les hommes ; la mise en place de modalités d'analyse de la sensibilité genre des contenus et supports de communication et d'information des programmes du MSAS ; la mise en place un mécanisme d'échanges et de communication sur le genre dans le secteur de la santé entre les acteurs et partenaires du MSAS ; l'élaboration d'un code de conduite aux fins de lutter contre les discriminations, le harcèlement et autres abus sexuels en milieu professionnel.Soutenir la femme dans la conciliation de ses multiples responsabilités familiales et professionnelles à travers : l'aménagement d'un espace d'accueil-garderie pour recevoir les enfants du personnel en cas de besoin (rendez-vous chez le médecin, absence de la nounou) mais aussi permettre aux travailleuses allaitantes, ayant repris le service après accouchement, de réunir les conditions d'observer l'allaitement maternel exclusif de leur bébé ; l'adoption de dispositions administratives et financières permettant aux femmes travailleuses, ayant des enfants en situation d'allaitement, de pouvoir participer aux missions et plus particulièrement pendant les séminaires et ateliers.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3. Orientations stratégiques du plan d'institutionnalisation du genre",
+      "texte": "Le plan d'institutionnalisation du genre est structuré autour des quatre orientations stratégiques ci-dessous :Orientation stratégique 1 : Développement d'une culture de l'égalité de genre qui garantirait l'instauration de reflexes devant favoriser, à tous les niveaux organisationnels, des comportements, attitudes et pratiques systématique de prise en compte des questions de genre dans la mise en œuvre des interventions.Orientation stratégique 2 : Intégration du genre dans les programmes de formation de base qui vise à agir en amont pour doter les agents du secteur de la santé de compétences techniques nécessaires pour la prise compte du genre dès la formation initiale.Orientation stratégique 3 : Développement des compétences techniques en techniques de planification, programmation, budgétisation, mise en œuvre, suivi et évaluation sensibles au genre. Cette orientation est destinée à développer, aux différents niveaux, les capacités techniques à assurer l'intégration du genre dans les différentes étapes de gestion, de conception, de mise en œuvre, de suivi et d'évaluation des programmes du MSAS.Orientation stratégique 4 : Promotion du travail décent, à tous les niveaux de la pyramide sanitaire, qui viserait à créer des milieux et situations de travail qui tiennent compte des questions de genre et promeut l'équité entre femme et homme.Naturellement, ces quatre orientations sont à envisager et promues de manière à garantir une cohérence d'ensemble et une plus grande efficacité des actions requises pour créer les conditions critiques pour l'effectivité de l'intégration du genre dans les interventions du MSAS et l'organisation de manière générale. Une telle option est justifiée par le fait que l'institutionnalisation du genre devrait être basée sur des actions à mener de manière concomitantes pour le développement d'une sensibilité genre globale et d'une conscience de genre qui requiert une réelle habilitation technique de tous les acteurs concernés.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4. Cibles du plan d'institutionnalisation genre",
+      "texte": "En référence à l'objectif énoncé, plus haut, le principal bénéficiaire du plan d'institutionnalisation du genre est le MSAS. Spécifiquement, le plan d'institutionnalisation offrirait au ministère de nouveaux outils permettant de mieux envisager, apprécier, suivre et rendre compte des performances en termes d'équité en matière d'accès aux services de santé et sociaux et plus spécifiquement de couverture des besoins des femmes dans le domaine.L'introduction et l'utilisation des outils techniques, qui seront développés et mis à disposition, offriraient, aux parties prenantes au processus d'élaboration du DPPD du ministère, des modalités techniques d'analyse des situations au niveau sectoriel, d'identification des problématiques de santé tenant compte du genre et des priorités concernant la santé des femmes et plus globalement de la population dans ses différentes composantes.Par conséquent, les cibles du plan d'institutionnalisation : le Cabinet, les directions nationales, les responsables des programmes exécutés aux différents niveaux, les cadres chargés de la préparation et de l'exécution technique du DPPD, les équipes intervenant dans la chaine du système d'information sanitaire et les instituts de formation.Les modes d'implication des différentes cibles des actions, qui seront développées dans le cadre du plan d'institutionnalisation, et la nature des avantages, qui seront tirés des activités, dépendront naturellement des rôles respectifs des uns et des autres dans les cycles et phases de conception, de mise en œuvre, de suivi et d'évaluation du PNDS.Dépendant des rôles spécifiques et conjoints de chaque catégorie d'acteurs impliqués dans les processus de mise en œuvre des programmes et projets, les groupes cibles tireront profit des activités de renforcement des capacités qui seront envisagées à deux niveaux : i) le développement de compétences humaines visant l'habilitation technique des agents pour une maitrise des techniques d'analyse genre, de planification et d'exécution des programmes dans une perspective genre et le développement d'une culture de l'équité et l'égalité de genre dans les milieux et situations de travail du niveau central au niveau périphérique ; ii) l'amélioration des outils institutionnels utilisés dans les différentes étapes de planification, de programmation, de budgétisation, de suivi et d'évaluation grâce à l'introduction du genre dans les systèmes, contenus, modalités et procédures des analyses sectorielles et globales jadis utilisés.Subséquemment, les actions envisagées pourraient concerner, éventuellement, des organisations non gouvernementales partenaires impliquées dans la mise en œuvre des programmes de santé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5. Principes directeurs de mise en œuvre du plan d'institutionnalisation du genre",
+      "texte": "La mise œuvre du plan d'institutionnalisation sera basée sur les principes directeurs ci-après :L'exécution du plan sera fondée sur l'approche multi-acteurs en raison, d'une part, des missions partagées dévolues à chaque direction et service et de celles relevant des responsables des programmes ainsi que des niveaux intermédiaire et périphérique dans le cycle de conception et d'exécution des interventions du MSAS.L'interdépendance des résultats attendus du plan d'institutionnalisation exige une synergie des parties prenantes à la mise en œuvre des activités programmées. Ainsi, la matérialisation du principe de synergie d'actions devra intégrer la nécessité d'inscrire l'institutionnalisation du genre sur l'agenda global du ministère en matière de planification, suivi et évaluation des programmes d'une part et de management des structures et unités de prestation de services d'autre part. Ce principe devrait être mis à profit pour démontrer, à tous les niveaux du ministère et plus particulièrement des directions et coordinations des programmes et projets, la pertinence et la valeur ajoutée de l'intégration du genre en tant qu'instrument de promotion de l'inclusion sociale, de l'équité et de l'égalité de genre dans le secteur de la santé. Aussi, devrait-on démontrer que l'institutionnalisation du genre offre des opportunités de renforcer la contribution du ministère à la prise en charge médicale des femmes victimes de violences basées sur le genre.La coordination des activités développées et des efforts des différentes parties prenantes doit être un principe opératoire et un objectif de mise en cohérence et d'articulation des initiatives en faveur de la prise en compte des questions de genre dans tous les programmes de mise en œuvre du PNDS. Ceci s'avère nécessaire voire imposer par le dispositif et le nombre de points focaux mis en place pour prendre en charge l'intégration du genre. Pour cela, la matérialisation du principe de coordination devra prendre en compte la nécessité d'articuler l'exécution du plan d'institutionnalisation aux modalités et contenus des différents programmes qui constituent les champs d'application de la sensibilité genre du DPPD Santé.L'atteinte des résultats du plan d'actions étant fortement corrélée à l'effectivité de l'implication des différentes parties concernées, la concertation devra être retenue comme principe directeur clé pour non seulement faciliter la communication entre parties prenantes à l'institutionnalisation du genre, mais surtout, pour mobiliser tous les acteurs des processus planification, d'exécution et de suivi des programmes et prestations de services.Se fondant sur ces principes directeurs, l'efficacité de la mise en œuvre du plan d'institutionnalisation du genre devra être recherchée à travers :l'appropriation qui devrait permettre, à tous les acteurs clés des différents niveaux, notamment les directeurs nationaux et coordonnateurs de programmes et projets, d'avoir une bonne connaissance du contenu du plan d'institutionnalisation du genre et des initiatives qu'ils sont appelés à prendre pour sa mise en œuvre. Dans ce sens, le plan d'institutionnalisation devra être considéré comme un cadre de référence opérationnel destiné à garantir la prise en compte transversale du genre au niveau du DPPD du ministère et de l'ensemble des programmes mis en œuvre et prestations de services de santé et sociale. A cette fin, les parties prenantes devront valoriser les capacités qui seront développées pour réunir les conditions d'aptitude à utiliser les modalités techniques et outils d'intégration du genre.l'harmonisation qui viserait à favoriser, grâce à la mutualisation des connaissances, une institutionnalisation graduelle des compétences nécessaires pour l'effectivité de l'intégration transversale du genre aux niveaux central, intermédiaire et périphérique des documents de base au DPPD et tout au long des cycles des programmes et activités des prestataires.l'effectivité du principe d'alignement qui favoriserait une plus grande synergie et efficacité dans les actions de soutien à l'intégration du genre dans la mise en œuvre des programmes de santé. A cet effet, il est attendu à tous les niveaux des différents programmes et projets de santé, une plus grande référence à la Stratégie Nationale pour l'Equité et l'Egalité de Genre.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "6. Résultats du plan d'institutionnalisation du genre",
+      "texte": "L'objectif du plan d'institutionnalisation est de créer les conditions nécessaires pour rendre suffisamment sensibles au genre les interventions du MSAS. Spécifiquement, il s'agira de doter le MSAS des capacités requises pour que le management, la planification, la programmation, le suivi et l'évaluation des programmes du secteur intègrent convenablement les questions de genre, à la fois, pour l'offre de services sanitaires et les aspects touchant la demande.A terme, le plan d'institutionnalisation permettra au MSAS de se doter d'une capacité d'utilisation des modalités et techniques de conception, exécution et suivi sensibles au genre, aux fins d'accroitre l'efficacité de l'impact des politiques et des programmes sur les populations et plus particulièrement sur les femmes.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "6.1. Finalité du plan d'institutionnalisation du genre",
+      "texte": "A terme le plan d'institutionnalisation contribuera à l'intégration de l'équité et l'égalité de genre dans les structures, les systèmes, les pratiques et les interventions du secteur de la santé et de l'action sociale.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "6.2. But du plan d'institutionnalisation du genre",
+      "texte": "Le but du plan d'institutionnalisation du genre est d'offrir aux populations des prestations de services sanitaires équitables tout en se fondant sur des conditions d'exercice de travail décent à tous les niveaux de la pyramide sanitaire. L'atteinte de ce but passera par l'accroissement du niveau de sensibilité genre de la politique sanitaire à l'échelle centrale, intermédiaire et périphérique et la création de conditions de travail décent pour l'ensemble du personnel du MSAS.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "6.3. Chaine de résultats du plan d'institutionnalisation du genre",
+      "texte": "Impact : L'institutionnalisation du genre est effective au MSAS et les interventions sont sensibles à tous les niveaux de la pyramide sanitaire.Effet 1 : Le genre est partie intégrante du cadre organique, de la gouvernance et de la culture organisationnelle du MSAS.- Extrant 1.1 : Les textes de base et manuels de procédures administratives et programmatiques contiennent des dispositions relatives à l'intégration du genre dans les interventions.- Extrant 1.2 : Les agents du MSAS, des niveaux central, intermédiaire et périphérique adoptent des comportements, attitudes et pratiques favorisant l'intégration du genre dans les interventions.- Extrant 1.3 : La gestion des ressources humaines du MSAS est basée sur des modalités et approches sensibles au genre.- Extrant 1.4 : La pratique du travail décent est promue à tous les niveaux de la pyramide sanitaire.Effet 2 : Le MSAS utilise, à tous les niveaux de la pyramide sanitaire, des données différenciées selon le sexe et analysées de manière sensible au genre.- Extrant 2.1 : Les agents du niveau central, chargés du système d'information sanitaire, disposent de capacités à promouvoir l'analyse des données dans une perspective Genre.- Extrant 2.2 : Les agents des niveaux intermédiaires et périphériques disposent de capacités à produire, présenter et analyser les données dans une perspective Genre.- Extrant 2.3 : Le MSAS produit et diffuse, à tous les niveaux de la pyramide sanitaire, des rapports de présentation des données et de performances basées sur l'approche genre.Effet 3 : Le MSAS conçoit, exécute, suit et évalue ses interventions dans une perspective Genre, à tous les niveaux de la pyramide sanitaire.- Extrant 3.1 : Les agents chargés de la planification aux différents niveaux disposent de capacités techniques à concevoir et exécuter les programmes et projets du MSAS de manière sensible au genre.- Extrant 3.2 : Les agents chargés du suivi-évaluation, aux différents niveaux, disposent de capacités techniques à suivre et évaluer les programmes et projets de manière sensible au genre.- Extrant 3.3 : Les établissements de formation des agents de santé disposent de capacités à concevoir et dispenser des modules de formation portant sur genre et santé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "7. Le Cadre logique du plan d'institutionnalisation du genre",
+      "texte": "CADRE LOGIQUE DU PLAN D'INSTITUTIONNALISATION DU GENRE DANS LE SECTEUR DE LA SANTE ET DE L'ACTION SOCIALE 2015-2020.Finalité du PIG/MSAS : Contribuer à l'intégration de l'équité et l'égalité de genre dans les structures, les systèmes, les pratiques et les interventions du secteur de la santé et de l'action sociale.But du PIG/MSAS : Offrir aux populations des prestations de services sanitaires équitables tout en se fondant sur des conditions d'exercice de travail décent à tous les niveaux de la pyramide sanitaire.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Cadre logique du plan d'institutionnalisation du genre dans le secteur de la santé et de l'action sociale 2015-2020",
+          "colonnes": ["Chaines de résultats", "Indicateurs de résultat (IOV)", "Objectifs cibles", "Sources de vérification", "Risques"],
+          "lignes": [
+            {
+              "Chaines de résultats": "Impact : L'institutionnalisation du genre est effective au MSAS et les interventions sont sensibles à tous les niveaux de la pyramide sanitaire.",
+              "Indicateurs de résultat (IOV)": "Niveau d'intégration du genre dans le système de valeurs, le cadre organique et les mécanismes de gestion. Niveau de sensibilité genre des interventions du MSAS.",
+              "Objectifs cibles": "Au plus tard en 2020, 100% du dispositif institutionnel du MSAS intègre le genre. Au plus tard en 2020, les interventions du MSAS prennent en compte équitablement les besoins différenciés des hommes et des femmes.",
+              "Sources de vérification": "Rapports d'évaluation à mi-parcours et final du PIG/MSAS.",
+              "Risques": "Manque d'engagement du management stratégique et opérationnel en faveur de l'institutionnalisation du genre. Indisponibilité des ressources nécessaires pour la mise en œuvre du PIG/MSAS. Non opérationnalité de la cellule genre."
+            },
+            {
+              "Chaines de résultats": "Effet 1 : Le genre est partie intégrante du cadre organique, de la gouvernance et de la culture organisationnelle du MSAS.",
+              "Indicateurs de résultat (IOV)": "Niveau de sensibilité genre du cadre organique, des normes et valeurs du MSAS. Taux de représentation des hommes et des femmes dans les emplois et les postes de décision du système sanitaire.",
+              "Objectifs cibles": "A partir de 2016, les textes de base fixant les attributions et organisant le MSAS tiennent compte de l'équité et de l'égalité de genre. A partir de 2016, l'équité et l'égalité de genre sont érigés comme normes et valeurs de la culture organisationnelle du MSAS. D'année en année, les femmes sont davantage représentées dans les centres de responsabilité.",
+              "Sources de vérification": "Rapports de revue annuelle du PIG/MSAS.",
+              "Risques": "Résistance aux changements. Persistance de stéréotypes sexistes."
+            },
+            {
+              "Chaines de résultats": "Extrant 1.1 : Les textes de base et manuels de procédures administratives et programmatiques contiennent des dispositions relatives à l'intégration du genre dans les interventions.",
+              "Indicateurs de résultat (IOV)": "Existence et nature des dispositions prises en faveur de l'équité et de l'égalité de genre dans les manuels et procédures administratives et programmatiques.",
+              "Objectifs cibles": "A partir de 2016, 100% des textes de base, manuels procédures administratives et programmatiques intègrent des dispositions relatives à l'intégration du genre dans les interventions.",
+              "Sources de vérification": "Textes de base. Manuels de procédures administratives et programmatiques. Rapport des ateliers de révision des textes et manuels.",
+              "Risques": "Inexistence de modalités d'évaluation continue des situations et conditions de travail des agents dans une perspective genre."
+            },
+            {
+              "Chaines de résultats": "Extrant 1.2 : Les agents du MSAS, des niveaux central, intermédiaire et périphérique adoptent des comportements, attitudes et pratiques favorisant l'intégration du genre dans les interventions.",
+              "Indicateurs de résultat (IOV)": "Nombre d'agents des différents niveaux adoptant des comportements, attitudes et pratiques et favorisant l'intégration du genre dans les interventions.",
+              "Objectifs cibles": "A partir de 2016, les agents du MSAS, à tous les niveaux de la pyramide sanitaire, adoptent progressivement des comportements, attitudes et pratiques favorables à l'intégration du genre dans les interventions.",
+              "Sources de vérification": "Rapports de suivi et d'évaluation des Comportements, Attitudes et Pratiques des agents.",
+              "Risques": ""
+            },
+            {
+              "Chaines de résultats": "Extrant 1.3 : La gestion des ressources humaines du MSAS est basée sur des modalités et approches sensibles au genre.",
+              "Indicateurs de résultat (IOV)": "Existence de modalités d'intégration du genre dans la gestion des ressources humaines aux différents niveaux de la pyramide sanitaire. Niveau de prise en compte de l'équité de genre dans le management du personnel.",
+              "Objectifs cibles": "A partir de 2016, les textes de base et manuels de procédures de gestion des ressources humaines intègrent le genre et le management du personnel tient compte de l'équité entre femme et homme.",
+              "Sources de vérification": "Rapports de suivi de la mise en œuvre du PIG/MSAS. Rapport de revue du PIG/MSAS.",
+              "Risques": ""
+            },
+            {
+              "Chaines de résultats": "Extrant 1.4 : La pratique du travail décent est promue à tous les niveaux de la pyramide sanitaire.",
+              "Indicateurs de résultat (IOV)": "Existence de directives instaurant l'adoption de pratiques favorisant le travail décent à tous les niveaux.",
+              "Objectifs cibles": "A partir de 2016, la pratique du travail décent est instituée aux niveaux central, intermédiaire et périphérique du MSAS.",
+              "Sources de vérification": "Circulaire instituant la pratique du travail décent dans le MSAS.",
+              "Risques": ""
+            },
+            {
+              "Chaines de résultats": "Effet 2 : Le MSAS utilise, à tous les niveaux de la pyramide sanitaire, des données différenciées selon le sexe et analysées de manière sensible au genre.",
+              "Indicateurs de résultat (IOV)": "Niveau de production de données différenciées selon les sexes à tous les niveaux de la pyramide sanitaire. Niveau d'analyse sensible au genre des données produites. Niveau d'utilisation des données sensibles au genre à tous les niveaux de la pyramide sanitaire.",
+              "Objectifs cibles": "A partir de 2016, les données du système sanitaire sont désagrégées par sexe, analysées et utilisées dans une perspective genre.",
+              "Sources de vérification": "Rapport de revue du PIG/MSAS.",
+              "Risques": "Déficit d'engagement des responsables de la collecte et de l'analyse des données en faveur de l'utilisation des statistiques dans une perspective genre. Résistance au changement des prestataires."
+            },
+            {
+              "Chaines de résultats": "Extrant 2.1 : Les agents du niveau central, chargés du système d'information sanitaire, disposent de capacités à promouvoir l'analyse des données dans une perspective genre.",
+              "Indicateurs de résultat (IOV)": "Nombre d'agents de l'équipe de la DSIS disposant de capacités à promouvoir l'analyse des données dans une perspective genre.",
+              "Objectifs cibles": "A partir de 2016, l'équipe DSIS dispose de capacités en techniques d'analyse genre et intègre, dans les formations dispensées dans le cadre du dhis2, un module axé sur la production et l'analyse de statistiques sensibles au genre.",
+              "Sources de vérification": "Rapports d'activités de la Cellule genre.",
+              "Risques": ""
+            },
+            {
+              "Chaines de résultats": "Extrant 2.2 : Les agents des niveaux intermédiaires et périphériques disposent de capacités à produire, présenter et analyser les données dans une perspective genre.",
+              "Indicateurs de résultat (IOV)": "Nombre d'agents disposant de capacités à produire, présenter et analyser des données dans une perspective genre.",
+              "Objectifs cibles": "A partir de 2016, 100% des cadres responsables de la collecte et du traitement des données du système d'information sanitaire disposent de capacités d'analyse genre des statistiques sanitaires.",
+              "Sources de vérification": "Rapports d'activités de la Cellule genre.",
+              "Risques": ""
+            },
+            {
+              "Chaines de résultats": "Extrant 2.3 : Le MSAS produit et diffuse, à tous les niveaux de la pyramide sanitaire, des rapports de présentation des données et de performances basés sur l'approche genre.",
+              "Indicateurs de résultat (IOV)": "Niveau de rapports de présentations des données et performances basés sur une approche genre.",
+              "Objectifs cibles": "A partir de 2016, 100% des rapports de présentation des données et de performance sont basés sur l'approche genre.",
+              "Sources de vérification": "Rapports de présentation des données produites. Rapports de performance des projets et programmes.",
+              "Risques": ""
+            },
+            {
+              "Chaines de résultats": "Effet 3 : Le MSAS conçoit, exécute, suit et évalue ses interventions dans une perspective genre, à tous les niveaux de la pyramide sanitaire.",
+              "Indicateurs de résultat (IOV)": "Niveau de sensibilité genre des programmes, projets et prestations offertes par le MSAS.",
+              "Objectifs cibles": "A partir de 2016, 100% des programmes sont conçus, exécuté, suivi et évaluer dans une perspective genre.",
+              "Sources de vérification": "Rapport de revue du PIG/MSAS. Rapports d'évaluation du PIG/MSAS.",
+              "Risques": "Déficit d'engagement des équipes chargées de la planification et du suivi des programmes du MSAS en faveur de l'institutionnalisation du genre dans les programmes."
+            },
+            {
+              "Chaines de résultats": "Extrant 3.1 : Les agents chargés de la planification aux différents niveaux disposent de capacités techniques à concevoir et exécuter les programmes et projets du MSAS de manière sensible au genre.",
+              "Indicateurs de résultat (IOV)": "Nombre d'agents chargés de la planification, aux différents niveaux, disposant de capacités techniques à concevoir et exécuter des programmes et projets sensibles au genre.",
+              "Objectifs cibles": "A partir de 2016, 100% des agents chargés de la conception et de l'exécution des projets et programmes du MSAS disposent de capacités à planifier et mettre en œuvre des interventions dans une perspective genre.",
+              "Sources de vérification": "Rapport d'ateliers. Rapports d'activités de la Cellule genre. Rapport de revue du PIG/MSAS.",
+              "Risques": ""
+            },
+            {
+              "Chaines de résultats": "Extrant 3.2 : Les agents chargés du suivi-évaluation, aux différents niveaux, disposent de capacités techniques à suivre et évaluer les programmes et projets de manière sensible au genre.",
+              "Indicateurs de résultat (IOV)": "Nombre d'agents chargés du suivi et de l'évaluation, aux différents niveaux, disposant de capacités techniques à suivre et évaluer les programmes et projets dans perspective genre.",
+              "Objectifs cibles": "A partir de 2016, 100% des agents chargés de la conception et de l'exécution des projets et programmes du MSAS disposent de capacités à suivre et évaluer les interventions dans une perspective genre.",
+              "Sources de vérification": "Rapport d'ateliers. Rapports d'activités de la Cellule genre. Rapport de revue du PIG/MSAS.",
+              "Risques": ""
+            },
+            {
+              "Chaines de résultats": "Extrant 3.3 : Les établissements de formation des agents de santé disposent de capacités à concevoir et dispenser des modules de formation portant sur genre et santé.",
+              "Indicateurs de résultat (IOV)": "Nombre d'établissements de formation des agents de santé disposant de capacités à concevoir et dispenser des modules portant sur genre et santé.",
+              "Objectifs cibles": "A partir de 2016, au moins, 100% des établissements de formation des agents de santé relevant du MSAS, dispensent des modules de formation portant sur genre et santé.",
+              "Sources de vérification": "Rapports d'activités de production des modules. Rapports de revue du PIG/MSAS.",
+              "Risques": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8. Matrice d'actions du Plan d'institutionnalisation du Genre",
+      "texte": "Matrice détaillant, pour chaque extrant et activité du plan, les indicateurs, l'échéancier de réalisation (2015 à 2020), les parties prenantes et les responsables.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Matrice d'actions du Plan d'institutionnalisation du Genre",
+          "colonnes": ["Extrants et activités", "Indicateurs d'extrants et d'activités", "Echéancier 2015", "Echéancier 2016", "Echéancier 2017", "Echéancier 2018", "Echéancier 2019", "Echéancier 2020", "Parties prenantes", "Responsables"],
+          "lignes": [
+            {
+              "Extrants et activités": "Extrant 1.1 : Les textes de base et manuels de procédures administratives et programmatiques contiennent des dispositions relatives à l'intégration du genre dans les interventions.",
+              "Indicateurs d'extrants et d'activités": "Existence et nature des dispositions d'intégration du genre dans les manuels et procédures administratives et programmatiques.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Bureau législation, DAGE, Management, Régions médicales, Districts, Programmes et projets, PTF",
+              "Responsables": "Cellule genre"
+            },
+            {
+              "Extrants et activités": "Activité 1.1.1 : Organiser des ateliers de relecture et d'intégration du genre dans les textes de base et procédures du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'ateliers organisés.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": "Bureau législation"
+            },
+            {
+              "Extrants et activités": "Activité 1.1.2 : Valider, par les instances compétentes, les modifications proposées pour l'intégration du genre dans les textes de base et procédure du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence d'acte de validation des modifications proposées.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.1.3 : Diffuser les nouveaux textes et procédures instituant le genre au MSAS.",
+              "Indicateurs d'extrants et d'activités": "Niveau de diffusion des nouveaux textes et procédures.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.1.4 : Veiller à l'application des textes de base et procédures instituant le genre au MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence d'actions instituant le genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 1.2 : Les agents du MSAS, des niveaux central, intermédiaire et périphérique adoptent des comportements, attitudes et pratiques favorisant l'intégration du genre dans les interventions.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'agents des différents niveaux adoptant des comportements, attitudes et pratiques et favorisant l'intégration du genre dans les interventions.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Toutes les structures des niveaux central, intermédiaire et périphérique, PTF",
+              "Responsables": "Cellule genre"
+            },
+            {
+              "Extrants et activités": "Activité 1.2.1 : Concevoir des supports de sensibilisation multi cibles pour la promotion de l'équité et l'égalité dans le MSAS et les interventions.",
+              "Indicateurs d'extrants et d'activités": "Nombre et nature des supports conçus.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.2.2 : Produire les supports de sensibilisation multi cibles.",
+              "Indicateurs d'extrants et d'activités": "Nombre et nature de supports produits.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.2.3 : Sensibiliser, à tous les niveaux de la pyramide sanitaire, les agents pour des pratiques favorables à l'équité et l'égalité de genre dans le MSAS.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'agents sensibilisés aux trois niveaux.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 1.3 : Le management des ressources humaines du MSAS est basé sur des modalités et approches de gestion sensibles au genre.",
+              "Indicateurs d'extrants et d'activités": "Existence de modalités d'intégration du genre dans la gestion des ressources humaines aux différents niveaux de la pyramide sanitaire. Niveau de prise en compte de l'équité de genre dans le management du personnel.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Toutes les Directions, Région Médicale, Districts, DRH",
+              "Responsables": "Cellule genre"
+            },
+            {
+              "Extrants et activités": "Activité 1.3.1 : Elaborer un guide d'aide à l'intégration du genre dans la gestion des ressources humaines à tous les niveaux de la pyramide sanitaire.",
+              "Indicateurs d'extrants et d'activités": "Existence de guide d'aide à l'intégration du genre dans la gestion des RH.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.3.2 : Concevoir un module de formation aux techniques de gestion des ressources humaines dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Existence d'un module de formation aux techniques d'intégration du genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.3.3 : Former, aux différents niveaux, tous les responsables du management du personnel, aux techniques de gestion des ressources humaines dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre de responsables du management formés.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.3.4 : Appuyer l'application des modalités de gestion des ressources humaines dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre et nature des actions d'appui développées.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 1.4 : La pratique du travail décent est promue à tous les niveaux de la pyramide sanitaire.",
+              "Indicateurs d'extrants et d'activités": "Existence de directives instaurant l'adoption de pratiques favorisant le travail décent à tous les niveaux.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Toutes les Directions, Région Médicale, Districts, Cabinet, DRH, DAGE, DIEM",
+              "Responsables": "Cellule genre"
+            },
+            {
+              "Extrants et activités": "Activité 1.4.1 : Concevoir des guides de promotion du travail décent, à tous les niveaux du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence de guide de promotion du travail décent.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.4.2 : Produire les guides de promotion du travail décent, à tous les niveaux du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Nombre de guide de promotion du travail décent produits.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.4.3 : Promouvoir le travail décent à tous les niveaux du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Nombre et nature des actions de promotion développées.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 1.4.4 : Veiller à l'effectivité de traitement décent pour tous les agents utilisés dans le secteur de la santé.",
+              "Indicateurs d'extrants et d'activités": "Existence et nature des actions de veille à l'effectivité du travail décent pour tous les agents.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 2.1 : Les agents du niveau central, chargés du système d'information sanitaire, disposent de promouvoir l'analyse des données dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'agents de l'équipe de la DSIS disposant de capacités à promouvoir l'analyse des données dans une perspective genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Région Médicale, Districts, Programmes, Projets, PTF",
+              "Responsables": "DSIS/DPRS, Cellule genre"
+            },
+            {
+              "Extrants et activités": "Activité 2.1.1 : Concevoir un module de formation de formateurs aux techniques de production et d'analyse des statistiques dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Existence de module de formation de formateurs aux techniques de production de données et d'analyse genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 2.1.2 : Former les formateurs de l'équipe DSIS aux techniques de production et d'analyse des statistiques dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre de formateurs de la DSIS formés à l'analyse genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 2.1.3 : Former les SSP-SSI et responsables de planification aux techniques de production et d'analyse des statistiques dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre de SSP, SSI et responsables de planification formés à l'analyse genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 2.1.4 : Appuyer l'application de l'approche genre dans le système d'information sanitaire.",
+              "Indicateurs d'extrants et d'activités": "Existence et nature des actions d'appui à l'application de l'approche genre dans le système d'information sanitaire.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 2.2 : Les agents des niveaux intermédiaire et périphérique disposent de capacités à produire et analyser les données dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'agents disposant de capacités à produire, présenter et analyser des données dans une perspective genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Région Médicale, Districts, Programmes, Projets, PTF",
+              "Responsables": "Cellule genre, DSIS"
+            },
+            {
+              "Extrants et activités": "Activité 2.2.1 : Concevoir un guide d'application de l'approche genre dans la collecte, le traitement et l'analyse des données sanitaires dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Existence d'un guide d'application de l'approche genre dans la collecte et l'analyse des données sanitaires.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 2.2.2 : Former les SSP et SSI aux techniques de collecte et d'analyse des données sanitaires dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre de SSP et SSI formés.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 2.2.3 : Appuyer l'application de l'approche genre dans la collecte, le traitement et l'analyse des données sanitaires.",
+              "Indicateurs d'extrants et d'activités": "Existence et nature des actions d'appui à l'application de l'approche genre dans la collecte et l'analyse des données sanitaires.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 2.3 : Le MSAS produit et diffuse, à tous les niveaux de la pyramide sanitaire, des rapports de présentation des données et de performances basés sur l'approche genre.",
+              "Indicateurs d'extrants et d'activités": "Niveau de rapports de présentations des données et performances basés sur une approche genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Toutes les directions, Région Médicale, Districts, Programmes, Projets, PTF",
+              "Responsables": "Cellule genre, DPRS, DAGE"
+            },
+            {
+              "Extrants et activités": "Activité 2.3.1 : Evaluer le degré de sensibilité genre des différents types de rapports produits dans le MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence d'un rapport d'évaluation du degré de sensibilité genre des rapports.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 2.3.2 : Elaborer, sur la base des résultats l'évaluation, un guide de traitement des questions de genre dans les rapports produits dans le MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence d'un guide de traitement des questions de genre dans les rapports.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 2.3.3 : Mettre à la disposition des structures le guide de traitement des questions de genre dans les rapports produit par le MSAS.",
+              "Indicateurs d'extrants et d'activités": "Nombre de structure disposant du guide de traitement des questions de genre dans les rapports.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 2.3.4 : Appuyer l'utilisation de l'approche genre dans la production des rapports produit par le MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence et qualité des actions d'appui à l'utilisation de l'approche genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 3.1 : Les agents chargés de la planification aux différents niveaux disposent de capacités techniques à concevoir et exécuter les programmes et projets du MSAS de manière sensible au genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'agents chargés de la planification, aux différents niveaux, disposant de capacités techniques à concevoir et exécuter des programmes et projets sensibles au genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Toutes les directions, Région Médicale, Districts, Programmes, Projets, PTF",
+              "Responsables": "Cellule genre, DPRS/Division Planification"
+            },
+            {
+              "Extrants et activités": "Activité 3.1.1 : Intégrer le genre dans le Guide d'élaboration des plans de travail annuels (PTA).",
+              "Indicateurs d'extrants et d'activités": "Existence d'un guide de gestion des PTA intégrant le genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.1.2 : Concevoir des modules de formation aux techniques de planification dans une perspective genre des interventions du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence de modules de formation aux techniques de planification dans une perspective genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.1.3 : Former les responsables de la planification des interventions du MSAS et le management aux techniques de planification dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre de responsables de planification et de managers formés aux techniques de planification sensible au genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.1.4 : Appuyer l'intégration du genre dans les processus de planification des interventions du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence et qualité des actions d'appui à l'intégration du genre dans les processus de planification des interventions du MSAS.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 3.2 : Les agents chargés du suivi, aux différents niveaux, disposent de capacités techniques à suivre et évaluer les programmes et projets de manière sensible au genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'agents chargés du suivi et de l'évaluation, aux différents niveaux, disposant de capacités techniques à suivre et évaluer les programmes et projets dans perspective genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Toutes les directions, Région Médicale, Districts, Programmes, Projets, PTF",
+              "Responsables": "Cellule genre, DPRS/Division Suivi"
+            },
+            {
+              "Extrants et activités": "Activité 3.2.1 : Concevoir et mettre à la disposition des responsables de suivi et évaluation des guides d'aide à l'intégration du genre dans le suivi et l'évaluation des interventions du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence et nature des guides d'aide à l'intégration du genre dans le dispositif de suivi et d'évaluation des interventions.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.2.2 : Concevoir les modules de formation des agents aux techniques de suivi et d'évaluation des programmes et projets dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Existence de modules de formation aux techniques de suivi et d'évaluation dans une perspective genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.2.3 : Former les responsables de suivi et évaluation aux techniques de suivi et d'évaluation des programmes et projets dans une perspective genre.",
+              "Indicateurs d'extrants et d'activités": "Nombre de responsables de suivi et d'évaluation formés aux techniques de suivi et d'évaluation sensibles au genre.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.2.4 : Appuyer l'intégration du genre dans les dispositifs de suivi et évaluation des interventions du MSAS.",
+              "Indicateurs d'extrants et d'activités": "Existence et qualité des actions d'appui à l'intégration du genre dans les dispositifs de suivi et d'évaluation des interventions.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Extrant 3.3 : Les établissements de formation des agents de santé disposent de capacités à concevoir et dispenser des modules de formation portant sur genre et santé.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'établissements de formation des agents de santé disposant de capacités à concevoir et dispenser des modules portant sur genre et santé.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "Toutes les directions, Région Médicale, Districts, Programmes, Projets, Etablissement de formation, PTF",
+              "Responsables": "Cellule genre, Division Formation"
+            },
+            {
+              "Extrants et activités": "Activité 3.3.1 : Organiser un atelier d'échange pour le développement de modules genre et santé destinés aux institutions de formation de base.",
+              "Indicateurs d'extrants et d'activités": "Existence d'un atelier d'échange pour le développement de modules genre et santé destiné aux institutions de formation.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.3.2 : Organiser des ateliers de production de modules « genre et santé » destinés aux établissements de formation de base.",
+              "Indicateurs d'extrants et d'activités": "Nombre d'atelier de production de modules « genre et santé » organisés.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.3.3 : Faire valider les modules développés par les instances compétentes.",
+              "Indicateurs d'extrants et d'activités": "Existence de modules validés.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            },
+            {
+              "Extrants et activités": "Activité 3.3.4 : Produire et mettre les modules « genre et santé » à la disposition des établissements de formation de base.",
+              "Indicateurs d'extrants et d'activités": "Nombre de modules produits et diffusés.",
+              "Echéancier 2015": "", "Echéancier 2016": "", "Echéancier 2017": "", "Echéancier 2018": "", "Echéancier 2019": "", "Echéancier 2020": "",
+              "Parties prenantes": "", "Responsables": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "9. Matrice d'activités de renforcement des capacités de la Cellule genre",
+      "texte": "Matrice présentant les activités de renforcement des capacités de la Cellule genre, avec indicateurs objectivement vérifiables, sources de vérification et hypothèses.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Matrice d'activités de renforcement des capacités de la Cellule genre",
+          "colonnes": ["Activités", "Indicateurs objectivement vérifiables (IOV)", "Sources de vérification", "Hypothèses"],
+          "lignes": [
+            {
+              "Activités": "Activité 1 : Vulgariser, à l'échelle de la pyramide sanitaire les textes organisant la Cellule genre et de ses organes ainsi que le contenu plan d'institutionnalisation du genre.",
+              "Indicateurs objectivement vérifiables (IOV)": "Existence de supports et d'activités de vulgarisation des textes régissant la Cellule genre et le plan d'institutionnalisation du genre.",
+              "Sources de vérification": "Rapports des ateliers. Rapports d'activités de la Cellule genre.",
+              "Hypothèses": "Motivation des membres de la Cellule genre au niveau central et des points focaux au niveau déconcentré."
+            },
+            {
+              "Activités": "Activité 2 : Etablir et mettre en œuvre, sur la base de la matrice des activités et du cadre des résultats du plan d'institutionnalisation du genre, les plans de travail annuels de la Cellule genre.",
+              "Indicateurs objectivement vérifiables (IOV)": "Existence de plans annuels de travail de la Cellule genre.",
+              "Sources de vérification": "Rapports d'activités de la Cellule genre.",
+              "Hypothèses": "Respect des règles et modalités de gestion. Existence des capacités techniques au sein de la Cellule genre."
+            },
+            {
+              "Activités": "Activité 3 : Etablir et mettre en œuvre annuellement le plan de passation de marché pour l'acquisition des biens et services nécessaires aux activités de la Cellule genre.",
+              "Indicateurs objectivement vérifiables (IOV)": "Existence de plan de passation de marché de la Cellule genre.",
+              "Sources de vérification": "Rapports d'activités de la Cellule genre.",
+              "Hypothèses": "Respect des procédures et modalités de passation des marchés. Budgets mis en place."
+            },
+            {
+              "Activités": "Activité 4 : Elaborer une stratégie de mobilisation des ressources et de financement du PIG/MSAS.",
+              "Indicateurs objectivement vérifiables (IOV)": "Existence d'une stratégie de mobilisation des ressources nécessaires pour la réalisation du plan d'institutionnalisation.",
+              "Sources de vérification": "Rapports d'activités de la Cellule genre.",
+              "Hypothèses": "Dysfonctionnement au niveau de l'exécution du PTA."
+            },
+            {
+              "Activités": "Activité 5 : Elaborer, en relation avec les membres des organes de la Cellule, les modalités de coordination des activités de mise en œuvre du plan d'institutionnalisation du genre.",
+              "Indicateurs objectivement vérifiables (IOV)": "Existence de modalités de coordination des activités de la Cellule genre.",
+              "Sources de vérification": "Comptes rendus des réunions. Rapports d'activités de la Cellule genre.",
+              "Hypothèses": ""
+            },
+            {
+              "Activités": "Activité 6 : Elaborer un plan de suivi-évaluation détaillé de l'ensemble des activités de mise en œuvre du plan d'institutionnalisation du genre du ministère.",
+              "Indicateurs objectivement vérifiables (IOV)": "Existence d'un plan de suivi-évaluation opérationnel de la mise en œuvre du plan d'institutionnalisation du genre.",
+              "Sources de vérification": "Rapports d'activités de la Cellule genre.",
+              "Hypothèses": ""
+            },
+            {
+              "Activités": "Activité 7 : Elaborer une stratégie de communication et des outils d'information, de sensibilisation et de plaidoyer en faveur de l'équité et de l'égalité genre.",
+              "Indicateurs objectivement vérifiables (IOV)": "Existence d'une stratégie de communication en genre / Existence de supports de vulgarisation des résultats de l'audit et du plan d'institutionnalisation du genre.",
+              "Sources de vérification": "Rapports d'activités de la Cellule genre.",
+              "Hypothèses": ""
+            },
+            {
+              "Activités": "Activité 8 : Former les membres de la Cellule genre en gestion axée sur les résultats, de suivi et d'évaluation sensible au genre.",
+              "Indicateurs objectivement vérifiables (IOV)": "Nombre et nature des sessions de formation réalisées.",
+              "Sources de vérification": "Rapport d'activités de la Cellule.",
+              "Hypothèses": "Respect de la programmation du PIG MSAS. Disponibilité des ressources. Motivation des membres de la Cellule genre."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "10. Risques pouvant affecter la mise en œuvre du plan d'institutionnalisation",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "10.1. Analyse des risques pouvant affecter les résultats attendus",
+      "texte": "Se fondant sur les constats relatifs au niveau de sensibilité genre des textes de base du MSAS, il reste établi, qu'une des conditions critiques pour l'institutionnalisation du genre demeure l'intégration du genre dans les missions, attributs et responsabilités des personnes chargées du management aux différents niveaux. Ainsi, l'absence de développement d'une sensibilité genre des textes de base pourrait engendrer, comme risque, l'absence de redevabilité formelle sur l'obligation de garantir l'intégration genre et, partant, de base d'évaluation des performances des différentes unités administratives et techniques chargées de la planification, de l'exécution, du suivi et de l'évaluation de la politique et des programmes du MSAS.L'institutionnalisation du genre au MSAS est envisagée, dans un contexte d'application, aux différents niveaux de la pyramide sanitaire, de la gestion axée sur les résultats fondée sur des options de partage des responsabilités liées à l'exécution des programmes inscrits au DPPD. Dans ce cadre, la réalisation des PTA, bien qu'offrant des opportunités non négligeables pour l'intégration du genre, peut receler des risques liés soit aux résistances des responsables des processus de planification à veiller à l'intégration du genre soit à l'absence de respects des exigences qu'imposent l'approche de planification sensible au genre. De telles résistances peuvent, également, être induites par une mauvaise perception de l'intérêt à envisager et mener des processus de planification dans une perspective genre.Au plan des mécanismes mis en place pour coordonner et impulser les actions nécessaires pour l'effectivité de l'institutionnalisation du genre, il faudra considérer, avec beaucoup d'attention, la nécessité de garantir l'implication effective, à côté des points focaux et des organes de la Cellule genre, des acteurs clés comme l'équipe chargée du DPPD, celle chargée du système d'information sanitaire, les coordonnateurs de programme, les directeurs nationaux et les chefs d'équipes cadres. Leur participation, motivée par leurs responsabilités respectives dans la chaine d'activités d'élaboration et d'exécution des programmes et budgets d'une part et leur redevabilité en matière de contribution à la réalisation l'équité et l'égalité de genre d' recommande le développement, chez eux, d'une perception positive de l'apport du genre dans la politique sanitaire. Ce qui suppose le développement de leur capacité à intégrer les questions de genre dans leur management et leadership. A cette fin, la Cellule genre devrait créer, en relation avec les responsables, les conditions d'une valorisation effective des compétences techniques en matière de genre tout au long du cycle de programmation, d'exécution, de suivi et d'évaluation des programmes du ministère.L'analyse des risques devra intégrer les facteurs pouvant affecter l'institutionnalisation de l'intégration transversale du genre et l'instauration d'un environnement favorable à la pratique de budgétisation sensible au genre. Lié à ce dernier aspect, une attention particulière devrait être accordée aux points d'ancrage des capacités à développer dans chacun des programmes et directions nationales. Pour chacun des bénéficiaires des actions de renforcement des capacités, des modalités de valorisation des capacités devraient être clairement défini à l'effet.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "10.2. Cadre de suivi et activités d'atténuation des risques",
+      "texte": "Tableau présentant les principaux risques identifiés, les dispositions et mesures à prendre, les responsables, les indicateurs de résultats et l'échéance.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Cadre de suivi et activités d'atténuation des risques",
+          "colonnes": ["Risques", "Dispositions et mesures à prendre", "Responsable", "Indicateurs de résultats", "Echéance"],
+          "lignes": [
+            {
+              "Risques": "1. Faible matérialisation de l'engagement du Top management à rendre effective l'intégration du genre à tous les niveaux de la pyramide sanitaire et des programmes.",
+              "Dispositions et mesures à prendre": "Mener des plaidoyers pour l'institutionnalisation du genre dans les interventions et le milieu de travail.",
+              "Responsable": "Cellule genre",
+              "Indicateurs de résultats": "Des directives sont adressées à tous les niveaux pour l'effectivité de l'intégration du genre. Inscription de l'intégration du genre dans le calendrier des processus de programmations et de revues périodiques.",
+              "Echéance": "Immédiat et permanent"
+            },
+            {
+              "Risques": "2. Indisponibilité des ressources financières nécessaires pour l'exécution du plan d'institutionnalisation du genre.",
+              "Dispositions et mesures à prendre": "Soutenir les activités de plaidoyer auprès des partenaires techniques et financiers pour leur contribution au financement du PIG.",
+              "Responsable": "Cellule genre",
+              "Indicateurs de résultats": "Les partenaires techniques et financiers contribuent au financement du plan d'institutionnalisation du genre.",
+              "Echéance": "D'ici fin 2015"
+            },
+            {
+              "Risques": "3. Faible implication des coordonnateurs de programmes et projets et des directeurs nationaux et responsables des niveaux intermédiaires et périphériques à l'effort d'institutionnalisation du genre au MSAS.",
+              "Dispositions et mesures à prendre": "Suggérer au Cabinet d'adresser des directives aux coordonnateurs et directeurs nationaux et coordonnateurs des programmes et projets pour leur implication effective aux processus d'institutionnalisation du genre.",
+              "Responsable": "Cellule genre",
+              "Indicateurs de résultats": "Des directives sont adressées à tous les directeurs nationaux et coordonnateurs de programmes et projets pour leur implication dans la mise en œuvre du plan d'institutionnalisation du genre.",
+              "Echéance": "Dès à présent"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "11. Durabilité des résultats du plan d'institutionnalisation du genre",
+      "texte": "Le plan d'institutionnalisation du genre est à inscrire dans un processus continu qui devra faire appel à la nécessité de mener des actions dont les effets positifs sont à entretenir et à renforcer dans le temps puisque les modifications à apporter dans la manière de concevoir le budget aux niveaux central, provincial et des programmes obéit à un calendrier non révisable à tout moment. Pour cela, l'option retenue pour assurer la durabilité des résultats, en particulier l'instauration d'une pratique durable et appropriée de la budgétisation sensible au genre, devra privilégier le développement de capacités techniques à planifier, mettre en œuvre, suivre et évaluer les interventions selon des modalités basées, en permanence, sur la prise en compte transversale des questions de genre et l'effectivité d'un impact positif contribuant à la réduction des disparités et les discriminations entre les hommes et les femmes.Ainsi, il devra être recherché, à travers l'ensemble des activités du plan d'action, le développement d'une conscience de genre au niveau de l'ensemble des directions nationales et unités de coordination des programmes et projets. Pour cela, il sera indispensable de mettre à la disposition des acteurs visés des guides méthodologiques techniques, conçus sous forme d'outils pratiques, destinés à faciliter l'application de l'approche de budgétisation sensible au genre. Par ailleurs et pour la durabilité des acquis attendus, il sera nécessaire de veiller à utiliser l'approche d'institutionnalisation du genre qui permet de tenir compte, à la fois, des processus, des contenus, des acteurs, des calendriers budgétaires et ceci, ex ante et ex post.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "12. Cadre des rapports sur l'exécution du plan d'institutionnalisation du genre",
+      "texte": "Tableau présentant les supports et rapports produits dans le cadre du suivi du plan d'institutionnalisation, leur contenu, le responsable, les destinataires et la périodicité.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Cadre des rapports sur l'exécution du plan d'institutionnalisation du genre",
+          "colonnes": ["Supports et Rapports", "Contenus", "Responsable", "Destinataires", "Périodicité"],
+          "lignes": [
+            {
+              "Supports et Rapports": "1. Plan de travail annuel de la Cellule genre",
+              "Contenus": "Description des actions à réaliser, des rôles et responsables des parties prenantes, calendrier d'exécution et modalités de suivi des activités.",
+              "Responsable": "Cellule Genre",
+              "Destinataires": "Comités régionaux et national des points focaux",
+              "Périodicité": "Annuel / Semestriel"
+            },
+            {
+              "Supports et Rapports": "2. Rapports techniques sur l'exécution du PIG",
+              "Contenus": "Description des activités réalisées, des modalités d'exécution utilisées, des réalisations physiques (jalon) et des extrants obtenus et ressources utilisées pour l'exécution du PIG.",
+              "Responsable": "Cellule Genre",
+              "Destinataires": "Membres des organes de la Cellule genre, Directions, Programmes, Régions médicales, Districts, PTF",
+              "Périodicité": "Selon périodicité d'exécution"
+            },
+            {
+              "Supports et Rapports": "3. Rapports financiers trimestriels",
+              "Contenus": "Compte rendu sur l'exécution financière des ressources allouées à l'exécution du PIG.",
+              "Responsable": "Cellule Genre",
+              "Destinataires": "Membres des organes de la Cellule genre, Directions, Programmes, Régions Médicales/Districts sanitaires, PTF",
+              "Périodicité": "4 fois par an"
+            },
+            {
+              "Supports et Rapports": "4. Rapports annuels sur l'exécution du PIG",
+              "Contenus": "Rendre compte de l'exécution, des performances obtenues et des perspectives d'exécution des activités du PIG.",
+              "Responsable": "Cellule Genre",
+              "Destinataires": "Partenaires Techniques et Financiers, Ministères",
+              "Périodicité": "Un (1) fois l'an"
+            },
+            {
+              "Supports et Rapports": "5. Procès-verbal des Comités régional et national des points focaux",
+              "Contenus": "Consigner et rendre compte sur les principaux éléments de délibération des Comités.",
+              "Responsable": "Cellule Genre",
+              "Destinataires": "Membres des organes de la Cellule genre",
+              "Périodicité": "Une (1) fois par an"
+            },
+            {
+              "Supports et Rapports": "6. Procès-verbal des réunions de concertation sur l'institutionnalisation du genre",
+              "Contenus": "Consigner les principaux comptes rendus des réunions de concertation entre acteurs.",
+              "Responsable": "Cellule Genre",
+              "Destinataires": "Tous les acteurs, Partenaire Techniques et financiers",
+              "Périodicité": "Selon périodicité"
+            },
+            {
+              "Supports et Rapports": "7. Rapports d'évaluation à mi-parcours et final d'exécution du PIG",
+              "Contenus": "Rendre compte de l'exécution à mi-parcours et de l'évolution vers les résultats du Plan d'institutionnalisation du genre.",
+              "Responsable": "Cellule Genre",
+              "Destinataires": "Tous les acteurs",
+              "Périodicité": "2017 / 2020"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "13. Communication avec les parties prenantes à l'exécution du plan",
+      "texte": "Tableau présentant les supports ou mécanismes de communication utilisés, leurs objectifs, les publics cibles, les messages et informations diffusés, le responsable et le calendrier.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Communication avec les parties prenantes à l'exécution du plan",
+          "colonnes": ["Supports ou mécanismes", "Objectifs de communication", "Publics cibles", "Messages et information", "Responsable", "Calendrier"],
+          "lignes": [
+            {
+              "Supports ou mécanismes": "Page Web sur l'institutionnalisation du genre au MSAS",
+              "Objectifs de communication": "Favoriser le partage permanent de l'information relative à la mise en œuvre du plan d'institutionnalisation du genre.",
+              "Publics cibles": "Acteurs d'exécution du plan d'institutionnalisation, PTF, Population",
+              "Messages et information": "Situation de référence, Données exécution, Indicateurs de progrès vers l'intégration effective du genre.",
+              "Responsable": "Cellule genre",
+              "Calendrier": "Permanent"
+            },
+            {
+              "Supports ou mécanismes": "Réunion des organes de la Cellule genre (Comités régionaux et national des points focaux)",
+              "Objectifs de communication": "Susciter l'implication des points focaux et favoriser la synergie des intervenants, l'harmonisation et la cohérence des interventions en faveur de l'intégration du genre au MSAS.",
+              "Publics cibles": "Directions, Régions médicales, Districts, Programmes, Membres des Organes de la Cellule genre, Partenaires techniques et financiers",
+              "Messages et information": "Rapports d'exécutions techniques et financières.",
+              "Responsable": "Cellule genre",
+              "Calendrier": "Périodique (trimestriel, semestriel, annuel)"
+            },
+            {
+              "Supports ou mécanismes": "Bulletin d'information sur les progrès, étapes franchies et progrès réalisés en matière d'institutionnalisation du genre au MSAS",
+              "Objectifs de communication": "Favoriser l'accès à l'information sur les progrès réalisés en matière d'intégration du genre au niveau institutionnel et programmatique du MSAS.",
+              "Publics cibles": "Parties prenantes à la mise en œuvre du plan d'institutionnalisation du genre, Partenaires techniques et financiers, Public",
+              "Messages et information": "Etat de réalisation des activités d'exécution du plan d'institutionnalisation du genre au MSAS.",
+              "Responsable": "Cellule genre",
+              "Calendrier": "Trimestriel"
+            },
+            {
+              "Supports ou mécanismes": "Publications des performances du plan d'institutionnalisation du genre",
+              "Objectifs de communication": "Favoriser l'appréciation des progrès obtenus en termes de prise en compte du genre dans le secteur de la santé et de l'action sociale.",
+              "Publics cibles": "Parties prenantes à l'exécution, Acteurs intéressés",
+              "Messages et information": "Rapport d'évaluation à mi-parcours et Rapport de fin d'exécution du plan d'institutionnalisation du genre.",
+              "Responsable": "Cellule genre",
+              "Calendrier": "A mi-parcours (2017) et Fin d'exécution (2020)"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "14. Cadre de mise en œuvre du plan d'institutionnalisation du genre",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "14.1. Dispositif institutionnel de mise en œuvre du plan d'institutionnalisation",
+      "texte": "L'exécution du plan d'institutionnalisation du genre requiert l'apport de plusieurs acteurs des niveaux central, intermédiaire et périphérique.A titre principal, la Cellule genre devra assurer la maitrise d'œuvre des activités du plan d'institutionnalisation du genre. A cet effet, elle assurera, à titre principal, l'impulsion et la coordination des activités visant l'intégration du genre, la mobilisation des acteurs pour l'effectivité de l'intégration du genre dans leurs activités programmatiques, le suivi des progrès et l'organisation des sessions de revues périodiques. Pour cela, la coordinatrice de la Cellule devra établir, chaque année, un plan de travail suffisamment articulé à la matrice d'actions du plan d'institutionnalisation. Au point de vue fonctionnement, la coordinatrice devra réunir les conditions d'efficacité des organes de la Cellule qui doivent jouer un rôle moteur pour l'effectivité de l'institutionnalisation du genre à tous les niveaux de la pyramide sanitaire.Au niveau opérationnelle, les différentes directions, les coordinations de programme, les régions médicales et districts sont appelés à promouvoir et assurer, chacun en ce qui le concerne, l'effectivité de l'intégration du genre en relation avec la Cellule genre sous l'impulsion des points focaux mis en place dans les différentes entités.Etant donné les défis d'intégration spécifique du genre au niveau des systèmes de planification, de mise en œuvre, de suivi et d'évaluation des interventions et ceux à considérer pour une prise en compte efficace du genre dans les milieux et situations de travail, certaines entités sont appelées à agir en première ligne pour la création des conditions de base requises pour l'institutionnalisation du genre. C'est le cas de la Direction de la Planification, de la Recherche et des Statistiques, de la Direction des Ressources Humaines et de la Direction de l'Administration Générale et de l'Equipement.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "14.2. Modalités et mécanismes de planification opérationnelle de l'exécution du plan",
+      "texte": "La mise en œuvre du plan d'institutionnalisation destiné à favoriser l'effectivité de l'intégration du genre dans les interventions du MSAS et au niveau institutionnel nécessite des activités de planification opérationnelle et de revue périodique de l'exécution des activités programmées.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "14.3. L'actualisation du Cadre Logique",
+      "texte": "Ainsi, le cadre logique étant conçu et défini sur la période 2015 à 2020, il est attendu, de l'exécution des différentes activités de renforcement des capacités des principaux acteurs une amélioration progressive significative des modalités de préparation, d'exécution et de suivi des interventions aux différents niveaux. Par conséquent, l'amélioration du niveau de sensibilité genre des problématiques que comptent résoudre l'intégration du genre dans le secteur de la santé et de l'action sociale nécessitera de réviser, périodiquement, le cadre logique pour tenir compte des résultats enregistrés et de l'évolution éventuelles des orientations du PNDS en cas de révision ou de reformulation dans la période considérée.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "14.4. Les revues périodiques de l'exécution du plan d'institutionnalisation du genre",
+      "texte": "Les activités du plan d'institutionnalisation du genre étant conçues pour être conduites selon des modalités de programmation des activités de manière glissante et itérative de 2015 à 2020 selon un schéma de programmation basé sur le cycle d'élaboration et de revue du DPPD, il sera nécessaire de réaliser des revues périodiques pour apprécier les conditions d'exécution, la cohérence d'ensemble des activités menées, le niveau et les chances de progression et d'atteinte des résultats en terme d'institutionnalisation du genre, la validité des hypothèses de base et les chances d'atténuation de l'impact des risques relevés au départ et ceux apparus en cours de mise en œuvre.Ainsi et de manière périodique, des revues devraient être réalisées pour faire le point des réalisations et définir les axes d'intervention pour la consolidation des acquis en matière d'intégration du genre dans les interventions et au niveau institutionnel. A cette fin, toutes les parties prenantes à l'institutionnalisation du genre devraient prendre part aux sessions de revue de la mise en œuvre du plan. Pour garantir l'efficacité des revues, des rapports rendant compte de l'exécution du plan d'institutionnalisation sont élaborés et utilisés comme support de travail. Pour cela, un système de suivi des progrès devra être mis en place pour apprécier à tous les niveaux du MSAS et plus particulièrement de chacun des programmes et projets, les progrès réalisés. Ce qui suppose, au quotidien, d'accorder une attention particulière à la collecte de données destinées à alimenter l'apprentissage continu sur l'intégration du genre et la réflexion sur la qualité de la mise en œuvre du plan d'institutionnalisation du genre.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "14.5. Le suivi du plan d'institutionnalisation du genre",
+      "texte": "La mise en œuvre du plan d'institutionnalisation, sur la période allant de 2015-2020 et l'exécution des activités programmées annuellement sur la base de PTA, il sera nécessaire de collecter régulièrement les données nécessaire pour apprécier, à temps opportun, le niveau de réalisation du plan. Pour cela, il sera prévu d'utiliser comme base de référence le rapport d'audit qui sera actualisé d'année en année tenant compte de l'état de prise en compte du genre dans l'ensemble des interventions du MSAS. Les données et indicateurs disponibles serviront progressivement de base d'évaluation des progrès. En raison de l'option glissante et itérative qui caractérisent le DPPD et les opportunités de prise en compte du genre dans les rapports de performance qui seront produits annuellement pour apprécier le niveau d'exécution budgétaire et les résultats obtenus, le système de suivi du plan d'institutionnalisation du genre devra servir de base d'alimentation des éléments d'appréciation du niveau de sensibilité genre des programmes.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "14.6. L'évaluation du plan d'institutionnalisation du genre",
+      "texte": "L'exécution du plan, selon les modalités de gestion axée sur les résultats, étant prévue sur la période 2015 à 2020, deux évaluations sont à réaliser pour apprécier le niveau d'atteinte des résultats attendus. Ainsi, en se fondant sur la situation de référence établi dans le rapport d'audit qui pourrait être compléter selon le cadre de mesure des performances et le système de suivi qui seront mis en place, il est prévu de réaliser une évaluation à mi-parcours en 2018 et une évaluation finale du plan en 2020. Les résultats de ces évaluations pourraient servir de base d'alimentation des revues qui seront programmées.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "15. Stratégie de promotion du plan d'institutionnalisation du genre",
+      "texte": "L'exécution du plan d'institutionnalisation et l'atteinte des résultats attendus, en termes de création de conditions d'une conception, mise en œuvre, suivi et évaluation de la politique, des programmes et projets sanitaires sensibles au genre sont intimement liées à l'effectivité de l'engagement et de la mobilisation des acteurs et responsables du management et des coordonnateurs des programmes, des prestataires et des partenaires d'appui technique et financier. Le soutien financier et technique de ces derniers, qui appuient le secteur étant déterminant pour la réalisation des programmes, il sera nécessaire de favoriser l'implication de toutes les parties prenantes et leur appui pour la mise en œuvre appropriée des activités de promotion de l'institutionnalisation du genre. A cet effet, la démarche de promotion de l'institutionnalisation du genre devrait prendre la forme d'un dialogue continu autour de l'intégration transversale du genre dans la mise en œuvre des programmes de santé et d'actions sociales. A ce niveau, les actions à développer pourraient être envisagées sous forme de concertation élargie et de plaidoyer en faveur de l'institutionnalisation du genre.Dans ce sens, il sera nécessaire d'organiser une concertation des partenaires techniques et financiers autour de l'objectif de mobilisation des appuis techniques et financiers pour une exécution adéquate du plan d'institutionnalisation du genre comme élément essentiel de la mise en œuvre du PNDS.Par ailleurs, la promotion devrait, également, impliquer le Ministère de la Femme, de la Famille et de l'Enfance qui a la responsabilité de promouvoir l'intégration du genre dans tous les secteurs.",
+      "tableaux": [],
+      "images": []
+    }
+  ]
+}

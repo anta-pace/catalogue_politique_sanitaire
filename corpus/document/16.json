@@ -1,0 +1,645 @@
+{
+ "metadata": {
+    "titre": "MANUEL DES PROCEDURES DE REPONSE A L'EPIDEMIE DE COVID-19",
+    "annee": "2021",
+    "source": "Ministère de la Santé et de l'Action Sociale - Centre des Opérations d'Urgence Sanitaire (COUS) - République du Sénégal",
+    "type_document": "Manuel de Procédures Opératoires Normalisées (PON) et Protocoles (PRT)"
+ },
+
+ "contenu": [
+    {
+      "type": "section",
+      "titre": "Table des matières globale et Liste des procédures et protocoles",
+      "texte": "Ministère de la Santé et de l'Action Sociale. République du Sénégal. Un Peuple - Un But - Une Foi. Centre des Opérations d'Urgence Sanitaire. MANUEL DES PROCEDURES DE REPONSE A L'EPIDEMIE DE COVID-19. JUILLET 2021.Liste des procédures et protocoles :Procédures :PON 01. Identification d'un cas suspect | Page 03PON 02. Gestion d'un cas suspect | Page 10PON 03. Investigation d'un cas confirmé | Page 16PON 04. Habillage et déshabillage | Page 21PON 05. Prise en charge médicale au CTEpi | Page 30PON 06. Prise en charge au cabinet dentaire | Page 40PON 07. Décontamination d'une structure de santé | Page 46PON 08. Décontamination d'un domicile | Page 52PON 09. Décontamination du véhicule | Page 57PON 10. Gestion des déchets | Page 62PON 11. Procedure de suivi des sujets contacts de COVID-19 | Page 69PON 11 BIS. Mise en quarantaine collective des contact | Page 72PON 12. Décès au centre de transit - traitement | Page 81PON 13. Décès et funérailles sécurisées | Page 86PON 14. Grand rassemblement | Page 94PON 15. Sortie patient guéri ou non infecté | Page 106PON 16. Organisation d'un Centre de Traitement des Épidémies (CTEpi) | Page 110PON 17. Confinement spécial applicable aux agents de santé contacts de COVID-19 | Page 117PON 18. Gestion des voyageurs entrants au Sénégal par voie aérienne | Page 119PON 19. Gestion des corps des personnes décédées à l'étranger | Page 124PON 20. Prise en charge de cas simples à domicile dans le contexte du covid-19 | Page 129PON 21. Sécurité sanitaire pour la reprise des apprentissages dans les structures scolaires | Page 146PON 22. Protocole de sécurité sanitaire pour la gestion de la covid-19 en milieu carcéral | Page 155PON 23. Protocole de sécurité sanitaire dans les structures de l'éducation surveillée et la protection sociale | Page 166PON 24. Procédure triage | Page 178PON 25. Protocole de sécurité sanitaire pour l'opération Tabaski dans le contexte de la Covid-19 | Page 196PON 26. CAT devant un patient présentant une détresse respiratoire aiguë et des lésions scannographiques évocatrices de covid-19 | Page 203PON 27. Procédure de gestion des voyageurs sortants au Sénégal | Page 208PON 28. Protocole sécurité sanitaire pour structures et activités socio-éducatives | Page 213PON 29. Protocole sécurité sanitaire pour compétitions nationales | Page 229PON 30. Protocole de sécurité sanitaire pour la rentrée scolaire 2020/2021 | Page 243PON 31. Protocole de sécurité sanitaire pour la reprise des enseignements dans les universités et institutions de formation | Page 260PON 32. Organisation d'une zone tampon dans le district sanitaire | Page 285Protocoles :PRT 01. Prélèvement et transport des échantillons | Page 290PRT 02. Auto-isolement des sujets contacts | Page 296PRT 03. Transport des patients | Page 298PRT 04. Régulation des cas Covid-19 | Page 301PRT 05. Requête financement | Page 304",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PON 01 - Procédure d'identification du cas suspect",
+      "texte": "Procédure Opératoire Normalisée (PON 01) : PROCEDURE D'IDENTIFICATION DU CAS SUSPECT.Table des matières :1. Objectifs2. Abréviations3. Responsabilités4. Définitions5. Procédures6. Documents annexes7. Suivi des modifications des versions1. OBJECTIFSCette PON décrit le processus de prise en charge initiale d'un cas suspect identifié au niveau de la communauté ou d'une structure de santé publique ou privée.2. ABREVIATIONSDP : Direction de la PréventionMCD : Médecin Chef de DistrictMCR : Médecin Chef de RégionECD : Equipe Cadre de DistrictEI : Equipe d'investigationICP : Infirmier Chef du PosteECI : Equipe Centre d'IsolementSNH : Service National d'HygièneIM : Incident ManagerEPI : Equipement de Protection IndividuelleSNEIPS : Service National d'Education et d'Information Pour la SantéSAMU : Service d'Assistance Médicale d'UrgenceEPS : Etablissement public de santé3. RESPONSABILITESSNEIPS :- Recevoir l'appel de la communauté- Informer la cellule d'alerteSAMU :- Recevoir l'appel de la communauté- Informer la cellule d'alerteEPS :- Identifier et isoler le cas suspect- Informer la cellule d'alerte- Coordonner avec MCD/MCRNB: Pour les cas suspects errants ou accidentés, les sapeurs-pompiers vont assurer leur transport vers le site d'isolement en coordination avec le District et le Samu.Cellule d'alerte :- Recevoir l'appel de la communauté, du SNEIPS, du SAMU ou de L'EPS- Informer le MCD/MCR de la région concernée- Envoyer l'équipe d'investigation du DSICP/Personnel soignant :- Vérifier que l'équipement de protection essentiel est sur place à tout moment (gants, masques, lunettes au moins);- Mettre en place un dispositif de tri des malades avec l'aide d'un ASC formé ;- Prévoir une salle d'isolement marqué et sécurisé ;- Utiliser la définition d'un cas suspect (décrite ci-dessous), identifier le cas suspect ou un décès lié au COVID-19 dans un poste de santé ou une structure privée ;- Isoler le cas suspect afin de s'assurer qu'il n'ait aucun contact avec des personnes non autorisées ;- Prévenir le MCD- Prévenir l'autorité administrative et sanitaire pour solliciter le déploiement de forces de l'ordre en cas de menace sur la sécurité du patient.- Attendre l'arrivée du MCD/ EI, obtenir des informations d'identification de base sur le patient et d'éventuels contacts.MCD/EI :- Vérifier que le patient répond à la définition d'un cas suspect.- Informer le MCR et la cellule d'alerte- Prévenir l'équipe d'hygiène et l'équipe d'investigation d'un cas suspect (ou d'un décès) lié au COVID-19- Remplir la fiche d'identification du cas suspect;- Aider à l'identification d'éventuels contacts;- Organiser le prélèvement et son transport à Dakar ;- Organiser son transfert vers la salle d'isolement du Centre de Santé ;MCR :- Se concerter avec le MCD afin de confirmer ou infirmer la suspicion de cas suspect;- Fournir un appui au MCD sur le diagnostic du cas suspect et son transport vers un centre d'isolement;- Prévenir la DP et la coordination opérationnelle de l'incident (IM) au COUS de la présence d'un cas suspect ou d'un décès;- Organiser avec le MCD le transfert du patient vers le CTEpi en cas de résultats positifs.Equipe soignante Centre d'isolement :- Dispenser les soins initiaux au patient.SNH :- Se rendre au poste de santé (ou structure de santé) dans les 3h qui suivent l'alerte et procéder à sa décontamination.- Fournir des services de décontamination du véhicule après le transport du patient.IM :- Valider et diffuser les Procédures Opérationnelles Normalisées (PON).- Coordonner l'ensemble du processus et le flux d'informations.4. DEFINITIONSa) Cas suspectA. Un patient atteint d'une maladie respiratoire aiguë (fièvre et au moins un signe/symptôme de maladie respiratoire (par exemple, toux, essoufflement), ET n'ayant aucune autre étiologie qui explique pleinement la présentation clinique ET des antécédents de voyage ou de résidence dans un pays, une zone ou un territoire avec une transmission locale du COVID-19 au cours des 14 jours précédant l'apparition des symptômes ;OuB. Un patient atteint d'une maladie respiratoire aiguë ET ayant été en contact avec un cas confirmé ou probable de COVID-19 au cours des 14 derniers jours précédant l'apparition des symptômes;OuC. Un patient atteint d'une infection respiratoire aiguë grave (fièvre et au moins un signe/symptôme de maladie respiratoire (par exemple, toux, essoufflement) ET nécessitant une hospitalisation ET sans autre étiologie expliquant pleinement la présentation clinique.b) Cas probableUn cas suspect pour lequel le test COVID-19 au laboratoire de référence n'est pas concluant.c) Cas confirméSi le laboratoire de référence confirme l'infection par le COVID-19, quels que soient les signes cliniques.d) Cas de transmission communautaireUn cas confirmé dont on ne connait pas l'origine de la contamination au sein de la communauté (Cf guide d'orientation de la Cellule communautaire).e) Non-casUn cas suspect dont le prélèvement est revenu négatif.f) Les contactsIl s'agit de toute personne ayant eu un contact avec un cas confirmé de COVID-19; durant une période comprise entre: 2 jours au moins avant l'apparition des symptômes et le jour de l'isolement du cas. On distingue :Le contact à haut risque (étroit)Toute personne ayant eu un contact (dans un rayon de moins d'un mètre) avec un cas confirmé symptomatique ou asymptomatique et/ou deux jours avant l'apparition des symptômes.Contact au sein du ménage: toute personne ayant résidé dans le même ménage (ou dans une salle fermée) avec un cas confirmé.Contact en milieu professionnel :- tout travailleur de la santé ou social qui a fourni directement ou indirectement des services des soins cliniques ou personnels ou qui se trouvait dans le même espace intérieur qu'un cas confirmé symptomatique ou asymptomatique de COVID-19 sans EPI standards ou complémentaires.- tout travailleur qui se trouvait dans le même espace intérieur qu'un cas confirmé symptomatique ou asymptomatique de COVID-19.Le contact à bas risque (simple)Toute personne ayant eu un contact éloigné (dans un rayon de plus d'un mètre), de courte durée, dans un espace ouvert avec un cas confirmé lors de sa période asymptomatique.NB: Contact au cours d'un voyage: Toute personne ayant voyagé avec un patient COVID-19 confirmé quel que soit le type de transport.5. PROCEDURES5.1 Déclenchement de la procédure au niveau communautaireLa cellule d'alerte vérifie et identifie le cas suspect puis informe le MCD/MCR.5.2 Déclenchement de la procédure au niveau du Poste de Santé/structure privéeL'ICP/personnel soignant appelle le MCD après l'identification d'un cas suspect.Identification du lieu d'isolement temporaire cas suspect: L'ICP/personnel soignant doit identifier dans le poste le lieu d'isolement, une pièce ou un endroit déterminé dans le poste. Au cas où il serait nécessaire d'isoler un patient, l'ICP/personnel soignant doit utiliser le ruban de signalisation pour matérialiser la zone d'isolement. Il doit aussi identifier le chemin que le patient devra parcourir s'il doit être acheminé au centre de transit. Il doit en outre s'assurer qu'une chaise, les deux bassines hautes et une serpillère sont pré-positionnées dans la zone.Préparation du tri à l'entrée: Chaque personne entrant ou sortant de la structure publique ou privée doit se laver les mains avec une solution chlorée à 0,05 % à l'entrée (bouilloire plastique et bassine). Il faudra utiliser un mouchoir jetable pour prendre la bouilloire. Prévoir un poster pour expliquer le lavage des mains.Dans les régions frontalières, un relais communautaire doit être formé au triage des patients et se tenir à l'entrée du poste de santé. Le relais portera au minimum des gants d'examen lors du tri.Dans les structures de santé de la zone frontalière, le relais communautaire prend la température, avec un thermoflash calibré, de toutes les personnes qui entrent. Si la température est ≥ 38°C, le relais communautaire interroge le patient sur son historique de voyage dans un pays endémique, ou de contact avec une personne malade provenant d'une zone d'épidémie, dans les 14 jours précédant le début de la maladie.5.3 Mesures prises par le MCD/EI une fois qu'il est alerté par rapport à un cas suspect1. Le MCD/EI vérifie que le contact répond à la définition de cas.Si oui, le MCD se rend au poste de santé ou envoie l'EI ;Si non, il téléphone ensuite au MCR pour infirmer la suspicion de cas suspect (fausse alerte) d'après son propre constat ou sur la base du rapport de l'EI.2. Si le MCD envoie l'EI, il demande à l'ICP si le patient est en état de se déplacer seul afin de déterminer la taille de celle-ci;3. L'équipe d'hygiène qui accompagne le MCD ou l'EI dans des véhicules séparés si possible, procède à la décontamination de la structure de santé (Cf. PON 06/07);4. Si le cas suspect se trouve dans la communauté, l'EH se rend au domicile du patient sur la base de l'adresse exacte du/de la patient(e) fournie par le MCD ou l'EI pour une décontamination ultérieure ;5. L'équipe qui se rend au poste de santé/structure privée/domicile doit comprendre le MCD/le Chef de l'EI, une autre personne formée et un chauffeur. Dans le cas où le patient ne peut pas se déplacer seul, prévoir une 3ème personne formée.5.5 Mesures prises par le MCD/EI en arrivant au poste de santé/ structure privée1. Prise de contact et échange d'information avec l'ICP/ personnel soignant;2. L'ICP/personnel soignant lui remet la fiche initiale d'identification;3. Le MCD/EI et son assistant revêtent leur tenue de protection;4. Le MCD/ EI se rend dans la zone d'isolement seul mais sous observation de la personne qui l'accompagne;5. Il/Elle interroge le patient et confirme la suspicion;6. Il/Elle remplit la fiche d'identification;7. Il/Elle confirme par téléphone avec le MCR qu'il s'agit bien d'un cas suspect et confirme la nécessité de transporter le patient vers la salle d'isolement/transit du CS;8. Il/Elle demande alors à l'ICP/personnel soignant de faire évacuer une partie ou la totalité du poste pour pouvoir procéder au transfert du cas suspect vers le véhicule de transport et pour la décontamination de la structure;9. Le MCD/ EI renforce auprès de l'ICP/ personnel soignant l'importance de maintenir la zone d'isolement sans que personne ne s'en approche avant l'arrivée du SNH;10. L'équipe enlève ses EPI suivant la procédure (PON 04);11. L'équipe achemine le patient jusqu'au centre d'isolement;12. Sur le chemin, il prévient l'équipe du centre d'isolement de son arrivée avec un patient, et leur demande de se préparer (EPI).6. Documents annexes :- Fiche d'investigation- Formulaire de notification des cas",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "ALGORITHME DE GESTION DES ALERTES DANS LE CADRE DE LA PRÉPARATION 2019-nCoV AU SÉNÉGAL",
+          "donnees": [
+            {
+              "etape": "Origine de l'alerte",
+              "description": "Tout membre de la communauté, Patient avec symptômes, Points d'entrée"
+            },
+            {
+              "etape": "Canaux de communication",
+              "description": "Numéro vert 800 00 50 50, Numéro SAMU 15 15, ou Appel Téléphonique direct aux structures de santé / cellule d'alerte (78 172 10 81, 76 765 97 31, 70 717 14 92)"
+            },
+            {
+              "etape": "Vérification & Triage (Épidémiologiste)",
+              "description": "Si ne répond pas à la définition de cas -> Orientation au centre de santé le plus proche et suivi après 3 jours. Si répond à la définition de cas -> Donne des orientations pour l'isolement du patient et envoie une équipe d'investigation."
+            },
+            {
+              "etape": "Équipe d'investigation du district sanitaire",
+              "description": "Conduit l'investigation selon protocole établi, remplit la fiche d'investigation, établit la liste des contacts préliminaire."
+            },
+            {
+              "etape": "Orientation selon classification",
+              "description": "Non-cas -> Orientation sur les dispositions de prise en charge et suivi après trois jours. Cas suspect -> Orientation selon sévérité (Forme bénigne et modérée ou Forme sévère) et application des PON 01, PON 04, PON 06, PON 10."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "PON 02 - Procédure de gestion d'un cas suspect",
+      "texte": "Procédure Opératoire Normalisée (PON 02) : PROCEDURE DE GESTION D'UN CAS SUSPECT.Table des matières :1. Objectifs2. Abréviations3. Responsabilités4. Définitions5. Procédure6. Documents annexes7. Suivi des modifications des versions0. POINTS CLEFSA l'arrivée, mettre le patient au site d'isolement identifié dans le CS et procéder au prélèvement de l'échantillon pour la confirmation biologique.Le prélèvement d'échantillons sur des cas suspects au COVID-19 doit se faire en conformité avec les recommandations de l'OMS par rapport à la prévention et la lutte contre les maladies respiratoires aiguës à tendance épidémique ou pandémique (voir guide).Le personnel qui effectue le prélèvement doit porter un Equipement de Protection Individuelle (EPI) complet.L'échantillon doit être envoyé dans un triple emballage et être transporté dans une ambulance à l'Institut Pasteur le plus vite possible.1. OBJECTIFDécrire la procédure de prise en charge de cas suspects au COVID-19 dans un centre d'isolement.2. ABREVIATIONSMCR : Médecin Chef de RégionMCD : Médecin Chef de DistrictEI : Equipe d'InterventionEMIS/FETP : Equipe d'Intervention Mobile et de SoutienSNH : Service National d'HygièneIM : Incident ManagerEPI : Equipement de Protection IndividuelleSAMU : Service d'Assistance Médicale et d'UrgenceIPD : Institut Pasteur de Dakar3. RESPONSABILITES• MCD :- Informer la région médicale- S'assurer de l'acheminement de la fiche du patient et du prélèvement vers l'Institut Pasteur.• MCR :- Informer l'IM/Cellule de coordination opérationnelle/COUS- Coordonner avec le MCD/EI pour le transport du prélèvement et sa réception à l'IPD. Pour une coordination, appeler aux numéros suivants : Institut Pasteur de Dakar, Tel: 77 451 1451 / 77 592 96 99.• IPD :- Coordonner le conditionnement et la réception de l'échantillon- Procéder à l'analyse- Transmettre les résultats à la DGSP, à la DP, à la cellule de coordination, au chef du Service des Maladies infectieuses.NB: la plus grande prudence s'impose ici. De nombreuses fuites ont été notées avec des résultats publiés hors circuit officiel (dans la presse ou les réseaux sociaux) avant même parfois que les cliniciens ou les patients eux-mêmes n'en soient informés.• IM :- Partager les résultats avec MCR et MCD concernés.Si négatif : non-cas.Si positif : coordonner avec le SAMU, le CTEpi et le MCR du District concerné pour l'acheminement du patient au CTEpi (voir procédure de transport du patient).Pour la région de Dakar, le Port et l'AIBD : le transport est assuré par le SAMU.Pour les autres régions, le transport sera assuré par l'ambulance du District avec la régulation du SAMU.• CTEpi :- Coordonner avec l'IM, MCR et Samu pour la PEC des cas- Organiser le tri à l'arrivée des patients selon la symptomatologie clinique : Isolement (zone verte), Unité des soins (zone rouge).4. DEFINITIONSa) Cas suspectA. Un patient atteint d'une maladie respiratoire aiguë (fièvre et au moins un signe/symptôme de maladie respiratoire (par exemple, toux, essoufflement), ET n'ayant aucune autre étiologie qui explique pleinement la présentation clinique ET des antécédents de voyage ou de résidence dans un pays, une zone ou un territoire avec une transmission locale du COVID-19 au cours des 14 jours précédant l'apparition des symptômes;OuB. Un patient atteint d'une maladie respiratoire aiguë ET ayant été en contact avec un cas confirmé ou probable de COVID-19 au cours des 14 derniers jours précédant l'apparition des symptômes;OuC. Un patient atteint d'une infection respiratoire aiguë grave (fièvre et au moins un signe/symptôme de maladie respiratoire (par exemple, toux, essoufflement) ET nécessitant une hospitalisation ET sans autre étiologie expliquant pleinement la présentation clinique.b) Cas probableUn cas suspect pour lequel le test COVID-19 au laboratoire de référence n'est pas concluant.c) Cas confirméSi le laboratoire de référence confirme l'infection par le COVID-19, quels que soient les signes cliniques.d) Cas de transmission communautaireUn cas confirmé dont on ne connait pas l'origine de la contamination au sein de la communauté (Cf guide d'orientation de la Cellule communautaire).e) Non-casUn cas suspect dont le prélèvement est revenu négatif.f) ContactsIl s'agit de toute personne ayant eu un contact avec un cas confirmé de COVID-19; durant une période comprise entre: 2 jours au moins avant l'apparition des symptômes et le jour de l'isolement du cas. On distingue :Le contact à haut risque (étroit)Toute personne ayant eu un contact (dans un rayon de moins d'un mètre) avec un cas confirmé symptomatique ou asymptomatique et/ou deux jours avant l'apparition des symptômes.Contact au sein du ménage: toute personne ayant résidé dans le même ménage (ou dans une salle fermée) avec un cas confirmé.Contact en milieu professionnel :- tout travailleur de la santé ou social qui a fourni directement ou indirectement des services des soins cliniques ou personnels ou qui se trouvait dans le même espace intérieur qu'un cas confirmé symptomatique ou asymptomatique de COVID-19 sans EPI standards ou complémentaires.- tout travailleur qui se trouvait dans le même espace intérieur qu'un cas confirmé symptomatique ou asymptomatique de COVID-19.Le contact à bas risque (simple)Toute personne ayant eu un contact éloigné (dans un rayon de plus d'un mètre), de courte durée, dans un espace ouvert avec un cas confirmé lors de sa période asymptomatique.NB: Contact au cours d'un voyage: Toute personne ayant voyagé avec un patient COVID-19 confirmé quel que soit le type de transport.5. PROCEDURES5.1 Mesures prises par le MCD en arrivant au centre d'isolementIl demande au chauffeur de se garer en marche arrière près de l'entrée des patients du centre de transit.Il prend contact avec l'équipe du centre d'isolement.L'équipe du centre de transit prend le patient en charge (isolement).Le véhicule est laissé dans l'enclos de protection du centre d'isolement, avec tout le matériel, en attendant le SNH pour sa décontamination.Le MCD transmet la fiche d'identification du cas suspect au MCR avec copie à l'IM.5.2 Mesures prises par l'Equipe du DistrictElle remplit la fiche de laboratoire qui doit accompagner le prélèvement.Elle effectue le prélèvement avec, au besoin, l'appui du SAMU.Elle achemine le prélèvement à l'IPD avec la fiche du patient.5.3 Mesures prises par l'IPDIl coordonne le conditionnement et la réception de l'échantillon.Il procède à l'analyse de l'échantillon.Il transmet les résultats à la DGSP, à la DP et au IM.5.4 Mesures prises par l'IML'IM fournit un appui au personnel du centre de transit sur les mesures à prendre pour le prélèvement et la prise en charge initiale du patient.Il partage les résultats avec MCR et MCD concernés :Si négatif : non-cas.Si positif : il coordonne avec le SAMU, le CTEpi et le MCR du District concerné pour l'acheminement du patient au CTEpi (voir procédure de transport du patient).Pour les régions de Dakar et AIBD : le transport est assuré par le SAMU.Pour les autres régions, le transport sera assuré par l'ambulance du District avec la régulation du SAMU.Il assure la régulation avec le SAMU et le centre de traitement.5.5 Mesures prises par le CTEpiIl coordonne avec l'IM, le MCR et le Samu pour la PEC des patients.Il organise le tri à l'arrivée des patients selon la symptomatologie clinique :Isolement (zone verte)Unité des soins (zone rouge)Il hospitalise et prend en charge le patient en utilisant les précautions standards et les précautions complémentaires.6. DOCUMENTS ANNEXES :• PRT 01• PRT 03• Fiche de notification de cas",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "ALGORITHME DE GESTION DU CAS SUSPECT",
+          "donnees": [
+            {
+              "etape": "Prise en charge initiale (AIBD - Port / District Sanitaire)",
+              "description": "Isolement du Cas Suspect, prélèvement et test au laboratoire."
+            },
+            {
+              "etape": "Résultat du test",
+              "description": "Si Négatif -> Non-cas. Si Positif -> Cas confirmé. Si Inconcluant -> Cas probable."
+            },
+            {
+              "etape": "Gestion selon résultat",
+              "description": "Cas probable -> 2ème prélèvement et test au laboratoire. Cas confirmé -> Transport via SAMU national puis Prise en charge au CTEpi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "PON 03 - Procédure d'investigation autour d'un cas confirmé de COVID-19",
+      "texte": "Procédure Opératoire Normalisée (PON 03) : PROCEDURE D'INVESTIGATION AUTOUR D'UN CAS CONFIRME DE COVID-19.Table des matières :1. Objectif2. Investigation épidémiologique3. L'équipe d'investigation4. Définitions de cas5. Responsabilité6. Procédure7. Suivi des contacts8. Collecte des données9. Traitement des échantillons10. Transport des échantillons11. Documents annexes1. ObjectifL'investigation autour d'un cas confirmé de COVID-19 est une partie intégrante et centrale de la surveillance pendant l'épidémie. Elle concerne la recherche de contact, définie comme l'identification complète, le suivi quotidien et le listage complet des personnes qui sont connues ou suspectées d'avoir été en contact avec une personne infectée par le COVID-19.La détection précoce, l'isolement rapide des nouveaux cas et la prise en charge adéquate de personnes infectées par le COVID-19 est nécessaire pour interrompre la chaîne de transmission du virus dans la communauté, réduire la mortalité liée à la sévérité de la maladie, prévenir les risques d'exposition aux différents groupes.Tous les contacts de cas suspects, probables et confirmés devraient être systématiquement identifiés et suivis pendant 14 jours (la période d'incubation maximale du virus), à partir du jour de décès ou de mise en isolement au Centre de Traitement (CTEpi) du cas contaminant. Pour l'épidémie de COVID-19, la recherche active des contacts pose de sérieux problèmes, en partie en raison de la rapidité de la propagation de la maladie, l'insuffisance des ressources (humaines, financières et logistiques), l'incertitude quant aux caractéristiques épidémiologiques, cliniques et virologiques de l'agent pathogène, sa capacité à se propager dans la communauté, sa virulence et les difficultés d'accès à la communauté.Elle concerne également les cas suspects. Tout sujet contact qui présente un des signes listés dans la définition d'un cas suspect est considéré comme un cas suspect et traité comme tel.2. Investigation épidémiologiqueCette procédure concerne l'identification et la recherche active des cas suspects et des contacts dans la communauté et autres environnements fréquentés par le cas confirmé (comme les ménages, les établissements de soins de santé, les écoles).L'objectif est de décrire la procédure d'investigation pour la recherche des cas suspects et des contacts.3. L'équipe d'investigationElle doit comprendre des membres de :- L'Equipe cadre de district- L'Equipe cadre de la RM- Les agents de BRH/SBHNB: Des membres de l'EMIS/ FETP peuvent venir en appui à l'équipe d'investigation si elle est débordée.Si possible, un psychologue peut se joindre à l'équipe.4. Définitions de casa) Cas suspectA. Un patient atteint d'une maladie respiratoire aiguë (fièvre et au moins un signe/symptôme de maladie respiratoire (par exemple, toux, essoufflement), ET n'ayant aucune autre étiologie qui explique pleinement la présentation clinique ET des antécédents de voyage ou de résidence dans un pays, une zone ou un territoire avec une transmission locale du COVID-19 au cours des 14 jours précédant l'apparition des symptômes;OuB. Un patient atteint d'une maladie respiratoire aiguë ET ayant été en contact avec un cas confirmé ou probable de COVID-19 au cours des 14 derniers jours précédant l'apparition des symptômes ;OuC. Un patient atteint d'une infection respiratoire aiguë grave (fièvre et au moins un signe/symptôme de maladie respiratoire (par exemple, toux, essoufflement) ET nécessitant une hospitalisation ET sans autre étiologie expliquant pleinement la présentation clinique.b) Cas probableUn cas suspect pour lequel le test COVID-19 au laboratoire de référence n'est pas concluant.c) Cas confirméSi le laboratoire de référence confirme l'infection par le COVID-19, quels que soient les signes cliniques.d) Cas de transmission communautaireUn cas confirmé dont on ne connait pas l'origine de la contamination au sein de la communauté (Cf guide d'orientation de la Cellule communautaire).e) Non-casUn cas suspect dont le prélèvement est revenu négatif.f) ContactsIl s'agit de toute personne ayant eu un contact avec un cas confirmé de COVID-19; durant une période de 2 jours au moins avant l'apparition des symptômes et le jour de l'isolement du cas. On distingue :Le contact à haut risque (étroit)Toute personne ayant eu un contact (dans un rayon de moins d'un mètre) avec un cas confirmé symptomatique ou asymptomatique et/ou deux jours avant l'apparition des symptômes.Contact au sein du ménage: toute personne ayant résidé dans le même ménage (ou dans une salle fermée) avec un cas confirmé.Contact en milieu professionnel :- tout travailleur de la santé ou social qui a fourni directement ou indirectement des services des soins cliniques ou personnels ou qui se trouvait dans le même espace intérieur qu'un cas confirmé symptomatique ou asymptomatique de COVID-19 sans EPI standards ou complémentaires.- tout travailleur qui se trouvait dans le même espace intérieur qu'un cas confirmé symptomatique ou asymptomatique de COVID-19.Le contact à bas risque (simple)Toute personne ayant eu un contact éloigné (dans un rayon de plus d'un mètre), de courte durée, dans un espace ouvert avec un cas confirmé lors de sa période asymptomatique.Contact au cours d'un voyage: Toute personne ayant voyagé avec un patient COVID-19 confirmé quel que soit le type de transport.5. Responsabilité: Cf. PON 01 & PON 026. Procédure- Une fois qu'un cas est confirmé au COVID-19, l'équipe d'investigation se rend au domicile du cas confirmé pour rechercher d'autres cas suspects éventuels, identifier et lister tous les sujets contacts étroits ou non;- Si le contact n'est pas présent, l'équipe doit en informer immédiatement le MCD et/ou le chef de l'EI, et si possible impliquer les autorités. Le MCD informe le MCR. Ils peuvent saisir les autorités administratives ou communautaires pour les assister;- Tous les contacts doivent être suivis pendant 14 jours selon le protocole de suivi des contacts;- Tout contact avec un symptôme clinique cité dans la définition des cas suspects dans les 14 jours suivant le décès ou l'isolement au CTE du cas primaire doit être considéré comme un cas suspect, et géré comme tel.7. Suivi des contacts (Cf. PON 11)8. Collecte des donnéesLes données concernant les cas confirmés et les contacts de leur entourage inclus dans l'investigation, seront recueillies sur la fiche d'investigation précisant les caractéristiques sociodémographiques des patients, le niveau d'exposition et les signes cliniques. Ces données seront compilées dans une base qui servira à cartographier et à identifier les chaînes de transmission.9. Traitement des échantillons• Tous les échantillons respiratoires de référence (écouvillon nasopharyngé ou oropharyngé), doivent être prélevés sur les cas suspects. De nouveaux échantillons peuvent être collectés si nécessaire;• Les échantillons de suivi peuvent comprendre des échantillons des voies respiratoires supérieures. Des échantillons des voies respiratoires inférieures peuvent également être prélevés, si cela est possible. Mais les précautions recommandées en matière de prévention et de contrôle des infections doivent être mises en place avant le prélèvement, car il s'agit d'interventions à plus haut risque. Un équipement de protection individuelle (EPI) approprié doit être porté lorsque les échantillons sont recueillis à partir de cas confirmés.10. Transport des échantillonsTous ceux qui participent à la collecte et au transport des échantillons doivent être formés aux pratiques de manipulation sûres et aux procédures de décontamination des déchets.Pour chaque échantillon biologique collecté, l'heure de la collecte, les conditions de transport et l'heure d'arrivée au laboratoire seront enregistrées. Les échantillons doivent parvenir au laboratoire le plus rapidement possible après leur collecte. Si l'échantillon n'est pas susceptible d'arriver au laboratoire dans les 72 heures, il doit être congelé, de préférence à -80°C, et expédié sur de la glace sèche. Il est toutefois important d'éviter de congeler et de décongeler les spécimens à plusieurs reprises. Le stockage des échantillons respiratoires dans des congélateurs domestiques sans givre doit être évité, en raison de leurs fortes variations de température.11. Documents annexes :• PON 01 Identification d'un cas suspect• PON 02 Gestion d'un cas suspect• PON 11 Suivi des contacts• PRT 01 Prélèvement des échantillons",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PON 04 - Procédure habillage et déshabillage",
+      "texte": "Procédure Opératoire Normalisée (PON 04) : PROCEDURE HABILLAGE ET DESHABILLAGE.Table des matières :1. Objectifs2. Abréviations3. Responsabilités4. Ressources5. Procédures6. Documents annexes7. Suivi des modifications des versions0. POINTS CLEFSPour tout contact avec des cas suspects ou cas confirmés Covid-19, il est obligatoire de porter un Equipement de Protection Individuelle (EPI) adapté à la tâche / degré de l'exposition. Avant l'utilisation de l'EPI, il est indispensable de vérifier son intégrité et son fonctionnement.L'habillage et le déshabillage de l'EPI complet doit toujours être accompagné d'un observateur qui instruit le porteur de l'EPI dans chaque étape de l'habillage et du déshabillage. L'observateur ne touche jamais le porteur de l'EPI et son équipement. Le déshabillage de l'EPI complet doit être accompagné d'une décontamination à chaque étape.1. OBJECTIFSCe document décrit la procédure pour mettre et enlever l'Equipement de Protection Individuelle (EPI).L'EPI est l'équipement clé de protection du personnel de santé et d'hygiène, pour éviter leur contamination avec le virus Covid-19.2. ABREVIATIONSMCR : Médecin chef de régionMCD : Médecin chef de districtCI : Centre d'isolementCTEpi : Centre de traitement des épidémiesEPI : Equipement de Protection Individuelle3. RESPONSABILITESC'est la responsabilité de chaque membre du personnel de santé et d'hygiène de porter un EPI lors de toute interaction avec un cas suspect ou confirmé de Covid-19, pendant le travail dans un centre d'isolement ou de traitement, ainsi que pendant la décontamination de lieux et d'objets, et lors du traitement de cadavres de personnes suspectées d'être mortes de Covid-19. Pendant le dépistage de cas potentiels (avant qu'ils ne soient identifiés comme cas suspects), le port d'un EPI partiel suffit.Tout personnel doit recevoir une formation portant sur l'habillage et le déshabillage des EPI avant son engagement dans le cadre clinique. Les MCR sont responsables d'assurer ces formations dans leurs régions respectives. Ils délèguent cette responsabilité aux MCD, pour le personnel travaillant dans chaque district sanitaire.Les MCD sont aussi responsables de l'approvisionnement d'EPI dans les structures de santé qui sont sous leur responsabilité. Ils délèguent cette responsabilité aux logisticiens qui travaillent dans chaque structure de santé.4. RESSOURCES4.1. EPIL'équipement qui fait partie d'un EPI est listé ci-dessous :- Écran facial / lunettes de protection (réutilisables)- Appareil de protection respiratoire (APR) (N-95, FFP2) (jetable)- Masque chirurgical (jetables)- Gants d'examen (latex et nitrile) (jetables)- Gants en caoutchouc résistants (gants de ménage) (réutilisables)- Tablier en plastique (jetable)- Combinaisons avec capuchon (jetables)- Sur-blouses/casaques (jetables)- Charlotte/bonnet de protection- Bottes (réutilisables)- Couvre-bottes ou chaussures (jetables)",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1: Recommandations concernant les EPI - Établissements de santé",
+          "colonnes": [
+            "SITUATION/LIEU",
+            "PERSONNEL OU PATIENTS CONCERNÉS",
+            "ACTIVITÉ",
+            "TYPE DE PROCÉDURE OU D'EPI"
+          ],
+          "lignes": [
+            {
+              "SITUATION/LIEU": "Zone de Triage",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Personnel de santé",
+              "ACTIVITÉ": "Dépistage d'un cas suspect sans contact direct",
+              "TYPE DE PROCÉDURE OU D'EPI": "Maintenir distance d'au moins 1 mètre en absence de barrière physique et porter un masque chirurgical"
+            },
+            {
+              "SITUATION/LIEU": "Salle d'attente",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Patients avec symptômes respiratoires.",
+              "ACTIVITÉ": "Toute activité",
+              "TYPE DE PROCÉDURE OU D'EPI": "Maintenir distance d'au moins 1 mètre. Masque au patient (si celui-ci le tolère). Si pas faisable isoler rapidement le patient."
+            },
+            {
+              "SITUATION/LIEU": "Cabinet de consultation",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Patients avec symptômes respiratoires.",
+              "ACTIVITÉ": "Toute activité",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque au patient (si celui-ci le tolère). Séparer immédiatement le patient dans une salle d'isolement ou une pièce à part bien ventilée. Si pas faisable, garder au moins 1 m de distance avec les autres patients."
+            },
+            {
+              "SITUATION/LIEU": "Cabinet de consultation",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Professionnels de santé",
+              "ACTIVITÉ": "Examen physique d'un patient avec symptômes respiratoires.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque, Casaque, Gants, Protection oculaire"
+            },
+            {
+              "SITUATION/LIEU": "Cabinet de consultation",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Professionnels de santé",
+              "ACTIVITÉ": "Examen physique d'un patient sans symptômes respiratoires.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Se protéger conformément aux précautions standard (hygiène des mains, blouse médicale, gants si exposition de liquides biologiques, masque chirurgical)"
+            },
+            {
+              "SITUATION/LIEU": "Cabinet de consultation",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Patients avec symptômes respiratoires.",
+              "ACTIVITÉ": "Toute activité",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque chirurgical au patient"
+            },
+            {
+              "SITUATION/LIEU": "Cabinet de consultation",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Personnel de nettoyage",
+              "ACTIVITÉ": "Après et entre consultations avec patients avec symptômes respiratoires.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Tenue de travail (tunique et pantalon), Masque chirurgical, Tablier en plastique, Gants de nettoyage, Protection oculaire (lunette ou écran facial), Bottes en caoutchouc"
+            },
+            {
+              "SITUATION/LIEU": "Chambre de patient (chambre individuelle ou commune)",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Professionnels de santé",
+              "ACTIVITÉ": "Soins à des patients COVID-19.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque FFP2 ou N95, Casaque, Charlotte/bonnet, Gants, Protection oculaire, Bottes ou sabot"
+            },
+            {
+              "SITUATION/LIEU": "Chambre de patient (chambre individuelle ou commune)",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Professionnels de santé",
+              "ACTIVITÉ": "Procédures créant des aérosols chez des patients COVID-19: Traitement nébulisation, intubation trachéale, ventilation non-invasive, trachéotomie, réanimation cardiopulmonaire, ventilation manuelle avant intubation et bronchoscopie",
+              "TYPE DE PROCÉDURE OU D'EPI": "Appareil respiratoire N95 ou FFP2, Casaque, Charlotte/bonnet, Tablier (seulement si blouse pas résistante aux éclaboussures), Gants, Protection oculaire, Bottes ou sabot"
+            },
+            {
+              "SITUATION/LIEU": "Chambre de patient (chambre individuelle ou commune)",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Personnel de nettoyage",
+              "ACTIVITÉ": "Accès d'une chambre de patients COVID-19.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Tenue de travail (tunique et pantalon), Casaque, Charlotte/bonnet, Masque chirurgical, Tablier en plastique, Gants de nettoyage, Protection oculaire (lunette ou écran facial), Bottes en caoutchouc"
+            },
+            {
+              "SITUATION/LIEU": "Chambre de patient (chambre individuelle ou commune)",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Accompagnants/Visiteurs",
+              "ACTIVITÉ": "Accès d'une chambre de patients COVID-19.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque, Casaque, Gants"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 2: Recommandations en matière d'EPI - Transfert de patients suspects ou confirmés",
+          "colonnes": [
+            "SITUATION/LIEU",
+            "PERSONNEL OU PATIENTS CONCERNÉS",
+            "ACTIVITÉ",
+            "TYPE DE PROCÉDURE OU D'EPI"
+          ],
+          "lignes": [
+            {
+              "SITUATION/LIEU": "Zone d'isolement temporaire (patients en attente de transfert vers un autre établissement de santé)",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Tout personnel, y compris le personnel de santé",
+              "ACTIVITÉ": "Aide aux passagers transportés vers un établissement de santé.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque FFP2 ou N95, Casaque, Charlotte/bonnet, Gants, Protection oculaire, Bottes ou sabot"
+            },
+            {
+              "SITUATION/LIEU": "Zone d'isolement temporaire (patients en attente de transfert vers un autre établissement de santé)",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Personnel de nettoyage",
+              "ACTIVITÉ": "Nettoyage zone d'isolement temporaire",
+              "TYPE DE PROCÉDURE OU D'EPI": "Tenue de travail (tunique et pantalon), Casaque, Charlotte/bonnet, Masque chirurgical, Tablier en plastique, Gants de nettoyage, Protection oculaire (lunette ou écran facial), Bottes en caoutchouc"
+            },
+            {
+              "SITUATION/LIEU": "Ambulance ou véhicule de transfert",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Professionnels de santé",
+              "ACTIVITÉ": "Transport de patients suspects de COVID19 -vers l'établissement de santé de référence.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque FFP2 ou N95, Casaque, Charlotte/bonnet, Gants, Protection oculaire, Bottes ou sabot"
+            },
+            {
+              "SITUATION/LIEU": "Ambulance ou véhicule de transfert",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Conducteur",
+              "ACTIVITÉ": "Conduite de patients suspects de COVID19 -et compartiment du conducteur séparé du patient COVID-19.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Maintenir une distance d'au moins 1 mètre, Masque chirurgical"
+            },
+            {
+              "SITUATION/LIEU": "Ambulance ou véhicule de transfert",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Conducteur",
+              "ACTIVITÉ": "Aider au chargement et déchargement de patients suspects de COVID-19. Pas de contact direct avec patients suspects de COVID-19, mais pas de séparation entre les compartiments conducteur et patient.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque FFP2 ou N95, Casaque, Charlotte/bonnet, Gants, Protection oculaire, Bottes ou sabot"
+            },
+            {
+              "SITUATION/LIEU": "Ambulance ou véhicule de transfert",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Conducteur",
+              "ACTIVITÉ": "Pas de contact direct avec patients suspects de COVID-19, mais pas de séparation entre les compartiments conducteur et patient.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque chirurgical"
+            },
+            {
+              "SITUATION/LIEU": "Ambulance ou véhicule de transfert",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Patient suspect de COVID19.",
+              "ACTIVITÉ": "Transport vers l'établissement de santé de référence.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Masque chirurgical"
+            },
+            {
+              "SITUATION/LIEU": "Ambulance ou véhicule de transfert",
+              "PERSONNEL OU PATIENTS CONCERNÉS": "Personnel de nettoyage",
+              "ACTIVITÉ": "Nettoyage après et entre les transports de patients suspects de COVID-19 vers l'établissement de santé de référence.",
+              "TYPE DE PROCÉDURE OU D'EPI": "Tenue de travail (tunique et pantalon), Casaque, Charlotte/bonnet, Masque chirurgical, Tablier en plastique, Gants de nettoyage, Protection oculaire (lunette ou écran facial), Bottes en caoutchouc"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schéma explicatif",
+          "titre": "Étapes pour enfiler l'équipement de protection individuelle (EPI) comprenant une blouse",
+          "description": "Guide visuel OMS en 13 étapes illustrées : 1. Enlevez vos effets personnels. 2. Enfilez la tenue de travail et les bottes en caoutchouc. 3. Dirigez-vous vers la zone propre. 4. Inspection visuelle des EPI. 5. Suivez la procédure sous supervision d'un observateur. 6. Hygiène des mains. 7. Enfilez la 1ère paire de gants (nitrile). 8. Enfilez la blouse jetable résistante aux liquides. 9. Enfilez le masque. 10. Enfilez l'écran facial ou les lunettes. 11. Enfilez la coiffe/cagoule. 12. Enfilez le tablier jetable imperméable. 13. Enfilez la 2ème paire de gants sur la manche."
+        },
+        {
+          "type": "image",
+          "categorie": "schéma explicatif",
+          "titre": "Étapes pour retirer l'équipement de protection individuelle (EPI) comprenant une blouse",
+          "description": "Guide visuel OMS en 18 étapes illustrées pour le déshabillage sécurisé : 1. Retirez sous supervision d'un observateur. 2. Hygiène des mains gantées. 3. Retirez le tablier. 4. Hygiène des mains gantées. 5. Retirez la paire de gants extérieure. 6. Hygiène des mains gantées. 7. Retirez la coiffe/cagoule de l'arrière vers l'avant. 8. Hygiène des mains gantées. 9. Retirez la blouse de l'intérieur vers l'extérieur. 10. Hygiène des mains gantées. 11. Retirez la protection des yeux par l'arrière. 12. Hygiène des mains gantées. 13. Retirez le masque par l'arrière. 14. Hygiène des mains gantées. 15. Retirez les bottes / surchaussures sans les toucher. 16. Hygiène des mains gantées. 17. Retirez la 1ère paire de gants. 18. Hygiène des mains."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "PON 05 - Procédure de prise en charge : pneumonies associées à un nouveau coronavirus (COVID-19)",
+      "texte": "Procédure Opératoire Normalisée (PON 05) : PROCEDURE DE PRISE EN CHARGE: PNEUMONIES ASSOCIÉES À UN NOUVEAU CORONAVIRUS (COVID-19).Table des matières :1. Introduction2. Signes cliniques3. Définitions des cas4. Procédure de prise en charge5. Documents annexes6. Suivi des modifications des versions1. INTRODUCTION1.1 DéfinitionLe nouveau coronavirus (COVID-19), est responsable de cas de maladies respiratoires aiguës ayant débuté à Wuhan, en Chine. Le COVID-19, tel qu'il a été nommé, est considéré comme une nouvelle souche de coronavirus qui n'avait pas encore été identifiée chez l'homme. Il s'agit d'un beta-coronavirus appartenant à la même famille que le SRAS-CoV et le MERS-CoV. Il semblerait plus proche du SRAS-CoV.Les coronavirus sont une large famille de virus, mais seuls six (le COVID-19 en est le 7ème) sont connus pour infecter l'être humain: 4 espèces (Human Coronavirus ou HCoV: 229E, OC43, NL63, HKU1) responsables d'infections respiratoires endémiques et 2 espèces (SRAS-CoV et MERS-CoV) qui entraînent des formes épidémiques.1.2 IntérêtÉpidémiologique: problème de santé publique, maladie émergentePronostique: possibilité de tableau sévère conduisant au décèsThérapeutique: traitement essentiellement symptomatique et mise en place de mesures de protection respiratoire et de type contact.2. SIGNES CLINIQUESLe tableau clinique est d'installation brutale avec une prédominance des signes respiratoires et infectieux. Dans la plupart des cas, deux types de tableaux sont décrits : un tableau simple et un tableau grave :- Le tableau simple est dominé par :  • Syndrome infectieux: fièvre, frissons  • Syndrome algique: céphalées, myalgies  • Signes respiratoires: toux, congestion nasale, pharyngite- Les formes graves évoluent vite vers un syndrome de détresse respiratoire aiguë et sont définies selon l'un des critères suivants :  • Une dyspnée;  • Une fréquence respiratoire supérieure à 30 bpm;  • Une hypoxémie avec SpO2 < 90%;  • Une radiographie pulmonaire avec infiltrats multi-lobaires ou une infiltration pulmonaire ayant progressé de plus de 50% en 24 à 48 heures.Les tableaux cliniques peuvent être atypiques notamment chez les personnes immunodéprimées.Les complications actuellement décrites sont la défaillance hémodynamique pouvant aller jusqu'au choc septique, des troubles neurologiques tout ceci pouvant conduire au décès (létalité de 2,7%).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau I: Syndromes cliniques associés à une infection COVID-19",
+          "colonnes": [
+            "Forme clinique",
+            "Description / Critères diagnostiques"
+          ],
+          "lignes": [
+            {
+              "Forme clinique": "Forme non compliquée",
+              "Description / Critères diagnostiques": "Patients atteints d'une infection virale des voies respiratoires supérieures non compliquée présentant des symptômes non spécifiques: fièvre, toux, mal de gorge, congestion nasale, malaise, maux de tête, douleur musculaire. Les personnes âgées et immunodéprimées peuvent présenter des symptômes atypiques. Ces patients ne présentent aucun signe de déshydratation, de septicémie ou d'essoufflement."
+            },
+            {
+              "Forme clinique": "Pneumonie légère",
+              "Description / Critères diagnostiques": "Patient avec pneumonie et aucun signe de pneumonie sévère. Enfant avec une pneumonie non sévère: toux ou difficultés à respirer + respiration rapide [fréquence respiratoire (FR) en battement / min (bpm)]: <2 mois, FR ≥ 60; 2-11 mois, FR ≥ 50; 1 à 5 ans, FR ≥ 40 et aucun signe de pneumonie sévère."
+            },
+            {
+              "Forme clinique": "Pneumonie sévère (Adolescent ou adulte)",
+              "Description / Critères diagnostiques": "Fièvre ou suspicion d'infection respiratoire, plus Fréquence respiratoire > 30 bpm ou, Détresse respiratoire sévère ou, SpO2 < 90% à l'air ambiant."
+            },
+            {
+              "Forme clinique": "Pneumonie sévère (Enfant)",
+              "Description / Critères diagnostiques": "Toux ou difficulté à respirer, plus au moins un des symptômes suivants: Cyanose centrale ou SpO2 < 90%; Détresse respiratoire sévère (ex: grognements, tirage thoracique très grave); Signes de pneumonie avec un signe de danger général: incapacité à allaiter ou à boire, léthargie ou perte de conscience, ou convulsions. D'autres signes de pneumonie peuvent être présents: tirage sous-costal, respiration rapide (en bpm): <2 mois, FR ≥ 60; 2-11 mois, FR ≥ 50; 1-5 ans, FR ≥ 40. Le diagnostic est clinique; l'imagerie thoracique peut exclure les complications."
+            },
+            {
+              "Forme clinique": "Syndrome de détresse respiratoire aiguë (SDRA)",
+              "Description / Critères diagnostiques": "Début: symptômes respiratoires nouveaux ou aggravés dans la semaine suivant une agression clinique connue. Imagerie thoracique (radiographie): opacités bilatérales, non entièrement expliquées par des épanchements, lobaires ou nodules. Origine de l'œdème: insuffisance respiratoire non entièrement expliquée par une insuffisance cardiaque ou une surcharge liquidienne. Oxygénation (adultes): SDRA léger: 200 mmHg < PaO2 / FiO2 ≤ 300 mmHg (avec PEP ou CPAP ≥ 5 cmH2O, ou non ventilé); SDRA modérée: 100 mmHg < PaO2 / FiO2 ≤ 200 mmHg avec PEP ≥ 5 cmH2O, ou non ventilé; SDRA sévère: PaO2 / FiO2 ≤ 100 mmHg avec PEP ≥ 5 cmH2O, ou non ventilé. Si PaO2 non disponible, SpO2 / FiO2 ≤ 315 suggère un SDRA."
+            },
+            {
+              "Forme clinique": "Sepsis",
+              "Description / Critères diagnostiques": "Adultes: Dysfonctionnement organique menaçant le pronostic vital causé par une réponse dérégulée de l'hôte à une infection suspectée ou prouvée. Signes de dysfonctionnement: altération de l'état mental, respiration difficile ou rapide, faible SpO2, débit urinaire réduit, rythme cardiaque rapide, pouls faible, extrémités froides, hypotension, marbrures, coagulopathie, thrombocytopénie, acidose, lactate élevé, hyperbilirubinémie. Enfants: Infection suspectée ou prouvée et ≥ 2 critères SRIS, dont l'un doit être une température anormale ou une numération des globules blancs anormale."
+            },
+            {
+              "Forme clinique": "Choc septique",
+              "Description / Critères diagnostiques": "Adultes: Hypotension persistante malgré la réanimation volémique, nécessitant des vasopresseurs pour maintenir une pression artérielle moyenne (PAM) ≥ 65 mm Hg et une lactatémie > 2 mmol/L. Enfants: Toute hypotension (PAS < 5e centile ou > 2 SD en dessous de la normale pour l'âge) ou 2-3 des éléments suivants: altération de la conscience; tachycardie ou bradycardie (FC < 90 bpm ou > 160 bpm chez les nourrissons et FC < 70 bpm ou > 50 bpm chez les enfants); allongement du temps de recoloration cutanée (> 2 sec); tachypnée; peau marbrée ou éruption pétéchiale ou purpurique; élévation lactatémie."
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Protocoles de traitement et suivi des patients (Adultes)",
+          "colonnes": [
+            "Forme / Situation",
+            "Indications / Traitement ADULTES"
+          ],
+          "lignes": [
+            {
+              "Forme / Situation": "Forme non compliquée",
+              "Indications / Traitement ADULTES": "Antipyrétiques et antalgiques: Paracétamol 15 mg/kg renouvelable toutes les 6H par voie parentérale ou per os. Apports hydriques suffisants: SGI-RL au moins 1,5-2L/j ou réhydratation par voie orale. Autres: Décongestionnant nasal au besoin, Vitaminothérapie au besoin (Vitamine C)."
+            },
+            {
+              "Forme / Situation": "Pneumonie légère",
+              "Indications / Traitement ADULTES": "Oxygénation si FR ≥ 24: O2 sonde à lunettes 3 L/min. Autres mesures: idem forme non compliquée. Surveillance étroite du patient pour détecter une insuffisance respiratoire aiguë (IRA) sévère, des signes de détérioration clinique, tels qu'une insuffisance respiratoire et une septicémie."
+            },
+            {
+              "Forme / Situation": "Pneumonie sévère",
+              "Indications / Traitement ADULTES": "Remplissage des patients: SSI en Flash. Oxygénothérapie: Oxygénothérapie supplémentaire immédiate aux patients atteints d'IRA sévère et de détresse respiratoire, d'hypoxémie ou de choc: > 5 litres/min. Transfert en unité de réanimation (ou salle chaude) si présence de signes de gravité."
+            },
+            {
+              "Forme / Situation": "Sepsis - Choc septique",
+              "Indications / Traitement ADULTES": "Antibiothérapie: Amoxicilline 1g x 3/jour pendant 7 jours ou Amoxicilline-acide clavulanique 1g x 3/jour per os ou IV pendant 7 jours ou Ceftriaxone 2 g/j + Azithromycine 500 mg/j pendant 3 jours. Si choc: autres antibiotiques suivant le tableau clinique et la flore communément isolée."
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Protocoles de traitement et suivi des patients (Enfants)",
+          "colonnes": [
+            "Forme / Situation",
+            "Indications / Traitement ENFANTS"
+          ],
+          "lignes": [
+            {
+              "Forme / Situation": "Forme non compliquée",
+              "Indications / Traitement ENFANTS": "Mesures hygiéno-diététiques: Réhydratation par voie orale, Alimentation (poursuite allaitement maternel +++, 3 repas et deux collations), Apport liquidien besoin de base (1500 mL/m² de surface corporelle) par voie orale ou perfusion (SG5%+électrolytes ou mélange G5%-SSI). Antipyrétiques et antalgiques: Paracétamol 15 mg/kg renouvelable toutes les 6H par voie parentérale ou per os. Autres: Désobstruction rhinopharyngée par sérum physiologique (SSI), Hydrosol-poly-vitaminée (HPV)."
+            },
+            {
+              "Forme / Situation": "Pneumonie légère",
+              "Indications / Traitement ENFANTS": "Surveillance étroite: Monitorage FR, FC, TA, SpO2, conscience, dextro. Oxygénation viser SpO2 ≥ 95%: Oxygénothérapie par Lunette nasale (3 L/min) ou masque. Antipyrétiques et antalgiques: Paracétamol 15 mg/kg renouvelable toutes les 6H par voie parentérale ou per os. Autres mesures hygiéno-diététiques et désobstruction rhinopharyngée."
+            },
+            {
+              "Forme / Situation": "Pneumonie sévère",
+              "Indications / Traitement ENFANTS": "Mesures de réanimation: Monitorage, arrêt alimentation, position proclive, libération des voies aériennes, dextro systématique, Paracétamol 15 mg/kg toutes les 6H IV ou per os. Oxygénothérapie (visée SpO2 ≥ 95%): Lunette nasale (1 à 3 L/min) ou masque. Si détérioration respiratoire ou hypoxie réfractaire: ventilation non invasive (CPAP, CPAP bubble, OPTI-Flow) ou intubation/ventilation invasive. Autres traitements: Envisager alimentation dès que possible par sonde nasogastrique (Allaitement maternel, bouillies enrichies, laits thérapeutiques F75/F100, Plumpy...), soutien psychosocial. Transfert médicalisé en unité de réanimation (ou salle chaude) si présence de signes de gravité."
+            },
+            {
+              "Forme / Situation": "Sepsis - Choc septique",
+              "Indications / Traitement ENFANTS": "Mesures de réanimation: Monitorage (Scope: FC, FR, SpO2, TA, diurèse, conscience), position proclive, arrêt alimentation, dextro systématique, libération des voies aériennes. Hydratation correcte: SSI 20 ml/Kg en bolus de 20 à 30 minutes. Perfusion besoins de base: 1500 ml/m² (SG5% 500 ml + NaCl 3g + KCl 0,75g + Ca 5cc ou mélange G5%-SSI). Bi-antibiothérapie: Amoxicilline 100-200 mg/Kg/Jour en IV pendant 7 à 10 jours (relais per os 80-100 mg/Kg/J) OU Amoxicilline-acide clavulanique 100 mg/Kg/Jour IV (relais per os 80 mg/Kg/J) OU Ceftriaxone 75 mg/Kg/Jour (max 2 g/j) IV pendant 7 à 10 jours. Associée à aminoside: Gentamycine 3 à 5 mg/Kg en IVL pendant 3 jours + Azithromycine 10 mg/Kg/jour (max 500 mg/j) pendant 3 jours per os. Autres traitements: Alimentation SNG dès que possible, soutien psychosocial."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PON 06 - Procédure de prise en charge au cabinet dentaire",
+      "texte": "Procédure Opératoire Normalisée (PON 06) : PROCEDURE DE PRISE EN CHARGE AU CABINET DENTAIRE.Table des matières :1. Objectif2. Abréviations3. Responsabilités4. Définitions5. Méthodologie6. Documents annexes7. Suivi des modifications des versions0. CONTEXTELa transmission du COVID 19 (présent dans la salive) se fait par :- Les gouttelettes respiratoires expulsées par le nez ou par la bouche lorsque le patient parle, tousse ou éternue (gouttelettes de Pflügge)- Le contact avec les mains et les muqueuses de surface inerte contaminée par la salive.De ce fait, la profession dentaire est certainement la plus exposée compte tenue de la proximité entre le patient et le praticien qui se positionne à une vingtaine de cm de la cavité buccale lors des soins. Aussi, l'utilisation d'instruments rotatifs (turbine, contre-angle) ou à ultrasons (détartreurs), et de seringue multifonction (air/eau), génère une aérosolisation de la salive, de sécrétions et du sang dans l'environnement de travail.Il a été démontré que les coronavirus peuvent persister sur les surfaces de quelques heures à plusieurs jours (en fonction du type de surface, de la température, de l'humidité ambiante...).1. OBJECTIFEviter la transmission croisée et la propagation du COVID 19.2. ABREVIATIONSSNH : Service National d'HygièneMCR : Médecin Chef de RégionMCD : Médecin Chef de DistrictIM : Incident Manager3. RESPONSABILITESPersonnel cabinet dentaire :- Vérifier que l'équipement de protection essentiel est sur place à tout moment (gants, masques, lunettes au moins);- Mettre en place un dispositif de tri des malades avec l'aide de son assistant;- Prévoir une salle d'isolement marquée et sécurisée ;- Utiliser la définition d'un cas suspect (décrite ci-dessous), identifier le cas suspect au COVID-19;- Isoler le cas suspect afin de s'assurer qu'il n'ait aucun contact avec des personnes non autorisées ;- Informer la cellule d'alerte.Cellule d'alerte :- Recevoir l'appel du cabinet dentaire- Informer le MCD /MCR de la région concernée- Envoyer l'équipe d'investigation du DS.MCD/EI :- Vérifier que le patient répond à la définition d'un cas suspect;- Informer le MCR et la cellule d'alerte;- Prévenir l'équipe d'hygiène et l'équipe d'investigation d'un cas suspect (ou d'un décès) lié au COVID-19;- Remplir la fiche d'identification du cas suspect;- Aider à l'identification d'éventuels contacts;- Organiser son transfert vers la salle d'isolement du Centre de Santé.MCR :- Se concerter avec le MCD afin de confirmer ou infirmer la suspicion de cas suspect;- Fournir un appui au MCD sur le diagnostic du cas suspect et son transport vers un centre d'isolement;- Prévenir la DP et la coordination opérationnelle de l'incident (IM) au COUS de la présence d'un cas suspect ou d'un décès;- Organiser avec le MCD le transfert du patient vers le CTEpi en cas de résultats positifs.SNH :- Se rendre au poste de santé (ou structure de santé) dans les 3h qui suivent l'alerte et procéder à sa décontamination- Fournir des services de décontamination du véhicule après le transport du patient.IM :- Valider et diffuser les Procédures Opérationnelles Normalisées (PON)- Coordonner l'ensemble du processus et le flux d'informations.4. Définition4.1 Définition de casa) Cas suspect- Un patient atteint d'une maladie respiratoire aiguë (fièvre et au moins un signe/symptôme de maladie respiratoire (par exemple, toux, essoufflement), ET n'ayant aucune autre étiologie qui explique pleinement la présentation clinique ET des antécédents de voyage ou de résidence dans un pays, une zone ou un territoire avec une transmission locale du COVID-19 au cours des 14 jours précédant l'apparition des symptômes;Ou- Un patient atteint d'une maladie respiratoire aiguë ET ayant été en contact avec un cas confirmed ou probable de COVID-19 au cours des 14 derniers jours précédant l'apparition des symptômes;Ou- Un patient atteint d'une infection respiratoire aiguë grave (fièvre et au moins un signe/symptôme de maladie respiratoire (par exemple, toux, essoufflement) ET nécessitant une hospitalisation ET sans autre étiologie expliquant pleinement la présentation clinique.b) Cas probableUn cas suspect pour lequel le test COVID-19 au laboratoire de référence n'est pas concluant.c) Cas confirméSi le laboratoire de référence confirme l'infection par le COVID-19, quels que soient les signes cliniques.d) Non-casUn cas suspect dont le prélèvement est revenu négatif.e) Les contacts:On distingue :Le contact à haut risque (étroit)Toute personne ayant eu un contact (dans un rayon de moins d'un mètre) avec un cas confirmé lors de sa période symptomatique et/ou quatre jours avant l'apparition des symptômes.Contact en milieu professionnel: tout travailleur social ou de la santé qui a fourni directement ou indirectement des services personnels ou des soins cliniques ou qui se trouvait dans le même espace intérieur qu'un cas confirmé symptomatique ou asymptomatique de COVID-19.Contact au sein du ménage: toute personne ayant résidé dans le même ménage (ou dans une salle fermée) avec un cas confirmed.Le contact à bas risqueToute personne ayant eu un contact éloigné (dans un rayon de plus d'un mètre), de courte durée, dans un espace ouvert avec un cas confirmé lors de sa période asymptomatique.5. PROCEDURES5.1 Mesures prises au cabinet dentaire de manière généralea) Au niveau de l'accueil / Salle d'attente, il faut :- Pour le personnel, appliquer les règles de prévention individuelle (laver les mains au savon ou les frictionner avec une solution hydro-alcoolique (SHA), éviter de toucher le visage, porter un masque, se mettre à distance);- Aérer la salle d'attente ;- Décontaminer fréquemment dans la journée les poignées des portes;- Mettre en évidence les supports d'IEC sur le COVID-19 (spots, affiches);- Retirer les revues et objets de la salle d'attente;- Annuler les RV des patients fragiles (âge, polypathologie...);- Réorganiser les RV de sorte à garder une distance minimale de 1 mètre entre les patients;- Soumettre le patient au thermo-flash;- Limiter le nombre d'accompagnants (1 accompagnant au besoin);- Faire porter un masque chirurgical au patient et à l'accompagnant et leur demander un lavage des mains au savon ou une friction avec une solution hydro alcoolique sous la supervision d'un personnel.b) Dans la salle de soins, il faut :- Aérer la salle de soins;- Décontaminer les poignées des portes entre 2 patients;- Limiter le nombre de personnel de l'équipe soignante;- Porter des équipements de protection individuelle lors des actes (masques FFP2, gants chirurgicaux stériles, lunettes de protection ou masque à visière, charlotte, surblouse) pour tout le personnel de soins;- Se laver les mains (savon et/ou SHA) avant et après chaque patient;- Décontaminer les surfaces de travail après chaque patient;- Evaluer le niveau d'urgence des soins avant l'examen clinique, sur la base de l'interrogatoire;- Reporter tous les soins non urgents et de confort et assurer des soins urgents non invasifs: médication (prescrire des antalgiques et proscrire les AINS dans la mesure du possible), conseils...;- Si les soins ne peuvent pas être évités, les mettre en œuvre à la fin de la consultation ou en fin de journée (dernier patient);- Exclure l'usage du crachoir et systématiser l'usage de l'aspiration chirurgicale;- Faire un rinçage de la cavité buccale avec une solution antiseptique avant tout acte;- Eviter l'utilisation de procédés susceptibles de générer des aérosols comme la turbine, la seringue multifonction, le contre-angle, le détartreur et poser la digue dans les cas indiqués;- Décontaminer les empreintes avant leur acheminement au laboratoire de prothèse;- Donner des conseils d'hygiène individuelle et collective (distanciation sociale).NB: « Ces recommandations, élaborées sur la base des connaissances disponibles à la date de publication de cet avis, peuvent évoluer en fonction de l'actualisation des connaissances et des données épidémiologiques ».5.2 Mesures prises au cabinet dentaire devant un cas suspect identifiéIl faut se référer à la PON 01.6. DOCUMENTS ANNEXES :- PON 01- PON 02- PON 04",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PON 07 - Procédure de décontamination des structures de santé",
+      "texte": "Procédure Opératoire Normalisée (PON 07) : PROCEDURE DE DECONTAMINATION DES STRUCTURES DE SANTE.Table des matières :1. Objectifs2. Abréviations3. Responsabilités4. Ressources5. Procédures6. Documents annexes7. Suivi des modifications des versions0. POINTS CLESToute structure de santé qui identifie un cas suspect de Covid-19 ou un décès probablement lié au Covid-19 doit être décontaminée de manière rigoureuse.On ne sait pas combien de temps le virus Covid-19 peut rester en vie dans le fluide corporel d'un malade. Donc tous les liquides ou les objets touchés ou utilisés par un patient Covid-19 doivent être considérés comme potentiellement infectieux.Pour des raisons de sécurité et afin de rassurer le personnel de santé ainsi que la communauté, que le poste de santé ne présente plus de risque et peut être à nouveau utilisé, l'équipe de décontamination doit traiter les lieux dans les plus brefs délais.1. OBJECTIFSDonner des orientations précises sur les procédures à suivre pour effectuer le nettoyage et la décontamination de l'environnement, après le passage d'un cas suspect, confirmé, ou probable, dans l'établissement de soins.2. ABREVIATIONSMCD : Médecin Chef de DistrictECD : Équipe Cadre de DistrictICP : Infirmier Chef du PosteSNH : Service National d'HygièneIM : Incident ManagerDAS : Direction de l'Action Sociale du Ministère de la Santé et de l'Action SocialeDQS2H : Direction de la qualité, de la sécurité et de l'hygiène hospitalièreCRS : Croix-Rouge sénégalaiseDLM : Direction de lutte contre la maladieEPI : Equipement de Protection IndividuelleODK : Open Data Kit (Système d'informations de surveillance épidémiologique)DEFINITION IMPORTANTE :Nettoyage: C'est l'élimination générale des salissures organiques et minérales (saleté, nourriture, matières fécales, sang, salive et autres fluides corporelles).Désinfection: C'est l'opération au résultat momentané permettant d'éliminer la plupart des organismes présents sur une surface.Décontamination: C'est le processus de sécurisation d'un objet ou d'une zone en éliminant les contaminants tels que les micro-organismes.3. RESPONSABILITESLe chef de l'équipe des hygiénistes est responsable de la mise en œuvre des procédures décrites dans ce protocole, sauf mention contraire. Il est soutenu par une équipe composée de plusieurs hygiénistes.4. RESSOURCES4.1. Ressources humainesChaque structure sanitaire doit avoir à sa disposition une équipe d'hygiène. Les hygiénistes assurent la gestion des déchets dans le centre, procèdent à la décontamination du matériel et des lieux, ainsi qu'à la décontamination des personnes sortant du centre, afin de minimiser les risques de contamination. À tout moment, une équipe d'hygiénistes doit être de service. Pour des raisons de sécurité du personnel, il est recommandé que les équipes travaillent par binôme.4.2. Equipe de décontaminationUne équipe se compose au minimum de deux agents applicateurs et d'un superviseur.4.3. Matériels et équipementsLes éléments cités ci-dessous doivent être présents dans le véhicule de l'équipe d'hygiénistes. Les EPI doivent être disponibles en plusieurs tailles afin d'être adaptés à tous les membres de l'équipe. Vérifier la présence de tous les éléments énumérés dans la liste de contrôle suivante avant de commencer le travail.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Matériels et équipements de décontamination pour structures de santé (équipe de 3 personnes)",
+          "colonnes": [
+            "Description",
+            "Quantité pour chaque équipe de 3 personnes",
+            "Matériel Présent dans le véhicule"
+          ],
+          "lignes": [
+            {
+              "Description": "Tabliers en plastique",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Masque (FFP2 ou N95)",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Lunettes de protection",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Salopette étanche",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "charlotte/bonnet",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Gants d'examen",
+              "Quantité pour chaque équipe de 3 personnes": "1 paquet",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Gants de nettoyage en caoutchouc",
+              "Quantité pour chaque équipe de 3 personnes": "5 paires",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Bottes en caoutchouc",
+              "Quantité pour chaque équipe de 3 personnes": "5 paires",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Pulvérisateur manuel de 16 litres pour traitement des surfaces (à buse nébuliseur)",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Pulvérisateur (type spray) à main d'1 litre pour déshabillage et traitement des surfaces",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Eau de javel",
+              "Quantité pour chaque équipe de 3 personnes": "5 litres",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Granules HTH 70%, et une cuillère mesure",
+              "Quantité pour chaque équipe de 3 personnes": "450 g",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "détergent/désinfectant",
+              "Quantité pour chaque équipe de 3 personnes": "1 btl/5 litres",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Gobelet plastique gradué pour mesure",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Bidon de 10 litres rempli d'eau, pour préparation des solutions de décontamination (solutions chlorées à 0.05% et 0.5%; détergent)",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Contenant en plastique avec couvercle pour stocker le matériel de protection réutilisable après usage",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Bâche en plastique 3m fois 3m",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Directives pour la préparation des solutions (Protocole PON- Covid19-)",
+              "Quantité pour chaque équipe de 3 personnes": "1",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Seau de 10 litres pour tremper les couverts et effets personnels du malade / défunt",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Ruban de signalisation, pour empêcher l'accès aux lieux",
+              "Quantité pour chaque équipe de 3 personnes": "1 rouleau",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Véhicule de transport de l'équipe (Pickup de préférence)",
+              "Quantité pour chaque équipe de 3 personnes": "1",
+              "Matériel Présent dans le véhicule": "Présent"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Méthodes de décontamination par type de surface/équipement dans les structures de santé",
+          "colonnes": [
+            "Description des éléments",
+            "Méthode de décontamination",
+            "Vérification superviseur"
+          ],
+          "lignes": [
+            {
+              "Description des éléments": "Sol, surfaces verticales y compris encadrement porte et fenêtre",
+              "Méthode de décontamination": "Décontamination pariétale",
+              "Vérification superviseur": "À vérifier"
+            },
+            {
+              "Description des éléments": "Lit et autre mobilier",
+              "Méthode de décontamination": "Décontamination par essuyage avec détergent/désinfectant",
+              "Vérification superviseur": "À vérifier"
+            },
+            {
+              "Description des éléments": "Objets durs réutilisables, tels que des seaux, Ustensiles tels que des assiettes, des cuillères, des tasses",
+              "Méthode de décontamination": "Laisser tremper pendant 10 minutes, dans un récipient en matière plastique apporté par l'équipe et contenant une solution chlorée à 0.5% ou un autre désinfectant indiqué. 1 h après la décontamination, ils peuvent être nettoyés avec de l'eau et du savon par les membres de la famille.",
+              "Vérification superviseur": "À vérifier"
+            },
+            {
+              "Description des éléments": "Matériels et équipement de soins",
+              "Méthode de décontamination": "Décontamination par essuyage avec détergent/décontaminant",
+              "Vérification superviseur": "À vérifier"
+            },
+            {
+              "Description des éléments": "Literie",
+              "Méthode de décontamination": "Décontamination solution de détergent /désinfectant non chloré sur toutes les faces",
+              "Vérification superviseur": "À vérifier"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PON 08 - Procédure de décontamination des domiciles",
+      "texte": "Procédure Opératoire Normalisée (PON 08) : PROCEDURE DE DECONTAMINATION DES DOMICILES.Table des matières :1. Objectifs2. Abréviations3. Responsabilités4. Ressources5. Procédures6. Documents annexes7. Suivi des modifications des versions0. POINTS CLESLa maison d'un patient qui est transporté en unité de traitement, ou d'un patient qui est décédé de Covid-19 à son domicile doit être décontaminée.Pour des raisons de sécurité et afin de rassurer la famille et la communauté, que la maison ne présente plus de risque et peut être à nouveau utilisée, l'équipe d'hygiène et de sécurité doit décontaminer le logement où le patient séjournait lors de l'apparition des premiers symptômes ainsi que ses effets personnels dans un délai maximum de 24 heures.1. OBJECTIFSDécrire la procédure pour la décontamination des locaux du domicile occupé par un patient ou une personne décédée avec suspicion de Covid-19 par les équipes d'hygiénistes (SNH).2. ABREVIATIONSMCD : Médecin Chef de DistrictECD : Equipe Cadre de DistrictICP : Infirmier Chef du PosteSNH : Service National d'HygièneIM : Incident ManagerEPI : Equipement de Protection IndividuelleODK : Open Data Kit (Système d'informations de surveillance épidémiologique)DAS : Direction de l'Action Sociale du Ministère de la Santé et de l'Action SocialeDQS2H : Direction de la qualité, de la sécurité et de l'hygiène hospitalièreCRS : Croix-Rouge SénégalaiseDLM : Direction de lutte contre la maladie3. RESPONSABILITES• MCD :- Alerter le Chef de sous brigade d'hygiène, responsable des Equipes d'Hygiène et de Sécurité d'un cas suspect, confirmé ou d'un décès lié au Covid-19. Fournir au SNH l'adresse précise du domicile.- Prévenir l'IM de la présence du cas.- Fournir les informations nécessaires concernant le cas et les éventuels contacts en utilisant les formulaires ODK.• SNH :- Se rendre au domicile au plus tard dans les 24h qui suivent la validation de l'alerte et procéder à sa décontamination.• IM :- Coordonner l'ensemble du processus et le flot d'informations.4. RESSOURCES4.1. Equipe de décontamination domiciliaireL'équipe d'hygiénistes se compose de deux agents applicateurs et d'un superviseur.4.2 Matériels et équipementLes éléments contenus dans le tableau ci-dessous doivent être mis à la disposition de l'équipe (dans le véhicule) de l'équipe d'hygiénistes. Les EPI doivent être disponibles en plusieurs tailles afin d'être adaptés à tous les membres de l'équipe d'hygiénistes. Vérifier la présence de tous les éléments énumérés dans la liste de contrôle suivante avant de commencer le travail.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Matériels et équipements pour décontamination domiciliaire (équipe de 3 personnes)",
+          "colonnes": [
+            "Description",
+            "Quantité pour chaque équipe de 3 personnes",
+            "Matériel Présent dans le véhicule"
+          ],
+          "lignes": [
+            {
+              "Description": "Tabliers en plastique",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Masque (FFP2 ou N95)",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Lunettes de protection /écran facial",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Salopette étanche",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Charlotte/bonnet",
+              "Quantité pour chaque équipe de 3 personnes": "5",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Gants d'examen en latex",
+              "Quantité pour chaque équipe de 3 personnes": "1 paquet",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Gants de nettoyage en caoutchouc",
+              "Quantité pour chaque équipe de 3 personnes": "5 paires",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Bottes en caoutchouc",
+              "Quantité pour chaque équipe de 3 personnes": "5 paires",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Pulvérisateur manuel de 16 litres pour traitement des surfaces à buse nébuliseur",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Pulvérisateur (type spray) à main d'1 litre pour déshabillage et traitement des surfaces",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Sacs poubelles en plastique (50 litres)",
+              "Quantité pour chaque équipe de 3 personnes": "12",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Eau de javel",
+              "Quantité pour chaque équipe de 3 personnes": "5 litres",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Granules HTH 70%, et une cuillère mesure",
+              "Quantité pour chaque équipe de 3 personnes": "450 g",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Détergent/désinfectant",
+              "Quantité pour chaque équipe de 3 personnes": "1 btl/5 litres",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Gobelet plastique gradué pour mesure",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Bidon de 10 litres rempli d'eau, pour préparation des solutions de décontamination (solutions chlorées à 0.05% et 0.5%; détergents)",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Contenant en plastique avec couvercle pour stocker le matériel de protection réutilisable après usage",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Bâche en plastique 3m fois 3m",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Directives pour la préparation des solutions (Protocole PON- Covid-19)",
+              "Quantité pour chaque équipe de 3 personnes": "1",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Seau de 10 litres pour tremper les couverts et effets personnels du malade / défunt",
+              "Quantité pour chaque équipe de 3 personnes": "2",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Ruban de signalisation, pour empêcher l'accès aux lieux",
+              "Quantité pour chaque équipe de 3 personnes": "1 rouleau",
+              "Matériel Présent dans le véhicule": "Présent"
+            },
+            {
+              "Description": "Véhicule de transport de l'équipe (Pickup de préférence)",
+              "Quantité pour chaque équipe de 3 personnes": "1",
+              "Matériel Présent dans le véhicule": "Présent"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PON 08 - Procédures de décontamination domiciliaire (suite)",
+      "texte": "5. PROCEDURES5.1. Déclenchement de la procédureLe Médecin Chef de District (MCD) prévient le chef de sous brigade d'hygiène, responsable des Equipes d'Hygiène, de la nécessité d'effectuer une décontamination domiciliaire et fournit l'adresse exacte du domicile.L'équipe composée d'un superviseur et de deux agents applicateurs, doit se rendre sur les lieux au plus tard dans les 24 heures qui suivent la notification par le MCD.5.2. Préparation avant le départAvant le départ, l'équipe d'hygiénistes vérifie que l'ensemble du matériel requis est dans le véhicule. Le superviseur signe la liste de vérification (Partie 4).5.3. A l'arrivée au domicileLa décontamination doit être effectuée avec toute la rigueur et l'attention nécessaires afin de garantir un assainissement complet et sécurisé des lieux.",
+      "tableaux": [],
+      "images": []
+    }
+ ]
+}

@@ -1,0 +1,1035 @@
+{
+  "metadata": {
+    "titre": "Diagnostic précoce des cancers de l'enfant - Manuel du prestataire",
+    "annee": "",
+    "source": "Groupe Franco-Africain d'Oncologie Pédiatrique (GFAOP) / Fondation Bristol-Myers Squibb",
+    "type_document": "Manuel de formation"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "Diagnostic précoce des cancers de l'enfant. Manuel du prestataire. Le financement pour l'élaboration, l'impression et la diffusion du guide provient de la Fondation Bristol-Myers Squibb.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Bristol-Myers Squibb Foundation",
+          "description": "Logo de la Bristol-Myers Squibb Foundation, représentant un hexagone stylisé bleu clair."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Table des matières",
+      "texte": "Préface 4Introduction 5Définition des concepts 6Sigles et abréviations 7But et objectifs de la formation 7> SESSION 1 : GÉNÉRALITÉS SUR LE DIAGNOSTIC PRÉCOCE 9Thème 1 : Diagnostic précoce : Définition, but et importance 10Thème 2 : Rôles et tâches des agents de santé dans le diagnostic précoce 11> SESSION 2 : CINQ CANCERS DE L'ENFANT 13Thème 1 : Le rétinoblastome 14Thème 2 : Le néphroblastome 19Thème 3 : Le lymphome de Burkitt 23Thème 4 : La maladie de Hodgkin 27Thème 5 : La leucémie aigue lymphoblastique 31> SESSION 3 : L'ORGANISATION DE LA RÉFÉRENCE ET DE LA CONTRE RÉFÉRENCE 37Thème 1 : La référence 38Thème 2 : La contre référence 40> SESSION 4 : TÂCHES DES ACTEURS COMMUNAUTAIRES DE SANTÉ DANS LE DIAGNOSTIC PRÉCOCE 43Thème 1 : Tâches des acteurs dans l'identification des signes précoces 44Thème 2 : Les méthodes de détection au niveau communautaire 44Thème 3 : Signes à rechercher 44Thème 4 : Conduite à tenir devant un signe de suspicion 45Thème 5 : Ordinogramme d'identification des signes de cancer de l'enfant par les acteurs communautaires de santé 45Annexes 47",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Préface",
+      "texte": "Soigner les enfants atteints de cancer en Afrique et leur permettre de guérir est la vision du Groupe Franco-Africain d'Oncologie Pédiatrique (GFAOP) depuis sa création en l'an 2000 par des médecins africains sous l'impulsion du Pr Jean Lemerle (Chef du Département d'Oncologie Pédiatrique de l'Institut Gustave Roussy de 1978 à 1996). Cette devise était proche de celle du Dr Odile Schweisguth, Fondatrice de la cancérologie pédiatrique en France qui signait en 1970 dans les Archives françaises de pédiatrie, un plaidoyer passionné défendant la cause des enfants cancéreux sous le titre «Faut-il les laisser mourir ?». Ces deux grands personnages de la Cancérologie Pédiatrique comptaient parmi les fondateurs de la Société Internationale d'Oncologie Pédiatrique (SIOP) qui a pris le parti d'accompagner le développement de la Cancérologie Pédiatrique dans les pays à revenus moyens ou faibles par habitant. En effet le fossé a continué de se creuser entre les pays riches et les autres. Si maintenant 80% des enfants atteints de cancer sont vivants 5 ans après le diagnostic de leur maladie dans la plupart de ces pays, le taux de survie est plus proche des 15% dans les pays les plus pauvres de la planète.La cause des enfants atteints de cancer est cependant peu connue de la population générale et souvent insuffisamment prise en compte par les décideurs. Ce ne sont pas des maladies chroniques comme les cancers survenant chez les adultes. Ce sont des maladies aigues qui se développent d'abord sournoisement, puis du fait du temps de doublement court des cellules tumorales passent rapidement d'un stade localisé à une maladie disséminée, souvent inaccessible à un traitement curateur. C'est pourquoi diagnostiquer précocement les cancers survenant chez l'enfant peut permettre d'améliorer considérablement les chances de survie des enfants qui en sont atteints. Ceci ne peut avoir lieu qu'avec la mise en place de moyens thérapeutiques adéquats, utilisés par des équipes médicales et soignantes formées, dotées des meilleurs plateaux techniques possibles, avec des conditions d'accueil optimales et un soutien des familles. C'est un des défis que nous voulons relever à travers cette action de l'Institut Jean Lemerle, Institut africain de formation en oncologie pédiatrique basé à Dakar.Ce programme, mené par les acteurs de chaque pays, se concentre sur cinq maladies potentiellement curables actuellement en Afrique Subsaharienne. Il ouvre également la porte au diagnostic d'autres cancers plus rares mais accessibles à un traitement curateur. La dissémination des connaissances réunies dans ce manuel, grâce aux formateurs qui auront pour mission de sensibiliser les populations et d'instruire les prestataires de santé se fera grâce aux autorités de santé de tous les pays d'Afrique subsaharienne francophone.L'aide des gouvernements sera également nécessaire pour assurer la disponibilité des traitements anticancéreux afin que partout où un enfant voit sa maladie diagnostiquée tôt, il puisse bénéficier de tous les médicaments et de l'accueil nécessaire. Ils contribueront ainsi à l'objectif fixé par l'OMS en 2018 de guérir 60% des enfants atteints de cancer à l'Horizon 2030.Pr Pierre Bey, Vice-Président du GFAOPDr Jean Michon, Directeur Médical du GFAOP",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "signature",
+          "titre": "Signatures",
+          "description": "Signatures manuscrites du Pr Pierre Bey et du Dr Jean Michon."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Introduction",
+      "texte": "Les cancers constituent une cause majeure de décès chez les enfants et les adolescents. Dans le monde, près de 400 000 nouveaux cas surviennent chaque année chez les enfants, dont 49% ne sont pas diagnostiqués (Z.J. Ward, Lancet Oncology Feb 2019). Si dans les pays à haut niveau de revenu, 4 malades sur 5 guérissent, la situation est autre dans les pays à faible revenu. En effet en Afrique subsaharienne francophone par exemple, un pourcentage faible des malades atteints de cancer arrivent aux unités d'oncologie pédiatrique et 50% ne peuvent recevoir les traitements proposés du fait d'un cancer avancé. La survie de ceux qui peuvent être traités avec une intention curative est proche de celle observée dans les pays à hauts revenus.Parmi les principales causes de la faible survie, le retard au diagnostic et à la prise en charge thérapeutique sont les premiers sur lesquels on doit pouvoir agir. Ces deux paramètres sont souvent expliqués par l'ignorance vis-à-vis du cancer de l'enfant, le manque de moyens financiers, et le recours aux traitements traditionnels en première intention. L'insuffisance des moyens thérapeutiques ainsi que l'abandon des traitements dont une partie reste trop souvent à la charge des parents sont avec la toxicité de certains traitements les causes des échecs trop nombreux chez les enfants pris en charge dans les services qui se sont spécialisés.Les cancers survenant chez l'enfant sont dans plus de 90% des cas ni évitables ni dépistables : un diagnostic précoce et précis suivi d'un traitement efficace peuvent grandement améliorer les chances de survie. Le Groupe Franco Africain d'Oncologie Pédiatrique (GFAOP) soucieux du taux élevé de mortalité par cancer chez l'enfant en Afrique subsaharienne et convaincu du fait que la détection précoce d'un cancer augmente considérablement le taux de guérison a soumis le projet « diagnostic précoce » à la Fondation Bristol-Myers Squibb qui l'a soutenu avec trois autres axes que sont la formation des soignants, la lutte contre l'abandon de traitement et le plaidoyer auprès des autorités de santé par une action conjointe des soignants et des Associations de Parents.Les objectifs de ce projet sont de :1. Renforcer la connaissance des soignants sur les cinq pathologies cancéreuses les plus fréquemment soignées dans les unités soutenues par le GFAOP que sont : le lymphome de Burkitt, la leucémie aigüe lymphoblastique, le néphroblastome, le rétinoblastome et la maladie de Hodgkin.2. Former les prestataires de santé sur les signes d'alarme évoquant une pathologie maligne et les modalités de référencement rapide vers les centres spécialisés.3. Proposer des outils de sensibilisation au diagnostic précoce pour la population générale.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Définition des concepts",
+      "texte": "CancerMaladie provoquée par la transformation de cellules qui deviennent anormales et prolifèrent de façon excessive. Ces cellules déréglées finissent par former une masse appelée tumeur maligne. Les cellules cancéreuses ont tendance à envahir les tissus voisins et à se détacher de la tumeur. Elles migrent alors par les vaisseaux sanguins et les vaisseaux lymphatiques pour aller former d'autres masses (métastases). Les leucémies sont une forme liquide de cancer. Le cancer peut concerner des organes, les cellules sanguines (ex: leucémie) ou les ganglions (lymphomes).Cancers de l'enfantLes cancers de l'enfant sont des affections malignes survenant chez les sujets âgés de zéro à dix-neuf ans (0 - 19 ans).Diagnostic précoceLe diagnostic précoce est un processus d'identification d'un cancer à partir de symptômes et de signes cliniques ou paracliniques en vue de le confirmer dès son stade de début. Ce processus peut être initié à un niveau quelconque de la pyramide sanitaire et a pour objectif d'offrir les meilleures chances de guérison aux patients.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Sigles et abréviations",
+      "texte": "CIVD : Coagulation intravasculaire disséminéeECG : ÉlectrocardiogrammeEVB : Virus Epstein BarrIRM : Imagerie par résonnance magnétiqueLAL : Leucémie aigüe lymphoblastiqueLB : Lymphome de BurkittLCR : Liquide céphalo rachidienMPO : MyélopéroxydasePEC : Prise en chargeTDM : Tomodensitométrie ou Scanner",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "But et objectifs de la formation",
+      "texte": "But :Renforcer le niveau de connaissances des professionnels de la santé sur le diagnostic précoce des cancers de l'enfant.Objectifs :Après la formation, les participants seront capables de :• Reconnaitre les symptômes de début de la maladie ou les premiers signes d'alerte se rapportant aux cinq cancers pédiatriques les plus fréquemment diagnostiqués dans les unités et accessibles à un traitement curatif ;• Faire une référence rapide, sûre et efficace du patient ;• Former, informer et sensibiliser les professionnels de santé et les associations de soutien aux enfants atteints de cancer.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "SESSION 1 : Généralités sur le diagnostic précoce du cancer de l'enfant",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 1. Diagnostic précoce : Définition, but et importance",
+      "texte": "1.1. Définition du diagnostic précoceLe diagnostic précoce nécessite l'identification des premiers signes d'un cancer au moyen d'examens cliniques et d'une démarche méthodique pouvant être appliquée rapidement à tous les niveaux de la pyramide sanitaire d'un pays.Les cancers de l'enfant sont associés à un ensemble de symptômes annonciateurs que les familles et les dispensateurs de soins de santé primaires peuvent repérer.1.2. ButLe diagnostic précoce des cancers de l'enfant vise à réduire la mortalité de la population pédiatrique ainsi que le coût des soins en Afrique subsaharienne grâce à une détection dès les premiers symptômes.1.3. Importance du diagnostic précoceLe diagnostic précoce est un levier majeur d'amélioration de la prise en charge des enfants atteints de cancer. Étant donné les moyens limités de prise en charge dans notre contexte, le diagnostic précoce est la meilleure garantie, voire la seule, pour obtenir la guérison avec le moins de séquelles possibles.La détection des cancers de l'enfant à un stade débutant permet :• Un traitement plus efficace ;• D'améliorer sensiblement le pronostic de la maladie ;• Une réduction de la lourdeur (effets secondaires et coût) et la durée des traitements ;• Une guérison de la plupart des cancers pédiatriques ;• Une diminution de l'importance des séquelles dues à la maladie et aux traitements des enfants guéris d'un cancer.1.4. Les obstacles au diagnostic précoceSelon les réalités des pays, les obstacles peuvent varier :• Déni du cancer pédiatrique par certaines populations et même certains professionnels de santé ;• Perception des populations sur le cancer au sens large du terme (cancer = mort) ;• Méconnaissance de l'existence des possibilités de guérison ;• Accès difficile aux soins (obstacle géographique, financier, technologique) ;• Bouleversement induit tant au plan financier que psychologique pour la famille et l'enfant ;• Résistances culturelles.• (liste non limitative).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Diagnostic cancer de l'enfant",
+          "description": "Fig. 1 : Illustration d'un personnage avec une loupe examinant un enfant, symbolisant la recherche et l'identification précoce des signes de cancer."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 2 : Pratique du diagnostic précoce",
+      "texte": "2.1. Rôles et tâches des professionnels de santéLes professionnels de la santé (infirmiers, sages femmes, médecins…) doivent assurer les rôles et responsabilités suivants :• Assurer la référence et la contre référence des patients ;• Organiser et animer des séances de formation pour la reconnaissance des signes d'alarme des principaux cancers de l'enfant.• Organiser les acteurs communautaires pour l'accompagnement des enfants chez qui les signes de cancer ont été détectés ;2.2. Les étapes du diagnostic précoceLes étapes du diagnostic précoce sont :• L'amélioration des connaissances, la sensibilisation du public aux différents symptômes du cancer de l'enfant et l'encouragement des personnes à se faire consulter lorsque ces symptômes se manifestent ;• La sensibilisation des populations sur les chances réelles de guérison en cas de détection précoce ;• L'investissement dans le renforcement et l'équipement des services de santé et la formation des soignants de façon à ce qu'ils puissent repérer correctement les signes d'alarme ;• L'organisation du référencement rapide vers un centre spécialisé dans la prise en charge des cancers de l'enfant.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Interstice - Stop Cancer",
+      "texte": "",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Stop Cancer",
+          "description": "Page illustrative rose avec un ruban de sensibilisation et le texte 'STOP CANCER'."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "SESSION 2 : Cinq (5) cancers de l'enfant",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 1. Le rétinoblastome - Informations de base",
+      "texte": "1.1. DéfinitionLe rétinoblastome est un cancer de l'œil, développé aux dépens de la rétine, touchant le nourrisson et le jeune enfant.La rétine est une partie de l'œil, l'organe de la vue. La rétine est la couche interne du globe oculaire.1.2. ÉpidémiologieLe rétinoblastome peut atteindre un œil ou les deux. La moitié des rétinoblastomes est diagnostiquée avant l'âge de deux ans et 40 % touchent les deux yeux. Globalement, le rétinoblastome :• Se manifeste chez les enfants âgés de 0 à 5 ans ;• Touche 1 enfant sur 15 000 à 20 000 naissances ;• Est parmi les 3 premiers cancers de l'enfant diagnostiqués en Afrique subsaharienne ;• Se guérit dans presque 100% des cas si le diagnostic est précoce ;• Peut-être héréditaire.1.3. Présentation cliniqueLes signes précoces du rétinoblastome sont :• Un œil qui louche (strabisme) en permanence ;• Une tâche blanche dans l'œil (leucocorie) ;• Un œil qui brille à la lumière la nuit : reflet blanchâtre dans la pupille de l'enfant quand il est exposé à la lumière ou sur une photo prise avec un flash, alors que normalement, une tâche rouge doit apparaitre dans l'œil ;• Un changement soudain de la couleur de l'iris (hétérochromie) ;• Une inflammation de l'œil persistante malgré un traitement adéquat.1.4. Signes de gravité du rétinoblastomeA un stade très avancé, le rétinoblastome peut se traduire par :• Des signes d'extension en dehors du globe oculaire (buphtalmie) : augmentation douloureuse du volume de l'œil ;• Un œil sorti hors de l'orbite (exophtalmie) ;• Des métastases au niveau des ganglions.L'objectif de ce guide est justement d'éviter d'arriver à ce stade pour faire le diagnostic.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Répartition du rétinoblastome unilatéral et bilatéral",
+          "colonnes": [
+            "Type",
+            "Rétinoblastome unilatéral (plus de 50 % des cas)",
+            "Rétinoblastome bilatéral (moins de 50 % des cas)"
+          ],
+          "lignes": [
+            {
+              "Type": "Forme non héréditaire",
+              "Rétinoblastome unilatéral (plus de 50 % des cas)": "90 % des cas unilatéraux",
+              "Rétinoblastome bilatéral (moins de 50 % des cas)": "-"
+            },
+            {
+              "Type": "Forme héréditaire",
+              "Rétinoblastome unilatéral (plus de 50 % des cas)": "10 % des cas unilatéraux",
+              "Rétinoblastome bilatéral (moins de 50 % des cas)": "100 % des cas bilatéraux"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Coupe sagittale de l'œil",
+          "description": "Fig. 2 : Schéma anatomique de l'œil montrant le corps ciliaire, le canal de Schlemm, l'iris, la cornée, la pupille, le cristallin, la chambre antérieure, la conjonctive bulbaire, le muscle droit, la choroïde, la rétine, le vitré, la fovée, la papille, le nerf optique, la sclérotique, et une tumeur localisée (en rouge) dans le globe oculaire."
+        },
+        {
+          "type": "image",
+          "categorie": "photo médicale",
+          "titre": "Image de deux tumeurs au fond d'œil",
+          "description": "Fig. 3 : Photographie du fond d'œil montrant deux masses tumorales blanchâtres caractéristiques du rétinoblastome."
+        },
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Œil gauche qui louche",
+          "description": "Fig. 5 : Photographie d'un enfant présentant un strabisme de l'œil gauche."
+        },
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Œil gauche qui brille",
+          "description": "Fig. 4 : Photographie montrant un reflet blanchâtre (leucocorie) dans la pupille de l'œil gauche d'un enfant, contrastant avec le reflet rouge normal de l'œil droit."
+        },
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Leucocorie des deux yeux",
+          "description": "Fig. 6 : Photographie d'un enfant présentant une leucocorie bilatérale (reflet blanchâtre dans les deux pupilles)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 1. Le rétinoblastome - Diagnostic précoce par les prestataires de santé",
+      "texte": "2.1. Avantages du diagnostic précoce du rétinoblastomeLe diagnostic précoce permet de prendre en charge rapidement un enfant suspecté de rétinoblastome. Quand le rétinoblastome est diagnostiqué précocement, les chances de guérison de l'enfant sont plus élevées, pouvant atteindre 100 %.2.2. Signes d'alarme et symptômesLes signes précoces, précédemment cités sont tous des signes d'alarme.• Un œil qui louche (strabisme) ;• Une tâche blanche dans l'œil (leucocorie) ;• Un œil qui brille à la lumière la nuit : reflet blanchâtre dans la pupille de l'enfant quand il est exposé à la lumière ou sur une photo prise avec un flash, alors que normalement, une tâche rouge doit apparaitre dans l'œil ;• Un changement soudain de la couleur de l'iris (hétérochromie) ;• Une inflammation de l'œil persistante malgré un traitement adéquat.2.3. Rôle des prestataires de santé dans le processus de diagnosticL'acteur communautaire de santé assure la sensibilisation des populations sur les signes précoces du rétinoblastome et la conduite à tenir (consultation rapide et sans délai) devant un signe suspect.Le processus de diagnostic du rétinoblastome débute par le repérage d'un signe précoce par l'agent de santé (infirmier, sage-femme) qui permet d'adresser le patient chez l'ophtalmologiste. L'ophtalmologiste spécialisé confirme le rétinoblastome en pratiquant :• L'examen du fond d'œil sous anesthésie générale après dilatation pupillaire maximale qui permet d'observer une ou plusieurs tumeurs rétiniennes ;• L'échographie oculaire qui permet de retrouver des calcifications dans la tumeur ;• La tomodensitométrie (TDM) ou au mieux l'Imagerie par Résonnance Magnétique (IRM) recherche une atteinte du nerf optique ou une extension en dehors du globe oculaire.Ces examens ne doivent pas retarder le transfert vers un centre spécialisé de prise en charge. Le traitement débute au niveau du centre spécialisé de prise en charge.L'agent de santé ne doit pas perdre de temps à explorer radiologiquement le malade. À la moindre suspicion, il doit référer l'enfant à l'ophtalmologiste.2.4. Conduite à tenir devant un signe de suspicionDès la suspicion de rétinoblastome, référer très rapidement l'enfant chez l'ophtalmologiste.Seul le spécialiste ophtalmologiste peut confirmer la suspicion du rétinoblastome en se fondant sur les symptômes et l'examen. Il réfère au centre spécialisé où une équipe pluridisciplinaire va soigner l'enfant.2.5. Traitement et pronosticLe but du traitement est d'obtenir une rémission complète pour sauver la vie de l'enfant. Plus le diagnostic est précoce, plus les chances de préserver la vue sont élevées. Le traitement est décidé de manière collégiale entre ophtalmologiste, oncopédiatre, radiologue, anatomopathologiste, généticien, anesthésiste et radiothérapeute.Les moyens thérapeutiques sont :• La chirurgie (énucléation) ;• La chimiothérapie ;• La thermothérapie (chauffage de la tumeur) ;• Les injections intravitréennes et/ou intra-artérielles de traitements ;• La radiothérapie.La décision concernant l'indication thérapeutique, pour chaque cas, est prise par l'équipe pluridisciplinaire. Elle dépend de :• L'uni ou la bilatéralité de la tumeur ;• La taille et le siège ;• L'existence d'une extension orbitaire ou extra orbitaire.Le pronostic dépend de la précocité du traitement.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6. Ordinogramme de prise en charge d'un enfant atteint de rétinoblastome",
+      "texte": "Dès suspicion du rétinoblastome → Référer l'enfant vers la structure de santé la plus proche → Au niveau de la structure, l'enfant doit être diagnostiqué par l'ophtalmologiste → Si absence de rétinoblastome, prodiguer un autre traitement / Si le rétinoblastome est confirmé, référer l'enfant vers la structure spécialisée de prise en charge.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "diagramme",
+          "titre": "Ordinogramme de prise en charge d'un enfant atteint de rétinoblastome",
+          "description": "Diagramme de flux vert en 4 étapes : 1) Dès suspicion du rétinoblastome, 2) Référer l'enfant vers la structure de santé la plus proche, 3) Au niveau de la structure, l'enfant doit être diagnostiqué par l'ophtalmologiste, 4) Deux issues possibles : Si absence de rétinoblastome, prodiguer un autre traitement ; Si le rétinoblastome est confirmé, référer l'enfant vers la structure spécialisée de prise en charge."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 2 : Le néphroblastome - Informations de base",
+      "texte": "1.1. DéfinitionLe néphroblastome est une tumeur maligne du rein du petit enfant. C'est une tumeur très différente des cancers du rein de l'adulte.1.2. Épidémiologie• Le néphroblastome représente entre 6 et 8 % des cancers de l'enfant. C'est l'une des plus fréquentes tumeurs abdominales de l'enfant.• Parmi les enfants atteints, 5 % ont un néphroblastome sur les 2 reins.• La maladie apparaît entre 6 mois et 5 ans. L'âge moyen d'apparition est de 3 ans.• Le néphroblastome a plus de risques d'apparaître chez les enfants ayant certains syndromes malformatifs congénitaux.1.3. Présentation cliniqueLes signes révélateurs du néphroblastome sont :• Perception d'une masse abdominale (tuméfaction étendue dans le ventre). Celle-ci se développe très rapidement. Au stade de début, elle n'est pas douloureuse ;• Parfois une hématurie totale récidivante et isolée ;• Rarement, le néphroblastome est révélé à l'occasion d'un contrôle systématique d'un enfant porteur d'une malformation urogénitale ou d'une hémihyperthrophie corporelle ou d'une aniridie (absence d'iris).1.4. Signes de gravité du néphroblastomeLes néphroblastomes sont des tumeurs pédiatriques qui évoluent très rapidement en se propageant dans l'abdomen, les ganglions et les vaisseaux. Ils peuvent déformer la paroi abdominale. Une hémorragie peut survenir à l'intérieur de la tumeur (entrainant douleurs et anémie). Le risque de rupture d'une grosse tumeur existe. Des métastases peuvent se développer dans les poumons ou le foie.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Différence rein sain et rein avec tumeur",
+          "description": "Fig. 7 : Illustration comparative de deux reins - un rein sain à gauche et un rein avec une tumeur volumineuse à droite."
+        },
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Masse abdominale (boule dans le ventre)",
+          "description": "Fig. 8 : Photographie d'un enfant présentant une masse abdominale visible et étendue."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 2 : Le néphroblastome - Diagnostic précoce par les prestataires de santé",
+      "texte": "2.1. Avantages du diagnostic précoce du néphroblastomeLe diagnostic précoce permet de prendre en charge rapidement un enfant suspecté de néphroblastome. Quand le néphroblastome est diagnostiqué précocement, les chances de guérison de l'enfant sont plus élevées, supérieures à 90 %.2.2. Signes d'alarme et symptômesLe néphroblastome se manifeste principalement par la présence d'une masse au niveau de l'abdomen, située le plus souvent d'un seul côté. D'autres signes cliniques accompagnent ce symptôme :• Des douleurs abdominales ;• Une hypertension artérielle ;• Une hématurie ;(La fièvre et l'anémie sont des signes de néphroblastome à un stade avancé ou de complication).NB: La tension artérielle est mesurée avec un tensiomètre adapté à l'enfant et interprétée en fonction de sa taille.2.3. Rôle des prestataires de santé dans le processus de diagnosticL'acteur communautaire de santé assure la sensibilisation des populations sur les signes précoces du néphroblastome et la conduite à tenir (consultation rapide et sans délai) devant un signe suspect.Le processus de diagnostic du néphroblastome débute par le repérage d'un signe précoce par l'agent de santé (infirmier, sage-femme) qui permet d'adresser le patient chez le spécialiste. L'agent de santé ne doit pas perdre de temps à explorer radiologiquement le patient. En cas de suspicion de néphroblastome il doit faire :→ l'examen clinique :• La palpation prudente (risque de rupture) confirme la masse abdominale ;• La recherche d'une hypertension artérielle ;• Au stade de début, le reste de l'examen clinique est le plus souvent normal.→ l'examen paraclinique :• Devant cette masse, une échographie abdominale s'impose en urgence, elle permet de confirmer la localisation rétropéritonéale et rénale de la masse ;• Un transfert rapide dans l'unité d'oncologie pédiatrique s'impose dans l'immédiat.Le traitement débute au niveau de la structure spécialisée de prise en charge.2.4. Conduite à tenir devant un signe de suspicionDès suspicion du néphroblastome, conduire dans les meilleurs délais l'enfant auprès d'une équipe spécialisée dans la prise en charge des tumeurs de l'enfant.2.5. Traitement et pronostic2.5.1. Le traitementLe traitement du néphroblastome repose sur :• La chimiothérapie : Elle est effectuée, sur la base des données radiologiques, avant l'intervention chirurgicale, ce qui facilite cette dernière et après celle-ci pour détruire les métastases éventuelles qui ne se voient pas.• La chirurgie : elle repose sur la néphrectomie élargie (ablation du rein).• La radiothérapie : réservée à certaines situations post opératoires pour contrôler localement la maladie.2.5.2. Le pronosticLe pronostic dépend de :• La précocité de la prise en charge : les chances de guérison sont très importantes si le diagnostic est fait tôt d'où l'importance de consulter l'enfant sur la simple observation d'une masse dans le ventre ;• La qualité de l'exérèse chirurgicale : le chirurgien doit enlever le rein, la graisse et les ganglions qui sont autour ; c'est une néphrectomie élargie ;• La précision de la lecture anatomo-pathologique : le pronostic dépend du stade de la tumeur, mais aussi du type de cellules trouvées lors de l'examen anatomo-pathologique de la tumeur après l'intervention.Dans le cas où les meilleures conditions sont réunies, le taux de guérison dépasse 90% des cas.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Hypertension artérielle",
+          "description": "Fig. 9 : Photographie d'une prise de tension artérielle avec un tensiomètre."
+        },
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Masse abdominale",
+          "description": "Fig. 10 : Photographie d'un enfant présentant une masse abdominale visible."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.6. Ordinogramme de prise en charge d'un enfant atteint de néphroblastome",
+      "texte": "Identification d'un signe précoce → Référence vers la structure de santé la plus proche → Diagnostic par le médecin aidé de l'échographie abdominale → Si le néphroblastome n'est pas confirmé, prodiguer un autre traitement / Si le néphroblastome est confirmé, référer l'enfant vers une unité de prise en charge spécialisée.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "diagramme",
+          "titre": "Ordinogramme de prise en charge d'un enfant atteint de néphroblastome",
+          "description": "Diagramme de flux bleu en 4 étapes : identification d'un signe précoce, référence vers la structure de santé la plus proche, diagnostic par le médecin aidé de l'échographie abdominale, puis deux issues (traitement alternatif ou référence vers unité spécialisée)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 3 : Le lymphome de Burkitt - Informations de base",
+      "texte": "1.1. DéfinitionLe lymphome de Burkitt est un cancer du système lymphoïde à progression très rapide, ayant un développement essentiellement extra-ganglionnaire.1.2. Épidémiologie• Les lymphomes de Burkitt (LB) surviennent de préférence dans les zones endémiques du paludisme.• Les lymphomes de Burkitt sont associés au virus Epstein Barr (EBV) dans leur forme endémique qui représente 50 à 60% des lymphomes de Burkitt de l'enfant en Afrique subsaharienne.• On distingue aussi une forme sporadique sans relation avec l'EBV, et une forme associée à des déficits immunitaires congénitaux ou acquis.• Les lymphomes de Burkitt se voient à tout âge de l'enfance avec un pic de fréquence à 8 ans. Il est exceptionnel avant 2 ans.• La localisation maxillaire est la plus fréquente dans les formes endémiques et se voit, en particulier chez le petit enfant, alors que la localisation abdominale est observée chez les enfants plus grands.• Il existe d'autres localisations moins fréquentes : ganglions périphériques, et dans la plupart des autres organes.1.3. Présentation cliniqueLe mode de révélation et les signes cliniques dépendent de la localisation initiale.Les formes abdominales diffuses sont rarement isolées, et peuvent être révélées par des douleurs récurrentes, une ascite, une ou plusieurs masses, plus rarement par une invagination intestinale aiguë.Les formes maxillaires, très évocatrices d'un LB comportent outre la tuméfaction maxillaire :• Une hypertrophie gingivale aboutissant rapidement à un déchaussement dentaire ;• Une désorganisation de l'articulé dentaire et parfois des adénopathies cervicales satellites.1.4. Signes de gravitéÀ un stade plus avancé, le lymphome de Burkitt peut donner :• Un syndrome tumoral (déchaussement dentaire, gêne respiratoire) ;• Des signes généraux (asthénie, amaigrissement, dénutrition…) ;• Des complications à type de syndrome compressif : cave, médullaire avec paraplégie pouvant être de survenue brutale ;• Une insuffisance rénale ;• Un envahissement de la moelle osseuse et/ou du système nerveux central.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Localisation maxillaire gauche",
+          "description": "Fig. 11 : Photographie d'un enfant présentant une tuméfaction maxillaire gauche caractéristique du lymphome de Burkitt endémique."
+        },
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Localisation abdominale",
+          "description": "Fig. 12 : Photographie d'un enfant présentant une distension abdominale importante liée à une masse tumorale."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 3 : Le lymphome de Burkitt - Diagnostic précoce par les prestataires de santé",
+      "texte": "2.1. Avantages du diagnostic précoce du lymphome de BurkittLe diagnostic précoce permet de prendre en charge rapidement un enfant suspecté d'être porteur d'un lymphome de Burkitt. Quand il est diagnostiqué et pris en charge précocement, les chances de guérison sont plus élevées, de l'ordre de 70%.2.2. Signes d'alarme et symptômesLes symptômes du lymphome de Burkitt sont différents selon le type :Le type endémique est le cancer le plus fréquemment retrouvé chez l'enfant en Afrique. Il touche plus particulièrement la mâchoire et les os du visage (os maxillaire). Les atteintes du visage représentent 75 % des cas de lymphome de Burkitt endémique et se traduisent par des tumeurs indolentes.Le type sporadique affecte préférentiellement l'abdomen (masse abdominale et/ou tableau d'invagination à un âge supérieur à 2 ans).2.3. Rôle des prestataires de santé dans le processus de diagnosticL'acteur communautaire de santé assure la sensibilisation des populations sur les signes précoces du lymphome de Burkitt et la conduite à tenir (la consultation rapide et sans délai) devant un signe suspect.Le processus de diagnostic du lymphome de Burkitt débute par le repérage d'un signe précoce par un agent de santé (infirmier, sage-femme) qui permet d'adresser le patient chez le spécialiste.L'agent de santé ne doit pas perdre de temps à explorer d'autres pathologies. A la moindre suspicion, il doit référer l'enfant vers un centre spécialisé de prise en charge.C'est le cytologiste qui confirme le diagnostic du lymphome de Burkitt sur un prélèvement effectué par ponction d'une tuméfaction maxillo-faciale ou abdominale. L'étude cytologique d'un liquide pleural ou d'ascite permet également d'établir le diagnostic. D'autres localisations sont à rechercher systématiquement dans la moelle osseuse et le liquide céphalorachidien.Le traitement urgent débutera au niveau de la structure spécialisée de prise en charge dès confirmation du diagnostic.2.4. Conduite à tenir devant un signe de suspicionSi le lymphome de Burkitt est suspecté, référer immédiatement l'enfant vers la structure de prise en charge spécialisée.2.5. Traitement et pronostic2.5.1. TraitementLe traitement est une urgence :• Il se fait dans un centre spécialisé et repose uniquement sur la chimiothérapie ;• Il nécessite un traitement de soutien afin de prévenir les complications ;• Il ne comporte pas de chirurgie sauf en cas d'invagination intestinale aigüe.2.5.2. PronosticLe pronostic dépend de :• La rapidité du diagnostic ;• La qualité du traitement de soutien ;• L'adhésion au traitement et le respect du protocole de traitement (notamment des délais entre les cures de chimiothérapie).La prise en compte de ces 3 critères permet d'obtenir un taux de guérison élevé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6. Ordinogramme de prise en charge d'un enfant atteint de lymphome de Burkitt",
+      "texte": "Identification d'un signe précoce → Référence vers la structure de santé la plus proche → Diagnostic évoqué par le prestataire de santé → Si le lymphome de Burkitt n'est pas évoqué, prodiguer un autre traitement / Si le Lymphome de Burkitt est évoqué, référer l'enfant vers une unité de prise en charge spécialisée.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "diagramme",
+          "titre": "Ordinogramme de prise en charge d'un enfant atteint de lymphome de Burkitt",
+          "description": "Diagramme de flux bleu en 4 étapes similaire aux précédents, adapté au lymphome de Burkitt."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 4 : La maladie de Hodgkin - Informations de base",
+      "texte": "1.1. DéfinitionLa maladie de Hodgkin ou lymphome hodgkinien est une forme de cancer qui intéresse essentiellement les ganglions lymphatiques. Elle est caractérisée par la présence des cellules de Reed-Sternberg dans le tissu tumoral.1.2. ÉpidémiologieLa maladie de Hodgkin fait partie des cinq cancers les plus fréquents en Afrique subsaharienne. C'est une affection plus fréquente chez le garçon (ratio M/F : 3 à 4). Dans la démographie occidentale, c'est une affection de l'adulte jeune et du sujet âgé. Un pic autour de 6 ans et chez l'adolescent semble plus fréquent dans les pays en développement.1.3. Présentation cliniqueAu stade précoce, la maladie de Hodgkin a essentiellement une localisation ganglionnaire faite d'adénopathie cervicale, indolore et d'évolution lente. Les adénopathies profondes et en particulier médiastinales sont souvent asymptomatiques. Des atteintes spléniques et/ou hépatiques sont fréquentes.Les signes généraux fréquents sont :• Du prurit ;• Une fièvre prolongée ;• Une anorexie ;• Des sueurs nocturnes ;• Un amaigrissement.Le diagnostic précoce doit permettre d'éviter d'arriver à ce stade.1.4. Les signes de gravité de la maladie de HodgkinDans les formes métastatiques (moelle, os, foie et poumon) nous pouvons observer :• Une anémie sévère ;• Des douleurs ostéoarticulaires ;• Un mauvais état général ;• Une exacerbation des signes cliniques précédemment cités.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Enfant atteint de la maladie de Hodgkin",
+          "description": "Fig. 14 : Photographie d'un enfant présentant une adénopathie cervicale, visage anonymisé par un bandeau noir."
+        },
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Localisation ganglionnaire de la maladie de Hodgkin à un stade avancé",
+          "description": "Fig. 15 : Photographie de profil d'un enfant montrant une adénopathie cervicale volumineuse à un stade avancé."
+        },
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Anémie sévère",
+          "description": "Fig. 16 : Photographie en gros plan d'un œil montrant une pâleur conjonctivale caractéristique d'une anémie sévère."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 4 : La maladie de Hodgkin - Diagnostic précoce par les prestataires de santé",
+      "texte": "2.1. Avantages du diagnostic précoce de la maladie de HodgkinLe diagnostic précoce permet de prendre en charge rapidement un enfant suspecté de maladie de Hodgkin. Quand le lymphome hodgkinien est diagnostiqué précocement, les chances de guérison de l'enfant sont plus élevées.2.2. Signes d'alarme et symptômesLes signes et symptômes du lymphome hodgkinien sont les suivants :• Ganglions lymphatiques enflés qui roulent sous la main et non douloureux à la palpation ;• Démangeaisons de la peau (prurit) ;• Fièvre inexpliquée et prolongée pendant des jours ou des semaines ;• Sueurs nocturnes importantes ;• Perte de poids inexpliquée : perte de poids équivalant à au moins 10 % du poids corporel sur une période de 6 mois.2.3. Rôle des prestataires de santé dans le processus de diagnosticL'acteur communautaire de santé assure la sensibilisation des populations sur les signes précoces de la maladie de Hodgkin et la conduite à tenir (la consultation rapide et sans délai) devant un signe suspect.Le processus de diagnostic de la maladie de Hodgkin débute par le repérage d'un signe précoce par un agent de santé (infirmier, sage-femme) qui permet d'adresser le patient chez le spécialiste.L'agent de santé ne doit pas perdre de temps à explorer d'autres pathologies. A la moindre suspicion, il doit référer l'enfant au médecin qui fera réaliser la biopsie.Afin de confirmer la maladie, le diagnostic positif repose sur l'examen anatomopathologique de la pièce de biopsie ganglionnaire qui met en évidence la présence de cellules de Reed-Sternberg.Le bilan complet et le traitement se font au niveau de la structure spécialisée de prise en charge.2.4. Conduite à tenir devant un signe de suspicionDès suspicion de lymphome hodgkinien, référer immédiatement après traitement d'urgence si besoin (transfusion sanguine, antalgique, antipyrétique).Les signes et symptômes de la maladie de Hodgkin se confondent avec d'autres pathologies qui sont également très fréquentes en pédiatrie : y penser en premier et référer si on a un doute sur le diagnostic ou s'il n'est pas possible de le poser sur place.2.5. Le traitementLe traitement repose sur la chimiothérapie, plus ou moins la radiothérapie. Les modalités exactes du traitement sont prises par l'équipe spécialisée entre les pédiatres, le radiologue, le médecin anatomopathologiste qui a lu la biopsie et le radiothérapeute.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo clinique",
+          "titre": "Ganglions lymphatiques enflés",
+          "description": "Fig. 17 : Photographie en gros plan du cou montrant des ganglions lymphatiques enflés visibles sous la peau."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.6. Ordinogramme de prise en charge d'un enfant atteint de la maladie de Hodgkin",
+      "texte": "Identification d'un signe précoce → Référence vers la structure de santé spécialisée la plus proche → Recours du médecin au chirurgien et au pathologiste pour faire le diagnostic → Si la maladie de Hodgkin n'est pas confirmée, prodiguer un autre traitement / Si la maladie de Hodgkin est confirmée, référer l'enfant vers une unité de prise en charge spécialisée.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "diagramme",
+          "titre": "Ordinogramme de prise en charge d'un enfant atteint de la maladie de Hodgkin",
+          "description": "Diagramme de flux violet en 4 étapes adapté à la maladie de Hodgkin."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 5 : La leucémie aigüe lymphoblastique - Informations de base",
+      "texte": "1.1. DéfinitionC'est une prolifération de lymphoblastes (cellules immatures) qui sont des cellules bloquées à un stade très précoce de leur maturation. Ces cellules se multiplient sans contrôle, envahissent la moelle et passent dans le sang.Les différents types de leucémies aigues dépendent du moment et de la lignée cellulaire où a lieu le blocage.La leucémie la plus fréquente chez l'enfant est la leucémie aigue lymphoblastique.1.2. ÉpidémiologieLes leucémies aigues lymphoblastiques représentent 30 % des cancers de l'enfant.C'est le premier cancer de l'enfant dans le monde.La fréquence est plus élevée dans la tranche d'âge de 2 à 5 ans.1.3. Présentation cliniqueDes signes généraux :• Une fièvre prolongée ;• Des douleurs osseuses ;• Une fatigue ;• Des infections répétées ;• Un refus de s'alimenter.Un syndrome d'insuffisance médullaire : anémie entrainant une pâleur, des signes hémorragiques dus à la thrombopénie, une neutropénie source d'infections plus ou moins sévères.Un syndrome tumoral : des adénopathies, une hépatomégalie, une splénomégalie et une possible atteinte testiculaire.Tous ces signes et symptômes sont associés à des degrés variables. Il est rare qu'un enfant présente l'ensemble de ces anomalies. La numération formule sanguine montre très souvent un nombre anormalement élevé de globules blancs, un nombre bas de polynucléaires neutrophiles. La présence de lymphoblastes (cellules anormales) en grande quantité sur le frottis sanguin permet de confirmer la suspicion et d'adresser le patient au centre spécialisé de prise en charge.Habituellement l'anémie est normochrome normocytaire arégénérative. Une thrombopénie est souvent associée.NB : la corticothérapie ne doit pas être débutée avant transfert car son administration modifie les informations sur l'extension et donc la gravité de la maladie.1.4. Diagnostic et bilan d'extensionLe diagnostic et le bilan d'extension sont réalisés dans un centre spécialisé.1.4.1. Le DiagnosticLe myélogramme permet d'affirmer le diagnostic ; il montre une moelle osseuse infiltrée par des lymphoblastes à un taux habituellement supérieures à 25% des éléments figurés, il peut même atteindre plus de 80%. Dans de rares cas la moelle peut ne pas montrer des lymphoblastes (après prise de corticoïdes) ; c'est la répétition de la ponction de moelle du fait de la persistance d'une cytopénie qui conduira au diagnostic. Le myélogramme permet d'éliminer d'autres types plus rares de leucémie (Leucémie Aigüe Myéloblastique par exemple).1.4.2. Le bilan d'extensionLe bilan a pour objectif de rechercher les différentes localisations de la leucémie mais aussi de détecter un éventuel retentissement métabolique.Ce bilan doit comporter :• Une étude du liquide céphalo-rachidien (LCR prélevé minutieusement par ponction lombaire permet d'affirmer ou infirmer une localisation méningée). Cette dernière est confirmée par un nombre de leucocytes supérieur à 5/mm3 avec présence de lymphoblastes ;• Une radiographie du thorax à la recherche de masse médiastinale présente en particulier dans la LAL de type T ; cette radiographie recherchera également une atteinte pulmonaire de nature infectieuse pouvant compliquer la maladie ;• Une échographie abdominale qui recherchera une atteinte hépatique ou splénique particulièrement fréquente ;• Un ionogramme sanguin, le dosage de l'urée, de la créatinémie, l'uricémie, la calcémie, la phosphorémie pour rechercher un syndrome de lyse tumoral particulièrement menaçant dans les leucémies comportant une hyperleucocytose majeure ;• Un bilan d'hémostase à la recherche d'une coagulation intravasculaire (CIVD).Un bilan pré-thérapeutique est nécessaire en vue de la chimiothérapie et comportera en particulier un bilan hépatique, le statut virologique, un électrocardiogramme (ECG) et une échocardiographie avec mesure de la fraction d'éjection systolique.1.5. Les signes de gravité de la leucémie aigüe lymphoblastiqueLes signes de gravité de la leucémie aigüe lymphoblastique sont :• Une altération de l'état général ;• Une anémie sévère ;• Une infection grave ;• Un syndrome hémorragique (bulles hémorragiques) ;• Une insuffisance rénale ;• Une dyspnée.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 5 : La leucémie aigüe lymphoblastique - Diagnostic précoce par les prestataires de santé",
+      "texte": "2.1. Avantages du diagnostic précoce de la leucémie aigüe lymphoblastiqueLe diagnostic précoce permet de prendre en charge rapidement un enfant suspecté de leucémie. Quand la leucémie aigüe lymphoblastique est diagnostiquée précocement, les chances de guérison de l'enfant sont plus élevées.2.2. Signes d'alarme et symptômesLa leucémie aiguë survient de manière brutale et se manifeste par une insuffisance de la moelle osseuse et la prolifération de cellules anormales (l'une étant le résultat de l'autre).L'insuffisance se répercute sur les trois types de cellules sanguines. On observe alors :• Pâleur, fatigue, difficultés respiratoires (dyspnée), palpitations (tachycardie) et malaise général, c'est un signe de manque de globules rouges (anémie) ;• Des infections récidivantes telles que angines, bronchites, infections des gencives (gingivite) ; c'est un signe de manque de globules blancs normaux ;• De petits saignements dans l'épaisseur de la peau (pétéchies), des pertes de sang au niveau des gencives, du nez, etc., c'est un signe de manque de plaquettes ;Les signes de prolifération cellulaire s'observent notamment par :• Une augmentation de volume du foie, de la rate et des ganglions lymphatiques ;• Des douleurs osseuses ou articulaires, au point que l'enfant peut se mettre à boiter (elles sont dues à la prolifération de cellules leucémiques dans la moelle des os).2.3. Moyens de diagnostic• Le diagnostic de leucémie aigüe repose sur la présence dans le sang et surtout au niveau de la moelle osseuse de lymphoblastes.• L'hémogramme permet de suspecter le diagnostic. Il montre habituellement une anémie normochrome normocytaire arégénérative, une hyperleucocytose faite essentiellement de blastes avec une neutropénie et parfois une thrombopénie.• Le myélogramme confirme le diagnostic. Il est souvent riche et montre une infiltration médullaire souvent massive par des blastes. On parle de leucémie aigüe lorsque le pourcentage de blastes représente plus de 20 % des cellules médullaires. Les autres lignées sont diminuées.• Le type cytologique est précisé au myélogramme après coloration au May Grunwald Giemsa et à la myélopéroxydase (MPO). Il s'agit de lymphoblastes.2.4. Rôle des prestataires de santé dans le processus de diagnosticL'acteur communautaire de santé assure la sensibilisation des populations sur l'identification des signes de la leucémie aigüe lymphoblastique et la conduite à tenir (la consultation rapide et sans délai) devant un signe suspect.Le processus de diagnostic de la leucémie aigüe lymphoblastique débute par le repérage d'un signe précoce par un agent de santé (infirmier, sage-femme...).L'agent de santé ne doit pas perdre de temps à confirmer le diagnostic. A la moindre suspicion, il doit référer l'enfant vers un centre spécialisé de prise en charge.La suspicion est confirmée par un médecin qui fait réaliser :- un hémogramme qui confirme la suspicion car le nombre de globules blancs est anormalement élevé;- un frottis sanguin qui montre un pourcentage élevé de « cellules jeunes ou immatures dans le sang périphérique ».Dés que cette suspicion est confirmée par l'hémogramme, il doit immédiatement référer l'enfant à la structure spécialisée de prise en charge.La structure spécialisée de prise en charge confirme le diagnostic par le myélogramme fait en urgence, le traitement est alors commencé.2.5. Conduite à tenir devant un signe de suspicionDès suspicion d'une leucémie aigue lymphoblastique, référer vers la structure de prise en charge spécialisée :• Si l'enfant présente des saignements anormaux et/ou une anémie sévère ;• Si l'enfant a déjà reçu un traitement bien conduit de paludisme grave et/ou d'une infection grave.2.5. Traitement et pronostic (suite)2.5.1. Traitement• Le traitement symptomatique revêt une grande importance et en particulier durant la phase initiale. Il doit comporter en priorité la prévention et le traitement du syndrome de lyse, les transfusions appropriées, la prévention et le traitement des infections potentielles.• Ces patients doivent être pris en charge dans des unités spécialisées en oncologie pédiatrique avec possibilité d'admission dans une unité de soins intensifs.• Le traitement de la LAL fait appel à la polychimiothérapie comportant plusieurs phases (il dure 2 ans) : ces phases sont l'induction visant à obtenir la rémission complète, la consolidation, l'intensification tardive et l'entretien. Le traitement se fait de manière intensive pendant 6 mois.• Le traitement d'entretien est également majeur dans l'obtention de la guérison. Les professionnels de santé proches du domicile peuvent être impliqués dans le suivi de l'observance de ce traitement.2.5.2. PronosticLe pronostic dépend de la précocité du traitement et des critères de gravité de la maladie elle-même. La guérison peut être obtenue dans plus de 70 % des cas si le diagnostic est précoce et le pronostic favorable. Les principaux facteurs pronostiques de la LAL sont l'âge, l'atteinte du système nerveux central, le taux des globules blancs initial, le phénotype immunologique, les anomalies génétiques et la réponse à la corticothérapie ou à la chimiothérapie d'induction.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Facteurs pronostiques de la leucémie aigüe lymphoblastique",
+          "colonnes": [
+            "Facteur",
+            "Favorable",
+            "Défavorable"
+          ],
+          "lignes": [
+            {
+              "Facteur": "Age",
+              "Favorable": "1-9 ans",
+              "Défavorable": "< 1 ou > 9 ans"
+            },
+            {
+              "Facteur": "Sexe",
+              "Favorable": "Féminin",
+              "Défavorable": "Masculin"
+            },
+            {
+              "Facteur": "Globules blancs",
+              "Favorable": "< 50 000/mm3",
+              "Défavorable": "≥ 50 000/mm3"
+            },
+            {
+              "Facteur": "Réponse à la prednisone",
+              "Favorable": "<1000 blastes circulants/mm3 à J8",
+              "Défavorable": "≥1000 blastes circulants/mm3 à J8"
+            },
+            {
+              "Facteur": "Réponse à la chimiothérapie",
+              "Favorable": "<5% blastes médullaires à J15 de l'induction",
+              "Défavorable": "≥ 25% blastes médullaires à J15 de l'induction"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6. Ordinogramme de prise en charge d'un enfant atteint de la leucémie aigüe lymphoblastique",
+      "texte": "Identification d'un signe précoce → Référence vers la structure de santé spécialisée la plus proche → Diagnostic par le médecin, le cytologiste qui analyse la moelle osseuse → Si la leucémie aigüe lymphoblastique n'est pas confirmée, prodiguer un autre traitement / Si la leucémie aigüe lymphoblastique est confirmée, référer l'enfant vers une unité de prise en charge spécialisée.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "diagramme",
+          "titre": "Ordinogramme de prise en charge d'un enfant atteint de la leucémie aigüe lymphoblastique",
+          "description": "Diagramme de flux marron en 4 étapes adapté à la leucémie aigüe lymphoblastique."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "SESSION III : La référence et la contre référence",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 1 : La référence",
+      "texte": "1.1. DéfinitionLa référence est un mécanisme par lequel une formation sanitaire oriente un cas qui dépasse ses compétences vers une structure plus spécialisée et mieux équipée.1.2. Conditions d'un bon système de référence• Utilisation d'une fiche de référence standardisée (voir fiche en annexe) ;• Transport médicalisé (urgence) ;• Mise en œuvre de protocoles de service (ordinogrammes) ;• Communication entre les centres pour l'effectivité de la rétro-information : Rencontres d'échanges entre formations sanitaires périphériques et hôpital(aux) de référence, mise en place de lignes téléphoniques, Internet... ;• Couverture de tous les centres (ruraux et urbains, téléphone et internet) ;• Nécessité de ressources humaines engagées ;• Nécessité de ressources matérielles ;• Supervision formative (audit afin de corriger les lacunes et dysfonctionnements au niveau de l'application des protocoles ou de la disponibilité des équipements, médicaments et consommables).1.3. Etapes de la référenceLes différentes étapes de la référence sont :a) Préparation du malade- Conditionnement du patient (gérer les problèmes urgent) ;- Prise des coordonnés du patient ;- Informations de base aux parents (familles) ;- Etablissement de la fiche de référence ;- Appel du centre de référence (numéro d'urgence ou autres).NB : cette étape ne doit pas retarder l'acheminement vers la structure spécialisée.b) Mode d'acheminement :- Varie selon l'état clinique du patient.- Un patient sans signe de gravité évident, peut être acheminé par les moyens de transport disponibles sur place (vélo, mobylettes, transports en commun etc.).- Un patient avec une altération de l'état général doit être transféré dans un véhicule (ambulances en position adéquate et accompagné par un personnel de santé).c) Accueil dans la structure spécialisée- Accueil du patient ;- Mobilisation du personnel ;- Examens de confirmation du diagnostic ;- Disponibilité du traitement.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Mode d'acheminement du patient",
+          "description": "Illustration montrant différents moyens de transport (charrette tirée par un cheval, ambulance) reliant un village à une structure de santé."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Thème 2 : Organisation de la contre référence",
+      "texte": "2.1. DéfinitionLa contre référence est la démarche inverse de la référence et consiste à assurer la prise en charge et le suivi post hospitalier.2.2. Organisation de la contre référence2.2.1. ButsLa contre référence a pour buts :• D'informer sur : - Le diagnostic du patient ;- Les traitements reçus ;- Les complications de la maladie, du traitement et leur prise en charge ;- La date du prochain rendez-vous ;• De donner des consignes sur ;- Les prescriptions (traitement et bilans à assurer par le contre référent) ;- Les modalités de surveillance ;• D'établir un partenariat entre référent et contre référent sur l'évolution de la maladie.2.2.2. Modalités de la contre référence• Remplir la partie idoine de la fiche de référence/contre référence• Donner tous les renseignements et être le plus complet possible (avec des termes non accessibles au grand public, voire code)• Préciser le contact direct du référent de la structure spécialisée pour nouvelles du patient pendant l'intercure.• Transport (voir modalités références)2.3. ConclusionL'organisation du système de référence/contre référence est primordiale pour la prise en charge précoce et le suivi du patient durant le traitement ambulatoire de ces pathologies de longue durée.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Les principaux centres de référence (structures spécialisées dans la prise en charge des cancers de l'enfant)",
+      "texte": "Il existe différentes structures de prise en charge des cancers de l'enfant suivant la pyramide sanitaire de chaque pays.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Principaux centres de référence par pays",
+          "colonnes": [
+            "Pays",
+            "Structure de référence"
+          ],
+          "lignes": [
+            {
+              "Pays": "Bénin",
+              "Structure de référence": "CHU Départemental de l'Ouémé-Plateau, Porto Novo"
+            },
+            {
+              "Pays": "Burkina Faso",
+              "Structure de référence": "CHU Yalgado Ouedraogo, CHU Charles de Gaulle, Ouagadougou"
+            },
+            {
+              "Pays": "Cameroun",
+              "Structure de référence": "Centre Mère et Enfant de la Fondation Chantal Biya, Yaoundé"
+            },
+            {
+              "Pays": "Congo-Brazzaville",
+              "Structure de référence": "Hôpital A. Cissé, Pointe Noire"
+            },
+            {
+              "Pays": "Côte d'Ivoire",
+              "Structure de référence": "CHU de Treichville et de Bingerville, Abidjan"
+            },
+            {
+              "Pays": "Gabon",
+              "Structure de référence": "CHU Angondje, Libreville"
+            },
+            {
+              "Pays": "Guinée",
+              "Structure de référence": "CHU Donka, Conakry"
+            },
+            {
+              "Pays": "Madagascar",
+              "Structure de référence": "Hôpital Universitaire Joseph Ravoahangy Andrianavalona, Antananarivo"
+            },
+            {
+              "Pays": "Mali",
+              "Structure de référence": "CHU Gabriel Toure, Bamako"
+            },
+            {
+              "Pays": "Mauritanie",
+              "Structure de référence": "Centre Hospitalier National, Nouakchott"
+            },
+            {
+              "Pays": "Niger",
+              "Structure de référence": "Centre de Lutte Contre le Cancer, Niamey"
+            },
+            {
+              "Pays": "République Centrafricaine",
+              "Structure de référence": "Complexe Pédiatrique, Bangui"
+            },
+            {
+              "Pays": "République Démocratique du Congo",
+              "Structure de référence": "Cliniques Universitaires de Lubumbashi et de Kinshasa"
+            },
+            {
+              "Pays": "Sénégal",
+              "Structure de référence": "CHU Aristide Le Dantec, Dakar"
+            },
+            {
+              "Pays": "Togo",
+              "Structure de référence": "CHU Sylvanus Olympio, Lomé"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "SESSION IV : Tâches des acteurs communautaires de santé dans le diagnostic précoce",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 1 : Tâches des acteurs communautaires de santé dans l'identification des signes précoces",
+      "texte": "Les acteurs communautaires de santé doivent assurer les tâches suivantes :• Informer les communautés sur les signes et symptômes des maladies ;• Informer et référer vers les prestataires de santé les plus proches sur les cas suspectés ;• Surveiller, observer, faire attention aux comportements, signes et indices qui peuvent faire penser à un cancer chez l'enfant dans la communauté ;• Effectuer une visite auprès de chaque famille d'enfant ''suspecté'' afin de vérifier si l'état de l'enfant est connu par ses parents ;• Orienter chaque parent d'enfant ''suspecté'' chez le prestataire de santé le plus proche pour diagnostic ;• Assurer le suivi de l'orientation pour contrôler si les parents de l'enfant ''suspecté'' ont bien amené leur enfant chez le prestataire de santé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 2 : Méthodes de détection au niveau communautaire",
+      "texte": "Pour observer et identifier les signes d'un cancer chez l'enfant dans la communauté, les acteurs communautaires doivent :• Connaître les signes et indices d'un cancer. Ces signes et indices sont le plus souvent corporels et visibles ;• Rechercher ces signes et indices lors des différentes circonstances de la vie quotidienne de l'enfant : chemin de l'école, jeux avec ses amis dans la rue, autres activités quotidiennes ;• Faire des recoupements entre les signes et indices qui pourraient faire penser à un cancer ;• Orienter directement vers la structure la plus proche.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 3 : Signes à rechercher",
+      "texte": "Les acteurs communautaires de santé doivent constamment sensibiliser les communautés sur les signes de cancers de l'enfant et la conduite à tenir devant un signe. Les principaux signes à rechercher chez l'enfant sont :• Un œil qui louche en permanence ;• Une tâche blanche dans l'œil ;• Un œil qui brille à la lumière la nuit ;• Une masse au niveau de l'abdomen (boule dans le ventre), située le plus souvent d'un seul côté et accompagnée de douleurs ;• Désorganisation de l'articulé dentaire (les dents du bas recouvrent les dents du haut) ;• Du prurit (sensation de picotement irritant qui donne envie de se gratter) ;• Une fièvre prolongée ;• Une perte d'appétit ;• Des sueurs nocturnes ;• Un amaigrissement ;• Une fièvre prolongée ;• Des douleurs des os et des articulations ;• Une fatigue ;• Des infections répétées.Dés l'apparition d'un de ces signes, référer l'enfant ou accompagner les parents vers la structure sanitaire la plus proche.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 4 : Conduite à tenir devant un signe de suspicion",
+      "texte": "Synthèse :Devant la présence d'un seul signe, référer directement l'enfant vers la structure de santé la plus proche.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Thème 5 : Ordinogramme d'identification des signes de cancer de l'enfant par les acteurs communautaires de santé",
+      "texte": "Identification précoce de signes → (flèche : orientation) → Référence structures de santé.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "diagramme",
+          "titre": "Ordinogramme d'identification des signes de cancer de l'enfant par les acteurs communautaires de santé",
+          "description": "Schéma en deux parties encadrées de vert : la première partie 'Identification précoce de signes' avec une illustration d'un village, une loupe, et des visages d'enfants présentant des signes cliniques (yeux, visage) ; une flèche en forme de main pointant vers le bas ; la seconde partie 'Référence structures de santé' avec des illustrations d'un poste de santé et d'un centre de santé."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Annexes - Sommaire",
+      "texte": "Annexe 1 : Test d'évaluationAnnexe 2 : Fiche de référenceAnnexe 3 : Fiche de contre référenceAnnexe 4 : Liste des participants aux ateliers de conception et de validation du guide",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Annexe 1 : TEST D'EVALUATION (1. Questions)",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "TEST D'EVALUATION (1. Questions)",
+          "colonnes": [
+            "N°",
+            "Questions",
+            "Réponses"
+          ],
+          "lignes": [
+            {
+              "N°": "1",
+              "Questions": "Classer les cancers pédiatriques suivants selon leurs fréquences en Afrique subsaharienne en utilisant les chiffres de 1 à 5 allant du plus fréquent au moins fréquent:",
+              "Réponses": "A Nephroblastome ; B Rétinoblastome ; C Leucémies ; D Lymphomes de Burkitt ; E Lymphome de Hodgkin"
+            },
+            {
+              "N°": "2",
+              "Questions": "Parmi les situations cliniques suivantes cochez celle(s) qui augmente(ent) le risque de développer un cancer",
+              "Réponses": "A Rétinoblastome chez un parent ; B Polykystose rénale ; C Spina bifida ; D Absence d'iris ; E Hemihypertrophie corporelle"
+            },
+            {
+              "N°": "3",
+              "Questions": "Parmi les dates suivantes associer le chiffre 1 s'il s'agit de la journée mondiale du cancer et du chiffre 2 s'il s'agit de la journée mondiale du cancer de l'enfant",
+              "Réponses": "A 12 Novembre ; B 4 Février ; C 8 Mars ; D 15 Février ; E 2 Mai"
+            },
+            {
+              "N°": "4",
+              "Questions": "Cocher la réponse fausse Le diagnostic précoce réduit:",
+              "Réponses": "A La lourdeur de la chimiothérapie ; B Le risque de séquelles ; C Le coût des médicaments ; D La fréquence des cancers pédiatriques ; E Décès par cancer"
+            },
+            {
+              "N°": "5",
+              "Questions": "Parmi les signes cliniques suivants cochez ceux qui peuvent correspondre à des signes d'appel vers une tumeur rénale",
+              "Réponses": "A Colique nephretique ; B HTA ; C Infection urinaire récidivante ; D Hématurie ; E Œdème des membres inferieurs"
+            },
+            {
+              "N°": "6",
+              "Questions": "Parmi les propositions suivantes cochez celles qui sont associées au nephroblastome :",
+              "Réponses": "A Tumeur d'évolution lente ; B Les métastases au poumon sont les plus fréquentes ; C souvent associe à un syndrome malformatif ; D La localisation bilatérale est observée dans plus de 50% des cas ; E La nephroblastomatose peut évoluer vers un nephroblastome"
+            },
+            {
+              "N°": "7",
+              "Questions": "Parmi les signes cliniques suivants un seul n'est pas observe dans le rétinoblastome Lequel?",
+              "Réponses": "A Baisse de l'acuité visuelle ; B Opacité du cristallin ; C Œil rouge ; D tache blanche dans l'oeil ; E Exophtalmie"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "TEST D'EVALUATION (2. Questions - Vrai/Faux)",
+          "colonnes": [
+            "N°",
+            "Questions",
+            "Vrai",
+            "Faux"
+          ],
+          "lignes": [
+            {
+              "N°": "8",
+              "Questions": "Le néphroblastome est la tumeur rénale maligne la plus fréquente chez l'enfant de moins de 6 ans",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "9",
+              "Questions": "Une hématurie associée à une pollakiurie et ou une dysurie fait évoquer en premier lieu le diagnostic de nephroblastome",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "10",
+              "Questions": "L'échographie abdominale peut à elle seule porter le diagnostic d'une tumeur rénale et décrire ses caractéristiques",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "11",
+              "Questions": "La biopsie tumorale est indiquée chaque fois que le diagnostic de nephroblastome est évoqué",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "12",
+              "Questions": "Une prise en charge rapide et multidisciplinaire du nephroblastome entraine le plus souvent une évolution favorable",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "13",
+              "Questions": "Dans les formes précoces du rétinoblastome une photo au flash du visage permet d'évoquer le diagnostic de rétino blastome lorsqu'une tache rouge apparait dans l'œil",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "14",
+              "Questions": "Si une tache blanche dans l'œil est décrite par les parents et non retrouvée par le médecin traitant le diagnostic de rétinoblastome est récusé",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "15",
+              "Questions": "Un strabisme observé chez un nourrisson de moins de 6mois est souvent transitoire même lorsqu'il est permanant",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "16",
+              "Questions": "La rémission totale dans le rétinoblastome peut atteindre 100% lorsque le diagnostic est fait précocement et le traitement est bien Conduit",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "17",
+              "Questions": "Une anémie normochrome normocytaire, arégénérative persistante nécessite obligatoirement la pratique d'une ponction de moelle",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "18",
+              "Questions": "Une numération de la formule sanguine et un frottis sanguin sont demandes systématiquement devant toute fièvre prolongée non expliquée chez l'enfant",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "19",
+              "Questions": "Un taux normal de globules blancs sur la NFS élimine le diagnostic de leucémie aigue lymphoblastique même si la suspicion clinique est forte",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "20",
+              "Questions": "Seule la ponction de moelle permet de confirmer le diagnostic de leucémie",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "21",
+              "Questions": "Devant toute suspicion de leucémie aigue lymphoblastique une corticothérapie de courte durée est indiquée pour éviter le syndrome de lyse",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "22",
+              "Questions": "Le traitement d'une Leucémie ne se conçoit qu'en milieu spécialise",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "23",
+              "Questions": "La fréquence élevée de localisation maxillaire du lymphome de Burkitt (L B) dans les pays africains subsahariens impose un examen systématique de la cavité buccale lors de toute consultation pédiatrique",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "24",
+              "Questions": "La localisation maxillaire du L B est surtout l'apanage du grand enfant et de l'adolescent",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "25",
+              "Questions": "Une invagination intestinale aigue chez un enfant de plus de 2 ans fait évoquer en premier lieu une origine tumorale",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "26",
+              "Questions": "La cytoponction de la tumeur ou d'un épanchement séreux permet à elle seule de porter le diagnostic de LB",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "27",
+              "Questions": "La chimiothérapie seule permet de guérir un LB",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "28",
+              "Questions": "Dans le Lymphome de Hodgkin (LH) les adénopathies sont principalement logées en sous mandibulaire",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "29",
+              "Questions": "Une adénopathie dure et persistante nécessite une exploration même si elle n'est pas douloureuse",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "30",
+              "Questions": "La numération de la formule sanguine et le frottis sanguin permettent d'évoquer le diagnostic de LH",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "31",
+              "Questions": "Une ponction de moelle normale élimine le diagnostic de LH",
+              "Vrai": "",
+              "Faux": ""
+            },
+            {
+              "N°": "32",
+              "Questions": "Un prurit intense et persistant peut être le signe révélateur d'une LH",
+              "Vrai": "",
+              "Faux": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Annexe 2 : FICHE DE REFERENCE",
+      "texte": "Cette fiche est une aide de décision. Elle est indicative, non exhaustive, de caractère obligatoire.CODE PATHOLOGIE |___||___|-|___|___|___|___|-|___|___|___|___|___|-|___|___|___|Structure ayant référé : ……………………………………………………………..Structure de référence : ……………………………………………………………..Date : ……………………………………………….. Heure : ………………………….Nom et prénom du patient …………………………………………………………Date de naissance…........./…........……/………........…/……........…….Adresse :…………………………………………………………………………………………….Nom et prénom du responsable légal/Tuteur …………………………….……………………………………………………Profession ………………………………………………………………………….……………………………………………………………Tel:… ….......…/……........…/…………/………….Motifs de référence …………………………………………………………………………………………………………………………Traitements reçus : ……………………………………………………………………….. ……………………………………............Evolution (aggravation, amélioration) : ……………………………………………………………………………………………Nom et signature du responsable",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Annexe 3 : FICHE DE CONTRE REFERENCE",
+      "texte": "CODE PATHOLOGIE |___||___|-|___|___|___|___|-|___|___|___|___|___|-|___|___|___|Structure ayant contre référé : ……………………………………………………………..Structure de contre référence : ……………………………………………………………..Date d'entrée : ………………………………… Heure : ……….....................…………Date de sortie ………………………………… Heure : …......................………………Diagnostic /résumé :………………………………………………………………………………………………………………………..Prise en charge complémentaire : ……………………………………………..…………....………………………………………Evolution (aggravation, stabilisation, amélioration) : ……………………………………………………......……………Recommandations : ..............................................................................................................................Nom et signature du responsable",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Annexe 4 : LISTE DES PARTICIPANTS AUX ATELIERS DE CONCEPTION ET DE VALIDATION DU GUIDE",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste des participants aux ateliers de conception et de validation du guide",
+          "colonnes": [
+            "N°",
+            "Prénoms et Noms",
+            "Fonction",
+            "Pays"
+          ],
+          "lignes": [
+            {
+              "N°": "1",
+              "Prénoms et Noms": "Claude MOREIRA",
+              "Fonction": "Directeur de l'Institut Jean Lemerle",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "2",
+              "Prénoms et Noms": "Fatou Lama DIÈYE",
+              "Fonction": "Chef programme opérationnel IJL/GFAOP",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "3",
+              "Prénoms et Noms": "Paule Aïda Roth NDOYE",
+              "Fonction": "Ophtalmologiste Hopital Aristide Le Dantec",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "4",
+              "Prénoms et Noms": "Karim DIOP",
+              "Fonction": "Conseiller Centre Régional de Recherche et de Formation à la Prise en Charge Clinique",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "5",
+              "Prénoms et Noms": "Savia NDIAYE",
+              "Fonction": "Chef de Département d'Etudes Spécialisées en Sciences de la Santé de l'ENDSS",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "6",
+              "Prénoms et Noms": "Bara NDIAYE",
+              "Fonction": "Régional manager AMREF",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "7",
+              "Prénoms et Noms": "Mabator NDIAYE",
+              "Fonction": "Gestionnaire de programme AMREF",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "8",
+              "Prénoms et Noms": "El Hadj Malick DIAGNE",
+              "Fonction": "Chef Division Formation Ministère de la Santé",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "9",
+              "Prénoms et Noms": "Ferdinand Niokhor FAYE",
+              "Fonction": "Médecin santé publique Division de Lutte Maladies Non Transmissibles Ministère de la Santé",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "10",
+              "Prénoms et Noms": "Sihem BARSAOUI",
+              "Fonction": "Pédiatre oncologue",
+              "Pays": "Tunisie"
+            },
+            {
+              "N°": "11",
+              "Prénoms et Noms": "Fousseyni TRAORE",
+              "Fonction": "Pédiatre oncologue CHU Gabriel Touré",
+              "Pays": "Mali"
+            },
+            {
+              "N°": "12",
+              "Prénoms et Noms": "Yao Nicaise ATIMERE",
+              "Fonction": "Pédiatre Hématologue",
+              "Pays": "Côte d'Ivoire"
+            },
+            {
+              "N°": "13",
+              "Prénoms et Noms": "Angèle PONDY",
+              "Fonction": "Pédiatre Hémato oncologue",
+              "Pays": "Cameroun"
+            },
+            {
+              "N°": "14",
+              "Prénoms et Noms": "Aichatou MAHAMADOU",
+              "Fonction": "Pédiatre oncologue",
+              "Pays": "Niger"
+            },
+            {
+              "N°": "15",
+              "Prénoms et Noms": "Sonia KABORET",
+              "Fonction": "Pédiatre oncologue",
+              "Pays": "Burkina Faso"
+            },
+            {
+              "N°": "16",
+              "Prénoms et Noms": "Robert LUKAMBA",
+              "Fonction": "Pédiatre oncologue",
+              "Pays": "République Démocratique du Congo"
+            },
+            {
+              "N°": "17",
+              "Prénoms et Noms": "Joaly RASAFOLO",
+              "Fonction": "Pédiatre oncologue Unité Pilote Antananarivo",
+              "Pays": "Madagascar"
+            },
+            {
+              "N°": "18",
+              "Prénoms et Noms": "Mamadou Pathé DIALLO",
+              "Fonction": "Professeur superviseur Unité Oncologie Pédiatrique",
+              "Pays": "Guinée Conakry"
+            },
+            {
+              "N°": "19",
+              "Prénoms et Noms": "Jean Pierre LAMARQUE",
+              "Fonction": "Conseiller Régional MAE/France",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "20",
+              "Prénoms et Noms": "Mame Ndella DIOUF",
+              "Fonction": "Pédiatre oncologue Hôpital Aristide Le Dantec",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "21",
+              "Prénoms et Noms": "Seune Diop SALL",
+              "Fonction": "Infirmière d'Etat Hôpital Aristide Le Dantec",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "22",
+              "Prénoms et Noms": "Papa Ibrahima NDIAYE",
+              "Fonction": "Médecin anesthésiste Hôpital Aristide Le Dantec",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "23",
+              "Prénoms et Noms": "Jean MICHON",
+              "Fonction": "Pédiatre oncologue Institut CURIE GFAOP",
+              "Pays": "France"
+            },
+            {
+              "N°": "24",
+              "Prénoms et Noms": "Ndèye Sokhna NDAO",
+              "Fonction": "Coordonnatrice formation Division Ressources Humaines Ministère de la Santé et de l'action Sociale",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "25",
+              "Prénoms et Noms": "Abdoul Magib CISSÉ",
+              "Fonction": "Pédiatre Oncologue Etablissement Public de Santé de Mbour",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "26",
+              "Prénoms et Noms": "Fatma Sarr FALL",
+              "Fonction": "Médecin-chef du District Mbour",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "27",
+              "Prénoms et Noms": "Aïda TALL",
+              "Fonction": "Manager / Spécialiste en Santé publique Child Fund USAID/Neema",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "28",
+              "Prénoms et Noms": "Mouhamed PENE",
+              "Fonction": "Représentant Association « Yaayu Tidiane »",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "29",
+              "Prénoms et Noms": "Sanou Dieng MBAYE",
+              "Fonction": "Médecin Direction Santé de la Mère et de l'Enfant",
+              "Pays": "Sénégal"
+            },
+            {
+              "N°": "30",
+              "Prénoms et Noms": "Cheikh SECK",
+              "Fonction": "Consultant",
+              "Pays": "Sénégal"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Illustrations complémentaires",
+      "texte": "",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Enfants en groupe",
+          "description": "Photographie de groupe d'enfants africains levant les mains, souriants, devant un tissu traditionnel à motifs orange et bleu, illustrant l'espoir et la joie liés à la guérison des cancers pédiatriques."
+        },
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Enfant faisant signe de la main",
+          "description": "Photographie d'un enfant chauve (probablement en cours de traitement de chimiothérapie) faisant un signe de la main, souriant, vêtu d'un t-shirt blanc."
+        },
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Portrait d'enfant",
+          "description": "Photographie en gros plan d'un jeune enfant, mains jointes, portant un bracelet coloré."
+        }
+      ]
+    }
+  ]
+}

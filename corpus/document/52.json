@@ -1,0 +1,2155 @@
+{
+  "metadata": {
+    "titre": "TOME 1 DE LA CARTE SANITAIRE DU SENEGAL - Cadre théorique et méthodologique, bref aperçu du contenu et principales orientations de mise en œuvre",
+    "annee": "2018",
+    "source": "Ministère de la Santé et de l'Action sociale - Direction générale de la Santé - Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la Santé (CSSDOS)",
+    "type_document": "Document officiel / Rapport"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "REPUBLIQUE DU SENEGAL Un Peuple - Un But - Une Foi Ministère de la Santé et de l'Action sociale Direction générale de la Santé Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la Santé (CSSDOS) TOME 1 DE LA CARTE SANITAIRE DU SENEGAL Cadre théorique et méthodologique, bref aperçu du contenu et principales orientations de mise en œuvre CSSDOS CARTE SANITAIRE e-SANTE OBSERVATOIRE DE LA SANTE Date d'entrée en vigueur: janvier 2019",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logos",
+          "titre": "Logos des partenaires institutionnels et techniques",
+          "description": "Logos affichés au bas de la page de garde : CTB, Enabel, Banque Mondiale, LuxDev (Agence luxembourgeoise pour la Coopération au Développement), UNICEF, OMS (Organisation mondiale de la Santé), USAID (FROM THE AMERICAN PEOPLE), Abt Associates."
+        }
+      ]
+    },
+       {
+      "type": "section",
+      "titre": "Remerciements",
+      "texte": "Le Ministère de la Santé et de l'Action sociale remercie tous ceux qui de près ou de loin ont contribué à la disponibilité de la carte sanitaire 2018. Les responsables et personnes ressources : ✓ Dr Marie Khémesse Ngom NDIAYE (DGS); Dr Papa Amadou DIACK (ancien DGS); Dr Samba Cor SARR, chef de la Division Recherche de la DPRS; Dr Amadou Djibril BA (ancien DPRS); Dr Siaka COULIBALY (ancien Chef de la DSISS); Professeur Ibrahima SECK, (ancien CT1 et DC du MSAS, Professeur à l'ISED); Dr Farba Lamine SALL et Monsieur Mame Abdoulaye GUEYE (anciens DC); Messieurs Ibrahima WONE et Moussa MBAYE (anciens SG du MSAS); Colonel Babacar NDAO, de la Direction de la Santé de l'Armée; Docteurs Moussa DIAKHATE et Siaka COULIBALY (anciens chefs du SNIS); Toute l'équipe de la CSSDOS avec à sa tête Dr Ibrahima Khaliloulah DIA; Les membres des comités interne et technique du SGG; Les membres du Bureau Législation du MSAS; Les collègues et collaborateurs de la DSISS; Monsieur Alphonse THIAW (ancien chef du Bureau Législation); Monsieur Mamadou Selly LY (ancien Conseiller Juridique MSAS); Dr Abdoulaye Ly (conseiller du DGS); Dr Mohamed Lamine DIAO, chirurgien viscéral, PCM du CHR de Saint-Louis; La Direction de la Santé de l'Armée; Le groupe ISSA pour leur appui au début du processus; Les élus locaux, les parlementaires et conseillers; Les autres départements ministériels (Forces des Défenses et de Sécurité); ✓ La société civile.Les différentes institutions du Ministère de la Santé et de l'Action Sociale: Les centres de responsabilité du niveau central du MSAS; Les autorités administratives (gouverneurs, préfets, sous-préfets); Les équipes cadres de région et de district sanitaire; Les EPS (Directeur, PCM...); Les universitaires (FPMO, UFR Santé, ISED, Départements Géographie de l'UCAD et de l'UGB); Les Partenaires techniques et financiers et autres acteurs OMS; Unicef; Coopération luxembourgeoise (LuxDev); Coopération Technique belge (CTB); Equipe du projet PFSN de la Banque Mondiale; Equipe Santé de l'USAID ;Ancien chef d'équipe Abt Associates (feu François DIOP); Chef d'équipe actuel d'Abt Associates Dr Mame Cor NDOUR; Agence de coopération internationale du Japon (JICA).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Préface",
+      "texte": "« Il convient d’optimiser la fonctionnalité de la carte sanitaire … en vue d’une plus grande équité, qui permette à chaque sénégalais, quel que soit son lieu de résidence, d’avoir accès à des soins rapides, de qualité et à un coût acceptable ». Ces quelques mots extraits du Communiqué du Conseil des Ministres du 13 novembre 2013, témoignent du niveau de priorité gouvernementale accordée à l’accessibilité géographique aux soins de santé. Ce travail, entamé sous la direction du Ministre Awa Marie COLL SECK que je remercie au passage, a bénéficié d’un soutien apprécié des partenaires techniques et financiers que sont l’USAID (à travers Abt Associates), l’OMS, l’Unicef, la CTB, la Coopération luxembourgeoise et la Banque Mondiale. Je salue aussi l’implication si déterminante des autorités administratives locales, des ECR, ECD, des EPS, du secteur privé de la santé, des universitaires, de la société civile, du Conseil économique, social et environnemental (CESE), des parlementaires et élus locaux, des Agences régionales de développement (ARD), des services régionaux et départementaux de la Direction générale de l’Action sociale et du Service National de l’Hygiène.La présente carte sanitaire fixée par le décret n°…. vise à assurer une adéquation entre la demande, l’offre et le besoin. Cet important instrument d’aménagement sanitaire du territoire, sera mis en œuvre pour rationaliser et renforcer l’offre de soins existante, et densifier (Augmentation du nombre de structures de soins existantes) en créant de nouvelles structures de soins dans les zones insuffisamment covered. Cette carte sanitaire 2018 constitue pour le MSAS, le référentiel en matière de paquets de services, de normes en ressources humaines, en équipements, et est la base de données pour les besoins relatifs à l’offre de soins ainsi que la fonctionnalité et la régularité des structures sanitaires. En outre, pour mieux rationaliser l’utilisation de l’information géographique du MSAS, la cellule CSSDOS diffuse et met à jour la carte à travers un Système d’Information Géographique SIG et des plateformes cartographiques web et mobile. Elle appuie les centres de responsabilité dans la cartographie de leurs indicateurs. Aussi, j’engage les centres de responsabilité de mon département à l’utilisation de cette carte, pour l’aide à la planification stratégique et opérationnelle du secteur, les inspections, la rationalisation des investissements sur les ressources humaines, les équipements, les constructions, la cartographie des interventions et des indicateurs entre autres. Cela passe aussi par l’appropriation et la mise en œuvre des recommandations formulées dans ce présent tome 1.La mise en œuvre de cette nouvelle carte sanitaire nécessite le renforcement institutionnel de la cellule CSSDOS, la mise en place de réformes et de financements pour la densification et la coordination. Ainsi, j’invite les institutions et acteurs à participer au déploiement de cette carte en appuyant le processus de mise en œuvre et de suivi-évaluation et en s’alignant sur les priorités qui y sont définies.Monsieur Abdoulaye DIOUF SARR Ministre de la Santé et de l’Action sociale",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des sigles et abréviations",
+      "texte": "ADS : Association des Départements du Sénégal AMS : Association des Maires du Sénégal CHU : Centre hospitalier Universitaire CMU : Couverture Maladie Universelle CS : Carte sanitaire CSSDOS : Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l’Observatoire de la Santé CSU : Couverture Sanitaire Universelle CTB : Coopération Technique belge CTSD : Comité Technique de la Santé Digitale DGS : Direction générale de la Santé DRH : Direction des Ressources humaines DS : District sanitaire DSISS : Division du Système d’Information Sanitaire et sociale ECD : Equipe Cadre de District ECR : Equipe Cadre de Région JICA : Agence japonaise de coopération internationale MSAS : Ministère de la Santé et de l’Action sociale OMD : Objectifs du Millénaire pour le Développement OMS : Organisation Mondiale de la Santé PDCS : Programme de Développement de la Carte sanitaire PFSN : Programme de Financement de la Santé et de la Nutrition PMECAES : Plan de mise en œuvre de la carte sanitaire et du Plan stratégique Santé digitale PNDS : Plan National de Développement Sanitaire PSE : Plan Sénégal Emergent PSSD : Plan Stratégique Santé Digitale PTA : Plan de travail annuel PTF : Partenaires techniques et financiers PUDC : Programme d’Urgence de Développement Communautaire PUMA : Programme d’Urgence de modernisation des axes frontaliers RM : Région médicale SIH : Système d’Information hospitalier SIS : Système d’Information Sanitaire SNFS : Stratégie Nationale de Financement de la Santé TIC : Technologies de l’Information et de la Communication UIT : Union Internationale des Télécommunications UNFPA : Fonds des nations unies pour la population UNICEF : Fonds des nations unies pour l’enfance USAID : Agence américaine de coopération internationale",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des tableaux",
+      "texte": "Liste des tableaux",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste des tableaux",
+          "colonnes": [
+            "Intitulé du tableau",
+            "Page"
+          ],
+          "lignes": [
+            {
+              "Intitulé du tableau": "Tableau 1: Ateliers et séminaires organisés pour la normalisation",
+              "Page": "19"
+            },
+            {
+              "Intitulé du tableau": "Tableau 2: Synthèse des sept (7) tomes de la nouvelle carte sanitaire.",
+              "Page": "25"
+            },
+            {
+              "Intitulé du tableau": "Tableau 3: Acteurs et tomes",
+              "Page": "29"
+            },
+            {
+              "Intitulé du tableau": "Tableau 4: Mesures d'accompagnement pour l'utilisation de la carte sanitaire par les acteurs",
+              "Page": "30"
+            },
+            {
+              "Intitulé du tableau": "Tableau 5: Réformes envisagées pour une utilisation efficiente de la carte au sein du MSAS....",
+              "Page": "30"
+            },
+            {
+              "Intitulé du tableau": "Tableau 6: Recommandations pour le Cabinet du MSAS",
+              "Page": "32"
+            },
+            {
+              "Intitulé du tableau": "Tableau 7: Recommandations pour les parlementaires, les ministères chargés des finances, du budget et du PSE",
+              "Page": "32"
+            },
+            {
+              "Intitulé du tableau": "Tableau 8: Recommandations pour les Facultés de Médecine, UFR et Ecoles de Santé",
+              "Page": "32"
+            },
+            {
+              "Intitulé du tableau": "Tableau 9: Recommandations pour les centres de responsabilité du MSAS",
+              "Page": "32"
+            },
+            {
+              "Intitulé du tableau": "Tableau 10: Recommandations pour les Agences régionales de Développement (ARD).",
+              "Page": "35"
+            },
+            {
+              "Intitulé du tableau": "Tableau 11: Recommandations pour les autorités administratives et les MCR.",
+              "Page": "35"
+            },
+            {
+              "Intitulé du tableau": "Tableau 12: Recommandations pour les ECD",
+              "Page": "35"
+            },
+            {
+              "Intitulé du tableau": "Tableau 13: Recommandations pour les EPS",
+              "Page": "36"
+            },
+            {
+              "Intitulé du tableau": "Tableau 14: Recommandations pour la société civile..",
+              "Page": "36"
+            },
+            {
+              "Intitulé du tableau": "Tableau 15: Recommandations pour les Partenaires au développement.",
+              "Page": "36"
+            },
+            {
+              "Intitulé du tableau": "Tableau 16: Recommandations pour le secteur privé et les ordres professionnels",
+              "Page": "37"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Résumé exécutif",
+      "texte": "La lutte contre les inégalités sociales est une priorité du Gouvernement. Le Ministère de la Santé et de l'Action sociale (MSAS) élabore des politiques et stratégies pour assurer l'équité dans la santé. C'est ce qui justifie d'ailleurs l'actualisation la carte sanitaire 2009-2013 comme le prévoit la loi hospitalière n° 98-08 du 02 mars 1998 portant réforme hospitalière modifiée par la loi n° 2015-12 du 03 juillet 2015. Avec la nouvelle carte sanitaire 2018, le Gouvernement ambitionne d'améliorer l'équité territoriale en matière de santé, de densifier l'offre de soins pour soutenir l'atteinte de la Couverture sanitaire universelle et de relever les plateaux technique y compris par l'utilisation de la Télésanté. Le processus méthodologique a été encadré par un mécanisme de coordination (Comité de pilotage et Comité technique de suivi). Il a été participatif (14 Comités Régionaux de Développement; des visites de sites; une participation des structures de santé des Forces de Défense et de Sécurité, des EPS, des RM, des DS, des parlementaires, des élus locaux, des universitaires, de la société civile...). D'ailleurs, le MSAS a été convoqué par le Conseil économique, social et environnemental (CESE) pour une prise en charge de toutes les préoccupations des acteurs dans le cadre de cette élaboration. Les cahiers de charge ainsi que les besoins à combler ont été définis par des experts, des praticiens et manageurs de santé, des acteurs locaux en tenant compte de l'évolution de la science médicale, de la situation épidémiologique et de la situation économique du pays. Concernant le contenu de la carte sanitaire 2018, il est le résultat de l'expression d'une ambition affichée par le Gouvernement pour faire du pays un hub médical sous régional couplée à un réalisme économique efficace. Le MSAS a mis en place une carte sanitaire de développement et de rationalisation de l'offre de soins afin de mettre en exécution cette priorité gouvernementale exprimée lors de plusieurs conseils des ministres. Ainsi, ont été proposés des cahiers de charges plus élargis avec un focus sur la disponibilité effective des paquets de services jugés « minimum requis » pour chaque type et chaque niveau de structures sanitaires. Pour une meilleure gestion de l'évolution des structures sanitaires et pour réduire le risque de sur dotation en personnels de soins de certaines structures et sous dotation pour d'autres, des normes « minimales » et « maximales » ont été mises en place. En plus, plusieurs innovations ont été apportées et qui ont trait à l'intégration de la case de santé dans la catégorie des structures de soins, le recours aux technologies du numérique pour résorber les besoins d'accès aux soins de santé, l'élaboration d'un manuel de procédures pour en faciliter l'utilisation. Pour faciliter sa présentation et son exploitation, tout le contenu est divisé en sept (7) tomes disponibles. Il s'agit du: ✓ tome 1 (Cadre théorique et méthodologique, bref aperçu du contenu et principales orientations de mise en œuvre): tome 2 (Décret et annexes); tome 3 (Paquets de services de la carte sanitaire); tome 4 (Normes exhaustives en équipements et en infrastructures); tome 5 (Etat des lieux de l'offre de soins et besoins globaux), ; tome 6 (Plan de Développement de la carte sanitaire) et tome 7 (Manuel de Procédures de la carte sanitaire). Enfin, à propos de la mise en route effective de cette politique d'équité territoriale, des dispositions devront être prises: ✓ la mise en œuvre des réformes proposées notamment : l'édiction d'une loi Carte sanitaire et sociale prenant en compte les volets de l'Action sociale et du SNH ainsi que l'offre de soins hospitalière pour une plus grande cohérence; ✓ la modification de la loi hospitalière pour une plus grande cohérence de l'offre de soins dans un moyen terme ; ✓ la représentation de la Cellule CSSDOS dans les instances et commissions de planification, de recrutement et d'affectation de personnels et de financement de l'offre de soins de santé. ✓ la mise en œuvre des recommandations proposées dans ce tome 1 (dans le troisième chapitre); le financement du Plan initial de mise en œuvre de la Carte sanitaire et du Plan Stratégique Santé digitale (PIMECAES); Des principes de mise en œuvre sont édictés : ✓ la fermeture systématique de structures de soins au nom de la rationalisation n'est pas une orientation privilégiée du moins pour le moment; ✓ le redéploiement du personnel de santé et des équipements en sur dotations reste par contre un objectif visé. En définitive, le Sénégal pourra réorganiser sa carte sanitaire en l'adaptant aux exigences du moment (CSU) et permettre l'équité et l'amélioration de l'état de santé des populations par une offre de soins plus accessible, de meilleure qualité et à un moindre coût.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Introduction",
+      "texte": "Le Sénégal a élaboré une nouvelle politique de développement économique émergent avec le Plan Sénégal Emergent (PSE). Ce PSE dont il est question, notamment dans son axe 2 portant sur Capital humain, Protection sociale et Développement durable accorde beaucoup d'importance à la réduction des inégalités sociales. Le législateur a voté la loi n°2013-10 du 28 décembre 2013 portant code général des collectivités locales pour permettre aux populations rurales d'accéder aux mêmes avantages que les communes en matière de gouvernance locale à travers une communalisation intégrale. Dans le domaine de la réduction des inégalités dans l'accès aux services de base, le Gouvernement a initié des programmes qui ont permis d'améliorer les couvertures dans le domaine de la santé (Programme d'Urgence de Développement Communautaire ou PUDC; Programme d'Urgence de modernisation des axes frontaliers ou PUMA). La carte sanitaire traduit la politique de l'équité territoriale en matière d'accès aux soins de santé. Le Ministère de la Santé et de l'Action sociale (MSAS) dispose depuis fin décembre 2008 d'une carte sanitaire fixée par le décret n°2009-521 du 04 juin 2009 qui couvrait la période 2009-2013. Elle trouve son fondement dans l'article 18 de la loi n° 98-08 du 02 mars 1998 portant réforme hospitalière modifiée par la loi n° 2015-12 du 03 juillet 2015. Selon ce texte, la carte sanitaire doit être actualisée au moins tous les 5 ans et fixée par décret. C'est dans ce cadre que s'inscrit l'élaboration d'une nouvelle carte qui a suivi un processus inclusif et participatif. Ce processus a permis sa production et son moulage en sept (07) tomes cités précédemment. Ce présent document correspond au tome 1 qui s'articule essentiellement autour de trois (03) chapitres: ✓ Cadre théorique et méthodologique; Bref aperçu du contenu ; Principales orientations de mise en œuvre.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE I : CADRE THEORIQUE ET METHODOLOGIQUE - 1. Cadre théorique",
+      "texte": "1. Cadre théorique 1.1. Contexte Le MSAS a démarré l'actualisation de la carte sanitaire dans un contexte globalement favorable. En effet, l'Acte III de la décentralisation est une des reformes phares proposée par le Gouvernement pour la réduction des inégalités sociales. La territorialisation des politiques publiques constitue un aspect important de cette réforme en attendant la mise en place des pôles-territoires dans un avenir proche. Pris sous l'angle du secteur de la santé, cette territorialisation concerne l'offre de service au premier chef. La communalisation intégrale, la départementalisation et la suppression des conseils régionaux sont des mesures fortes retenues. Ainsi, l'Acte III fait appel à une réorganisation de l'offre de service pour mieux l'adapter autant que possible à la nouvelle gouvernance locale. L'Etat du Sénégal s'est aussi engagé dans l'instauration d'une Couverture Maladie Universelle (CMU) élargie aux couches défavorisées. Le Gouvernement a créé l'Agence de la Couverture Maladie Universelle (ACMU) pour faire fonctionner ce programme. Grâce à ce programme, le taux de couverture d'assurance maladie tourne autour de 50% présentement.Le secteur privé et les structures de soins militaires et paramilitaires contribuent à l'offre nationale de soins. Le secteur privé de la santé apporte une contribution substantielle dans la densification de l'offre de services et a également largement contribué au relèvement du plateau technique. Les structures de soins des forces de défense et de sécurité sont fréquentées majoritairement par des populations civiles. Toutefois, le potentiel offert par le dynamisme du secteur privé et celui des forces militaires et paramilitaires n'est pas suffisamment valorisé par le système public. Leurs prestations de soins sont insuffisamment capitalisées. Avec les Technologies du Numérique, de l'Intelligence artificielle, de la robotique et de la domotique, le Ministère de la Santé et de l'Action sociale a mis en place des mécanismes afin d'exploiter toutes les possibilités pouvant rapprocher les services de soins spécialisés des populations qui en sont dépourvues. La vision du MSAS au sujet de la santé numérique (Utilisation des Technologies du numérique en faveur de la santé) est consignée dans le Plan Stratégique Santé digitale (Validé techniquement et politiquement) 2018-2023. Ce PSSD comporte des volets importants sur la santé mobile, la traçabilité du patient, sur le dossier patient entre autres. Ainsi, la carte sanitaire, dont la vocation est de réduire les inégalités en matière d'accès à l'offre de service, tient compte désormais de la Télésanté. Les missions du département ministériel de la Santé sont élargies avec l'intégration de l'Action sociale. C'est ce qui d'ailleurs a justifié la prise en compte initiale du volet Action sociale dans les travaux avant que le Secrétariat général du Gouvernement ne demande son retrait du projet de décret pour non-conformité à la loi hospitalière fixant la carte sanitaire. Le Plan national de Développement sanitaire 2009-2018 touche à sa fin et un nouveau est en cours d'élaboration. Pour permettre au Sénégal de prendre les voies de l'Emergence, l'Etat a initié le Plan Sénégal Emergent (PSE) nouveau cap d'orientation son développent économique. La santé se retrouve dans l'axe deux dénommé « Capital humain, Protection sociale et Développement durable ». L'accessibilité à une offre de soins de santé de qualité y constitue une forte préoccupation avec le projet « Dakar Medical City ». Le MSAS, à travers la DPRS, a élaboré une Stratégie Nationale de Financement de la Santé (SNFS) afin de mieux soutenir, entre autres, la demande et l'offre. Le premier acte d'opérationnalisation de la SNFS a été l'organisation du forum sur le financement de la santé tenu le 17 novembre 2017 à Dakar. Dans ce même ordre d'idées, une feuille de route est élaborée afin faciliter et d'accélérer sa mise en œuvre. Le MSAS a amélioré, en novembre 2016, la coordination technique de la carte en créant une structure administrative. La Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la Santé (CSSDOS) créée par arrêté n°8299 du 16 mai 2017) a pour missions notamment de: actualiser, suivre et évaluer la carte sanitaire et sociale, et la santé digitale; organiser la santé digitale; développer des programmes de santé digitale (Télémédecine, m-Santé, e-Learning, Dossier patient informatisé, harmonisation de l'utilisation des services et applications); ✓ assurer le secrétariat exécutif de l'observatoire de la santé. Elle dispose des unités suivantes : une unité de Développement de la Carte sanitaire et sociale (UDCS); une unité de Géomatique et de Cartographie (UGC); une unité de la Santé digitale (USD); une unité de l'Observatoire de la Santé (UOS); un secrétariat: un bureau de Gestion. La Cellule CSSDOS devra contribuer à: ✓ améliorer l'accès aux soins de santé par la densification, et la rationalisation des ressources et capacités existantes; ✓ rationaliser les investissements et allocations de ressources relatifs à l'offre (constructions, équipements et ressources humaines); ✓ faciliter les inspections, la certification, l'accréditation des structures sanitaires publiques et privées grâce aux référentiels de la carte sanitaire; ✓ aider les centres de responsabilité à mieux planifier en mettant à leur disposition des données et indicateurs de la carte sanitaire régulièrement mis à jour; ✓ réorganiser les interventions des praticiens de santé dans les structures sanitaires pour les rendre plus complémentaires et efficientes; ✓ dématérialiser la plupart des processus, procédures de soins, de prise de rendez-vous, de suivi médical entre autres par l'utilisation du digital; ✓ créer et rendre fonctionnel l'observatoire de la santé pour démocratiser l'accès digital à l'information sanitaire et géographique sur la situation sanitaire du pays.1.2. Justification En plus de l'obligation juridique d'actualisation de la carte sanitaire au moins une fois tous les cinq (5) ans, d'autres éléments ont plaidé à sa mise à jour. En effet, elle est une préoccupation au plus haut sommet de l'Etat. Au moins lors de trois Conseils des Ministres (13 novembre 2013, 15 juin 2016 et 11 avril 2018), Monsieur le Président de la République a demandé sa fonctionnalité, sa densification et son déploiement. Cette préoccupation de boucler le processus d'élaboration par un dossier d'investissement a été confirmé lors du forum sur le Financement de la Santé tenu le 17 novembre 2017, pendant lequel le Chef de l'Etat a demandé la validation préalable du plan d'investissements « Il faut que nous validions d'abord le plan d'investissements de la nouvelle carte sanitaire ».Les Concertations nationales sur la Santé et l'Action sociale tenues les 17 et 18 janvier 2013 étaient arrivées à la conclusion selon laquelle le problème de l'offre de santé était essentiellement dû aux manquements observés dans le respect et l'opérationnalisation de la carte sanitaire. A cette occasion, diverses insuffisances avaient été notées dont des problèmes (i) dans l'accès aux soins de santé, (ii) de ressources humaines insuffisantes et mal réparties sur le territoire national, (iii) de respect des normes, (iv) dans l'harmonisation et le respect des paquets de services, (v) de respect de la référence et de la contre référence, (vi) dans la maitrise des espaces sanitaires et des populations cibles, (vii) dans la prise en charge des maladies chroniques à soins coûteux, (viii) dans l'approvisionnement continu de médicaments de qualité, (ix) dans l'accueil et la prise en charge des urgences hospitalières et pré-hospitalières. Pour pallier ces insuffisances, les concertations avaient recommandé d'élaborer une « carte sanitaire consensuelle et opposable aux tiers ». La réussite totale de la stratégie de la Couverture Maladie Universelle passe par une carte sanitaire améliorée (une offre disponible et équitablement répartie sur l'ensemble du territoire national). « Pour progresser vers la CSU, l'Etat du Sénégal intensifiera les efforts visant à assurer une disponibilité géographique des paquets de services de qualité définis par la carte sanitaire à un coût moindre pour la population. Dans cette perspective, le ministère en charge de la santé veillera à la bonne exécution d'un Programme de Densification de la Carte Sanitaire et Sociale (PDCS) pour satisfaire les besoins en matière d'offre de services ». (Stratégie Nationale de Financement de la Santé (SNSF) page 24).Face à la rareté des ressources financières, le pays gagnerait à mieux cibler, prioriser et planifier ses besoins. « La rationalisation du développement sanitaire du pays ne peut pas être laissée à la dispersion des initiatives et à l'absence de coordination entre les différents secteurs (public, privé, communautaire, santé, social, etc.) ». (Région médicale de Saint Louis: Normalisation du secteur de la santé et perspective d'élaboration de la nouvelle carte sanitaire nationale 2014-2018: une note technique à l'attention de Mme le Ministre de la Santé et de l'Action sociale. Courrier n° 000039 du 28 janvier 2013). L'information géographique intéresse les centres de responsabilité du MSAS. Les besoins en cartes thématiques, en plateformes cartographiques de diffusion, en disponibilité de coordonnées géographiques doivent être mieux organisés afin rationaliser les ressources financières et d'épargner le niveau décentralisé de la multitude de plateformes cartographiques à renseigner. Le troisième pilier de la carte sanitaire fait focus la Géomatique. L'appréciation du niveau d'accès des sénégalais aux services de santé est diversement faite. Le plus souvent, pour apprécier la situation de l'offre au Sénégal, la réponse réside dans l'énumération des nouvelles dotations en équipements ainsi que l'ouverture de nouvelles structures de soins et dans les recrutements de personnels. Des indicateurs d'accès dédiés sont rarement utilisés. Pourtant, il existe dans la littérature internationale, des indicateurs intrinsèquement liés à la gestion d'une carte sanitaire. 1.3. Définition de la carte sanitaire 1.3.1. Fondements juridico-politiques Au Sénégal, c'est la loi n° 98-08 du 02 mars 1998 portant réforme hospitalière modifiée par la loi n°2015-12 du 03 juillet 2015 qui constitue le fondement légal de la carte sanitaire. La loi précitée dispose en son article 18 que: « La carte sanitaire a pour objet de prévoir et de susciter les évolutions nécessaires de l'offre de soins en vue de satisfaire de manière optimale la demande de santé. Elle détermine également de façon globale, sans distinguer le secteur public et le secteur privé, les structures et les équipements nécessaires à la prise en charge des soins, ainsi que leur localisation». Elle prend en compte les établissements hospitaliers avec l'article 19 de la loi 98-08 du 02 mars 1998 modifiée portant réforme hospitalière précise que: « S'agissant des hôpitaux, la carte sanitaire détermine : ✓ les zones de couverture des établissements hospitaliers; pour chaque zone de couverture, la nature et l'importance des installations et des activités de soins nécessaires pour répondre aux besoins de la population, à savoir : ✓ le nombre et la nature des services médicaux et chirurgicaux; ✓ le nombre de lits; la liste des équipements biomédicaux et médicotechniques, ...; les ressources humaines nécessaires ». Le Plan National de Développement Sanitaire (PNDS) 2009-2018, définit la carte à sa page 32 comme étant : « un outil de réglementation et de veille pour la répartition de l'offre de service au plan national ». La première carte sanitaire du pays (celle de 2005) dispose à sa page 8 que: « La carte sanitaire définit les besoins en structures, en équipements, en moyens humains, financiers et en activités de soins qui permettent de répondre de façon optimale et satisfaisante aux objectifs de santé d'une région, d'un pays ». La multitude des définitions appelle à une analyse critique pour mieux cerner le concept.1.3.2. Analyse des différentes définitions L'analyse des définitions a fait appel à un décryptage de plusieurs termes utilisés dont : offre de services et offre de soins; besoins en structures, en équipements, en moyens humains, financiers et en activités de soins règlementation, veille et distribution; secteur privé et secteur public. 1.3.2.1. Composantes de l'offre de services et de l'offre de soins L'offre de services englobe aussi bien les services et unités délivrant des soins que ceux techniques (buanderie, etc.). Quant à l'offre de soins, elle renvoie aux services et unités délivrant des soins curatifs, promotionnels, préventifs, palliatifs et ré-adaptatifs. L'offre de soins est divisée en quatre composantes que sont les paquets de services, les personnels de santé, les équipements sanitaires (lits et équipements d'aide au diagnostic) et les infrastructures (nombre et superficies des salles, des blocs opérateurs, des pièces). 1.3.2.2. Besoins en structures, en équipements, en moyens humains, financiers et en activités de soinsLes concepts de besoins et demande de santé sont revenus dans deux définitions (loi hospitalière et dans celle de la carte sanitaire 2005). C'est un volet extrêmement important de la carte sanitaire. L'établissement d'une carte sanitaire nécessite une estimation des besoins à partir de normes; de les prioriser et de procéder à leur costing (coût financier) à travers un plan d'investissement. Ce plan d'investissement, appelé Programme de Développement de la carte sanitaire (PDCS), contient les besoins prioritaires et pertinents pour relever les plateaux techniques et densifier l'offre. C'est pourquoi, la Carte sanitaire est l'outil qui donne la situation des besoins en matière d'offre de soins. En d'autres termes, elle identifie les besoins en personnels, en équipements et en nouvelles créations de structures sanitaires. Ainsi, les besoins ou quotas pour chaque territoire et pour chaque structure sanitaire doivent être suivis régulièrement afin d'orienter les investissements. Le besoin a pris en compte la demande exprimée par la population. 1.3.2.3. Règlementation et répartition La définition du PNDS identifie deux grandes missions de la carte à savoir la réglementation et la répartition. La règlementation explique et justifie la normalisation de l'offre de soins (pilier 1). C'est le fondement de la normalisation des services et/ou unités, des paquets de services, des personnels de santé, des équipements et des normes en infrastructures sanitaires aussi bien en termes de présence ou pas, du nombre et de superficies. La répartition de l'offre de soins sous-tend la distribution, la planification spatiale et temporelle des structures sanitaires, des équipements et des ressources humaines pour une meilleure cohérence et équité territoriale. Cette mission explique le rôle d'aide à la planification de la carte sanitaire. 1.3.2.4. Secteurs privé et public La carte sanitaire définit les normes aussi bien pour le secteur public que pour le secteur privé. Les besoins en création de structures sanitaires peuvent être satisfaits par la création de structures sanitaires privées sous certaines conditions.En définitive, la carte sanitaire est considérée comme la politique mise en place pour améliorer l'accessibilité géographique (accessibilité physique et disponibilité effective des soins dans la structure de santé) des populations à des soins de santé de qualité. Pour ce faire, elle définit les normes de l'offre de soins, identifie et priorise (dans le temps et dans l'espace) les besoins chiffrés. 1.4. Objectifs de la carte sanitaire 2018 1.4.1. Objectif général La carte sanitaire vise à développer et rationaliser l'offre de soins de santé d'une manière équitable, ce qui permettra l'atteinte rapide de la Couverture Sanitaire Universelle (CSU) et la réduction des inégalités d'accès aux soins de santé. 1.4.2. Objectifs spécifiques ✓ Définir les normes impératives d'implantation de nouvelles structures sanitaires, de création de services et/ou unités, de délivrance de paquets de services, de dotation en équipements, en ressources humaines et en infrastructures (salles, blocs opératoires); ✓ Fixer et suivre les besoins actuels et prévisionnels en structures sanitaires, en ressources humaines, en équipements et en infrastructures de santé ; ✓ Fixer le plan de développement de la carte sanitaire comme étant le principal cadre de référence des investissements concernant l'offre de soins de santé (structures et infrastructures sanitaires, ressources humaines et équipements sanitaires); ✓ Organiser le territoire national en territoires sanitaires (découpage sanitaire) homogènes, fonctionnels permettant d'augmenter le niveau d'accès géographique; ✓ Fixer les modalités de mise en œuvre de cette nouvelle carte sanitaire. 1.5. Principes directeurs de la carte sanitaire 1.5.1. Globalité Le principe de globalité vise l'intégration de toutes les composantes de l'offre de soins dans la démarche afin d'assurer plus de cohérence globale au système de soins. La carte sanitaire doit donc concerner: ✓ les trois niveaux de recours aux soins à savoir primaire, secondaire et tertiaire;✓ les différents types de prestation de soins qui sont le préventif, le curatif, le promotionnel et la réhabilitation; ✓ les différentes composantes de l'offre de soins qui sont les structures, les infrastructures, les équipements, les ressources humaines et le paquet d'activités; ✓ les différents secteurs d'activités médicales que représentent le public, le privé à but lucratif et le privé à but non lucratif. 1.5.2. Intégration La carte sanitaire doit viser la construction d'un système de santé intégré caractérisé par : une complémentarité fonctionnelle entre les différentes composantes de l'offre de soins (par exemple entre CS1 et CS2, CS2 et EPS1, EPS1 et EPS2); ✓ une absence de chevauchement entre les niveaux de recours de soins: la disponibilité d'un système d'orientation et de recours aux patients entre les différents établissements de santé ; ✓ une parcimonie des échelons afin d'éviter de rallonger les délais de recours et compromettre la continuité des soins. 1.5.3. Proximité C'est le souci de permettre l'accessibilité géographique aux soins; il suppose le recours à une analyse territoriale de l'accès aux soins. 1.5.4. Equité La carte sanitaire doit être un instrument permettant d'assurer l'équité dans l'accès aux soins d'autant plus qu'elle est construite sur une analyse des besoins de santé. 1.5.5. Viabilité Comme tout outil d'aide à la planification, la carte sanitaire doit tenir compte des capacités de mobilisation notamment des ressources humaines et financières et de l'évolution de la Science et de la technologie en rapport avec la Médecine. 1.6. But et finalité de la carte sanitaire Améliorer l'accessibilité géographique (accessibilité physique et disponibilité) à une offre de soins de santé de qualité par une cohérence territoriale de l'offre de santé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE I : CADRE THEORIQUE ET METHODOLOGIQUE - 2. Cadre méthodologique de la carte sanitaire 2018",
+      "texte": "2. Cadre méthodologique de la carte sanitaire 2018 Pour actualiser la carte sanitaire 2009-2013, le MSAS a mis en œuvre plusieurs activités et dispositifs : recrutement d'un consultant; mécanisme de coordination; études et évaluations; ateliers et séminaires; tenue de CRD dans toutes les régions; collecte des données sanitaires pour estimer les besoins ; supervisions et visites de sites; séances de partage. 2.1. Mécanismes de coordination du processus d'élaboration Le MSAS a pris les notes de services (n°8853 du 08 août 2014 et n°9077 du 13 août 2014) pour mettre en place respectivement le comité de pilotage et le comité technique de suivi de la carte sanitaire. Le comité de pilotage, présidé par Monsieur le Directeur de Cabinet avait pour missions de: valider les termes de référence de l'actualisation de la carte sanitaire 2009-2013; élaborer la feuille de route des activités préparatoires;organiser une table ronde pour convenir de l'appui concerté des Partenaires Techniques et Financiers;valider le choix du cabinet d'études retenu pour conduire l'actualisation; valider la méthodologie d'actualisation dudit cabinet d'études; examiner et valider les rapports intermédiaires dudit cabinet;examiner et valider le rapport final; veiller et formuler régulièrement des recommandations pour le respect du calendrier d'exécution. Les missions du comité technique de suivi étaient : apporter une assistance technique au cabinet d'études; assurer le suivi régulier du processus ; veiller à la qualité des livrables; préparer les réunions du comité de pilotage. Les deux organes de coordination et d'appui technique se sont réunis plusieurs fois et ont pu jouer leurs rôles convenablement jusqu'à la réception du draft du consultant.2.2. Evaluation de l'ancienne carte sanitaire 2009-2013 Afin de prendre en compte les leçons tirées de la mise en œuvre de l'ancienne carte, une enquête a été organisée sur l'étendue du territoire national. Environ 310 personnes ont été enquêtées dont des élus locaux, des parlementaires, des autorités administratives, des MCD, des MCR, des Directeurs d'EPS, des Infirmiers chefs de poste (ICP), des médecins de centres de santé, des directeurs nationaux, des partenaires techniques et financiers, des partenaires sociaux, des universitaires, des médecins hospitaliers, les ordres professionnels. L'évaluation a permis de faire les recommandations suivantes : mettre en place un système d'information pour collecter, traiter, analyser et diffuser les données de la carte sanitaire en un seul endroit : ✓ vulgariser et communiquer sur la carte sanitaire; impliquer tous les acteurs dont le personnel de la santé, celui de l'Action Sociale, les élus locaux, le personnel administratif (Gouverneurs, Préfets, Sous-Préfets) dans l'élaboration de la nouvelle carte; ✓ organiser des rencontres sur la carte sanitaire au niveau de chacune des 14 régions du Sénégal. 2.3. Processus de normalisation et de définition des cahiers de charge Les séminaires ont permis de regrouper des experts et les acteurs institutionnels afin d'élaborer les cahiers de charge et les besoins à combler. Plusieurs ateliers ont été tenus et résumés dans le tableau 1 ci-après.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1: Ateliers et séminaires organisés pour la normalisation",
+          "colonnes": [
+            "Ateliers et séminaires",
+            "Résultats atteints"
+          ],
+          "lignes": [
+            {
+              "Ateliers et séminaires": "Atelier de révision de l'offre sanitaire sociale publique et civile.",
+              "Résultats atteints": "✓ Les catégories (Renvoient aux postes de santé, centres de santé et établissements publics de santé (EPS)) et les niveaux (Renvoient aux centres de santé de niveau 1 et de niveau 2, aux EPS de niveau 1, 2 et 3) de structures sanitaires publiques civiles sont actualisés. ✓ Le Pôle Régional de Compétences (PRC) et le poste de santé médical ne sont pas retenus pour entrer dans la pyramide sanitaire. ✓ La case de santé est prise en compte même si le MSAS n'en construit pas. ✓ Le principe de transformer le niveau des EPS 2 situés dans des communes dotées d'UFR de Santé en niveau 3 a été retenue sous conditions d'études préalables."
+            },
+            {
+              "Ateliers et séminaires": "Atelier d'actualisation des services de santé privés, militaires, paramilitaires, parapublics, d'entreprises et des autres secteurs.",
+              "Résultats atteints": "✓ Les catégories et niveaux des structures privées ont été actualisés ainsi que ceux des structures militaires et paramilitaires. ✓ Leurs cahiers de charge ont été également révisés. ✓ Des équivalences proposées."
+            },
+            {
+              "Ateliers et séminaires": "Deux ateliers thématiques de normalisation des services des structures sanitaires.",
+              "Résultats atteints": "✓ Les normes en services et/ou unités, en paquets de services, en ressources humaines, en équipements et en infrastructures sont actualisées de la case à l'EPS de niveau 3."
+            },
+            {
+              "Ateliers et séminaires": "Atelier de normalisation des services de la DGAS et SNH.",
+              "Résultats atteints": "✓ Les catégories et niveaux des structures sociales et des services de l'hygiène ont été actualisés. ✓ Leurs cahiers de charge ont été également révisés. ✓ Les normes d'implantation des structures sociales et d'hygiène fixées et/ou revues."
+            },
+            {
+              "Ateliers et séminaires": "Atelier de réflexions avec les élus locaux, les parlementaires, la société civile et les autorités administratives sur le processus d'élaboration et de gestion de la carte sanitaire 2018.",
+              "Résultats atteints": "✓ Rôles et place des élus locaux et des parlementaires dans la gouvernance de la carte sanitaire. ✓ Partage du niveau d'avancement de l'élaboration de la carte et collecte d'avis et de recommandations des décideurs. ✓ Décision d'organisation de CRD retenue pour une meilleure implication des acteurs locaux dans l'élaboration et la mise en œuvre."
+            },
+            {
+              "Ateliers et séminaires": "Atelier d'élaboration des normes d'accessibilité géographique à des soins de santé de qualité.",
+              "Résultats atteints": "✓ Normes d'implantation de structures sanitaires et sociales identifiées. ✓ Méthodes de détermination des besoins en structures mises en place."
+            },
+            {
+              "Ateliers et séminaires": "Atelier d'élaboration des indicateurs de la carte sanitaire.",
+              "Résultats atteints": "✓ Les indicateurs de suivi de la carte sanitaire élaborés. ✓ Méthodes de calcul retenues."
+            },
+            {
+              "Ateliers et séminaires": "Atelier de partage du draft du consultant.",
+              "Résultats atteints": "✓ Les paquets de services des structures sanitaires ont été définis. ✓ Les équivalences entre structures sanitaires publiques civiles et les structures privées et militaires sont établies. ✓ Le format du rapport (432 pages) a été changé pour mettre des annexes correspondant aux catégories de structures sanitaires et sociales. ✓ Les premiers contenus du projet de décret de la carte sanitaire."
+            },
+            {
+              "Ateliers et séminaires": "Atelier d'élaboration du projet de décret et des annexes de la carte sanitaire.",
+              "Résultats atteints": "✓ Les normes ont été révisées profondément grâce à la présence de plusieurs institutions et experts. ✓ Le premier draft du projet de décret est disponible."
+            },
+            {
+              "Ateliers et séminaires": "Atelier d'élaboration du quitus de conformité à la carte sanitaire.",
+              "Résultats atteints": "✓ Format du quitus (Qui devient « Avis de conformité ». Ce processus est repris et finalisé dans le manuel de procédures) de conformité de la carte sanitaire identifié."
+            },
+            {
+              "Ateliers et séminaires": "Atelier national de partage de la carte sanitaire avec les hôpitaux.",
+              "Résultats atteints": "✓ Appropriation de la carte sanitaire par les EPS renforcée. ✓ Modalités de mise en œuvre de la carte sanitaire pour les EPS identifiées."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE I : CADRE THEORIQUE ET METHODOLOGIQUE - 2.4 à 2.9",
+      "texte": "2.4. Ajustement des normes démographiques d'implantation des structures sanitaires Le MSAS est parti des indications de l'OMS en la matière (10 000 habitants pour le poste de santé urbain, 5000 habitants pour le poste de santé rural et 150 000 habitants pour le centre de santé). Ces indications ont été contextualisées par région afin d'éviter d'uniformiser les normes du Sénégal. Pour faire cet ajustement, plusieurs critères ont été utilisés : position géostratégique (frontière, carrefour...);organisation d'évènements spéciaux de grande ampleur ; comportement des ratios de la région par rapport à la norme en vigueur ; situation épidémiologique ; ✓ géographie physique de la région. Chaque région a été notée pour chaque critère, certains étant favorables, d'autres défavorables. C'est ainsi que les normes démographiques ont été revues à la baisse (voir le tome 2: Décret et annexes) afin de donner plus de chances aux localités d'obtenir des structures sanitaires. 2.5. Détermination des normes en distance Pour avoir un maillage territorial des structures sanitaires permettant l'équité, des normes de distance ont été proposées. C'est le Rayon Moyen d'Action Théorique (RMAT) qui a été utilisé. Cette formule intègre les superficies des districts sanitaires et le nombre de structures sanitaires. Cette norme permet d'orienter vers les meilleurs emplacements des futures créations. 2.6. Estimation des besoins à combler pour tendre vers la CSU La détermination des besoins en structures, en ressources humaines, en équipements et en infrastructures est effectuée grâce à une comparaison entre les normes et la situation actuelle. Pour disposer de cette dernière, une collecte des données sanitaires et de la demande de la population a été faite. Les données relatives aux services, unités, équipements et personnels de santé ont été collectées en même temps que celles de la demande. Les données sanitaires ont fait l'objet d'une mise à jour en février 2018. Les quatorze (14) Comités Régionaux de Développement (CRD) ont servi de cadre de l'organisation de la collecte. Lors des CRD des supports de collecte avaient été remis aux gouverneurs et aux MCR afin de disposer des données et/ou demandes. 2.3.1. Collecte des données sanitaires Le contenu des supports des données sanitaires concernait les composantes de l'offre (paquets de soins, personnels de santé, équipements et nombre de structures). 2.6.1. Collecte de la demande de la population en création de structures Afin de capter et d'intégrer les besoins exprimés directement par la population dans la carte sanitaire, le MSAS a organisé quatorze Comités Régionaux de Développement (CRD) qui ont vu la participation des élus locaux, des autorités administratives, des hôpitaux, des districts sanitaires, des régions médicales, de la société civile et des partenaires locaux. Au cours de ces CRD, les normes de la carte sanitaire ont été partagées et des supports de collecte ont été remis aux gouverneurs et aux MCR. Ces outils de collecte avaient comme objectifs de recenser les besoins en nouvelles créations et en transformations de structures sanitaires. Dans ces supports, figuraient également des questions permettant d'apprécier la conformité de la demande avec la norme établie ou non. Les MCD et les élus locaux ont travaillé ensemble sous la direction des préfets de département afin de les renseigner. Ils ont été transmis officiellement au niveau central du MSAS par courrier officiel par les MCR ou les Gouverneurs de région. Un atelier a permis la saisie, le traitement et l'analyse. Un contrôle de conformité a été fait avec les normes établies afin de voir dans la demande reçue, ce qui pouvait être acceptée ou mise en attente. 2.6.2. Détermination des besoins globaux et prioritaires en structures sanitaires 2.6.2.1. Méthode de calcul des besoins Pour déterminer le besoin en ressources humaines et en équipements, la formule est la suivante : Norme - nombre existant Si le résultat est positif, cela prouve qu'il y a un gap à combler donc un besoin. Si par contre le résultat est négatif, cela témoigne d'une sur dotation. La sur dotation ne veut pas forcément dire qu'il faut redéployer. En effet, il a été retenu d'envisager le redéploiement de personnel de santé lorsque la sur dotation est entièrement constituée par un personnel mis à disposition par la fonction publique et/ou par le MSAS (contractuel). Par contre, la méthode de calcul du besoin en nouvelles créations de structures sanitaires est différente de celle des ressources humaines. Par exemple, pour savoir combien de postes de santé manquent dans un district: (Population totale du DS / normes démographiques ajustées du DS) - nombre de postes de santé existants (publics et privés) Les besoins en structures ont été comparés à la demande exprimée par les acteurs régionaux. A la suite de cette analyse, le feedback a été effectué aux MCR lors des missions de terrain. 2.6.2.2. Visites des sites et localités prioritaires Afin d'élaborer le tome 6 (projet d'investissement), le MSAS a, immédiatement après l'analyse de la demande de la population, organisé des visites de sites dans chaque région. Il s me s'agissait de se rendre dans les localités et quartiers où la demande de créations semblait prioritaire et conforme aux normes de la carte sanitaire. Cela a permis de faire une évaluation des possibilités : ✓ d'étendre sur le plan spatial, les structures sanitaires à transformer ; ✓ de voir la disponibilité de terrain pour une nouvelle construction. Les équipes, composées de la DIEM, de la DRH, de la DES, de la CSSDOS entre autres, ont rencontré les élus locaux, les autorités administratives et sanitaires etc... Avec l'aide d'une grille de supervision, des informations ont été captées en rapport avec ce qui précède (extension spatiale et terrain disponible) et en relation avec le volume d'activités des structures à ériger. 2.7. Processus de partage et de validation La carte sanitaire a fait l'objet de plusieurs partages. ✓ Les comités de pilotage et technique se sont réunis tout au long du processus. Le projet de décret et les annexes ont été partagés avec le Ministre dans son bureau en présence du responsable du Bureau Législation au mois de mai 2016. C'est durant cette séance de travail que le Ministre a demandé que les normes d'implantation des structures sanitaires soient mises dans le projet de décret vu leur importance. ✓ Le projet de décret a suivi le processus règlementaire avec les services législatifs du Secrétaire Général du Gouvernement (Comité interne et Comité technique). ✓ En décembre 2016, la carte a été présentée en réunion de coordination hebdomadaire du Cabinet du MSAS sous la direction du Secrétaire général. ✓ En avril 2017, l'essentiel du contenu des tomes avait été présenté au Ministre et à ses proches collaborateurs dont le SG, le DC, le CT1, le CT2, le CT Suivi à la salle de conférence du MSAS. ✓ Vu la place importante de l'hôpital dans la carte sanitaire, un partage national a été opéré en septembre 2017 avec les directeurs de ces structures. ✓ La quintessence de la carte a été partagée lors du Comité Interne de Suivi de janvier 2017 en présence des Directeurs des EPS, des MCR, des Directeurs et chefs de services, des partenaires sociaux et au développement. ✓ La carte sanitaire a été présentée en réunion de coordination de la Direction générale de la santé en mars 2018 et au comité de pilotage de la plateforme RSS du MSAS en juillet 2018. Toutes les suggestions opportunes ont été prises en compte dans la version finale des tomes. 2.8. Système d'Information Géographique Santé (SIGS) Durant le processus d'actualisation de la carte sanitaire, le pilier « Cartographie et diffusion » a été développé. Pour mesurer l'accessibilité géographique aux structures de soins de santé (but de la carte sanitaire), il faut disposer d'un Système d'Information Géographique. En effet, la carte sanitaire veille à satisfaire les besoins, tout en tendant vers l'équité dans la répartition spatiale des ressources matérielles et humaines, à travers, notamment, la correction des déséquilibres régionaux et la maîtrise de la croissance de l'offre. La mise en place du Système d'Information Géographique Santé (SIGS) permet de recenser l'existant à tous les niveaux du système de santé, dans le but d'aboutir à la maîtrise de l'offre de soins. Cette plate-forme de géolocalisation vise à recenser tous les points de prestation de services de soins de santé les plus proches pour les patients et leurs familles. Ce géo-portail permet déjà aux utilisateurs et à leurs proches de localiser tous les établissements de soins du pays. Il s'inscrit dans le sillage des objectifs poursuivis par la CSSDOS afin de lutter contre les déserts médicaux et rendre plus accessibles les soins de santé notamment aux populations des régions à accès difficile. La plateforme offre des services statistiques dédiés aux professionnels du secteur. Comme des cartes croisées avec des données sanitaires, sociales et démographiques. Les coordonnées géographiques des structures sanitaires privées et publiques des régions de Thiès, Diourbel, Kaffrine, Fatick et Kaolack ont été collectées ainsi que les difficultés d'accès physique avec l'appui du projet PAODES de la CTB. Les devantures des structures de soins et les difficultés d'accès des postes de santé au centre de santé de référence ont aussi été photographiées. Cela a permis de rendre fonctionnelle la plateforme cartographique web ArcGis one line du MSAS consultable à l'url suivante: https://cartosantesen.maps.arcgis.com/home/index.html. Elle a été présentée lors du Comité Interne de Suivi (CIS) de janvier 2017 et a ainsi été considérée comme la Plateforme cartographique web du MSAS. D'ailleurs, elle a été aussi utilisée pour cartographier et mettre en ligne le dispositif sanitaire du Grand Magal de Touba de la même année (2017). Cependant, il urge de procéder à l'acquisition définitive de cette plateforme, le MSAS l'utilise par mode d'abonnement annuel. La Cellule CSSDOS est chargée de l'information géographique au MSAS. L'article 6 de l'arrêté de création (n°8299 du 16 mai 2017) prévoit une Unité Géomatique et cartographie. Elle est chargée de la production (collecte, traitement, stockage et traitement) de l'information géographique. Cette unité dispose de géographes spécialistes en géomatique chargés d'appuyer les centres de responsabilité dans la cartographie de leurs indicateurs. Elle a déjà commencé à accompagner les utilisateurs (services du MSAS) en mettant à leur disposition les coordonnées géographiques des structures sanitaires et des formations vont suivre. 2.9. Limites de la nouvelle carte sanitaire Certains points inscrits aux termes de référence de l'actualisation n'ont pas fait l'objet d'un consensus fort lors de l'élaboration de la carte sanitaire 2018. Il s'agit de la création du poste de santé médical, du pôle régional de compétence et de l'EPS 4. Le poste de santé médical allait être un poste de santé avec un médecin et des équipements de diagnostic tels que la radiologie et le laboratoire. Beaucoup de communes demandent à disposer de centre de santé. Avec le cahier des charges actuel du CS 1, il est difficile de doter toutes les communes qui en demandent faute de moyens. L'ambition de l'Etat est de faire de Dakar un hub médical pour réduire les évacuations sanitaires nationales et pour développer le tourisme médical. Cela passe, entre autres, par la création de l'EPS 4. Les types de structures hospitalières n'incluent pas l'EPS de niveau 4. La carte sanitaire étant fixée par un décret, il n'était pas possible juridiquement de créer l'EPS 4 dans la mesure où la loi hospitalière limite les niveaux à 3. C'est pourquoi, il est proposé dans la partie « Réformes phares » de ce tome 1, une modification de la loi hospitalière et la création d'une loi spécifique sur la Carte sanitaire et sociale. Cela permettra, en plus, une prise en compte des structures sociales (CPRS, CNRS...) et des structures du Service National de l'hygiène (SNH). Le pôle régional de compétences n'est pas exclu totalement durant les discussions. Il peut être couplé aux pôles-territoires que l'Eta est en train de mettre en place.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE II : BREF APERÇU DU CONTENU DE LA CARTE SANITAIRE",
+      "texte": "CHAPITRE II : BREF APERÇU DU CONTENU DE LA CARTE SANITAIRE3. Innovations de la nouvelle carte sanitaire Cette carte présente des innovations tenant compte de l'Acte III de la décentralisation, du recours aux Technologies du numérique, et de la promotion de la Couverture Sanitaire Universelle (CSU). Ces innovations sont entre autres : l'instauration des normes d'implantation des structures, des équipements et des infrastructures; la définition des paquets de services par niveau et par type de structure (catégorie); l'introduction de normes pour la case de santé à l'instar des autres types de structures sanitaires contrairement à l'ancienne carte; ✓ la territorialisation de la carte sanitaire avec des organes de suivi à l'échelle départementale; ✓ la mise en place de mécanismes de fonctionnalité, de régulation et de réglementation de la carte à travers un « minimum requis » et un « maximum accepté » concernant les normes édictées ainsi que la confirmation de la possibilité de changement de niveau et de type des structures de santé ; ✓ la mise en place d'un tableau de bord unifié pour les besoins du système de santé en matière d'offre de soins ; l'élaboration du plan d'investissement de la carte sanitaire portant sur les besoins prioritaires pour réduire les inégalités et assurer l'équité territoriale; l'utilisation de la Télémédecine, de la téléphonie mobile et des objets médicaux connectés pour renforcer les prestations de soins; l'institutionnalisation de l'élaboration de plans régionaux de rationalisation de la carte sanitaire; ✓ la production d'un manuel de procédures pour faciliter son utilisation. 4. La carte sanitaire en sept (7) tomes Pour faciliter son utilisation par les acteurs, la carte sanitaire 2018 a été scindée en sept (7) tomes. 4.1. Tome 1: Cadre théorique et méthodologique, bref aperçu du contenu et principales orientations de mise en œuvreLe tome introductif « Cadre théorique et méthodologique, bref aperçu du contenu et principales orientations de mise en œuvre », aide à mieux comprendre les notions relatives à la carte sanitaire, fixe le cadre théorique et méthodologique ainsi que la synthèse des principaux contenus et orientations de mise en œuvre. En plus, on y trouve la préface, le résumé exécutif.4.2. Tome 2: Décret et annexes Le tome 2, « Décret et annexes » est composé du décret, des annexes et du rapport de présentation de la carte sanitaire. Le rapport de présentation comme son nom l'indique présente entre autres, les innovations de la nouvelle carte sanitaire et fixe les objectifs du décret. Le décret prend en charge les : différentes catégories de structures sanitaires et leurs définitions; différents types de soins et leurs définitions; normes démographiques et de distances pour l'implantation de nouvelles structures sanitaires; ✓ dispositions transitoires et diverses. Les annexes sont composées des normes par type et par niveau de structures sanitaires en termes de: services et/ou unités ; ressources humaines; équipements (liste succincte); mécanismes d'équivalences entre les structures sanitaires publiques et privées. 4.3. Tome 3: Paquets de services de la carte sanitaire Le tome 3 titré « Paquets de services de la carte sanitaire » comprend les paquets de services par niveau et par type de structures (de la case de santé à l'EPS 3). Les besoins en ressources humaines et en équipements ont été élaborés afin d'offrir les paquets de services définis par niveau. Ils sont définis en fonction des types de soins (curatifs, promotionnels, préventifs, palliatifs, de réhabilitation). Le tome est approuvé par arrêté du Ministre chargé de la Santé et de l'Action sociale. (Des paquets spécifiques aux programmes ou autres préoccupations particulières peuvent s'y greffer. Les actes non autorisés dans les paquets de services de la carte sanitaire ne sauraient être faits sans modification de l'arrêté). 4.4. Tome 4: Normes exhaustives en équipements et en infrastructures Le tome 4 intitulé « Normes exhaustives en équipements en infrastructures » couvre l'ensemble des normes en équipements et en infrastructures (salles, blocs opératoires...). Il présente les normes des structures sanitaires comme suit : nombre de pièces; surfaces (superficies) de ces pièces; organisation spatiale fonctionnelle (pour certains services des EPS);équipements par pièce. 4.5. Tome 5: Etat des lieux de l'offre de soins et besoins globaux (actuels et prévisionnels) Le tome 5 intitulé « Etat des lieux de l'offre de soins et besoins globaux (actuels et prévisionnels) » présente la situation nationale en un temps T des indicateurs de couverture en rapport avec la carte (services et/ou unités, ressources humaines, équipements et structures sanitaires): nombre et ratio concernant les structures sanitaires publiques et privées ; nombre et ratio concernant les ressources humaines des structures sanitaires publiques et privées; ✓ nombre et ratio concernant les équipements des structures sanitaires publiques et Privées; indicateurs sur l'accessibilité géographique et la disponibilité des services; ✓ croisement et comparaison multiple entre les données à des fins d'analyse; les besoins globaux (en ressources humaines, en équipements, en structures sanitaires nouvelles, en réhabilitations et en complément de services et/ou unités dans les structures existantes) à l'horizon 2022. 4.6. Tome 6: Programme de Développement de la carte sanitaire (projet d'investissement)Le Plan de Développement de la carte sanitaire (PDCS) constitue le tome 6. Il renferme les besoins les plus prioritaires à réaliser. Il est extrait des besoins globaux à l'horizon 2023. Il est le plan d'investissement demandé par Son Excellence Monsieur Macky SALL, Président de la République lors du Forum sur le financement de la Santé tenu le 17 novembre 2017 à Dakar en ces termes « Il faut que nous validions d'abord le projet d'investissement de la nouvelle carte sanitaire ». Il est retenu comme étant la priorité en matière d'investissements sur l'offre de soins pour le Gouvernement. Cela veut dire que le MSAS ainsi que les partenaires au développement, orientent d'abord leurs investissements vers la résorption des besoins prioritaires consignés dans le PDCS. La réalisation de ce PDCS permet d'étendre et d'accélérer l'atteinte de la CSU en ce qu'il crée de nouvelles structures sanitaires dans des zones qui en sont dépourvues, et qu'il relève les plateaux techniques des structures existantes d'une façon équitable.Toutefois, les élus locaux peuvent bien réaliser des structures sanitaires dès l'instant que le besoin est retenu comme possible dans le tome 5 (besoins globaux), même s'il ne figure pas dans le PDCS.Le PDCS est une partie importante du Programme Sectoriel de Développement (PIS) qui l'intègre directement sans modification. Le PDCS est approuvé par arrêté du Ministre chargé de la Santé. 4.7. Tome 7: Manuel de procédures de la carte sanitaire Pour faciliter l'utilisation de la carte sanitaire par les acteurs, le MSAS a élaboré le « Manuel de Procédures de la Carte sanitaire », qui est le tome 7 et qui précise ce qui suit:les procédures de création des structures sanitaires; les acteurs concernés par le processus et leurs rôles; les pièces à fournir par le demandeur; les délais de traitement des dossiers de demande : le mécanisme départemental de traitement des dossiers pour avis consultatif (Comité départemental de suivi de la carte sanitaire); le mécanisme central de délivrance de l'avis définitif. Le Manuel de procédures de la Carte sanitaire est approuvé par arrêté du Ministre chargé de la Santé.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 2: Synthèse des sept (7) tomes de la nouvelle carte sanitaire",
+          "colonnes": [
+            "Tomes",
+            "Piliers de la carte",
+            "Observations"
+          ],
+          "lignes": [
+            {
+              "Tomes": "Tome 1: Cadre théorique et méthodologique, bref aperçu du contenu et principales orientations majeures de mise en œuvre",
+              "Piliers de la carte": "",
+              "Observations": "Document introductif"
+            },
+            {
+              "Tomes": "Tome 2: Décret et annexes",
+              "Piliers de la carte": "Pilier 1: Normalisation des cahiers de charges des structures sanitaires",
+              "Observations": "Texte réglementaire donnant force de loi et opposabilité aux tiers"
+            },
+            {
+              "Tomes": "Tome 3: Paquets de services de la carte sanitaire",
+              "Piliers de la carte": "Pilier 1: Normalisation des cahiers de charges des structures sanitaires",
+              "Observations": "Document de référence nationale sur les paquets de services de base. Texte réglementaire fixe les paquets de services"
+            },
+            {
+              "Tomes": "Tome 4: Normes exhaustives en équipements et en infrastructures",
+              "Piliers de la carte": "Pilier 1: Normalisation des cahiers de charges des structures sanitaires",
+              "Observations": "Mise à jour au moins semestrielle et annuelle"
+            },
+            {
+              "Tomes": "Tome 5: Etat des lieux de l'offre de soins et besoins globaux (actuels et prévisionnels)",
+              "Piliers de la carte": "Pilier 2: Aide à la planification, à l'évaluation, aux études entre autres",
+              "Observations": ""
+            },
+            {
+              "Tomes": "Tome 6: Programme de Développement de la Carte sanitaire (projet d'investissement)",
+              "Piliers de la carte": "Pilier 2: Aide à la planification, à l'évaluation, aux études entre autres",
+              "Observations": "Texte réglementaire fixant les besoins prioritaires de l'offre de soins. Tome mis à jour annuellement"
+            },
+            {
+              "Tomes": "Tome 7: Manuel de procédures de la carte sanitaire",
+              "Piliers de la carte": "Pilier 3: Diffusion et Cartographie",
+              "Observations": "Document de mise en œuvre opérationnelle"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE III: PRINCIPALES ORIENTATIONS DE MISE EN ŒUVRE DE LA CARTE SANITAIRE 2018",
+      "texte": "CHAPITRE III: PRINCIPALES ORIENTATIONS DE MISE EN ŒUVRE DE LA CARTE SANITAIRE 2018 5. Intérêts des tomes par catégorie d'acteurs Le tableau 3 ci-après présente l'intérêt des tomes pour chaque catégorie d'acteurs. Cela facilite et oriente davantage les acteurs vers les tomes qui collent le plus à leurs domaines d'activités. Pour lire le tableau ci-après : XXX: intérêt très élevé (document de travail quotidien) XX: intérêt élevé X: intérêt moindre 6. Mesures d'accompagnement pour l'utilisation de la carte sanitaire par les acteurs Ces mesures d'accompagnement permettent à certaines structures de s'adapter plus rapidement à la mise en œuvre. Par exemple les EPS, malgré l'exigence d'équilibrer leurs comptes, doivent désormais veiller à la disponibilité des paquets de services dits « minimum requis » et tendre ensuite vers les services en « maximum acceptés ».Toujours dans le même ordre d'idées, la mise en œuvre de la carte sanitaire dépend en partie de la Direction des Infrastructures, des Equipements et de la Maintenance (DIEM). Son renforcement contribuera à aller encore plus vite dans l'atteinte de la CSU par la disponibilité de l'offre de soins. Le renforcement de la formation des spécialités reste aussi incontournable afin de faire bénéficier à toute la population d'une offre de soins de santé pointus. Avec l'augmentation des bourses de spécialité, le MSAS devra prendre les dispositions pour la mise en place des conditions d'épanouissement professionnels. 7. Reformes phares préconiséesL'utilisation adéquate de la carte sanitaire, pour le bénéfice des acteurs, nécessite au sein du MSAS, la réalisation de certaines réformes (tableau 5).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 3: Acteurs et tomes",
+          "colonnes": [
+            "Acteurs",
+            "Tome 1",
+            "Tome 2",
+            "Tome 3",
+            "Tome 4",
+            "Tome 5",
+            "Tome 6",
+            "Tome 7"
+          ] 
+        
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 4: Mesures d'accompagnement pour l'utilisation de la carte sanitaire par les acteurs",
+          "colonnes": [
+            "Mesures d'accompagnement",
+            "Niveau d'urgence"
+          ],
+          "lignes": [
+            {
+              "Mesures d'accompagnement": "Plaider pour l'enrôlement des EPS 1 et 2 dans les CPOM afin de relever les plateaux techniques (Cela constitue une mesure d'accompagnement extrêmement importante pour l'atteinte des résultats attendus).",
+              "Niveau d'urgence": "Elevée"
+            },
+            {
+              "Mesures d'accompagnement": "Augmenter les subventions des EPS jugés prioritaires par la carte sanitaire.",
+              "Niveau d'urgence": "Elevée"
+            },
+            {
+              "Mesures d'accompagnement": "Renforcer les capacités de la DIEM en perspective de la mise en œuvre de la carte sanitaire.",
+              "Niveau d'urgence": "Très élevée"
+            },
+            {
+              "Mesures d'accompagnement": "Renforcer sur le plan institutionnel la cellule CSSDOS :✓ Améliorer l'ancrage institutionnel (à définir par l'autorité);✓ Ouvrir une ligne budgétaire et la doter en ressources pour l'année 2019;✓ Mettre à disposition de locaux ;Faciliter le recrutement et l'affectation de RH spécialisées pour renforcer la fonctionnalité de la Cellule CSSDOS",
+              "Niveau d'urgence": "Très élevée"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 5: Réformes envisagées pour une utilisation efficiente de la carte au sein du MSAS",
+          "colonnes": [
+            "Titres de la réforme",
+            "Contenus",
+            "Justifications et pertinence"
+          ],
+          "lignes": [
+            {
+              "Titres de la réforme": "Ediction d'une loi dite Carte sanitaire et sociale",
+              "Contenus": "✓ Intégration des volets de l'Action sociale et du SNH dans la carte sanitaire✓ Prise en compte du SNH et de la DGAS",
+              "Justifications et pertinence": "Plus de cohérence dans l'organisation des soins."
+            },
+            {
+              "Titres de la réforme": "Modification de la loi hospitalière actuelle",
+              "Contenus": "✓ Suppression du volet relatif aux Prestations de soins de cette loi, pour le mettre dans une nouvelle loi qui va porter sur la « Carte sanitaire et sociale »✓ Garder les dispositions managériales et autres pour la loi hospitalière qui sera ainsi modifiée",
+              "Justifications et pertinence": "✓ Une loi hospitalière fixant la carte sanitaire qui couvre jusqu'aux structures de santé de base occasionne des dysfonctionnements (carte sanitaire pouvant être limitée par les dispositions de la loi).✓ C'est le cas d'ailleurs, car le décret de la carte n'a pas envisagé un EPS 4."
+            },
+            {
+              "Titres de la réforme": "Représentation de la Cellule CSSDOS dans les instances et commissions relatives :✓ au cycle de planification (DPPD, PTA...),✓ aux affectations et réaffectations du personnel de santé (commissions d'affectations et de réaffectations),✓ à la dotation d'équipements sanitaires.",
+              "Contenus": "Prise des notes de services par Monsieur le Ministre pour en donner l'instruction",
+              "Justifications et pertinence": "Pour mieux jouer son rôle d'aide à la décision et de supports, la Cellule CSSDOS devrait siéger dans les instances citées pour disposer de toutes les informations."
+            },
+            {
+              "Titres de la réforme": "Représentation de la Cellule CSSDOS dans les instances et/ou commissions octroyant ou autorisant des financements et investissements sur l'offre de soins",
+              "Contenus": "",
+              "Justifications et pertinence": "Cela permettra de mettre à jour la base de données de la carte sanitaire sur le niveau de satisfaction des besoins"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CHAPITRE III: PRINCIPALES ORIENTATIONS DE MISE EN ŒUVRE DE LA CARTE SANITAIRE 2018 - 8. Recommandations de mise en œuvre de la carte sanitaire",
+      "texte": "8. Recommandations de mise en œuvre de la carte sanitaireLes acteurs ont tous un rôle à jouer dans la mise en œuvre et le suivi-évaluation de la carte sanitaire. D'une manière spécifique et détaillée, les recommandations suivantes, non exhaustives, sont ciblées en fonction des catégories ou familles d'acteurs.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 6: Recommandations pour le Cabinet du MSAS",
+          "colonnes": [
+            "Recommandation",
+            "Echéances"
+          ],
+          "lignes": [
+            {
+              "Recommandation": "Financer le « Plan initiale de mise en œuvre de la Carte sanitaire et du Plan Stratégique Santé digitale » PMECAES",
+              "Echéances": "An 1"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 7: Recommandations pour les parlementaires, les ministères chargés des finances, du budget et du PSE",
+          "colonnes": [
+            "Recommandation",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandation": "Financer la densification de la carte sanitaire prévue dans le PDCS 2018-2023",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Intégration des projets d'investissements (PDCS et projets de santé numérique) dans le nouveau PAP du PSE.✓ Augmentation du budget du MSAS (volet Investissement)."
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 8: Recommandations pour les Facultés de Médecine, UFR et Ecoles de Santé",
+          "colonnes": [
+            "Recommandations",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "Prendre en compte les besoins du MSAS en matière de formation",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Appropriation du tome 6 définissant les besoins prioritaires"
+            },
+            {
+              "Recommandations": "Renforcer le programme de formation de médecins en compétence SOU",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "A définir avec la Clinique Gynéco Obstétrique (CGO)"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 9: Recommandations pour les centres de responsabilité du MSAS",
+          "colonnes": [
+            "Recommandations",
+            "Responsables",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "Prendre les arrêtés de mise en place des organes de coordination (comité de pilotage, comité technique et l'équipe Task force) de la carte sanitaire",
+              "Responsables": "BL et DGS/CSSDOS",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Prendre les arrêtés visés dans le décret de la carte sanitaire",
+              "Responsables": "BL et DGS/CSSDOS",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Mettre en œuvre le Plan Stratégique Santé digitale",
+              "Responsables": "DGS/CSSDOS",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Financer le PMECAES"
+            },
+            {
+              "Recommandations": "Poursuivre la réflexion sur le découpage sanitaire, l'organisation interne des soins, la référence contre référence, la création des pôles de compétences, le contenu du Dakar médical city",
+              "Responsables": "DGS/CSSDOS",
+              "Echéances": "An 1 et 2",
+              "Quelques stratégies particulières": "Recruter un consultant / Mettre en place une Task force nominative"
+            },
+            {
+              "Recommandations": "Partir des paquets de services de la carte sanitaire définis par niveau pour définir avec plus de précision les actes médicaux (nomenclature)",
+              "Responsables": "DGS/CSSDOS",
+              "Echéances": "An 1 et 2",
+              "Quelques stratégies particulières": "Recruter un consultant / Mettre en place un Task Force nominatif"
+            },
+            {
+              "Recommandations": "Normaliser les structures sanitaires spécialisées",
+              "Responsables": "DGS/CSSDOS",
+              "Echéances": "An 1 et 2",
+              "Quelques stratégies particulières": "Organisation d'ateliers"
+            },
+            {
+              "Recommandations": "Mettre en place un système de Visa (cachet) pour confirmer la conformité d'une demande de densification de l'offre de soins",
+              "Responsables": "DGS/CSSDOS",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Elaborer le Système de suivi-évaluation de la carte sanitaire",
+              "Responsables": "DGS/CSSDOS",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Actualiser la politique de gestion des RH dans les zones difficiles.",
+              "Responsables": "DRH",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Réviser la composition des commissions d'affectation et de réaffectation des RH",
+              "Responsables": "DRH",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": "Intégrer la Cellule CSSDOS et la DIEM"
+            },
+            {
+              "Recommandations": "Octroyer les bourses de spécialisation en fonction des besoins en personnels et paquets de services identifiés dans la carte sanitaire",
+              "Responsables": "DRH",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Publier régulièrement avec la collaboration de la CSSDOS, les besoins en ressources humaines estimés à partir des normes fixées par le décret de la carte sanitaire",
+              "Responsables": "DRH",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Elaborer un plan de formation des personnels de la santé en partant des priorités de la carte sanitaire.",
+              "Responsables": "DRH",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Signer une convention entre le MSAS et le MESR pour la prise en compte des besoins de formations des RH.",
+              "Responsables": "DRH, DGS, BL",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Vulgariser les sept tomes de la carte sanitaire auprès des EPS",
+              "Responsables": "DES",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Actualiser le PIS et les autres plans d'investissement et les aligner sur le PDCS.",
+              "Responsables": "DPRS",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Aligner les investissements prévus dans les POCL, les PTA, les Projets d'établissement ou CPOM et du DPPD sur les besoins de l'offre de soins identifiés dans la carte sanitaire.",
+              "Responsables": "DPRS, DES, DAGE, PTF, AMS, ADS, ECD, EPS",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Veille sur 2 niveaux : Local / Central"
+            },
+            {
+              "Recommandations": "Prendre en compte les normes en termes de services dans le SIS et le SIH",
+              "Responsables": "DPRS/DSISS, DES",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Prise en compte de ces normes dans le rapport de zone global"
+            },
+            {
+              "Recommandations": "Développer un partenariat quotidien entre le secteur privé et celui public de la santé dans la perspective de mise à contribution des spécialistes du privé dans la PEC des patients.",
+              "Responsables": "DPRS (Division Partenariat), DES (division de la médecine privée), ANPS",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Elaboration d'une note de cadrage dans ce sens par la DES et la DPRS"
+            },
+            {
+              "Recommandations": "Utiliser les paquets de services de la carte sanitaire pour évaluer la qualité des soins de santé",
+              "Responsables": "DLM, DSME, PTF, Programmes de santé, Cellule Qualité",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Appuyer la fonctionnalité de la Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la santé.",
+              "Responsables": "DGS, DAGE, PTF",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Mettre en œuvre l'arrêté de création de la Cellule CSSDOS"
+            },
+            {
+              "Recommandations": "Organiser le redéploiement de personnel et d'équipements en sur dotation.",
+              "Responsables": "DRH, DIEM, DES, RM, EPS",
+              "Echéances": "An 1 et 2",
+              "Quelques stratégies particulières": "Financer le PMECAES"
+            },
+            {
+              "Recommandations": "Contribuer au plaidoyer du financement du PDCS pour tendre vers la CSU",
+              "Responsables": "ACMU",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Mettre en œuvre le Manuel de procédures pour le volet de création et de transformation de structures sanitaires",
+              "Responsables": "DIEM",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Actualiser et financer le plan de maintenance.",
+              "Responsables": "DIEM, DAGE et PTF",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": ""
+            },
+            {
+              "Recommandations": "Elaborer un Système d'Information de la carte sanitaire interopérable avec les autres systèmes (DHIS2...).",
+              "Responsables": "DGS/CSSDOS",
+              "Echéances": "An 1 et 2",
+              "Quelques stratégies particulières": ""
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 10: Recommandations pour les Agences régionales de Développement (ARD)",
+          "colonnes": [
+            "Recommandations",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "Vulgariser la carte sanitaire auprès des élus locaux et aider à son observation par les acteurs",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Utilisation des différents mécanismes de collaboration pour la vulgarisation auprès des élus locaux"
+            },
+            {
+              "Recommandations": "Contribuer au financement de la carte sanitaire (besoins globaux et prioritaires)",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Plaidoyer auprès de la coopération internationale et de l'Etat"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 11: Recommandations pour les autorités administratives et les MCR",
+          "colonnes": [
+            "Recommandations",
+            "Responsables",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "Mettre en place le Comité départemental de suivi de la carte sanitaire et le présider",
+              "Responsables": "Préfet",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": "Arrêté préfectoral / Composition à proposer par le MSAS"
+            },
+            {
+              "Recommandations": "Organiser un CDD de partage des sept tomes de la Carte sanitaire",
+              "Responsables": "Préfet",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": "Inscription dans le PTA du DS"
+            },
+            {
+              "Recommandations": "Elaborer et mettre en œuvre le Plan régional de rationalisation de la Carte sanitaire (PRRCS)",
+              "Responsables": "Gouverneur et MCR",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": "S'inspirer du Modèle du PRRCS pour l'élaboration de celui de la région"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 12: Recommandations pour les ECD",
+          "colonnes": [
+            "Recommandations",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "Vulgariser les 7 tomes avec les acteurs du DS",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": "✓ Utilisation des réunions de coordination mensuelle pour vulgariser✓ Présentation de la carte sanitaire lors d'un Comité départemental de développement"
+            },
+            {
+              "Recommandations": "Mettre en œuvre le Manuel de procédures",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Connaissance du Manuel✓ Utilisation des formulaires pour évaluer les meilleurs emplacements en cas de demande"
+            },
+            {
+              "Recommandations": "Préparer avec le préfet et le Directeur de l'EPS 1 (s'il existe), la tenue des rencontres du Comité départemental de suivi de la carte sanitaire",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Etude des dossiers de demande en structures sanitaires.✓ Intégration de cette activité dans le PTA du DS afin de faciliter son financement."
+            },
+            {
+              "Recommandations": "Mettre en œuvre les paquets de services de la carte sanitaire",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Orientations des financements locaux vers l'offre effective des paquets de services de la carte sanitaire"
+            },
+            {
+              "Recommandations": "Nouer un partenariat de collaboration avec l'antenne régionale ou départementale de l'Alliance du secteur privé de la Santé pour la continuité et l'accès aux soins de santé",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Signature d'une convention de partenariat avec les structures sanitaires privées (appui de la DPRS et de la DES est indispensable)."
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 13: Recommandations pour les EPS",
+          "colonnes": [
+            "Recommandations",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "Vulgariser les 7 tomes avec le Conseil d'administration et les instances de coordination internes de l'EPS",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": "✓ Utilisation des réunions de coordination internes pour partager avec le PCM et le conseil d'administration"
+            },
+            {
+              "Recommandations": "S'inspirer des normes de l'offre hospitalière définie dans la carte sanitaire, pour faire le CPOM ou le projet d'établissement",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Utilisation des occasions d'élaboration ou d'actualisation"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 14: Recommandations pour la société civile",
+          "colonnes": [
+            "Recommandations",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "S'approprier le PDCS et le Manuel de procédures afin de contribuer à la vulgarisation et au plaidoyer",
+              "Echéances": "An 1",
+              "Quelques stratégies particulières": "✓ Maitrise du contenu du PDCS et du Manuel"
+            },
+            {
+              "Recommandations": "Constituer une sentinelle pour le financement et le respect de la carte",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Partage avec les organisations de base (ASC, GPF…)✓ Partage avec les associations d'émigrés✓ Utilisation de la coopération internationale"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 15: Recommandations pour les Partenaires au développement",
+          "colonnes": [
+            "Recommandations",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "S'approprier le PDCS et le Manuel de procédures afin de maitriser les besoins du pays en matière d'accès aux soins de santé et les nouvelles procédures de création de structures de soins de santé",
+              "Echéances": "An 1 et an 2",
+              "Quelques stratégies particulières": "✓ Maitrise du contenu des tomes 5, 6 et 7"
+            },
+            {
+              "Recommandations": "Participer à la vulgarisation de la carte sanitaire avec les mécènes, les pays partenaires, les bailleurs de fonds",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Utilisation des cadres et instances internationaux"
+            },
+            {
+              "Recommandations": "Contribuer au financement des besoins globaux et prioritaires (tomes 5 et 6)",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Recourir aux tomes 5 et 6 de la carte sanitaire avant l'élaboration des projets et plans de travail"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 16: Recommandations pour le secteur privé et les ordres professionnels",
+          "colonnes": [
+            "Recommandations",
+            "Echéances",
+            "Quelques stratégies particulières"
+          ],
+          "lignes": [
+            {
+              "Recommandations": "S'approprier les sept tomes",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Maitrise du contenu des tomes 2, 3, 5, 6 et 7 de la carte sanitaire✓ Maitrise des équivalences (voir les annexes du décret)"
+            },
+            {
+              "Recommandations": "Participer activement à la mise en place de conventions de partenariat entre les structures sanitaires publiques et privées du ministère",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "✓ Utilisation des cadres existants✓ Utilisation du juriste des EPS pour faciliter les conventions"
+            },
+            {
+              "Recommandations": "Vulgariser les tomes 5 et 6 portant les besoins de création",
+              "Echéances": "Continu",
+              "Quelques stratégies particulières": "Mise à disposition des nouveaux inscrits aux ordres, les besoins de création"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Conclusion",
+      "texte": "ConclusionLe MSAS a produit une carte sanitaire de développement et de rationalisation de l’offre de soins. Elle est considérée comme l’opérationnalisation du volet des prestations et de l’offre de soins de la SNFS, du PNDSS.Son utilisation désormais obligatoire, permettra de contribuer substantiellement à la réalisation de l’ambition sanitaire du PSE, d’assurer encore plus d’équité et d’efficience aux interventions (techniques et financières) des acteurs avec l’introduction de l’e-Santé dans l’offre de soins.Des reformes et des recommandations stratégiques et parfois urgentes, sont à mettre en œuvre pour tirer profit le mieux de cette politique d’équité territoriale de l’offre de soins de santé et les leçons de l’évaluation de la première carte sanitaire.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Annexes",
+      "texte": "AnnexesNote de service mettant en place le Comité de pilotage du processus d'élaboration de la carte sanitaire 2018REPUBLIQUE DU SENEGALUn Peuple - Un But - Une FoiMinistère de la Santé et de l'Action socialeLe Ministre009077 MSAS/DPRS/Dakar, le 13 AOUT 2014Note de serviceObjet: Actualisation de la carte sanitaire - Mise en place du comité de pilotageIl est créé au niveau du Ministère de la santé et de l'Action sociale, un comité de pilotage pour la coordination, le suivi et la validation du processus d'actualisation de la carte sanitaire 2009-2013.Le comité sera chargé de la préparation, du lancement, du suivi et de la validation des travaux d'actualisation de la carte sanitaire. A ce titre, il:Valide les termes de référence de l'actualisation de la carte sanitaire 2009-2013,Elabore la feuille de route des activités préparatoires;Organise une table ronde pour convenir de l'appui concerté des Partenaires Techniques et Financiers,Valide le choix du cabinet retenu pour conduire l'actualisation;Valide la méthodologie d'actualisation du cabinet;Examine et valide les rapports intermédiaires du cabinet;Examine et valide le rapport final; Veille et formule régulièrement des recommandations pour le respect du calendrier d'exécution.Le comité de pilotage est composé ainsi qu'il suit:Président: Directeur de Cabinet du Ministère de la Santé et de l'Action socialeRapporteur: Directeur de la Planification, de la Recherche et des StatistiquesMembres :f. BADg. BIDh. USAIDi. Coopération Technique Belgej. Mission de Coopération Luxembourgeoisek. Lux- Développementl. JICAm. Coopération Françaisen. GTZo. PathLe comité peut s'adjoindre toute personne dont les compétences sont jugées utiles à l'accomplissement de ses missions.Le comité se réunit à toutes les occasions importantes de l'actualisation.Ampliations:SG/MSASDC/MSAS- InspectionTous ConseillersTous Directeurs et Chefs de serviceTous partenaires Techniques et Financiers du secteurIntéressésChronoArchivesAwa Marie Coll SECKNote de service mettant en place le Comité technique de suivi de l'élaboration de la carte sanitaire 2018REPUBLIQUE DU SENEGALUn Peuple - Un But - Une FoiMinistère de la Santé et de l'Action socialeLe Ministre008853 MSAS/DPRS/Dakar, le 08 AOUT 2014Note de serviceIl est créé au niveau du Ministère de la santé et de l'Action sociale, un comité technique de suivi du processus d'actualisation de la carte sanitaire 2014-2018Le comité technique sera chargé, entre autres de:Apporter une assistance technique au Cabinet retenu durant toutes les phases d'actualisationAssurer le suivi régulier du processusVeiller à la qualité des livrablesPréparer les réunions du Comité de PilotageLe comité technique de suivi est composé ainsi qu'il suit:Président: le Directeur de la Planification, de la Recherche et des StatistiquesRapporteur: le chargé de la gestion de la carte sanitaire à la DPRSMembres:1. Représentant de la Direction générale de la Santé2. Représentant de la Direction générale de l'Action sociale3. Représentant de la Direction des Etablissements de Santé4. Représentant de la Direction de la lutte contre la Maladie5. Représentant de la Direction de la Santé de la Reproduction et de la Survie de l'Enfant6. Représentant de la Direction de la Pharmacie et du Médicament7. Représentant de la Direction des Ressources Humaines8. Représentant de la Direction des Infrastructures, des Equipements et de la Maintenance9. Représentant de la Direction des Laboratoires10. Représentant de la Pharmacie Nationale d'Approvisionnement11. Représentant du SAMU national12. Représentant du Centre national de Transfusion Sanguine13. Représentant du Centre national d'appareillage orthopédique14. Représentant du Service National de l'Hygiène15. Représentant de la Cellule d'Appui à la Couverture Maladie Universelle16. Représentant du Ministère des Forces Armées17. Représentant du Ministère de l'Intérieur et de la sécurité publique,18. Représentant du Ministère de l'Enseignement Supérieur et de la Recherche,19. Représentant du Ministère de l'Education Nationale,20. Représentant de la FMPOS,21. Représentant du Bureau législation du MSAS22. Les représentants des Partenaires au Développement du secteur de la santé :p. OMSq. UNICEFr. UNFPAs. USAIDt. CTBu. Lux-DéveloppementLe comité peut s'adjoindre toute personne dont les compétences sont jugées utiles à l'accomplissement de ses missions.Le comité technique restreint se réunit à toutes les occasions importantes de l'actualisation.Ampliations:SG/MSASDC/MSASInspectionTous ConseillersTous Directeurs et Chefs de serviceTous partenaires Techniques et Financiers du secteurIntéressésChronoArchivesAwa Marie Coll SECKArrêté de création de la Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la Santé (CSSDOS)REPUBLIQUE DU SENEGALUn Peuple - Un But - Une FoiMinistère de la Santé et de l'Action sociale16 MAI 2017 - 08299 NMSAS/SG/BLANALYSE: Arrêté fixant les règles d'organisation et de fonctionnement de la Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la santé (CSSDOS) du Ministère de la Santé et de l'Action sociale (MSAS)LE MINISTRE DE LA SANTE ET DE L'ACTION SOCIALE,VU la ConstitutionVU la loi n°98-08 du 02 mars 1998 portant réforme hospitalière, modifiée par la loi n°2015-12 du 03 juillet 2015;VU le décret n°2004-1404 du 04 novembre 2004 portant organisation du Ministère de la Santé et de la Prévention médicale;VU le décret n°2014-845 du 06 juillet 2014 portant nomination du Premier Ministre;VU le décret n°2014-853 du 09 juillet 2014 portant répartition des services de l'Etat et du contrôle des établissements publics, des sociétés nationales et des sociétés à participation publique entre la Présidence de la République, la Primature et les Ministères, modifié ;VU le décret n°2014-867 du 22 juillet 2014 relatif aux attributions du Ministre de la Santé et de l'Action sociale;VU le décret n°2015-855 du 22 juin 2015 portant Composition du Gouvernement, modifié;Sur la note de présentation du Directeur général de la Santé,ARRETE:Article premier.- Il est créé au sein du Ministère de la Santé et de l'Action sociale, une Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la santé (CSSDOS), rattachée à la Direction générale de la Santé.Article 2.- La CSSDOS est chargée de la coordination et de la gestion de la carte sanitaire et sociale, de la santé digitale et de l'observatoire de la santé.A ce titre, elle est chargée notamment de:actualiser, suivre et évaluer la carte sanitaire et sociale, et la santé digitale;- organiser la santé digitale;",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Annexes - Liste de participants de quelques ateliers et séminaires",
+      "texte": "Liste de participants de quelques ateliers et séminaires",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste de présence de l'atelier de révision de la carte sanitaire de l'offre sanitaire et sociale / Hôtel Almadies du 08 juillet 2015",
+          "colonnes": [
+            "Nom",
+            "Prénom",
+            "Lieu de provenance"
+          ],
+          "lignes": [
+            {
+              "Nom": "BA",
+              "Prénom": "Cheikh Oumar",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "BA",
+              "Prénom": "Dianga",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "BA",
+              "Prénom": "Rassoulou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "BA",
+              "Prénom": "Makhtar",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "BA",
+              "Prénom": "Dr Amadou Djybril",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "BADJI",
+              "Prénom": "Souleymane",
+              "Lieu de provenance": "Matam"
+            },
+            {
+              "Nom": "CISSE",
+              "Prénom": "Dr Abibou",
+              "Lieu de provenance": "Ziguinchor"
+            },
+            {
+              "Nom": "COLY",
+              "Prénom": "Landing",
+              "Lieu de provenance": "Tambacounda"
+            },
+            {
+              "Nom": "COULIBALY",
+              "Prénom": "Dr Siaka",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "DIA",
+              "Prénom": "Dr Ibrahima Khaliloulahi",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "DIA",
+              "Prénom": "Khadidiatou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "DIAGNE",
+              "Prénom": "Dr Ndiamé",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "DIAGNE",
+              "Prénom": "Ousmane",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "DIALLO",
+              "Prénom": "Mamadou Idrissa",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "DIONE",
+              "Prénom": "Mbaye",
+              "Lieu de provenance": "Diourbel"
+            },
+            {
+              "Nom": "DIOP",
+              "Prénom": "Dr Boly",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "DOUCOURE",
+              "Prénom": "Dr Amadou",
+              "Lieu de provenance": "Nioro"
+            },
+            {
+              "Nom": "DOUCOURE",
+              "Prénom": "Dr Ibrahima",
+              "Lieu de provenance": "Thiès"
+            },
+            {
+              "Nom": "EWENZA",
+              "Prénom": "Flore Monique",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "FOFANA",
+              "Prénom": "Alassane",
+              "Lieu de provenance": "Tambacounda"
+            },
+            {
+              "Nom": "GADIAGA",
+              "Prénom": "Tidiane",
+              "Lieu de provenance": "Galoya"
+            },
+            {
+              "Nom": "GANO",
+              "Prénom": "Aminata",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "GUEYE",
+              "Prénom": "Mouhamed Abdalah",
+              "Lieu de provenance": "Tivaoune"
+            },
+            {
+              "Nom": "KA",
+              "Prénom": "Abdoulaye",
+              "Lieu de provenance": "Sédhiou"
+            },
+            {
+              "Nom": "KA",
+              "Prénom": "Mamadou Mbaye",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "KARE",
+              "Prénom": "Massiré",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "KHOULE",
+              "Prénom": "Momar",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "KONTE",
+              "Prénom": "Kalidou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "LADRIERE",
+              "Prénom": "Dr Fabienne",
+              "Lieu de provenance": "Kaolack"
+            },
+            {
+              "Nom": "LODI",
+              "Prénom": "Dr Evariste",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "LOUM",
+              "Prénom": "Dr Sérigne Mamadou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "MANE",
+              "Prénom": "Babacar",
+              "Lieu de provenance": "Thiès"
+            },
+            {
+              "Nom": "MANGA",
+              "Prénom": "Léger",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "MBOW",
+              "Prénom": "Abdoulaye M.",
+              "Lieu de provenance": "Kédougou"
+            },
+            {
+              "Nom": "NADIELE",
+              "Prénom": "Léon",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "NAMOU",
+              "Prénom": "Dékaï Jean Luc",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "NDAO",
+              "Prénom": "Ahmadou Bouya",
+              "Lieu de provenance": "Sokone"
+            },
+            {
+              "Nom": "NDECKY",
+              "Prénom": "Antoine",
+              "Lieu de provenance": "Richard Toll"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Dr Habib",
+              "Lieu de provenance": "Tambacounda"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Amadou Yoro",
+              "Lieu de provenance": "Louga"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Dr Seynabou",
+              "Lieu de provenance": "Saint-Louis"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Abdou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Momar Talla",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Ibrahima",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Médoune",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Néné Dieynaba",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Thierno",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "NDONKY",
+              "Prénom": "Alphousseyni",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SAKHO",
+              "Prénom": "Dr Moustapha",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SARR",
+              "Prénom": "Fadel",
+              "Lieu de provenance": "Ziguinchor"
+            },
+            {
+              "Nom": "SECK",
+              "Prénom": "Assane",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SENE",
+              "Prénom": "Mame Birame",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SENE",
+              "Prénom": "Fallou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SOUMARE",
+              "Prénom": "Fatou SOUMARE",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SOURANG",
+              "Prénom": "Dr Mamadou Moustapha",
+              "Lieu de provenance": "Touba"
+            },
+            {
+              "Nom": "SOW",
+              "Prénom": "Maïmouna Ka",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SOW",
+              "Prénom": "Mamadou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SOW",
+              "Prénom": "Amadou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SOW",
+              "Prénom": "Bocam Oumar",
+              "Lieu de provenance": "Matam"
+            },
+            {
+              "Nom": "SY",
+              "Prénom": "Amadou",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "SY",
+              "Prénom": "Mame Demba",
+              "Lieu de provenance": "Louga"
+            },
+            {
+              "Nom": "THIAM",
+              "Prénom": "Ndèye Coumba",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "THIAM",
+              "Prénom": "Babacar",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "THIAM",
+              "Prénom": "Mballo Dia",
+              "Lieu de provenance": "Dakar"
+            },
+            {
+              "Nom": "THIANDOUM",
+              "Prénom": "Babacar",
+              "Lieu de provenance": "Ourossogui"
+            },
+            {
+              "Nom": "TRAORE",
+              "Prénom": "Mamadou",
+              "Lieu de provenance": "Fatick"
+            },
+            {
+              "Nom": "WADE",
+              "Prénom": "Dr Abdallah",
+              "Lieu de provenance": "Dakar"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Atelier d'actualisation des services de santé privés, militaires, paramilitaires, parapublics, d'entreprises et des autres secteurs",
+          "colonnes": [
+            "Prénoms et Nom",
+            "Fonction/Service"
+          ],
+          "lignes": [
+            {
+              "Prénoms et Nom": "M. Aboubacar DIOP",
+              "Fonction/Service": "Infirmier Major BNSP"
+            },
+            {
+              "Prénoms et Nom": "M. Alphouseyni NDONKY",
+              "Fonction/Service": "Consultant Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Dr Aboubakry FALL",
+              "Fonction/Service": "Consultant Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "M. Ibrahima NDIAYE",
+              "Fonction/Service": "Ingénieur D.L biologiste MSAS"
+            },
+            {
+              "Prénoms et Nom": "Frère Brice L. OUENDO",
+              "Fonction/Service": "Directeur HSJD"
+            },
+            {
+              "Prénoms et Nom": "Mme.Adjiratou SOW DIALLO",
+              "Fonction/Service": "DSRSE/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Dr Amadou SY NIANG",
+              "Fonction/Service": "Médecin Capitaine Gendarmerie Nationale"
+            },
+            {
+              "Prénoms et Nom": "Dr Matar LOUM",
+              "Fonction/Service": "Police"
+            },
+            {
+              "Prénoms et Nom": "Dr El Hadji Bamba NDIAYE",
+              "Fonction/Service": "Douanes"
+            },
+            {
+              "Prénoms et Nom": "M. Magor SOW",
+              "Fonction/Service": "Economiste de la Santé"
+            },
+            {
+              "Prénoms et Nom": "M. Pape Oumar CISSE",
+              "Fonction/Service": "Responsable"
+            },
+            {
+              "Prénoms et Nom": "Dr Ibrahima DIOUF",
+              "Fonction/Service": "Médecin Chef COUD"
+            },
+            {
+              "Prénoms et Nom": "Dr Assane DIOP",
+              "Fonction/Service": "Pharmacien (SPPS)"
+            },
+            {
+              "Prénoms et Nom": "Dr Moustapha SAKHO",
+              "Fonction/Service": "Directeur Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Dr Amadou Djibril BA",
+              "Fonction/Service": "DPRS"
+            },
+            {
+              "Prénoms et Nom": "Oumar SY",
+              "Fonction/Service": "S.G/ASPS"
+            },
+            {
+              "Prénoms et Nom": "Babacar GUEYE",
+              "Fonction/Service": "ASPS"
+            },
+            {
+              "Prénoms et Nom": "Dr Tidiane SIDY",
+              "Fonction/Service": "Biologiste Privé/ ASPS"
+            },
+            {
+              "Prénoms et Nom": "M. Makhète NDIAYE",
+              "Fonction/Service": "Eaux et Forêts"
+            },
+            {
+              "Prénoms et Nom": "Mme. Marie THIANE",
+              "Fonction/Service": "Maitresse Sage-Femme"
+            },
+            {
+              "Prénoms et Nom": "M. Assane SAMBE",
+              "Fonction/Service": "DRH/MSAS"
+            },
+            {
+              "Prénoms et Nom": "M. Ousmane DIAGNE",
+              "Fonction/Service": "DIEM/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Dr. Ndeye Fatou DIALLO",
+              "Fonction/Service": "DCMS/MEN"
+            },
+            {
+              "Prénoms et Nom": "M. El Hadji Makhtar BA",
+              "Fonction/Service": "ASPS/ACPS"
+            },
+            {
+              "Prénoms et Nom": "Mme. Fatou Gueye",
+              "Fonction/Service": "DGS/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Cheikhou Oumar BA",
+              "Fonction/Service": "DES"
+            },
+            {
+              "Prénoms et Nom": "Namou JEAN-LUC",
+              "Fonction/Service": "Consultant Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Daba NDOUR",
+              "Fonction/Service": "DSISS/DPRS"
+            },
+            {
+              "Prénoms et Nom": "Médoune NDIAYE",
+              "Fonction/Service": "DSISS/DPRS"
+            },
+            {
+              "Prénoms et Nom": "Ibrahima Khaliloulakh DIA",
+              "Fonction/Service": "DSISS/DPRS"
+            },
+            {
+              "Prénoms et Nom": "Dianga BA",
+              "Fonction/Service": "Secrétaire"
+            },
+            {
+              "Prénoms et Nom": "Dr Ndiaye SALL",
+              "Fonction/Service": "Pharmacien/ Ordre des pharmaciens"
+            },
+            {
+              "Prénoms et Nom": "Dr Cheick BADJI",
+              "Fonction/Service": "ONMS"
+            },
+            {
+              "Prénoms et Nom": "Dr Mamadou DIENG",
+              "Fonction/Service": "MCD Touba"
+            },
+            {
+              "Prénoms et Nom": "M. Momar Khoule",
+              "Fonction/Service": "Chef de Division/ DGAS"
+            },
+            {
+              "Prénoms et Nom": "Dr Ndeye DOME FALL",
+              "Fonction/Service": "Pharmacien DPM/MSAS"
+            },
+            {
+              "Prénoms et Nom": "M. Mamadou SOW",
+              "Fonction/Service": "Consultant Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Dr Babacar NDAO",
+              "Fonction/Service": "M.F.A"
+            },
+            {
+              "Prénoms et Nom": "Adja Amsatou FALL",
+              "Fonction/Service": "Sage-Femme d'Etat"
+            },
+            {
+              "Prénoms et Nom": "Oumar DIOP",
+              "Fonction/Service": "S.G.A"
+            },
+            {
+              "Prénoms et Nom": "Ibrahima NDIAYE",
+              "Fonction/Service": "DES/MSAS"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Atelier d'élaboration des indicateurs d'accessibilité géographique à des soins de santé de qualité",
+          "colonnes": [
+            "Nom",
+            "Prénom",
+            "Lieu de Provenance"
+          ],
+          "lignes": [
+            {
+              "Nom": "AW",
+              "Prénom": "Dr Ibrahima",
+              "Lieu de Provenance": "Sédhiou"
+            },
+            {
+              "Nom": "BA",
+              "Prénom": "Abdoul Fatah Sileye",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "BA",
+              "Prénom": "Cheikh Oumar",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "COULIBALY",
+              "Prénom": "Siaka",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "DIA",
+              "Prénom": "Dr Ibrahima khaliloulahi",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "DIOUF",
+              "Prénom": "Amad",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "DIOUF",
+              "Prénom": "Abdou",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "DIOUF",
+              "Prénom": "Souka Ndella",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "FALL",
+              "Prénom": "Aboubacry",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "KA",
+              "Prénom": "Bineta",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "KANE",
+              "Prénom": "Adama",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "KHOULE",
+              "Prénom": "Momar",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "NAMOU",
+              "Prénom": "Dékaï Jean Luc",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "NDAO",
+              "Prénom": "Seynabou Diallo",
+              "Lieu de Provenance": "Foundiougne"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Charles Owens",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "NDONKY",
+              "Prénom": "Alphousseyni",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "NDOUR",
+              "Prénom": "Aliou",
+              "Lieu de Provenance": "Louga"
+            },
+            {
+              "Nom": "NDOUR",
+              "Prénom": "Daba",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "SAKHO",
+              "Prénom": "Dr Moustapha",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "SECK",
+              "Prénom": "Ibrahima",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "SONKO",
+              "Prénom": "Omar Madany",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "SOUMARE",
+              "Prénom": "Fatou Sow",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "SOW",
+              "Prénom": "Issa",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "SY",
+              "Prénom": "Amadou",
+              "Lieu de Provenance": "Dakar"
+            },
+            {
+              "Nom": "WADE",
+              "Prénom": "Khoudia",
+              "Lieu de Provenance": "Dakar"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Atelier de réflexions avec les élus locaux, les parlementaires, la société civile et les autorités administratives sur le processus d'élaboration et de gestion de la carte sanitaire 2016-2020",
+          "colonnes": [
+            "Prénoms et Noms",
+            "Fonction/Structure ou Lieu de provenance"
+          ],
+          "lignes": [
+            {
+              "Prénoms et Noms": "M. Serigne Babacar KANE",
+              "Fonction/Structure ou Lieu de provenance": "Préfet/Kaolack"
+            },
+            {
+              "Prénoms et Noms": "Mme Daba NDOUR",
+              "Fonction/Structure ou Lieu de provenance": "Cartographe/Géographe/DPRS/DSISS"
+            },
+            {
+              "Prénoms et Noms": "M. Mbaye SENE",
+              "Fonction/Structure ou Lieu de provenance": "Economiste"
+            },
+            {
+              "Prénoms et Noms": "Mme Yacine DIOUF",
+              "Fonction/Structure ou Lieu de provenance": "Commune de Diass"
+            },
+            {
+              "Prénoms et Noms": "Dr Jean Baptiste NDIONE",
+              "Fonction/Structure ou Lieu de provenance": "Pdt. Com.Santé/Conseil départ. Thiès"
+            },
+            {
+              "Prénoms et Noms": "Mme Ndeye Nguénare MBODJI",
+              "Fonction/Structure ou Lieu de provenance": "Adjointe au Gouverneur de Fatick"
+            },
+            {
+              "Prénoms et Noms": "M. Guedji DIOUF",
+              "Fonction/Structure ou Lieu de provenance": "Préfet/Pikine"
+            },
+            {
+              "Prénoms et Noms": "M. Makane MBENGUE",
+              "Fonction/Structure ou Lieu de provenance": "Préfet/Mbacké"
+            },
+            {
+              "Prénoms et Noms": "M. Mame Balla LÔ",
+              "Fonction/Structure ou Lieu de provenance": "Député Maire"
+            },
+            {
+              "Prénoms et Noms": "M. Mamadou Idrissa DIALLO",
+              "Fonction/Structure ou Lieu de provenance": "Consultant/Groupe ISSA"
+            },
+            {
+              "Prénoms et Noms": "M. Demba DIAGNE",
+              "Fonction/Structure ou Lieu de provenance": "Com.Arrondissement/Ziguinchor"
+            },
+            {
+              "Prénoms et Noms": "Dr Amadou NDIAYE",
+              "Fonction/Structure ou Lieu de provenance": "Chef de Division/Ville de Dakar"
+            },
+            {
+              "Prénoms et Noms": "M. Mouhamadou Moustapha FALL",
+              "Fonction/Structure ou Lieu de provenance": "Pdt Commission Santé/Conseil dép. S.L"
+            },
+            {
+              "Prénoms et Noms": "M. Abdou NDIAYE",
+              "Fonction/Structure ou Lieu de provenance": "Assemblée Nationale"
+            },
+            {
+              "Prénoms et Noms": "M. Ousmane BADIANE",
+              "Fonction/Structure ou Lieu de provenance": "Représentant/U.A.E.L"
+            },
+            {
+              "Prénoms et Noms": "M. Babacar NDIAYE",
+              "Fonction/Structure ou Lieu de provenance": "Adjoint au Gouverneur de Dakar"
+            },
+            {
+              "Prénoms et Noms": "Dr Amadou Djibril BA",
+              "Fonction/Structure ou Lieu de provenance": "Directeur DPRS"
+            },
+            {
+              "Prénoms et Noms": "M. Moussa SAMBA",
+              "Fonction/Structure ou Lieu de provenance": "Pdt Commission Santé/Conseil dép. Rufisque"
+            },
+            {
+              "Prénoms et Noms": "M. Baïty BA",
+              "Fonction/Structure ou Lieu de provenance": "Association des maires du Sn/Maire de Vélingara"
+            },
+            {
+              "Prénoms et Noms": "M. Ibra BAKHOUM",
+              "Fonction/Structure ou Lieu de provenance": "Chef de Division/Ville de Pikine"
+            },
+            {
+              "Prénoms et Noms": "M. Mohamed BATHILY",
+              "Fonction/Structure ou Lieu de provenance": "Chef DAF/Conseil Départ.de Louga"
+            },
+            {
+              "Prénoms et Noms": "Mme Mame Fama DIAW",
+              "Fonction/Structure ou Lieu de provenance": "Pdte/Com.Santé et Hygiène publique/Commune des Plles Assainies"
+            },
+            {
+              "Prénoms et Noms": "Mme Aminata TOP DIAGNE",
+              "Fonction/Structure ou Lieu de provenance": "Pdte/Commission sanitaire et Sociale/Commune de Plateau"
+            },
+            {
+              "Prénoms et Noms": "M. Lakhbouss DIAKHATE",
+              "Fonction/Structure ou Lieu de provenance": "Conseiller municipal de Louga/Représentant du Maire"
+            },
+            {
+              "Prénoms et Noms": "M. Therno Abdourahmane DIA",
+              "Fonction/Structure ou Lieu de provenance": "MINT/SP"
+            },
+            {
+              "Prénoms et Noms": "M. Thierno DIENG",
+              "Fonction/Structure ou Lieu de provenance": "Chef DAF/Conseil Départ.de Kébémer"
+            },
+            {
+              "Prénoms et Noms": "M. Oumar NGUEBANE",
+              "Fonction/Structure ou Lieu de provenance": "Premier Adjoint au Maire de Matam"
+            },
+            {
+              "Prénoms et Noms": "Dr Farba Lamine SALL",
+              "Fonction/Structure ou Lieu de provenance": "Consultant/OMS"
+            },
+            {
+              "Prénoms et Noms": "Mme Mariama DIONE",
+              "Fonction/Structure ou Lieu de provenance": "Adjointe au Maire de Diass"
+            },
+            {
+              "Prénoms et Noms": "Mme Kante DIYA",
+              "Fonction/Structure ou Lieu de provenance": "Deputé/Tamba"
+            },
+            {
+              "Prénoms et Noms": "Dr Ibrahima Khaliloulah DIA",
+              "Fonction/Structure ou Lieu de provenance": "Point Focal de la Carte Sanitaire/MSAS/DPRS/DSISS"
+            },
+            {
+              "Prénoms et Noms": "M. Amadou SY",
+              "Fonction/Structure ou Lieu de provenance": "Consultant/Groupe ISSA"
+            },
+            {
+              "Prénoms et Noms": "M. Alphousseyni NDONKY",
+              "Fonction/Structure ou Lieu de provenance": "Consultant/Groupe ISSA"
+            },
+            {
+              "Prénoms et Noms": "Mme Dianga BA",
+              "Fonction/Structure ou Lieu de provenance": "Secrétaire/DPRS/DSISS"
+            },
+            {
+              "Prénoms et Noms": "M. Oumar Madany SONKO",
+              "Fonction/Structure ou Lieu de provenance": "DGAS/MSAS"
+            },
+            {
+              "Prénoms et Noms": "Moussa DIENG",
+              "Fonction/Structure ou Lieu de provenance": "Banque Mondiale"
+            },
+            {
+              "Prénoms et Noms": "El Hadji Alioune DIA",
+              "Fonction/Structure ou Lieu de provenance": "Directeur de la Coopération du Conseil Dépt de Rufisque"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Atelier de normalisation des services de la DGAS et du SNH",
+          "colonnes": [
+            "Nom",
+            "Prénom",
+            "Services/Occupation"
+          ],
+          "lignes": [
+            {
+              "Nom": "BA",
+              "Prénom": "Dianga",
+              "Services/Occupation": "Sécrétaire"
+            },
+            {
+              "Nom": "BA",
+              "Prénom": "Rassoulou",
+              "Services/Occupation": "Chef BRH Dakar"
+            },
+            {
+              "Nom": "COULIBALY",
+              "Prénom": "Siaka",
+              "Services/Occupation": "Chef DSISS/DPRS"
+            },
+            {
+              "Nom": "DIA",
+              "Prénom": "Ibrahima khaliloulahi",
+              "Services/Occupation": "Point Focal carte sanitaire"
+            },
+            {
+              "Nom": "DIAGNE",
+              "Prénom": "Maguette",
+              "Services/Occupation": "Chef du SRAS de Kolda"
+            },
+            {
+              "Nom": "DIAGNE",
+              "Prénom": "Ibrahima",
+              "Services/Occupation": "FGTS"
+            },
+            {
+              "Nom": "DIAGNE",
+              "Prénom": "Ousmane",
+              "Services/Occupation": "Cadre qualité DIEM"
+            },
+            {
+              "Nom": "DIATTA",
+              "Prénom": "Amadou",
+              "Services/Occupation": "Chef de service SDAS saint Louis"
+            },
+            {
+              "Nom": "DIEME",
+              "Prénom": "Adeline",
+              "Services/Occupation": "Conseillère en travail social au SRAS Dakar"
+            },
+            {
+              "Nom": "DIOUF",
+              "Prénom": "Moussa",
+              "Services/Occupation": "Chef BRH Zinguinchor"
+            },
+            {
+              "Nom": "FALL",
+              "Prénom": "Cheikh",
+              "Services/Occupation": "SDAS Dakar"
+            },
+            {
+              "Nom": "FALL",
+              "Prénom": "Aboubacry",
+              "Services/Occupation": "Groupe ISSA"
+            },
+            {
+              "Nom": "FAYE",
+              "Prénom": "Mbaye",
+              "Services/Occupation": "chef SRAS Kaffrine"
+            },
+            {
+              "Nom": "FAYE",
+              "Prénom": "Moussa Bar",
+              "Services/Occupation": "ENTSS"
+            },
+            {
+              "Nom": "GOUDIABY",
+              "Prénom": "Khalifa",
+              "Services/Occupation": "Directeur CRS Bambey"
+            },
+            {
+              "Nom": "GUEYE",
+              "Prénom": "Saliou",
+              "Services/Occupation": "SG/CNTS-Santé"
+            },
+            {
+              "Nom": "GUEYE",
+              "Prénom": "Youssou B.",
+              "Services/Occupation": "CNTS/MSAS"
+            },
+            {
+              "Nom": "GUEYE",
+              "Prénom": "Ndèye Diagué",
+              "Services/Occupation": "Chef division DGAS"
+            },
+            {
+              "Nom": "GUEYE",
+              "Prénom": "Mohamed",
+              "Services/Occupation": "DAMS/DGAS"
+            },
+            {
+              "Nom": "KANE",
+              "Prénom": "Massiré",
+              "Services/Occupation": "Conseiller du chef SNH"
+            },
+            {
+              "Nom": "MANE",
+              "Prénom": "Younousse",
+              "Services/Occupation": "SYNTRAS"
+            },
+            {
+              "Nom": "MANGANE",
+              "Prénom": "Cheikh",
+              "Services/Occupation": "Ingénieur/hospitalier"
+            },
+            {
+              "Nom": "MBAYE",
+              "Prénom": "Mbaye Amar",
+              "Services/Occupation": "Directeur CPRS Thiès"
+            },
+            {
+              "Nom": "MBODJ",
+              "Prénom": "Alioune",
+              "Services/Occupation": "ENTSS"
+            },
+            {
+              "Nom": "MBOW",
+              "Prénom": "Abdoulaye M.",
+              "Services/Occupation": "Conseiller en travail social"
+            },
+            {
+              "Nom": "NDAO",
+              "Prénom": "Mbalia Amara",
+              "Services/Occupation": "Agence CMU"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Boubacar",
+              "Services/Occupation": "Chef section Hygiène ENDSS"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Abdoulaye",
+              "Services/Occupation": "Assistant Social/UNADS"
+            },
+            {
+              "Nom": "NDIAYE",
+              "Prénom": "Médoune",
+              "Services/Occupation": "Chargé de gestion des données"
+            },
+            {
+              "Nom": "NDONKY",
+              "Prénom": "Alphousseyni",
+              "Services/Occupation": "Consultant Groupe ISSA"
+            },
+            {
+              "Nom": "NDOUR",
+              "Prénom": "Daba",
+              "Services/Occupation": "DPRS/MSAS"
+            },
+            {
+              "Nom": "NGOM",
+              "Prénom": "Pape Samba",
+              "Services/Occupation": "CNAO"
+            },
+            {
+              "Nom": "SAKHO",
+              "Prénom": "Dr Moustapha",
+              "Services/Occupation": "Groupe ISSA"
+            },
+            {
+              "Nom": "SALL",
+              "Prénom": "Padane Aïssatou",
+              "Services/Occupation": "RM Tambacounda"
+            },
+            {
+              "Nom": "SARR",
+              "Prénom": "Moussa Dieng",
+              "Services/Occupation": "SNH"
+            },
+            {
+              "Nom": "SARR",
+              "Prénom": "Deigue BA",
+              "Services/Occupation": "Chef SBH Thiès"
+            },
+            {
+              "Nom": "SECK",
+              "Prénom": "Assane 1",
+              "Services/Occupation": "Chef division SNH"
+            },
+            {
+              "Nom": "SECK",
+              "Prénom": "Assane 2",
+              "Services/Occupation": "SNM"
+            },
+            {
+              "Nom": "SECK",
+              "Prénom": "Alioune",
+              "Services/Occupation": "Directeur CRS Kaolack"
+            },
+            {
+              "Nom": "SECK",
+              "Prénom": "Saer",
+              "Services/Occupation": "Adjoint SRAS KL/CPRS"
+            },
+            {
+              "Nom": "SECK",
+              "Prénom": "Moussa",
+              "Services/Occupation": "Chef SBH Mbacké"
+            },
+            {
+              "Nom": "SEYE",
+              "Prénom": "Gora",
+              "Services/Occupation": "Chef SRAS St Louis"
+            },
+            {
+              "Nom": "SONKO",
+              "Prénom": "Oumar Madany",
+              "Services/Occupation": "DGAS/BAF"
+            },
+            {
+              "Nom": "SOUMARE",
+              "Prénom": "Fatou SOUMARE",
+              "Services/Occupation": "Chef division PLM Point Focal"
+            },
+            {
+              "Nom": "SOW",
+              "Prénom": "Maïmouna KA",
+              "Services/Occupation": "C/DEPS"
+            },
+            {
+              "Nom": "SY",
+              "Prénom": "Amadou",
+              "Services/Occupation": "Groupe ISSA"
+            },
+            {
+              "Nom": "SOW",
+              "Prénom": "Maïmouna Ka",
+              "Services/Occupation": "C/DEPS/SIVH"
+            },
+            {
+              "Nom": "THIAM",
+              "Prénom": "Mballo",
+              "Services/Occupation": "SG/SUTSAS"
+            },
+            {
+              "Nom": "THIOUNE",
+              "Prénom": "Nar Seck",
+              "Services/Occupation": "Chef service CHNU/Fann"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Ateliers thématiques de normalisation des services sanitaires, et d’aide au diagnostic (Première Partie)",
+          "colonnes": [
+            "Prénoms et Nom",
+            "Fonction"
+          ],
+          "lignes": [
+            {
+              "Prénoms et Nom": "Ndaraw NDOYE",
+              "Fonction": "Neuro-chirurgien"
+            },
+            {
+              "Prénoms et Nom": "Silly TOURE",
+              "Fonction": "Chef de service Stomatologie/HALD"
+            },
+            {
+              "Prénoms et Nom": "Malick BODIAN",
+              "Fonction": "Cardiologue/HALD"
+            },
+            {
+              "Prénoms et Nom": "Babacar NIANG",
+              "Fonction": "Pédiatre/HEAR"
+            },
+            {
+              "Prénoms et Nom": "Magaye GAYE",
+              "Fonction": "Chirurgien Cardio-vasculaire/Fann"
+            },
+            {
+              "Prénoms et Nom": "Mamadou Thioro MBAYE",
+              "Fonction": "MCD/Dahra"
+            },
+            {
+              "Prénoms et Nom": "Tidiane SIBY",
+              "Fonction": "Biologiste représentant ASPS"
+            },
+            {
+              "Prénoms et Nom": "Dr Elh Abdou Karim DIOP",
+              "Fonction": "Chirurgien PCME Mbour"
+            },
+            {
+              "Prénoms et Nom": "Jean Pierre DIAGNE",
+              "Fonction": "Ophtalmogiste"
+            },
+            {
+              "Prénoms et Nom": "Atoumane FAYE",
+              "Fonction": "Médecin Interne/HALD"
+            },
+            {
+              "Prénoms et Nom": "Mansour BOCOUM",
+              "Fonction": "Juriste/DAGE"
+            },
+            {
+              "Prénoms et Nom": "Mahamed Lamine DIAO",
+              "Fonction": "Chirurgien viscéral/Saint-Louis"
+            },
+            {
+              "Prénoms et Nom": "Magatte MBAYE",
+              "Fonction": "CGO/HALD"
+            },
+            {
+              "Prénoms et Nom": "Jean Claude SANE",
+              "Fonction": "Orthopédie HOGGY"
+            },
+            {
+              "Prénoms et Nom": "Aïssatou LY BA",
+              "Fonction": "Radiologue/HEAR"
+            },
+            {
+              "Prénoms et Nom": "Dr Ibrahima Khaliloulah DIA",
+              "Fonction": "Point Focal Carte Sanitaire"
+            },
+            {
+              "Prénoms et Nom": "Mr. EL Hadji DIAGNE",
+              "Fonction": "Technicien Maintenance"
+            },
+            {
+              "Prénoms et Nom": "Dr Aboubacry FALL",
+              "Fonction": "Consultant Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Mr. Souka Ndella DIOUF",
+              "Fonction": "Chef de division personnelle/DRH"
+            },
+            {
+              "Prénoms et Nom": "Mr Mouhamed GUEYE",
+              "Fonction": "Chef de division DGAS/DANS"
+            },
+            {
+              "Prénoms et Nom": "Dékaï Jean-Luc NAMOU",
+              "Fonction": "Consultant Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Amadou Hassane SYLLA",
+              "Fonction": "Consultant Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Ousmane Alassane NDOYE",
+              "Fonction": "Ingénieur génie civil/DIEM/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Roughyatou KA",
+              "Fonction": "Biologiste DLM/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Diarraf DIOUF DIA",
+              "Fonction": "Cadre de gestion/DES/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Mamadou SOW",
+              "Fonction": "Consultant Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Khalifa A. BALE",
+              "Fonction": "TSO/OPK/PNSO/Hôpital Diourbel"
+            },
+            {
+              "Prénoms et Nom": "Nicole CURTI KANYOKO",
+              "Fonction": "Conseillère qualité santé PAODES"
+            },
+            {
+              "Prénoms et Nom": "Moussa DIAMANKA",
+              "Fonction": "Chef DGPE/DRH/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Daba NDOUR",
+              "Fonction": "DPRS/DSISS"
+            },
+            {
+              "Prénoms et Nom": "Dianga BA",
+              "Fonction": "DPRS/DSISS"
+            },
+            {
+              "Prénoms et Nom": "Magor SOW",
+              "Fonction": "Agent CMU"
+            },
+            {
+              "Prénoms et Nom": "Ismaïla MBAYE",
+              "Fonction": "CSSI HOGGY"
+            },
+            {
+              "Prénoms et Nom": "Siaka COULIBALY",
+              "Fonction": "Chef DSISS/DPRS/MSAS"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Ateliers thématiques de normalisation des services sanitaires, et d'aide au diagnostic (Deuxième Partie)",
+          "colonnes": [
+            "Prénoms et Nom",
+            "Structures"
+          ],
+          "lignes": [
+            {
+              "Prénoms et Nom": "Abdoulaye NDIAYE",
+              "Structures": "EPS1 I.H.S"
+            },
+            {
+              "Prénoms et Nom": "Ndeye Coumba THIAM",
+              "Structures": "DRH/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Aïssatou SALL PADANE",
+              "Structures": "R.M Tamba"
+            },
+            {
+              "Prénoms et Nom": "Serigne FALL",
+              "Structures": "Consultant/Locafrique"
+            },
+            {
+              "Prénoms et Nom": "Pr Malick FAYE",
+              "Structures": "HEAR"
+            },
+            {
+              "Prénoms et Nom": "Pr Aïssata LY",
+              "Structures": "HEAR"
+            },
+            {
+              "Prénoms et Nom": "Dr Ndaraw NDOYE",
+              "Structures": "Neuro-Chirurgien/Fann"
+            },
+            {
+              "Prénoms et Nom": "Khalifa Ababacar BALE",
+              "Structures": "TSO/OPK/PNSO/H.Diourbel"
+            },
+            {
+              "Prénoms et Nom": "Ibrahima NDIAYE",
+              "Structures": "DES/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Malick BODIAN",
+              "Structures": "Cardio/HALD"
+            },
+            {
+              "Prénoms et Nom": "Mohamed Lamine DIAO",
+              "Structures": "Chirurgien Vicéral/Saint-Louis"
+            },
+            {
+              "Prénoms et Nom": "Jean Luc D. NAMOU",
+              "Structures": "Consultant/Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Daba NDOUR",
+              "Structures": "DPRS/DSISS"
+            },
+            {
+              "Prénoms et Nom": "Ousmane BODIAN",
+              "Structures": "DSBD"
+            },
+            {
+              "Prénoms et Nom": "Amad DIOUF",
+              "Structures": "DIEM"
+            },
+            {
+              "Prénoms et Nom": "Ousmane A. NDOYE",
+              "Structures": "DIEM"
+            },
+            {
+              "Prénoms et Nom": "Dr Mamadou KA",
+              "Structures": "Président. Ordre N. des Chi. Dentistes"
+            },
+            {
+              "Prénoms et Nom": "Dr Myriam Thérèse A. D. NTAB",
+              "Structures": "Trésorière Ordre N. des Chi. Dentistes"
+            },
+            {
+              "Prénoms et Nom": "Mme Aïchatou DIOP",
+              "Structures": "UAPSE/DGS/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Mamadou SOW",
+              "Structures": "Consultant/Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Mariètou NIANG",
+              "Structures": "District Centre"
+            },
+            {
+              "Prénoms et Nom": "Nar SECK THIOUNE",
+              "Structures": "Chef de service social/CHNU/Fann"
+            },
+            {
+              "Prénoms et Nom": "Dianga BA",
+              "Structures": "DPRS/DSISS"
+            },
+            {
+              "Prénoms et Nom": "Adjiratou SOW DIALLO",
+              "Structures": "DSRSE/MSAS"
+            },
+            {
+              "Prénoms et Nom": "Dr Ibrahima Khaliloulah DIA",
+              "Structures": "DPRS/DSISS"
+            },
+            {
+              "Prénoms et Nom": "Dr Aboubakry FALL",
+              "Structures": "Consultant/Groupe ISSA"
+            },
+            {
+              "Prénoms et Nom": "Dr Mouhamadou M. CISSE",
+              "Structures": "HALD (Nephro)"
+            },
+            {
+              "Prénoms et Nom": "Dr Atoumane FAYE",
+              "Structures": "Med. Interne/HALD"
+            },
+            {
+              "Prénoms et Nom": "Binta MBOW GUISSE",
+              "Structures": "Abt/R2S"
+            },
+            {
+              "Prénoms et Nom": "Dr Silly TOURE",
+              "Structures": "HALD"
+            },
+            {
+              "Prénoms et Nom": "Dr Jean Pierre DIAGNE",
+              "Structures": "Ophtalmologie/ABASS NDAO"
+            },
+            {
+              "Prénoms et Nom": "Mme Aïssatou Dieme BADIANE",
+              "Structures": "C.H.R. de Thiès"
+            },
+            {
+              "Prénoms et Nom": "Dr Papa Ibrahima NDIAYE",
+              "Structures": "Anesthésie/Réa/HALD"
+            },
+            {
+              "Prénoms et Nom": "Dr Magaye GAYE",
+              "Structures": "CTCV/CHNU/Fann"
+            },
+            {
+              "Prénoms et Nom": "M. Babacar GUEYE",
+              "Structures": "ASPS"
+            },
+            {
+              "Prénoms et Nom": "Dr Awa GAYE",
+              "Structures": "DSBD"
+            },
+            {
+              "Prénoms et Nom": "Dr Jean Claude SANE",
+              "Structures": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

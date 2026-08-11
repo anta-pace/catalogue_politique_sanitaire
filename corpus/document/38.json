@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "titre": "Intoxication au Monoxyde de Carbone (CO)",
+    "annee": "",
+    "source": "Ministère de la Santé et de l'Action Sociale - Direction Générale de la Santé - Centre Anti Poison (CAP)",
+    "type_document": "Depliant d'information et de sensibilisation"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Introduction",
+      "texte": "MINISTERE DE LA SANTE ET DE L'ACTION SOCIALEDIRECTION GENERALE DE LA SANTECENTRE ANTI POISONIntoxication au Monoxyde de Carbone (CO)Le monoxyde de carbone, un tueur silencieux!Le monoxyde de carbone ou CO est un gaz très dangereux. Il ne se voit pas (incolore), ne se sent pas (inodore) et il est sans goût (insipide). Quand on le respire, il prend la place de l'oxygène dans le sang.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Comment le Monoxyde de Carbone se forme chez vous ?",
+      "texte": "Le monoxyde de carbone se forme en cas de mauvaise combustion des produits tels que le bois, le charbon, le gaz butane, l'essence, le fuel, le pétrole, etc... C'est un gaz qui est donc formé par des appareils de chauffage ou de cuisson mal entretenus et qui utilisent ces combustibles. Les groupes électrogènes, les moteurs de véhicules produisent aussi du CO.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Quand penser à une intoxication au Monoxyde de Carbone?",
+      "texte": "Quand un appareil de chauffage ou de cuisson marche et que:vous avez mal à la tête;vous avez envie de vomir;vous vous sentez très fatigué;vous êtes peut être intoxiqué au monoxyde de carbone",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Symptômes d'intoxication au monoxyde de carbone",
+          "description": "Illustration d'un homme présentant des symptômes d'intoxication au monoxyde de carbone : maux de tête, sensation de nausée/maux de ventre, et fatigue intense."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Que faire en cas d'intoxication au CO?",
+      "texte": "Ouvrez d'abord porte et fenêtre pour bien aérer la pièceÉteignez les appareils de chauffage et de cuisson (cuisinière, fourneau, encensoir, groupe électrogène, etc..)Faîtes sortir la personne intoxiquée du lieu et le placer en milieu bien aéréSi la personne est inconsciente appelez les services d'urgenceCentre Antipoison 818 00 15 15SAMU: 15 15Sapeurs-Pompiers: 18",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "illustration",
+          "titre": "Gestes de secours et appel des urgences",
+          "description": "Illustration représentant une femme appelant les urgences par téléphone avec une bulle d'expression contenant la phrase : « Assalamou aleykoum je cherche le numéro d'urgence ». La bulle de pensée montre les différentes situations d'urgence (secours, maux de ventre/vomissements, piqûre de scorpion, ingestion de produits chimiques)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Comment éviter la formation de Monoxyde de Carbone chez vous ?",
+      "texte": "Bien utiliser les appareils de chauffage ou de cuisson:Pour le gaz, vérifier que les flammes sont bien de couleur bleu (si c'est jaune, faire réparer l'appareil);Cuisiner ou faire le chauffage dans un endroit aéréPour faire le « Thiouraye », bien brûler le charbon de bois en dehors des pièces de vie avant utilisation;Ne laisser pas le moteur de voiture allumé dans le garage fermé ;N'allumer pas un groupe électrogène dans un endroit fermé ;Aérer les chambres régulièrement dans la journée.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Urgences",
+      "texte": "EN CAS D'INTOXICATION APPELEZ LE CENTRE ANTI POISONN° d'urgence 818 00 15 15GOTA 77 577 84 92",
+      "tableaux": [],
+      "images": []
+    }
+  ]
+}

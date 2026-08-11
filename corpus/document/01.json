@@ -1,0 +1,1042 @@
+{
+  "metadata": {
+    "titre": "Draft de Plan d'Evaluation du Reglement Sanitaire International 2005",
+    "annee": "2011",
+    "source": "Republique de Senegal - Ministere de la Sante, de l'Hygiene Publique et de la Prevention",
+    "type_document": "Rapport d'evaluation / Plan d'action"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "REPUBLIQUE DE SENEGAL  Un Peuple, un But, une Foi  DRAFT DE PLAN D'EVALUATION DU REGLEMENT SANITAIRE INTERNATIONAL 2005  NOVEMBRE 2011  Version du 06 decembre 2011",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "embleme",
+          "titre": "Armoiries de la Republique du Senegal",
+          "description": "Blason officiel de la Republique du Senegal, comportant un lion et une etoile, entoure d'une bordure decorative."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Sommaire",
+      "texte": "Liste des membres de l'Equipe d'Evaluation ; Abreviations et Acronyme ; Resume du rapport ; 1-INTRODUCTION ; 2-CONNAISSANCES DE BASE SUR LE PAYS (2.1-Geographie, 2.2-Demographie, 2.2-Indicateurs Socio-economique et de l'etat de sante, 2.4-Le fardeau des maladies transmissibles, des risques chimiques et radiologiques : 2.4.1-Les maladies transmissibles, 2.4.2-Les risques chimiques (2.4.2.1-Analyse de la situation, 2.4.2.2-Instruments juridiques, mecanismes non juridiques et implication au niveau international, 2.4.2.3-Mesures concretes et progres realises, 2.4.2.4-Enseignements tires et bonnes pratiques, 2.4.2.5-tendances et questions emergentes, 2.4.2.6-Contraintes, defis et perspectives, 2.4.2.7-Etudes de cas ou pratiques de reference), 2.4.3-Les risques radiologiques, 2.5-Systeme de sante (2.5.1-Organigramme du ministere charge de la sante, 2.5.2-Distribution des services de sante, 2.5.3-Ressources humaines, 2.5.4-Financement de la sante), 2.6-Survol de la surveillance et reponse (2.6.1-Risques et maladies prioritaires, 2.6.2-Procedures de notification, 2.6.3-Confirmation des evenements, 2.6.4-Reponse, 2.6.5-Activites de surveillance dans le secteur prive)) ; 3-OBJECTIFS DE L'EVALUATION ; 4-METHODOLOGIE (4.1-Descente sur le terrain, 4.2-Analyse des donnees, 4.3-Formation et retroaction) ; 5-RESULTATS DE L'EVALUATION (5.1-Legislation Nationale, Politique et Finances, 5.2-Coordination et Communications au Point Focal National RSI, 5.3-Surveillance, 5.4-Reponse, 5.5-Preparation, 5.6-Communication de risque, 5.7-Ressources humaines, 5.8-Laboratoires, 5.9-Evenements zoonotiques, 5.10-Securite Sanitaire Alimentaire, 5.11-Evenements chimiques, 5.12-Urgences radionucleaires, 5.13-Points d'entree) ; 5-RECOMMANDATIONS ; 6-PERSPECTIVES ; 7-ANNEXES ; 8-PLAN D'ACTION",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des membres de l'Equipe d'Evaluation",
+      "texte": "Liste nominative des membres de l'equipe d'evaluation et leurs services d'appartenance.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste des membres de l'Equipe d'Evaluation",
+          "colonnes": ["Prenom(s) et Nom", "Service"],
+          "lignes": [
+            {"Prenom(s) et Nom": "Abdoulaye DIAW", "Service": "DPM/MSHPP"},
+            {"Prenom(s) et Nom": "Aboubacry FALL", "Service": "DPM/MSHPP"},
+            {"Prenom(s) et Nom": "Absa LAM", "Service": "CAP/MSHPP"},
+            {"Prenom(s) et Nom": "Alain DIEDHIOU", "Service": "CTAJ/MSHPP"},
+            {"Prenom(s) et Nom": "Aliou POUYE", "Service": "C. Sanitaire Aeroport/MSHPP"},
+            {"Prenom(s) et Nom": "Amadou KANOUTE", "Service": "MI COM"},
+            {"Prenom(s) et Nom": "Aminata BA NDIAYE", "Service": "MINT"},
+            {"Prenom(s) et Nom": "Babacar NDIAYE", "Service": "MICITIE"},
+            {"Prenom(s) et Nom": "Bienvenu G.R. NIOUKY", "Service": "M.F.A"},
+            {"Prenom(s) et Nom": "Binetou YADE", "Service": "DES/MSHPP"},
+            {"Prenom(s) et Nom": "Coumba Faye DIOUF", "Service": "DSV/MEL/BPC"},
+            {"Prenom(s) et Nom": "Daouda DIOP", "Service": "PNA/MSHPP"},
+            {"Prenom(s) et Nom": "Die Thiam DIAITE", "Service": "DPL/MSHPP"},
+            {"Prenom(s) et Nom": "Djib NGOM", "Service": "SNH/MSHPP"},
+            {"Prenom(s) et Nom": "Ibra Samba Yoro DIOP", "Service": "Ministere Justice"},
+            {"Prenom(s) et Nom": "Ibrahim Oumar BA", "Service": "DPM/MSHPP"},
+            {"Prenom(s) et Nom": "Kader NDIAYE", "Service": "IPD"},
+            {"Prenom(s) et Nom": "Lam Toro Mamadou SECK", "Service": "PNA/MSHPP"},
+            {"Prenom(s) et Nom": "Lamine DIAWARA", "Service": "OMS/Dakar"},
+            {"Prenom(s) et Nom": "LO Baidy BOUBOU", "Service": "OMS"},
+            {"Prenom(s) et Nom": "Malang COLY", "Service": "OMS/Dakar"},
+            {"Prenom(s) et Nom": "Malick CISSE", "Service": "IAAF/MSHPP"},
+            {"Prenom(s) et Nom": "Malick NDIAYE", "Service": "SNEIPS/MSHPP"},
+            {"Prenom(s) et Nom": "Mame Diarra FAYE", "Service": "MINT/ECO/Maritime"},
+            {"Prenom(s) et Nom": "Mame Sine Mbodji Ndiaye", "Service": "ASN/MMITAPME"},
+            {"Prenom(s) et Nom": "Mohamed ND. SANGARE", "Service": "DS/MSHPP"},
+            {"Prenom(s) et Nom": "Moussa DIENE", "Service": "MTTTF AT/CT"},
+            {"Prenom(s) et Nom": "Moussa DIOUF", "Service": "C.S.F.M .PAD"},
+            {"Prenom(s) et Nom": "Moustapha Sadibou TALL", "Service": "ARSN"},
+            {"Prenom(s) et Nom": "Omar SARR", "Service": "CT/3 .MSHPP"},
+            {"Prenom(s) et Nom": "Sidy NDIAYE", "Service": "DCI/MCOM"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Abreviations et Acronyme",
+      "texte": "AIEA : Agence Internationale de l'Energie Atomique  BPL : Bonne Pratiques de Laboratoire  CEDEAO : Communaute Economique des Etats de l'Afrique de l'Ouest  CFC : Chlororofluocarbure  CHS : Comite d'Hygiene et de Securite  CLV : Comites de Lutte Villageois  CNGPC : Commission Nationale de Gestion des Produits Chimiques  COP : Conferences des Parties  CSP : Comite Sahelien des Pesticides  DOD : Demande d'Aide a la Decision  DRH : Direction des Ressources Humaines  EDS : Enquete Demographique et Sanitaire  FAO : Organisation des Nations Unies pour l'Alimentation et l'Agriculture  FAR : Femmes en Age de Reproduction  FFOM : Forces, Faiblesses, Opportunites et Menaces  FISC : Comite Intergouvernemental sur la Securite Chimique  GIPD : Gestion Integree de la Production et des Depredateurs  GOANA : Grande Offensive Agricole pour la Nourriture et l'Abondance  NEPAD : Nouveau Partenariat pour le Developpement de l'Afrique  OMD : Objectifs du Millenium pour le Developpement  OMS : Organisation Mondiale de la Sante  OMVS : Organisation pour la Mise en Valeur du Fleuve Senegal  PCB : Polychlorobiphenyls  PGEF : Plan de Gestion de l'Elimination des fluides frigorigenes  Plan ORSEC : Plan d'Organisation des Secours  PNDS : Plan National de Developpement Sanitaire  POCL : Plan Operationnel des Collectivites Locales  POI : Plan d'Operation Interne  POPs : Polluants Organiques Persistants  PTIP : Programme Triennal d'Investissement Public  QSP : Quick Start Program  QUEST : Programme de controle de la qualite des traitements anti-acridiens  RSI : Reglement Sanitaire International  SAICM : Strategie sur la Gestion Internationale des Produits Chimiques  SAO : Substances Appauvrissant la couche d'Ozone  SCA : Strategie de Croissance Acceleree  SGH : Systeme General Harmonise d'Etiquetage et Classification  UE : Union Europeenne  UEMOA : Union Economique Ouest Africaine",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Resume du rapport",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1-INTRODUCTION",
+      "texte": "Le Reglement Sanitaire International (RSI) est un instrument juridique international qui a force obligatoire pour 194 pays dont le Senegal. Adopte par l'Assemblee Mondiale de la Sante le 23 mai 2005, il est entre en vigueur le 15 juin 2007. Son objectif est de \"prevenir la propagation internationale des maladies, s'en proteger, la maitriser et y reagir par une action de sante publique proportionnee et limitee aux risques qu'elle presente pour la sante publique, en evitant de creer des entraves inutiles au trafic et au commerce internationaux\". Aux termes des articles, 5 et 13 du RSI chaque Etat devrait acquerir, renforcer et maintenir les competences requises des que possible mais au plus tard dans les cinq (05) ans suivant l'entree en vigueur du RSI (15 juin 2012).  Les Etats ont pris l'engagement d'evaluer leurs capacites entre 2007 et 2009 et de mettre en place des plans d'action de mise en oeuvre des capacites principales pour la periode 2009-2012.  La reunion de Brazzaville, organisee en aout 2011, a constate que sur les quarante six (46) pays Africains, pres de la moitie n'a pas developpe un plan d'action pour la mise en oeuvre de ces capacites. Pour permettre aux Etats de s'acquitter de leurs obligations, l'Organisation Mondiale de la Sante (OMS) branche AFRO a elabore un guide pour accelerer l'application du RSI et permettre aux pays membres d'avoir une prorogation de delai jusqu'en 2014.  C'est dans ce sens que, le Ministere de la Sante, de l'Hygiene Publique et de la Prevention a organise deux (02) ateliers multisectoriels pour initie l'evaluation du RSI qui se sont solde par la redaction du present rapport.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2-CONNAISSANCES DE BASE SUR LE PAYS",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.1-Geographie",
+      "texte": "Situe a l'Ouest du continent Africain (entre les 12,5 et 16,5 degres de latitude Nord), le Senegal s'etend sur 196.722 km2, limite au Nord par la Mauritanie, a l'Est par le Mali, au Sud par la Guinee et la Guinee Bissau. Le pays est divise en 14 regions, 45 departements, 121 arrondissements, 113 communes, 46 communes d'arrondissement et 370 communautes rurales englobant les villages.  Le climat est du type soudano sahelien avec une saison seche allant de novembre a juin et une saison des pluies de juin a octobre. La pluviometrie annuelle passe de 300 mm au Nord du Pays quasi desertique a 1200 mm dans le Sud.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Carte 1 : Le Senegal, localisation geographique",
+          "description": "Carte du Senegal situant le pays en Afrique de l'Ouest, avec ses frontieres : Mauritanie au Nord, Mali a l'Est, Guinee et Guinee Bissau au Sud, l'Ocean Atlantique Nord a l'Ouest et la Gambie enclavee. Villes reperees : Saint-Louis, Richard-Toll, Podor, Matam, Linguere, Thies, Dakar, Diourbel, Kaolack, Nayé, Tambacounda, Bignona, Kolda, Goumbati (Sahel), Kedougou, Ziguinchor."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.2-Demographie",
+      "texte": "La population est estimee en 2011 a 12.862.587 habitants avec un taux d'accroissement annuel de 2,7 %. Le taux de natalite est de 39 pour mille alors que l'indice synthetique de fecondite est estime a 5,3 enfants par femme (Enquete Demographique et Sociale numero 5, EDS IV). Le Senegal a l'un des taux d'urbanisation les plus eleves d'Afrique noire (DPS 2005). La population est jeune avec environ 50 % de moins de 16 ans. Les enfants de 0 a 5 ans representent 19,4 % de la population totale.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.2-Indicateurs Socio-economique et de l'etat de sante",
+      "texte": "L'economie du Senegal continue de faire face a diverses contraintes parmi lesquelles on peut citer un environnement des affaires peu attractif et la dependance de la production agricole a la pluviometrie. Afin de lever ces obstacles, le Senegal a mis en oeuvre des strategies de croissance et de reduction de la pauvrete (Document Strategique de Reduction de la Pauvrete 1 et 2, DSRP 1 & 2) depuis 2001 avec un objectif de taux de croissance de 7 a 8% pour reduire de moitie la pauvrete en 2015 et atteindre les Objectifs du Millenium pour le Developpement (OMD) et ceux du Programme National de Developpement Sanitaire 2009-2018 (PNDS2009-2018). Dans ce cadre, des politiques sectorielles vigoureuses, telles que la fourniture de services sociaux (education, sante, acces a l'eau potable, assainissement, etc.), le programme de reforme des finances publiques, la Strategie de Croissance Acceleree (SCA), la Grande Offensive Agricole pour la Nourriture et l'Abondance (GOANA), etc. sont progressivement mises en place en vue de relever significativement les performances socio-economiques et placer le pays sur un sentier de developpement humain durable. Il importe de noter, a cet effet, une politique d'amelioration de la gestion des finances publiques grace a une affectation strategique des ressources, une transparence dans l'execution des depenses publiques et une effectivite des controles interne et externe. C'est ainsi que d'importants resultats au plan economique et financier ont ete enregistres au cours de ces dernieres annees. En effet, la croissance economique reelle s'est situee en moyenne autour de 5% par an dans un contexte de maitrise de l'inflation et des autres fondamentaux de l'economie. L'inflation moyenne annuelle sur la periode 2000-2006 s'est situee a 2%, inferieure a celle des partenaires de l'Union Economique et Monetaire Ouest Africaine (UEMOA), grace notamment a une politique budgetaire et monetaire vertueuse et a un approvisionnement adequat des marches. La gestion budgetaire a ete caracterisee par un bon niveau de recouvrement des recettes fiscales et une gestion prudente des depenses budgetaires. En effet, les recettes fiscales ont progresse de 9% en moyenne annuelle sur la periode, ce qui s'est traduit par une hausse continue de la pression fiscale passant de 16,1% en 2000 a plus de 19% en 2006, nonobstant la baisse du taux d'imposition des societes. Les depenses budgetaires ont, quant a elles, evolue en ligne avec les priorites declinees dans le Document de Strategie de Reduction de la Pauvrete, avec notamment un accent dans les secteurs sociaux de base (education et sante) et les secteurs productifs. En effet, les secteurs de l'education et de la sante absorbent depuis 2004 plus de 50% du budget de fonctionnement.  Les principaux indicateurs sanitaires de l'Enquete Demographique et Sanitaire numero 4 (EDS IV), portant sur l'annee 2005, montrent que des progres ont ete realises mais que l'etat de sante de la mere et de l'enfant reste preoccupant :  - Taux de mortalite maternelle : de 434 pour 100.000 naissances vivantes (309 en zone urbaine contre 472 en zone rurale) ;  - Taux de mortalite infantile : 61 pour mille (52 en Zone urbaine contre 82 en Zone rurale) ;  - Taux de mortalite infanto juvenile : 121 pour mille (91 en zone urbaine contre 160 en zone rurale).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4- Le fardeau des maladies transmissibles, des risques chimiques et radiologiques",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.1-Les maladies transmissibles",
+      "texte": "Les maladies transmissibles constituent une preoccupation majeure au Senegal. Les annees 2009 et 2010 ont ete emaillees de flambees epidemiques. En 2009, 892 cas de rougeole ont ete confirmes par le laboratoire ou par un lien epidemique, de meme que 194 cas de Dengue de type 3. En 2010, 325 cas de grippe pandemique ont ete notifies plus dix huit (18) cas de poliomyelite de type 1.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Graphique 1 : Evolution des cas confirmes (par laboratoire ou lien epidemiologique) de rougeole, Senegal, annee 2009 vs annee 2010",
+          "axes": {"x": "Periode (mois, Janvier a Decembre)", "y": "Nombre de cas incidents"},
+          "donnees": [
+            {"periode": "Janvier", "annee_2009": "0", "annee_2010": "116"},
+            {"periode": "Fevrier", "annee_2009": "0", "annee_2010": "80"},
+            {"periode": "Mars", "annee_2009": "2", "annee_2010": "77"},
+            {"periode": "Avril", "annee_2009": "7", "annee_2010": "63"},
+            {"periode": "Mai", "annee_2009": "0", "annee_2010": "26"},
+            {"periode": "Juin", "annee_2009": "15", "annee_2010": "19"},
+            {"periode": "Juillet", "annee_2009": "18", "annee_2010": "19"},
+            {"periode": "Aout", "annee_2009": "144", "annee_2010": "19"},
+            {"periode": "Septembre", "annee_2009": "331", "annee_2010": "2"},
+            {"periode": "Octobre", "annee_2009": "146", "annee_2010": "4"},
+            {"periode": "Novembre", "annee_2009": "79", "annee_2010": "3"},
+            {"periode": "Decembre", "annee_2009": "96", "annee_2010": "1"}
+          ],
+          "tendances_observees": "Total annee 2009 (n=892) nettement superieur au total annee 2010 (n=428). Pic de cas en 2009 observe en septembre (331 cas). Annotations : Riposte dans 46 DS (mars 2010), Riposte a Dakar (octobre 2009), AVS Rougeole (novembre 2010)."
+        },
+        {
+          "type": "graphique",
+          "titre": "Graphique 2 : Evolution des cas confirmes de Dengue 3, Senegal, annee 2009",
+          "axes": {"x": "Periode (semaines, du 21 Sep/27 Sep au 28 Dec/03 Jan)", "y": "Nombre de cas incidents"},
+          "donnees": [
+            {"periode": "21 Sep / 27 Sep", "valeur": "4"},
+            {"periode": "28 Sep / 4 Oct", "valeur": "1"},
+            {"periode": "5 Oct / 11 Oct", "valeur": "3"},
+            {"periode": "12 Oct / 18 Oct", "valeur": "3"},
+            {"periode": "19 Oct / 25 Oct", "valeur": "22"},
+            {"periode": "26 Oct / 01 Nov", "valeur": "20"},
+            {"periode": "02 Nov / 08 Nov", "valeur": "29"},
+            {"periode": "09 Nov / 15 Nov", "valeur": "34"},
+            {"periode": "16 Nov / 22 Nov", "valeur": "38"},
+            {"periode": "23 Nov / 29 Nov", "valeur": "22"},
+            {"periode": "30 Nov / 06 Dec", "valeur": "9"},
+            {"periode": "07 Dec / 13 Dec", "valeur": "9"},
+            {"periode": "14 Dec / 20 Dec", "valeur": "1"},
+            {"periode": "21 Dec / 27 Dec", "valeur": "0"},
+            {"periode": "28 Dec / 03 Jan", "valeur": "0"}
+          ],
+          "tendances_observees": "Pic de cas atteint la semaine du 16 au 22 novembre 2009 avec 38 cas, suivi d'une decroissance rapide jusqu'a zero cas fin decembre."
+        },
+        {
+          "type": "graphique",
+          "titre": "Graphique 3 : Evolution des cas confirmes de poliomyelite de type 1, Senegal, annee 2010",
+          "axes": {"x": "Periode (mois, Janvier a Avril)", "y": "Nombre de cas incidents"},
+          "donnees": [
+            {"periode": "Janvier", "valeur": "3"},
+            {"periode": "Fevrier", "valeur": "7"},
+            {"periode": "Mars", "valeur": "6"},
+            {"periode": "Avril", "valeur": "2"}
+          ],
+          "tendances_observees": "Pic en fevrier (7 cas) puis decroissance progressive jusqu'en avril (2 cas). Annotations correspondant aux Journees Nationales de Vaccination : JNV1, JNV2, JNV3."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.4.2-Les risques chimiques",
+      "texte": "Le Senegal, dans le cadre de sa politique de developpement durable, accorde une place importante a la gestion des produits chimique. A ce titre, il a mis en place des strategies de reponse aux plans institutionnel, juridique, infrastructurel, financier et informationnel en vue de mettre en oeuvre les conventions internationales et de s'adapter aux changements intervenus au niveau mondial en la matiere.  Dans le cadre de ce rapport, la situation de reference est l'annee 2002, date de la derniere reactualisation du profil national du Senegal sur la gestion des produits chimiques. Pour evaluer les progres realises, identifier les contraintes et les perspectives et enfin, les principaux defis a relever a l'echelle nationale, sous-regionale et regionale.  (Sources : http://www.un.org/esa/dsd/dsd_aofw_ni/ni_pdfs/NationalReports/senegal/gestion_des_produits_chimiques.pdf)",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.2.1. Analyse de la situation",
+      "texte": "Le diagnostic de la situation du pays en matiere de gestion des produits chimiques avait permis de determiner globalement :  - les donnees sur la production, l'importation, l'exportation et l'utilisation des produits chimiques et les problemes prioritaires afferents a leur usage dans les activites de developpement ;  - les instruments juridiques et mecanismes non reglementaires mis en place et les implications au niveau international ;  - les capacites techniques et les ressources disponibles ;  - les aspects informationnels.  Au Senegal, les produits chimiques sont utilises dans plusieurs secteurs parmi lesquels :  - l'agriculture, ou ils servent d'intrants agricoles (pesticides, engrais) ;  - les industries avec plus d'une centaine d'entreprises industrielles en 2001 qui les utilisent comme matieres premieres ou les produisent ;  - la sante publique et/ou la sante animale, comme desinfectants et/ou medicaments.  Le commerce des produits chimiques equivaut a un marche interieur de cent vingt et un (121) milliards de francs CFA par an. Dans ce marche, le secteur industriel joue un role important, notamment avec des entreprises de production d'acide phosphorique, d'engrais et de formulation de pesticides agricoles et sanitaires.  Les problemes qui avaient ete identifies dans le cadre du profil national se resument aux cas d'empoisonnement causes par les residus de pesticides dans les aliments, aux atteintes a la sante en milieu professionnel et rural, a la gestion des dechets dangereux issus de l'utilisation des produits chimiques et aux accidents industriels.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.2.2- Instruments juridiques, mecanismes non juridiques et implication au niveau international",
+      "texte": "Deja en 2002, le Senegal avait ratifie plusieurs conventions internationales relatives aux produits chimiques. Il s'est dote egalement de textes nationaux pour les prendre en compte dans son droit positif et renforcer son arsenal juridique en la matiere.    a) Apercu sur les textes internationaux  Parmi les conventions et instruments relatifs aux produits chimiques, nous pouvons citer :  - la Convention de Vienne pour la protection de la couche d'ozone (ratifiee en mars 1985) et le Protocole de Montreal (ratifie en mai 1993) ;  - la Convention de Rotterdam sur la procedure de consentement prealable en connaissance de cause applicable a certains produits chimiques et pesticides dangereux qui font l'objet d'un commerce international (ratifiee en juillet 2001) ;  - la Convention de Stockholm sur les Polluants Organiques Persistants signee en mai 2001 et ratifiee en octobre 2003 ;  - la Convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction signee le 13 janvier 1993 et ratifiee le 25 mars 1998 ;  - la Reglementation Commune du CILSS sur l'homologation des pesticides signee en 1990 et ratifiee en 2002 ;  - la Convention BIT n° C013 contre l'emploi de la ceruse dans la peinture ;  - Le Code international de conduite pour la distribution et l'utilisation des pesticides de l'Organisation des Nations Unies pour l'Alimentation et l'Agriculture (FAO) de 1985 ;  - Le Code d'Ethique sur le commerce international des produits chimiques d'avril 1994 sur les principes et directives du secteur prive pour l'application de regles de conduite visant a gerer rationnellement les produits chimiques.    b) Dispositif legal et reglementaire national  Au niveau national, la loi n°2001-01 du 15 janvier 2001 portant code de l'environnement est le principal instrument juridique en matiere de gestion des produits chimiques. Il pose le principe d'une gestion ecologiquement rationnelle desdits produits en integrant les conventions internationales auxquelles le Senegal a souscrit. Ce code introduit dans notre droit positif, la systematisation de l'evaluation environnementale prealable qui sous-tend les autorisations relatives aux activites ayant trait a l'usage des produits chimiques. Il renforce aussi la gestion des risques d'accidents chimiques en mettant a niveau la legislation sur les installations classees. Le code est complete par un decret d'application n° 2001-282 du 12 avril 2001 qui reglemente les modalites de gestion des produits chimiques.  Il est important de souligner que l'une des innovations majeures du Code de l'environnement est la consecration d'une Commission nationale de Gestion des Produits Chimiques (CNGPC) [La CNGPC a ete consacree par le Code en son article L 45. Elle a ete creee par arrete ministeriel n° 000852 du 08 fevrier 2002.], qui est une plateforme institutionnelle de coordination dans ce domaine.  L'autre innovation importante est la consecration d'une reglementation basee sur une approche cycle de vie du produit chimique, qui prend en compte toutes les etapes allant de la production a l'importation, a l'elimination et au recyclage.  Notons aussi que ladite loi, en prenant en compte les grandes orientations strategiques definies au niveau international, abrogeait certaines dispositions de la loi n° 84-14 du 02 fevrier 1984 qui ne concernait que les specialites agro pharmaceutiques et assimiles.  D'autres textes legislatifs et reglementaires ont ete pris aussi pour assurer une meilleure gestion des risques lies aux produits chimiques, notamment :  - la loi n°97-17 du 1er decembre 1997 portant code du travail en son titre XI relatif a l'hygiene et a la securite et ses textes d'application ;  - la loi 73-37 du 31 juillet 1973 portant code de la securite sociale en son chapitre IV titre II et ses textes d'application ;  - l'arrete interministeriel n°04862/MEPN/MEMI/M.INT du 14 juillet 1999 rendant obligatoire le Plan d'Operation Interne (POI).  Le dispositif reglementaire est complete par des normes techniques parmi lesquelles on peut citer :  - la norme NS 03-045 sur le taux admissible de cadmium dans les produits de la peche et la methode de determination ;  - la norme NS 03-046 sur le taux admissible de mercure dans les produits de la peche et la methode de determination ;  - la norme NS 03-047 sur le taux admissible d'anhydride sulfureux dans les produits de la peche et la methode de determination.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.2.3- Mesures concretes et progres realises",
+      "texte": "Au regard des problematiques majeures (Intoxications humaines, presence de residus de pesticides dans les aliments, problemes de sante, d'elimination des dechets dangereux, accidents chimiques industriels, etc.) liees au cycle de vie des produits chimiques, le Senegal a realise un certain nombre de progres axes principalement sur la reglementation, le renforcement des capacites techniques et financieres et la sensibilisation des differentes parties prenantes. Pour une bonne coordination de toutes ces actions, des orientations strategiques ont ete definies dans le cadre de la mise en oeuvre des conventions internationales sur les produits chimiques. Ces mesures contribuent a limiter voire eliminer les risques lies aux produits chimiques dans le but de proteger l'environnement et la sante humaine.    a) Orientations strategiques en matiere de gestion de produits chimiques  En terme de planification strategique, voire operationnelle pour la mise en oeuvre des conventions sur les produits chimiques, le Senegal a elabore les documents de reference ou outils d'aide a la decision suivants :  - le profil national de gestion des produits chimiques de decembre 2002 ;  - le profil national sur la gestion des Polluants organiques persistants (POPs) de janvier 2004 ; l'inventaire national des Polychlorobiphenyls (PCB) de mars 2003 ;  - le plan national de mise en oeuvre de la Convention de Stockholm sur les POPs de 2005 ;  - le plan de Gestion de l'Elimination Finale des fluides frigorigenes (PGEF) de novembre 2007.    b) Renforcement du cadre juridique et mesures d'application  Au niveau national  Le Senegal a renforce son arsenal juridique en matiere de gestion du cycle de vie des produits chimiques, en particulier des POPs pour adapter sa politique de maitrise des risques chimiques a une situation sans cesse evolutive, eu egard a des comportements nouveaux lies a la pauvrete et a la mondialisation des echanges.  Ainsi, l'arrete primatoral n°09415 du 06 novembre 2008 interdit l'importation, la production et l'utilisation des pesticides et des produits chimiques vises par la Convention de Stockholm sur les POPs.  De meme des textes reglementaires sur l'usage des substances appauvrissant la couche d'ozone completent ce dispositif (decret 2000-73 du 31 janvier 2000 portant reglementation de la consommation de substances appauvrissant la couche d'ozone et arrete interministeriel n° 08874 du 08 novembre 2001 reglementant la consommation desdites substances).  Il est important de noter que ces mesures reglementaires ont permis de reduire de 95% la consommation senegalaise en CFCs entre 1994 et 2008, ceci grace a une gestion rigoureuse d'attribution de quotas.  On peut souligner, par ailleurs, qu'un processus de mise a niveau de la legislation nationale sur les produits chimiques est en cours d'elaboration. Le but vise est de renforcer la gestion integree des produits chimiques, de completer et de preciser les dispositions generales contenues dans le code de l'environnement pour mieux prendre en charge les priorites nationales et les questions emergentes en la matiere.  D'une maniere specifique, et pour repondre a l'utilisation incontrolee de certaines spirales anti-moustiques reputees nocives pour la sante humaine, un projet d'arrete interministeriel relatif a l'interdiction d'importer, d'exporter, de formuler et de distribuer celles contenant de l'Octachlorodipropyl Ether (S 421) a ete elabore.    Aux niveaux sous-regional, regional et international  Le Senegal a ratifie en 2002 l'accord relatif a la reglementation commune aux Etats membres du CILSS sur l'homologation des pesticides. Il a, par ailleurs, interdit la distribution et l'utilisation de l'endosulfan respectivement en 2007 et 2008, conformement a la decision prise par le Comite sahelien des Pesticides (CSP). Cette mesure a ete notifiee au Secretariat de la Convention de Rotterdam. Conformement a cette dite convention, il a notifie des reponses d'importation pour trente et un (31) produits chimiques sur les quarante et un (41) inscrits sur la liste des produits soumis a la procedure du consentement prealable.  Une notification faite au secretariat de la Convention de Rotterdam a fait l'objet d'un Document d'aide a la decision (DOD) adopte par la Conference des Parties. Ce DOD a permis l'inscription de deux (02) preparations de pesticides extremement dangereuses sur la liste PIC. Il s'agit du Granox TBC et du Spinox T.  Par ailleurs, le Senegal a adopte, conformement a la Convention internationale sur les armes chimiques, la loi n° 2006-36 portant sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, dans laquelle est determinee la liste des produits concernes.    c) Renforcement des capacites techniques et financieres  Dans ce volet, le Senegal a surtout ameliore ses infrastructures techniques destinees a la production de donnees et a la toxico-vigilance et, mene une politique de formation des differentes parties prenantes. L'Etat a aussi soutenu financierement des institutions techniques.  Le Senegal disposait en 2002 d'un parc de laboratoires relativement important ayant des capacites en matiere de controle et de suivi environnemental des produits chimiques. Ces laboratoires sont repartis entre l'administration publique, le secteur prive et celui de l'enseignement et de la recherche. Ces laboratoires ont des capacites analytiques developpees. Ils se sont inscrits dans une demarche qualite grace a l'accreditation et a l'adoption des Bonne Pratiques de Laboratoire (BPL). Par ailleurs, le Senegal a acquis en 2006 un laboratoire mobile pour le controle de la qualite de l'air.  En application de la resolution du 3eme Forum du Comite Intergouvernemental sur la Securite Chimique (FISC), il a aussi ete cree un Centre Anti-Poison. Ce centre a pour principale mission d'assurer la prevention des intoxications causees par les xenobiotiques, notamment les pesticides et les produits chimiques industriels et, l'amelioration de leur prise en charge et la surveillance de leurs effets sur la sante humaine.  Dans cette meme optique, le Centre regional de Recherches en Eco-toxicologie et Securite Environnementale, denomme \"Fondation CERES-Locustox\", reconnue d'utilite publique, par le decret n° 99-1297 du 31 decembre 1999, a developpe des capacites d'evaluation des residus de pesticides et des POPs dans les matrices prioritaires, dont le lait maternel. Cette maitrise technique positionne cette structure d'expertise comme un laboratoire de reference au niveau sous-regional, voire regional. Ses capacites techniques peuvent etre capitalisees dans le cadre de l'evaluation mondiale des POPs.  Egalement, le Senegal en se basant sur une expertise nationale, a realise une cartographie des risques d'accidents majeurs sur l'ensemble du territoire national. Cette cartographie prend en compte les risques toxiques lies a l'utilisation de substances chimiques dangereuses comme le chlore et l'ammoniac.  En matiere de formation, il faut souligner la tenue d'ateliers techniques relatifs aux trois (03) conventions sur les produits chimiques et au Systeme General Harmonise d'Etiquetage et de Classification (SGH). Ces formations ont ete realisees au profit de la Commission nationale de Gestion des Produits Chimiques pour lui permettre de jouer son role avec efficacite.  Cependant, l'une des cibles prioritaires en matiere de renforcement des capacites techniques a ete l'administration douaniere, eu egard a sa mission de controle de l'entree des produits chimiques sur le territoire national. C'est dans ce cadre que des ateliers de formation sur le controle des CFC et sur la nomenclature internationale sur les POPs ont ete organises au profit des douaniers.  Soulignons qu'en entreprise, les Comites d'Hygiene et de Securite (CHS) constituent un cadre de formation et d'education des travailleurs.  En matiere de mobilisation de ressources financieres internes, des avancees ont ete notees. Par exemple, le Ministere charge de l'Environnement a beneficie de ressources relativement importantes pour promouvoir le role du Senegal et de l'Afrique dans la gouvernance mondiale des produits chimiques, a travers l'organisation de deux (02) Conferences des Parties (COP) respectivement pour la Convention de Stockholm et celle de Vienne et de son protocole sur les substances appauvrissant la couche d'ozone (SAO).    d) Mesures d'accompagnement  Les mesures d'accompagnement qui ont ete mises en oeuvre concernent particulierement la sensibilisation des acteurs pour asseoir une gestion ecologiquement rationnelle des produits chimiques, la recherche et la promotion d'alternatives durables.  Des ateliers de sensibilisation et d'information a l'attention de la societe civile et de la presse ont ete tenus par l'administration sur les aspects suivants :  - les risques d'accidents ;  - la reutilisation du DDT ;  - les accords internationaux ;  - le SGH.  Quant au secteur prive, il a organise des ateliers de formation pour les journalistes et les distributeurs de pesticides sur la legislation.  Concernant les POPs, un depliant et un film documentaire ont ete elabores a l'attention du grand public. De meme, une etude socio-economique sur l'utilisation des POPs a ete realisee en novembre 2004, pour faciliter une meilleure prise de decision des autorites en matiere de reglementation.  La mise en place d'un reseau d'echange d'informations sur les produits chimiques et la creation d'une page Web constituent egalement l'une des actions transversales les plus pertinentes, au regard des lacunes constatees dans le domaine du partage et de la centralisation des donnees.  De meme, en vertu de la sauvegarde des ressources en sols, le Senegal promeut la gestion durable des terres. Cette politique est menee a travers le developpement de techniques averees de fertilisation raisonnee, la diffusion des meilleurs usages a faire des engrais chimiques et le controle de leur qualite.    e) Initiatives aux niveaux sous-regional et regional et leadership dans la gouvernance des produits chimiques  Le Senegal participe activement a la concertation sous-regionale (CEDEAO/UEMOA) pour amener les Etats a harmoniser leurs politiques commerciales et environnementales en matiere de gestion des produits chimiques. Il accorde une priorite a cette initiative compte tenu de la porosite des frontieres et de la place de ses infrastructures portuaires dans le commerce sous-regional, voire international.  Dans cette meme logique, le Senegal est partie prenante au processus d'harmonisation sous-regionale avec l'integration du SGH dans le volet etiquetage et emballage du dossier d'homologation du CSP. Il est particulierement favorable a cette harmonisation car il se prepare a appliquer le SGH or, sans cette mise en synergie, ce systeme risquerait de perdre son efficacite.  Concernant la gestion ecologiquement rationnelle des PCBs, notre pays a pris part au «Projet Regional des PCBs». Ce projet avait pour objectifs de reduire les risques environnementaux et de sante publique dus a l'exposition aux rejets de PCBs dans quatorze (14) pays (Benin, Burkina Faso, Congo, Cote d'Ivoire, Djibouti, Guinee, Guinee Bissau, Mali, Maroc, Mauritanie, Niger, Senegal, Tchad, Togo) d'Afrique de l'Ouest.  En matiere de gouvernance regionale et internationale dans le domaine de la gestion des produits chimiques, le Senegal a eu a presider la COP a la Convention de Stockholm sur les POPs et celle de Vienne sur les SAO, ainsi que la rencontre des parties au Protocole de Montreal en 2005. Il a egalement abrite une rencontre du Forum Intergouvernemental sur la Securite Chimiques (FISC) et une autre sur l'Approche Strategique sur la Gestion internationale des Produits chimiques (SAICM). Le Senegal a aussi obtenu le prix du meilleur Bureau Ozone en 2003 en meme temps que les Iles Fidji, la Jamaique et la Chine.  L'engagement du Senegal a permis de mieux defendre et de faire valoir les priorites africaines relatives a la mise en oeuvre des «conventions chimiques». Ce leadership s'est affirme par l'integration de la problematique de la gestion des produits chimiques dans l'Initiative environnementale du Nouveau Partenariat pour le Developpement de l'Afrique (NEPAD).  Presentement, le Senegal assure la vice-presidence du Bureau de la Conference Internationale sur la Gestion des Produits Chimiques.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.2.4. Enseignements tires et bonnes pratiques",
+      "texte": "La problematique de l'utilisation raisonnee et a grande echelle de produits de diverse nature a montre la necessite de mettre en place des cadres de concertation pour mieux apprehender la question de la securite chimique. C'est ainsi que ces dernieres annees, l'Etat du Senegal a beaucoup investi dans la formation et la communication. A titre d'exemple, on peut citer dans le cadre de l'evaluation des strategies d'exposition et de surveillance de l'environnement, la creation d'une cellule de suivi environnemental des traitements phytosanitaires contre les criquets pelerins. Cette cellule a pour mission de surveiller l'environnement apres les traitements chimiques contre ces ravageurs. Elle regroupe des specialistes en la matiere : medecins, veterinaires, toxicologues, eco-toxicologistes biologistes, environnementalistes, pedologues, etc.  Par ailleurs, la formation des utilisateurs est un point important. Dans les politiques et les cadres pour la prevention des accidents lies aux produits chimiques, le departement de l'agriculture a institue une formation permanente de tous les acteurs des interventions chimiques sur l'ensemble du territoire (membres des Comites de Lutte Villageois (CLV), chauffeurs, applicateurs, baliseurs). Un plan de communication a l'intention des populations des zones traitees a ete aussi deroule.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.2.5- tendances et questions emergentes",
+      "texte": "A ce niveau, trois (03) domaines prioritaires peuvent etre explores, a savoir :  - la gestion integree a travers la SAICM ;  - la synergie entre les Conventions de Rotterdam, de Stockholm et de Bale ;  - la gestion des substances toxiques.    a) La gestion integree a travers l'Approche strategique sur la Gestion internationale des produits chimiques (SAICM)  Concernant la SAICM, le Senegal mene des efforts importants pour mobiliser des ressources pour son operationnalite aux niveaux national et sous-regional. C'est ainsi qu'un projet national relatif a la reactualisation de son profil national de gestion des produits chimiques et un projet avec le Mali sur les risques d'accidents chimiques sont en instruction au niveau du Quick Start Program (QSP). Ce dernier projet sous-regional vient renforcer le projet d'Appui au Programme National de Prevention, de Reduction des Risques majeurs et de Gestion des Catastrophes naturelles au Senegal dans le contexte de la Reduction de la Pauvrete, qui integre un volet sur les risques technologiques, en particulier les risques chimiques.    b) La synergie des conventions sur les produits chimiques  Dans le domaine de la synergie, nous pouvons noter une reelle volonte de prise en charge des dechets dangereux lies a une utilisation rationnelle des produits chimiques. C'est ainsi que quatre cent vingt neuf (429) tonnes de pesticides perimes, des contenants souilles et des sols contamines ont ete collectes, transportes et detruits en Allemagne en 2003 grace aux procedures de la Convention de Bale.  L'un des modeles de reussite dans ce domaine demeure le programme de controle de la qualite des traitements anti-acridiens (QUEST) qui prend en charge tout le cycle de vie des pesticides utilises dans la lutte contre le peril acridien, depuis le choix du produit jusqu'a son elimination en passant par son utilisation rationnelle. Ce programme permet non seulement de reduire les niveaux d'exposition des travailleurs en milieu rural et la contamination du sol, mais egalement de minimiser la production de dechets dangereux (stocks de pesticides obsoletes, accumulation des contenants souilles).    c) La gestion des substances toxiques  La systematisation de l'evaluation environnementale prealable prevue par le code minier avant tout permis d'exploitation, permet de mieux prendre en compte, de facon integree, la gestion des substances dangereuses comme le mercure et le cyanure dans l'exploitation de l'or a l'Est du Senegal.  Par ailleurs, des actions isolees et ponctuelles sont menees dans le domaine de la sensibilisation sur les risques lies a l'utilisation du mercure et sur les meilleures techniques et pratiques disponibles pour le secteur informel. Ces actions ciblent particulierement la zone de Kedougou ou l'exploitation artisanale de l'or est assez developpee. A ce niveau, nous pouvons noter un travail de sensibilisation et de formation sur l'utilisation d'un mode de production durable dans le domaine de l'orpaillage pour eviter les intoxications liees au mercure.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.2.6- Contraintes, defis et perspectives",
+      "texte": "a) Contraintes  Malgre les progres considerables realises en matiere de gestion ecologiquement rationnelle des produits chimiques, force est de constater qu'il existe encore beaucoup de difficultes dans le controle des substances utilisees et/ou rejetees dans l'environnement. En effet, on retrouve beaucoup de substances persistantes, bio-cumulatives et/ou toxiques dans l'environnement.  On constate des problemes de pollution atmospherique, marine ou terrestre. Il faut noter que le Senegal est un pays qui utilise beaucoup d'engrais et de pesticides dans l'agriculture. Or, les depots de substances chimiques polluantes, les pratiques sommaires d'elimination, la mauvaise utilisation des pesticides et des engrais degradent considerablement les sols, avec des consequences nefastes sur la sante humaine, les ressources biologiques, les ecosystemes et les ressources en eaux.  Au Senegal, le transport des substances dangereuses, leur stockage et leur utilisation ne sont pas totalement maitrises. C'est la raison pour laquelle on y enregistre des cas d'intoxication des populations et d'accidents chimiques en milieu industriel.  En outre, on peut noter que l'Administration ne dispose pas d'un personnel technique suffisant ainsi que des ressources financieres devant etre affectees specifiquement a la gestion efficace des produits chimiques.  On peut relever aussi :  - la faiblesse dans l'application de la reglementation internationale et nationale ;  - la difficulte d'articuler la gestion des produits chimiques a la lutte contre la pauvrete, qui rend complexe le developpement de projets economiquement viables et la mobilisation de ressources financieres ;  - le dephasage entre l'ampleur de la mission de la CNGPC et la faiblesse des ressources humaines et financieres dont elle dispose ;  - la forte dependance par rapport aux ressources exterieures pour la gestion des produits chimiques et le manque d'autonomie financiere de la CNGPC ; la faiblesse des capacites techniques pour la veille informationnelle, le suivi et l'action ; la faiblesse de l'implication des centres d'expertise prives, notamment des laboratoires dans le controle des produits chimiques ;  - l'absence d'une mutualisation des ressources pour la gestion des produits chimiques, en particulier au niveau des laboratoires publics et prives ;  - l'ineffectivite d'un cadre d'harmonisation dans la gestion des produits chimiques et de suivi-evaluation compte tenu des difficultes de fonctionnement du CNGPC ;  - le faible niveau d'education des utilisateurs du secteur informel et du milieu rural et la pauvrete des segments sociaux ;  - la faiblesse des capacites de reaction rapide aux changements lies au commerce international des produits chimiques induits par la reglementation dans les pays developpes, en particulier dans l'UE et, a la forte progression des echanges avec les Etats asiatiques emergents ;  - la difficulte d'acces et d'exploitation des donnees sur la gestion des produits chimiques du fait de leur format ;  - l'absence d'une nomenclature harmonisee ;  - la faiblesse de mise en reseau des bases de donnees existantes, d'une centralisation et d'un manque de procedures formelles dans la collecte et la diffusion des informations ;  - la faiblesse des mecanismes d'education et de sensibilisation sur les risques lies aux produits chimiques, en particulier dans le milieu rural et dans le secteur informel ;  - la faiblesse d'utilisation systematique par les populations d'equipements de protection individuelle ;  - la faiblesse d'une gestion ecologique des emballages souilles ;  - la non-fonctionnalite des equipes QUEST locales.    b) Defis  Pour lever ces contraintes, les defis que le Senegal se propose de relever en priorite sont declines ci-dessous :  - l'acceleration du renforcement du cadre juridique et son application effective ;  - le renforcement d'une gestion axee sur l'analyse de cycle de vie des produits chimiques et son autofinancement ;  - le renforcement des capacites et des actions de la CNGPC ;  - le renforcement de la cooperation bilaterale et multilaterale dans le domaine de la gestion des produits chimiques ;  - la promotion de la gestion des produits dans les strategies de reduction de la pauvrete, les politiques industrielle, agricole et sanitaire ;  - la maitrise et la vulgarisation de l'information en vue d'un meilleur ciblage des interventions ;  - la coordination des actions au niveau strategique et operationnel, conformement aux engagements souscrits aux plans sous-regional, regional et international ;  - la participation des acteurs de la societe civile a la sensibilisation pour l'application de la reglementation ;  - la sensibilisation et une plus grande implication des centres d'expertise prives, notamment des laboratoires dans le controle des produits chimiques.    c) Perspectives  Dans le cadre des initiatives visant a reduire la dependance excessive par rapport a l'utilisation de produits chimiques agricoles, le departement de l'agriculture est en train de tester et d'utiliser a grande echelle une nouvelle gamme de pesticides naturels, «propre» pour l'environnement et la sante des utilisateurs et des consommateurs : il s'agit du GREEN-MUSCLE dont le principe actif est le Metarhizium flavoviride (5.10^10 spores/gr).  Concernant les alternatives a l'utilisation des produits chimiques, le Senegal developpe une recherche/action en milieu rural assortie d'une large communication/sensibilisation/formation des utilisateurs de pesticides dans le cadre de la Gestion integree de la Production et des Depredateurs (GIPD).  Un decret sur le transport de matieres dangereuses base sur les principes et lignes directrices du SGH ainsi qu'un arrete primatoral pour l'application dudit systeme sont en cours d'adoption.  Notons aussi, l'existence d'un guide d'etude de danger qui permettra d'harmoniser l'evaluation des risques chimiques dans le cadre des etudes d'impacts sur l'environnement. Ce guide prend en compte le transport, l'utilisation et/ou le stockage des produits ou substances chimiques dangereuses.  Concernant les substances dangereuses, un projet de decret sur le plomb (dans les batteries usagees) et sur le mercure (contenu dans certains equipements) est en cours d'elaboration [Ce projet de reglementation fait suite au deces de dix huit (18) enfants contamines par du plomb provenant d'une activite de recuperation dans les batteries automobiles usagees dans la banlieue de Dakar (a Thiaroye Sur Mer)]. Signalons aussi l'elaboration d'un texte reglementaire pour l'application obligatoire du SGH.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.2.7- Etudes de cas ou pratiques de reference",
+      "texte": "L'alerte et la surveillance eco toxicologique grace a la mise en place d'un Centre national Anti-Poison  Le Centre Antipoison comme souligne plus haut, a pour mission d'assurer la prevention des intoxications causees, entre autres, par les medicaments, les pesticides, les produits menagers ou industriels et les plantes, mais aussi d'ameliorer leur prise en charge et de surveiller leurs effets sur la sante.  Les activites de ce centre vont de la recherche a la sensibilisation des producteurs et des utilisateurs des produits chimiques, notamment dans les domaines suivants :  - expertise pour une bonne utilisation des produits chimiques dangereux (formation des formateurs pour une bonne prise en charge des cas d'intoxication par les pesticides lors de l'aspersion intra-domiciliaire dans la lutte anti-vectorielle) ;  - etude de recherche des POPS dans le lait maternel (enquete nationale commanditee par l'OMS) ;  - prevention et sensibilisation des populations de Kedougou dans l'usage du mercure dans l'orpaillage ;  - campagnes de sensibilisation sur l'utilisation des pesticides dans les regions du Sud du Senegal ;  - activites de sensibilisation, de depistage des populations intoxiquees par le plomb a Thiaroye sur Mer ;  - activites de suivi toxicologique, pharmacologique et biologique des enfants intoxiques par le plomb et pris en charge au niveau de l'hopital de Pikine ;  - plaidoyer pour l'acquisition des chelateurs pour le traitement des enfants malades ;  - renforcement des capacites du personnel par des formations sur la pharmacovigilance, sur le logiciel INTOX (base de donnees des produits chimiques et des plantes) et sur la toxicologie en general ;  - recherche et formation (encadrement des theses en pharmacie et memoire) ;  - atelier de reflexion et de preparation d'un seminaire regional pour une meilleure connaissance et une meilleure prise en charge des morsures de serpents dans les pays de la CEDEAO.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4.3-Les risques radiologiques",
+      "texte": "Les risques radiologiques ne sont pas negligeables au Senegal, ce qui a motive la creation de d'une direction de la radioprotection au niveau de la primature.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.5-Systeme de sante",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.5.1-Organigramme du ministere charge de la sante",
+      "texte": "Le ministere charge de la sante est subdivise en directions, services nationaux et autres bureaux.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "organigramme",
+          "titre": "Graphique 4 : Organigramme du Ministere de la Sante, de l'Hygiene Publique et de la Prevention, Senegal, Novembre 2011",
+          "description": "Organigramme hierarchique. Au sommet : Ministere. En dessous : Secretariat General. Le Secretariat General se divise en : Bureau Legislation (relie a Bureau Gestion Archives), Bureau Courrier (relie a Cellule Passation des Marches), et Cabinet (relie aux Regions Medicales). Le Cabinet se divise en Services rattaches et Services propres. Services rattaches : Inspection de la Sante, Cellule Informatique, Laboratoire National de Controle des Medicaments, Cellule d'Appui et de Suivi du Plan National de Developpement Sanitaire, Cellule d'Appui au Financement de la Sante et au Partenariat, Service National de l'Information sanitaire, Service National D'Education et d'Information pour la Sante, Service National d'Hygiene. Services propres : Direction de la Sante, Direction des Etablissements de Sante, Direction de la Prevention Medicale, Direction de l'Administration Generale et de l'Equipement, Direction des Ressources Humaines, Direction de l'Hygiene Publique, Direction des Equipements Medicaux, Direction de la Pharmacie et des Laboratoires, Direction de Prevention Individuelle et Collective."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.5.2-Distribution des services de sante",
+      "texte": "Les distributions des services de sante se fait de maniere pyramidale, allant de la case de sante a la base au centre hospitalier national au sommet.  Case de sante : structure de soins de sante primaires situees au sein des villages et delivrant principalement des soins promotionnels preventifs et curatifs. Elle est tenue par un ASC (Agent de Sante Communautaire).  Poste de sante : structure de sante de premier niveau sans lit situe au niveau des communes et communautes rurales offrant des soins promotionnels preventifs curatifs et de readaptation. Il est dirige par un Infirmier diplome d'Etat.  Centre de sante : C'est le premier niveau ou l'on trouve un medecin. On y mene des activites de soins et d'hospitalisation, des activites de maternite, de laboratoire, etc. C'est la structure de reference des postes de sante.  Hopital regional ou CHR : Plusieurs medecins y travaillent, surtout des specialistes : ORL, Radio, Ophtalmo., Gyneco-Obstetrique, etc. On y mene des activites de soins, d'hospitalisation, de laboratoire, etc. C'est la structure de reference des centres de sante.  CHN : C'est le domaine des specialites les plus elevees de la pyramide sanitaire ; c'est egalement le lieu de formation des etudiants (Medecine, Pharmacie et Odonto-Stomatologie), du personnel en specialisation, etc.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schema",
+          "titre": "Pyramide sanitaire du Senegal",
+          "description": "Schema en forme de pyramide illustrant la distribution des services de sante, du sommet a la base : CHN (Centre Hospitalier National), CHU (Centre Hospitalier Universitaire), CHR (Centre Hospitalier Regional), Centre de Sante, Poste de Sante, Case de Sante."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.5.3-Ressources humaines",
+      "texte": "(Plan National de Developpement Sanitaire en Sante 2009-2018)  Le developpement des ressources humaines du secteur a necessite l'elaboration en 1996, d'un plan national de formation du personnel de sante. Ce plan a ete renforce en 2002 par l'ouverture des Centres Regionaux de Formation, la creation en 2003 de la Direction des Ressources Humaines (DRH) et la mise en oeuvre d'une politique de contractualisation.  Malgre les efforts consentis pour renforcer les effectifs, les indicateurs de couverture en personnel montrent qu'on est encore tres loin des normes deja proposees dans le PNDS 1998-2007. Cette situation decoule essentiellement de trois facteurs : (i) l'insuffisance des effectifs admis au niveau des structures de formation notamment dans les Universites ; (ii) la non maitrise du processus de recrutement dans la fonction publique qui est de la competence du ministere en charge qui, en definitive, decide du calendrier et de la nature du personnel a recruter ; (iii) l'insuffisance des mesures incitatives pour fideliser le personnel et reussir une meilleure repartition geographique. Le deficit en personnel est surtout important au niveau des zones difficiles et eloignees de Dakar. Une des causes est l'instabilite du personnel du fait d'un manque de motivation et d'un cadre de vie adequat. Il s'y ajoute l'absence d'un plan de releve. Des initiatives ont ete prises pour ameliorer la couverture en personnel dans ces zones (indemnites d'eloignement, contractualisation des postes dans les structures situees en zones difficiles). Toutefois, elles sont restees au stade experimental et meritent, par consequent, d'etre poursuivies et renforcees. Un effort a ete fait avec l'etude sur le developpement des ressources humaines de 2005 dont les recommandations tardent, toutefois, a etre mises en oeuvre. Le premier plan de formation qui a ete elabore dans le cadre du PNDS 1998-2007 est arrive a terme sans que la reflexion ne soit entamee pour un nouveau plan de formation. Deux outils, en plus du plan de developpement des ressources humaines, devraient etre systematises : (i) le plan de formation et (ii) la gestion informatisee du personnel.  Le tableau de synthese ci-dessous montre que le deficit en personnel soignant par rapport aux normes du PNDS interesse les sages femmes. En effet, les ratios personnel/population sont passes, entre 1994 et 2008, de 1 sage femme pour 3623 FAR (Femme en Age de Reproduction) a 1 sage femme pour 3946 FAR dans le secteur public alors que pour les infirmiers, ils passent de 1 infirmier pour 4687 habitants a 1 infirmier pour 4183 habitants. Cette situation intervient dans un contexte de decentralisation de la formation des infirmiers et du renforcement des capacites des Instituts de formation du prive. Le deficit note chez les sages femmes s'explique par l'insuffisance des effectifs formes mais egalement par les departs pour des raisons de retraite ou autres migrations, phenomenes jusque la non maitrises. Cette situation pose avec acuite la necessite d'avoir un plan de developpement des ressources humaines.  Pour les medecins, par contre, on note un progres avec un ratio qui passe de 1 medecin pour 27833 habitants a 1 medecin pour 18615 habitants dans le secteur public. Cette progression est encore plus nette si on tient compte du secteur prive. La part importante des medecins du prive (41%) rend encore plus evidente la necessite pour le ministere de la sante de mettre en place une politique d'integration du secteur prive dans la mise en oeuvre des programmes de sante. Dans tous les cas, la resorption du deficit en personnel et le reequilibrage generalistes/specialistes necessitera une collaboration accrue entre le ministere de la sante, l'universite et les ecoles de formation professionnelle en sante.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau I : Repartition des categories professionnelles selon les normes, Senegal, 2007",
+          "colonnes": ["Categories", "Normes OMS", "Normes PNDS", "Couverture atteinte en 2007"],
+          "lignes": [
+            {"Categories": "Medecin", "Normes OMS": "1 pour 1.000 habitants", "Normes PNDS": "Definies selon les types de structures", "Couverture atteinte en 2007": "1 pour 11.000 habitants"},
+            {"Categories": "SFE", "Normes OMS": "1 pour 300 habitants", "Normes PNDS": "1 pour 5.000 habitants", "Couverture atteinte en 2007": "1 pour 4.200 habitants"},
+            {"Categories": "Infirmiers", "Normes OMS": "1 pour 300 FAR", "Normes PNDS": "1 pour 1.500 a 2.000 FAR", "Couverture atteinte en 2007": "1 pour 4.000 FAR"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau II : Repartition des categories professionnelles selon les secteurs, Senegal, Annee 1994-2007",
+          "colonnes": ["Categories", "Secteur public - Effectif 1994", "Secteur public - Effectif 2008", "Secteur public - Ratio 2008", "Secteur prive - Effectif 1994", "Secteur prive - Effectif 2008", "Effectif total", "Ratio total 2008"],
+          "lignes": [
+            {"Categories": "Medecin", "Secteur public - Effectif 1994": "292", "Secteur public - Effectif 2008": "624", "Secteur public - Ratio 2008": "18.615", "Secteur prive - Effectif 1994": "348", "Secteur prive - Effectif 2008": "436", "Effectif total": "1.060", "Ratio total 2008": "10.958"},
+            {"Categories": "SFE", "Secteur public - Effectif 1994": "516", "Secteur public - Effectif 2008": "677", "Secteur public - Ratio 2008": "3.946", "Secteur prive - Effectif 1994": "44", "Secteur prive - Effectif 2008": "ND", "Effectif total": "ND", "Ratio total 2008": "ND"},
+            {"Categories": "Infirmiers", "Secteur public - Effectif 1994": "1.734", "Secteur public - Effectif 2008": "2.777", "Secteur public - Ratio 2008": "4.183", "Secteur prive - Effectif 1994": "245", "Secteur prive - Effectif 2008": "ND", "Effectif total": "ND", "Ratio total 2008": "ND"}
+          ],
+          "note": "Note : Le tableau original contient egalement des colonnes 'Annee 1994' et 'Annee 2008' avec des ratios intermediaires (292/27.833 pour Medecin en 1994 ; 516/3.623 pour SFE en 1994 ; 1.734/4.687 pour Infirmiers en 1994), reconstitues ici avec les effectifs et ratios disponibles dans le texte."
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.5.4-Financement de la sante",
+      "texte": "(Plan National de Developpement Sanitaire en Sante 2009-2018)  Le financement de la sante pour la periode allant de l'annee 2009 a 2018 est presente dans le PNDS 2009-2018.  Le financement du PNDS 2008-2019 sera assure par l'Etat, les Partenaires Exterieurs, les Populations et les Collectivites Locales. Il concerne les structures publiques de sante. Le secteur prive dont les flux de financement ne sont pas encore maitrises n'est pas pris en compte. Le volume des ressources attendues de ces differents intervenants est determine sur la base d'hypotheses inspirees de l'evolution constatee des financements sur les dix dernieres annees, des conventions de financement existantes ou des engagements multilateraux dont l'Etat du Senegal est partie prenante.  Ainsi, concernant les ressources attendues du budget de l'Etat, le rythme de progression du financement sera maintenu autour d'un taux moyen de 10%. Cette hypothese se fonde sur la realisation d'un certain niveau de performances pouvant justifier l'allocation de ressources plus importantes. Par ailleurs, il faut rappeler l'engagement de l'Etat a porter le budget de la sante a 15% conformement aux recommandations de la conference d'Abuja.  Le financement des Partenaires Exterieurs est estime a partir des donnees previsionnelles du PTIP (Programme Triennal d'Investissement Public) a l'horizon 2011. Il est egalement calcule sur la base des engagements des partenaires techniques et financiers non repertories dans le PTIP mais intervenant de facon constante dans le secteur de la sante. En se fondant sur les engagements pris par ces partenaires d'accompagner le Senegal jusqu'en 2015 dans le cadre des OMD, les tendances constatees du financement exterieur pourraient se maintenir jusqu'a cette echeance et au-dela.  L'apport des collectivites locales a evolue en dents de scie au cours des dix dernieres annees sans jamais depasser le seuil de 5 milliards. Dans la perspective du renforcement de leur implication, avec la mise en oeuvre des POCL, on pourrait s'attendre a une augmentation significative des ressources mobilisees localement.  L'apport des populations s'est considerablement accru durant la mise en oeuvre du PNDS 98-2007. Son evolution a suivi une courbe ascendante jusqu'en 2004 avec une progression moyenne de 20% par an. L'hypothese d'une progression en moyenne de 20% par an est maintenue pour cette source de financement d'autant que la reforme envisagee au niveau des organes de gestion a la base laisse esperer que les ressources locales seront mieux tenues et gerees de maniere plus transparente.  Le financement dans le secteur de la sante sera essentiellement le fait de l'Etat, des collectivites locales, des partenaires au developpement et des populations. L'Etat sera le principal pourvoyeur en ressources financieres du secteur de la sante dans la mise en oeuvre du PNDS 2009-2018, avec un apport de 1 659,1 milliards de FCFA, representant 64,1% du financement.  Il est suivi par les populations avec un apport au financement de 475,54 milliards de FCFA, representant 19,0%. Viennent ensuite les partenaires exterieurs et les Collectivites Locales pour respectivement 12% et 5%. Le recours a l'appui budgetaire explique la baisse relative de la part des partenaires exterieurs dans le schema de financement du PNDS 2009-2018, une bonne partie du financement des partenaires exterieurs etant comptabilisee dans le budget de l'Etat.  L'analyse du financement en fonction de la structure economique de la depense montre que 37,9% des financements sont consacres aux depenses de fonctionnement, 37,3% aux depenses de personnel dont 2,7% a la maintenance et 22,2% aux depenses d'investissement.  Le financement des investissements sera assure par l'Etat a hauteur de 368,55 milliards de FCFA, soit 65%. Il supporte ainsi une bonne partie des investissements venant en premiere position dans la couverture de cette categorie de depense. Quant aux Partenaires Exterieurs, ils financeront 20% des depenses d'investissement avec un apport de 113,13 milliards de FCFA. Les Populations et les Collectivites Locales contribueront pour respectivement 43,42 et 45,74 milliards de F CFA soit 7,6% et 8,01% des depenses d'investissement.  Les depenses de personnel resteront tres largement a la charge de l'Etat qui y consacre 704,37 milliards de F CFA soit un peu moins de 73% de l'ensemble des depenses en personnel. On notera, cependant, le poids non moins important des Populations dans la couverture des charges de personnel avec un apport representant 19%. La part des Collectivites Locales et des Partenaires Exterieurs reste peu importante dans la couverture de cette categorie de depense.  Les depenses de fonctionnement seront egalement, en majorite, a la charge de l'Etat avec un apport de 542,62 milliards de F CFA representant 56% des depenses globales de fonctionnement. Il est suivi par les Populations pour 24%, viennent ensuite les Partenaires Exterieurs et les collectivites locales pour respectivement 19% et 1%.  La repartition geographique du financement prevoit que le niveau peripherique sera legerement prioritaire dans l'allocation des ressources avec un montant de 1 060,50 milliards de F.CFA representant 41,2% des depenses de sante. Le niveau central venant juste apres avec 37,8% des depenses pour un montant alloue de 972,81 milliards de F.CFA. Le niveau regional recoit 21,06% des depenses pour un montant de 540,57 milliards de F CFA. Le poids du niveau central s'explique par le fait que les hopitaux nationaux y sont fortement concentres.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Repartition du financement du PNDS 2009-2018 par source",
+          "colonnes": ["Source de financement", "Montant (milliards FCFA)", "Pourcentage"],
+          "lignes": [
+            {"Source de financement": "Etat", "Montant (milliards FCFA)": "1 659,1", "Pourcentage": "64,1%"},
+            {"Source de financement": "Populations", "Montant (milliards FCFA)": "475,54", "Pourcentage": "19,0%"},
+            {"Source de financement": "Partenaires exterieurs", "Montant (milliards FCFA)": "-", "Pourcentage": "12%"},
+            {"Source de financement": "Collectivites Locales", "Montant (milliards FCFA)": "-", "Pourcentage": "5%"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Repartition geographique du financement de la sante",
+          "colonnes": ["Niveau", "Montant (milliards FCFA)", "Pourcentage"],
+          "lignes": [
+            {"Niveau": "Peripherique", "Montant (milliards FCFA)": "1 060,50", "Pourcentage": "41,2%"},
+            {"Niveau": "Central", "Montant (milliards FCFA)": "972,81", "Pourcentage": "37,8%"},
+            {"Niveau": "Regional", "Montant (milliards FCFA)": "540,57", "Pourcentage": "21,06%"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6-Survol de la surveillance et reponse",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6.1-Risques et maladies prioritaires",
+      "texte": "Les maladies prioritaires, reparties en trois (03) groupes (Guide Technique Pour la Surveillance Integree des Maladies et Riposte, Senegal, 2008) sont au nombre de 39.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste des maladies prioritaires",
+          "colonnes": ["Groupe", "Maladies"],
+          "lignes": [
+            {"Groupe": "Maladies a potentiel epidemique et maladies ou evenements recommandes par le RSI", "Maladies": "1. Cholera; 2. Dysenterie; 3. Meningite (MCS); 4. Fievres hemorragiques virales (fievre de la vallee du Rift, Crimee-congo, Lassa); 5. Grippe humaine; 6. Grippe humaine due a un nouveau sous type viral; 7. Fievre jaune; 8. SRAS; 9. Variole; 10. Trachome; 11. Chikungunya; 12. Anthrax; 13. Fievre Typhoide; 14. Hepatite-B"},
+            {"Groupe": "Maladies a Eradiquer et a Eliminer", "Maladies": "15. Poliomyelite; 16. Dracunculose; 17. Lepre; 18. Tetanos neonatal; 19. Rougeole; 20. Noma; 21. Diphterie; 22. Coqueluche"},
+            {"Groupe": "Autres Maladies d'Importance en Sante Publique", "Maladies": "23. Asthme; 24. Diabete sucre; 25. Epilepsie; 26. Hypertension arterielle; 27. Drepanocytose; 28. Malnutrition; 29. Diarrhee chez les enfants de moins de 5 ans; 30. Pneumonie chez les enfants de moins de 5 ans; 31. Tuberculose; 32. Paludisme; 33. Filarioses lymphatiques; 34. Schistosomiases; 35. Onchocercose; 36. Geo helminthiases (Ascaridiose, Oxyurose); 37. VIH/SIDA; 38. Rage; 39. Infections sexuellement transmissibles (IST)"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6.2-Procedures de notification",
+      "texte": "Les notifications se font au niveau des structures de sante et des laboratoires. D'une maniere generale et notamment pour les pathologies a potentiel epidemique, il existe une fiche specifique de notification. Certaines maladies comme l'hypertension sont notifiees dans les rapports d'activites de routine.  La periodicite varie selon la maladie, immediatement pour certaines comme le cholera a mensuelle pour d'autres comme la malnutrition.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6.3-Confirmation des evenements",
+      "texte": "Pour les evenements infectieux, le pays dispose de centres de reference en bacteriologie, parasitologie et virologie. Une confirmation est faisable au pays, meme si des etudes poussees comme le sequencage genetique se font parfois a l'etranger.  Ce sont les notifications des evenements chimiques et radiologiques qui posent probleme. Le Senegal dispose d'un Centre AntiPoison qui est en principe le lieu d'analyse des evenements chimique mais son plateau technique actuel ne s'y prete pas encore.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6.4-Reponse",
+      "texte": "La reponse a un evenement touchant la sante se fait en palier.  La premiere etape se fait au niveau du ministere de la sante, sous la coordination du Comite de Gestion des Epidemies.  En cas de catastrophe avec perturbation des autres secteurs, le Plan de Contingence qui a ete teste deux fois au cours de l'annee 2011 pourra etre mis en oeuvre. Ce plan prevoit une activation du Plan d'Organisation des Secours (Plan ORSEC) qui est coordonne par le Ministere de l'Interieur. Une articulation du Plan de Contingence National avec l'approche cluster des Nations Unies est prevue pour faciliter l'aide exterieure.  La difficulte de la riposte, conformement aux lecons apprises des epidemies passees (grippe pandemique...), se situe sur l'absence d'un fonds de riposte facilement mobilisable.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.6.5-Activites de surveillance dans le secteur prive",
+      "texte": "Dans le secteur prive, la surveillance est encore timide, sauf en cas de decouverte d'une maladie a declaration obligatoire (fievre jaune...).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3-OBJECTIFS DE L'EVALUATION",
+      "texte": "Les objectifs de l'evaluation sont :  - Faire les etats des lieux au Senegal de differentes capacites du RSI;  - Elaborer un plan d'action pour la mise en oeuvre du RSI.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4-METHODOLOGIE",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.1-Descente sur le terrain",
+      "texte": "Une descente sur le terrain au niveau de l'aeroport international de Dakar a ete realisee par une equipe multisectorielle (ministeres de la sante, de l'elevage, du transport aerien, du commerce...), appuyee par les representants et le consultant de l'OMS.  Apres une rencontre avec le Medecin chef de la police sanitaire qui a fait un expose sur le sujet sanitaire humain, une visite du dispositif a ete faite. La meme methodologie a ete realisee au niveau du controle sanitaire animal.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.2-Analyse des donnees",
+      "texte": "Pour la revue documentaire, deux (02) ateliers ont ete tenus.  Le premier a ete organise a Mbour, a 84 km de Dakar. Des representants de quinze (15) ministeres et de l'OMS ont travaille dans un cadre residentiel de trois (03) jours, pour faire le remplissage du guide questionnaire du RSI et initier l'analyse selon les composantes Forces, Faiblesses, Opportunites et Menaces (FFOM).  Le deuxieme a ete tenu a Dakar pendant six (06) jours, avec les memes participants qu'a l'atelier de Mbour et qui a beneficie du consultant depeche par l'OMS. L'analyse FFOM a ete consolidee et un draft de plan d'action a ete elabore.  Le remplissage du questionnaire a ete fait en pleniere pour permettre a tous de mieux le comprendre. Par la suite les analyses et le draft de plan d'action ont ete realises dans le cadre des travaux de groupes.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.3-Formation et retroaction",
+      "texte": "Au cours des deux (02) ateliers relates ci-dessus, des presentations suivies de discussions sur le RSI ont ete faites, pour une mise a niveau des participants. Une version electronique du guide a ete distribuee.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5-RESULTATS DE L'EVALUATION",
+      "texte": "L'evaluation s'est faite selon la methode FFOM, completee par les recommandations qui ont servies a l'elaboration du draft de plan d'action.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.1-Legislation Nationale, Politique et Finances",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Legislation Nationale, Politique et Finances",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Existence de capacites techniques et de cadres juridique et administratif au niveau nationaux : le codex alimentarius, du code de l'hygiene (Loi N°83-71 du 05/07/1971), code de l'eau (Loi N°81-13 du 04/03/81), code de l'environnement (Loi N°2001-01 du 15/01/2001) et le decret d'application N°2001-282 du 12 Avril 2001, Loi sur les rayonnements ionisants (Loi N°2004-17 du 15/06/2004 modifie en 2009), code de la marine marchande, code de l'assainissement (Loi N°2009-24 du 08/7/2009). Loi N°2009-14 du 02/03/2009 relative a la securite en matiere nucleaire et a la radioprotection. Decret 2004-1404 du 14/11/2004 portant organisation du Ministere de la Sante et de la prevention ; decret n°2002/1094 du 04 nov 2002 relatif a la police sanitaire des animaux ; Arrete n° 0059/17 du 25 octobre 2005 portant creation du systeme national de surveillance epidemiologique des maladies animales y compris les zoonoses ; Arrete n° 10-496 du 08 decembre 2010 portant creation d'un comite national de prevention et de lutte contre la rage ; Arrete portant creation du programme national de lutte contre les mouches tse-tse et les trypanosomiases au Senegal",
+              "FAIBLESSES": "Non evaluation du cadre legislatif et reglementaire pour la mise en oeuvre du RSI; le point focal national RSI n'a pas tous les attributs necessaires pour une bonne conduite de sa mission",
+              "OPPORTUNITES": "",
+              "MENACES": "",
+              "RECOMMANDATIONS": "evaluer le cadre legislatif et reglementaire pour la mise en oeuvre du RSI; Renforcer les fonctions du Point Focal RSI; Faire un plaidoyer pour le Reglement sanitaire International a tous les niveaux / Diffusion/ Dissemination du document RSI"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.2-Coordination et Communications au Point Focal National RSI",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Coordination et Communications au Point Focal National RSI",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Existence du plan ORSEC Nationale, du plan de contingence de la grippe (AH1N1), du Programme National de prevention et de lutte contre les accidents chimiques et industriels, du Plan d'Intervention d'Urgence pour la grippe aviaire (qui sont des mecanismes multisectoriels et multidisciplinaires de la coordination de communication et d'intervention et de communication qui existent dans le domaine de la surveillance et de l'action en cas d'urgence et de catastrophes)",
+              "FAIBLESSES": "Defaut d'un mecanisme de coordination des secteurs pertinents dans le cadre de la mise en oeuvre du RSI; les obligations du PFN RSI ne sont pas communiquees aux parties prenantes concernees",
+              "OPPORTUNITES": "",
+              "MENACES": "",
+              "RECOMMANDATIONS": "Mettre en place un cadre permanent de concertation multisectoriel RSI a partir des cadres de concertation sectoriels existants dans les domaines connexes du RSI; Diffuser les obligations du PFN aux parties prenantes concernees"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.3-Surveillance",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Surveillance",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Existence de comites multisectoriels de gestion des epidemies au niveau regional et departemental; Existence de l'arrete portant creation du comite national de lutte contre les epidemies",
+              "FAIBLESSES": "Mauvaise/Faible application des dispositions de collaboration au niveau sous regional; Coordination theorique au niveau regional et international; Absence de procedures et de lignes directrices; Mauvaise organisation du systeme d'information sanitaire relative a la surveillance des evenements; Absence d'evaluation des declarations relatives a la surveillance des evenements; Non utilisation de l'annexe 2 du RSI",
+              "OPPORTUNITES": "Existence de cadres de cooperation bilaterale ou multilaterale (CEDEAO, OMVS etc.)",
+              "MENACES": "Risque d'introduction ou d'exportation de maladies prioritaires a partir de pays limitrophes; Incoherence dans l'approche de la surveillance des evenements de sante",
+              "RECOMMANDATIONS": "Renforcer la coordination de la surveillance au niveau national et sous regional; Ameliorer le systeme de surveillance des evenements; Promouvoir l'utilisation de l'annexe 2 du RSI par les acteurs concernes"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.4-Reponse",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Reponse",
+          "colonnes": ["FORCES", "FAIBLESSES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Mise en place d'un centre operationnel special; Existence de lignes directrices sur la PEC des affections prioritaires; Existence d'une politique nationale de prevention et de lutte contre les infections; Existence de RH qualifiees dans la prevention et la lutte contre les infections; Mise en oeuvre de plans de lutte contre les infections au plan national",
+              "FAIBLESSES": "Insuffisance de ressources permettant une action rapide; Absence de procedures; Absence d'evaluation de procedures; Absence d'equipes d'intervention rapide; Absence de procedures operatoires standardisees au deploiement de l'equipe d'intervention rapide; Absence d'evaluation de l'action; Impossibilite d'agir dans les delais requis de 48 h; Absence d'accord d'assistance mutuelle en cas de crises; Inexistence de la surveillance au niveau des structures hospitalieres; Absence de procedure pour la PEC des patients necessitant des mesures d'isolement specifiques; Absence de surveillance des groupes a risque; Absence d'un programme national de protection des agents de sante",
+              "RECOMMANDATIONS": "Mettre en place des fonds destines a la gestion des urgences sanitaires; 1- Plaider pour une disponibilite des ressources necessaires a la gestion des urgences sanitaires (Elaborer et diffuser des procedures standardisees de gestion des urgences sanitaires; Assurer la documentation sur la gestion des urgences sanitaires; Appliquer les procedures de decontamination en cas d'urgences sanitaires; appliquer les procedures d'orientation et de transport des patients en cas d'urgences sanitaires); 2- Creer un environnement favorable a des interventions efficaces et tracables (Mettre en place aux differents niveaux du systeme des equipes multidisciplinaires d'intervention sanitaire rapide); 3-Decentraliser les interventions rapides en cas d'urgences sanitaires; 4-Promouvoir une politique d'assistance et d'aide entre les Etats (Signer des accords d'assistance mutuelle avec les voisins)"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.5-Preparation",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Preparation",
+          "colonnes": ["FORCES", "FAIBLESSES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Existence d'un plan d'action d'urgence en sante publique englobant les risques relevant du RSI et des points d'entree; Mise en place de procedures, plans ou strategies de collecte de ressources pour soutenir les activites au niveau communautaire/primaire d'action; Existence d'un plan de gestion et de distribution des stocks nationaux",
+              "FAIBLESSES": "Inexistence d'un systeme d'evaluation des capacites pour l'application du RSI; Absence de test et ou d'exercice de simulation de certains plans; Absence de mise a niveau des agents de sante pour faire face aux urgences en sante publique; Absence de documentation concernant l'action d'urgence; Absence de liste d'experts pour faire face au risque dans le cadre du RSI; Absence d'evaluation des risques au niveau national permettant de determiner les evenements de sante publique urgents; Non prise en compte des produits chimiques et radiologiques dans les stocks essentiels; Non contribution du pays dans les stocks internationaux",
+              "RECOMMANDATIONS": "Mise en place d'un systeme d'evaluation et de renforcement de capacites; Elaborer et rendre disponible une liste des experts pour faire face aux urgences sanitaires; Integrer dans la liste des medicaments essentiels des produits pour la PEC des urgences chimiques et radiologiques; 1-Creer les conditions favorables a une bonne application du RSI et un renforcement des competences des acteurs (Tester periodiquement tous les plans disponibles; Faire une evaluation des risques au niveau national); 2-Assurer une mise a jour des plans, manuels et procedures pour une bonne PEC des urgences sanitaires (Documenter toutes les actions d'urgence au plan national); 3-Assurer une tracabilite des interventions d'urgence sanitaire (Pre positionner en permanence au niveau de toutes les PRA des stocks de securite de medicaments et produits medico-pharmaceutiques pour la gestion des urgences sanitaires); 4-Creer les conditions d'evaluation et les modalites d'utilisation des stocks nationaux"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.6-Communication de risque",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Communication de risque",
+          "colonnes": ["FORCES", "FAIBLESSES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Accessibilite des media et du public aux sources d'information",
+              "FAIBLESSES": "Absence de guide, manuels de procedures operatoires et de Plan de communication des risques; Non identification des partenaires et parties prenantes dans le domaine de la communication de risque; Inexistence d'un plan de communication et de procedures operatoires standardisees en matiere de risque; Insuffisance du materiel d'information, d'education et de communication adaptes aux besoins de la population; Impossibilite de respecter le delai de 24 h dans la diffusion de l'information en cas d'urgence de sante publique; Absence de systeme d'evaluation de la communication",
+              "RECOMMANDATIONS": "Identifier les partenaires et parties prenantes dans le domaine de la communication de risque; Elaborer des plans de communication et des procedures operatoires standardisees en matiere de risque; Mettre en place une unite de coordination de la communication; 1-Promouvoir une politique integree de communication de risque; Mener periodiquement des exercices de simulation; Mettre en place un systeme d'evaluation et de publication des resultats des interventions; Mettre en place des conditions favorisant le respect des delais prescrits; 2-Creer les conditions favorables a un respect des delais, une mise a jour et un suivi du plan de communication en urgence sanitaire"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.7-Ressources humaines",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Ressources humaines",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "existence d'un plan national de developpement des ressources humaines au niveau du MSHPP",
+              "FAIBLESSES": "Difficulte dans la mise en oeuvre adequate du PNDRH du MSHPP; Absence de Plan de developpement des RH pour la mise en oeuvre du RSI",
+              "OPPORTUNITES": "",
+              "MENACES": "",
+              "RECOMMANDATIONS": "developper les capacites des Ressources Humaines en RSI en y incluant les ministeres concernes"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.8-Laboratoires",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Laboratoires",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Existence d'un Reseau National de laboratoires fonctionnel et de laboratoires de reference en cas de menace sanitaire prioritaire; Inventaire des capacites des laboratoires; Existence de programme d'evaluation externe de la qualite; Cadre legal, reglementaire et normatif existant; Lignes directrices existant",
+              "FAIBLESSES": "Absence de cartographie des laboratoires pour la detection des evenements infectieux, chimiques et lies a la securite sanitaire des aliments; Implementation des lignes directrices en matiere de biosecurite et de bio surete non structuree; Insuffisance d'une reglementation relative a la protection et a la securite des personnels; Insuffisance de l'apport des laboratoires hospitaliers dans la surveillance epidemiologique",
+              "OPPORTUNITES": "",
+              "MENACES": "",
+              "RECOMMANDATIONS": "Renforcer la securite et la surete des laboratoires; Renforcer l'organisation structurelle et fonctionnelle des laboratoires; Aspects assurance qualite"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.9-Evenements zoonotiques",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Evenements zoonotiques",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Possibilite d'acceder aux services des laboratoires nationaux et internationaux, pour confirmer l'existence d'evenements prioritaires (aspects diagnostics et entomologiques); Existence de Capacite de prise en charge des evenements lies aux zoonoses pouvant avoir une portee nationale ou internationale (a 80%); Communication reguliere des risques et evenements lies aux zoonoses a la communaute internationale",
+              "FAIBLESSES": "Inexistence de coordination entre autorites publiques responsables et le point focal national RSI pour la detection et la riposte par rapport aux evenements lies des zoonoses; Insuffisance de la politique de sante pour la surveillance et la gestion des zoonoses; Inexistence d'un repertoire des experts mobilisables au plan national pour faire face a des evenements lies aux zoonoses",
+              "OPPORTUNITES": "utilisation du systeme d'information concernant les zoonoses au plan mondial; Existence d'un reseau d'experts disponibles et d'un reseau de laboratoires au plan international",
+              "MENACES": "Le non notification des cas de zoonoses chez les pays voisins et le manque d'echanges d'informations",
+              "RECOMMANDATIONS": "mettre en place d'un systeme de coordination entre les secteurs de la sante humaine et animale pour la prevention et la riposte face aux evenements lies aux zoonoses; Elaborer et actualiser les plans d'urgence operationnels et intersectoriels en cas d'evenement d'origine zoonotique; Etablir et actualiser regulierement la liste d'experts capables d'agir en cas d'evenement d'origine zoonotique"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.10-Securite Sanitaire Alimentaire",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Securite Sanitaire Alimentaire",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Existence de normes nationales et internationales en matiere de securite sanitaire des aliments; Adhesion du Senegal au reseau INFOSAN; Existence de reglementations et de politiques nationales visant a assurer le controle de la securite sanitaire des aliments; Existence d'un mecanisme de coordination et de collaboration multisectoriel; Existence de services d'inspection charges de controler les risques d'origines alimentaires (Commerce ; Hygiene, elevage et DPV); Acces a des services de laboratoires pour la confirmation d'evenements prioritaires de portee nationale et internationale; Existence de mecanismes de recherche, de rappel et d'elimination des produits contamines; Mise en oeuvre de systemes de gestion et de controle de la securite sanitaire des aliments",
+              "FAIBLESSES": "Inexistence de mecanismes operationnels de coordination entre les autorites responsables de la SSA et le point focal national RSI; Inexistence de liste des risques prioritaires et d'experts; Inexistence de lignes directrices ou de manuels relatifs a la surveillance, a l'evaluation et a la gestion des evenements prioritaires; Absence de gestion des donnees epidemiologiques en matiere de contamination des produits alimentaires; Inexistence de plans d'urgence operationnels non testes",
+              "OPPORTUNITES": "Adoption des normes internationales (OIE ; Codex alimentarius ; CIPV)",
+              "MENACES": "",
+              "RECOMMANDATIONS": "Mettre en place d'une structure de coordination de la SSA (cellule de veille, d'alerte et riposte); Mettre en place un portail national pour la SSA; Etablir de listes d'expert et des risques prioritaires; Systematiser l'analyse des risques / Evaluer les risques prioritaires"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.11-Evenements chimiques",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Evenements chimiques",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Recensement de specialistes capables d'evaluer la situation en matiere de sante publique et de faire face a des incidents chimiques; Principaux sites et installations presentant un danger chimique, repertories; Disponibilite et acces aux services de laboratoire aux fins de confirmation des evenements chimiques prioritaires; Existence d'un centre antipoison; Rapportage au niveau international de l'experience acquise et des constatations faites concernant les risques chimiques de portee nationale et internationale",
+              "FAIBLESSES": "Absence de point focal et de mecanismes pour la coordination et la communication en cas d'evenement chimique; absence de plans d'urgence preetablis aux fins de surveillance, d'alerte et d'action en cas de survenue d'incident chimique; Absence de liste d'evenements/de syndromes chimiques prioritaires; Non disponibilite de manuels et de procedures operatoires standardisees",
+              "OPPORTUNITES": "Efficacite dans la gestion des risques chimiques; Partage d'informations avec la communaute internationale; Possibilite d'etablir une cartographie des zones a risques",
+              "MENACES": "",
+              "RECOMMANDATIONS": "Elaboration d'une politique de gestion des risques chimiques; Mise en place de mecanismes de coordination entre les differents secteurs; Elaboration et diffusion de manuels et de procedures operatoires standardisees"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.12-Urgences radionucleaires",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Urgences radionucleaires",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Existence de l'Autorite de Radioprotection et de Surete Nucleaire (ARSN); Existence d'une legislation sur la radioprotection et la surete nucleaire",
+              "FAIBLESSES": "Inexistence d'un mecanisme de surveillance des evenements radiologiques; Inexistence de structures de prise en charge des situations d'urgence radiologiques et nucleaires; Inexistence de mecanismes pour faire face aux situations d'urgences radiologiques",
+              "OPPORTUNITES": "Cooperation avec l'Agence internationale de l'Energie Atomique (AIEA); Ratification sous l'egide de l'AIEA de la Convention Internationale sur l'assistance en cas d'accident nucleaire ou de situation d'urgence radiologique ainsi que de la Convention sur la notification rapide d'un accident nucleaire",
+              "MENACES": "",
+              "RECOMMANDATIONS": "Mettre en place un mecanisme de surveillance des evenements radiologiques; Recensement de toutes les pratiques et sources de rayonnement associees a ces pratiques; Etablir un plan national d'urgence radiologique dans le cadre du plan ORSEC national; Mise en place au sein de l'ARSN de la structure chargee de la prise en charge des situations d'urgence radiologique; Etablir les mecanismes de prise en charge des situations d'urgence radiologique"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.13-Points d'entree",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "FFOM - Points d'entree",
+          "colonnes": ["FORCES", "FAIBLESSES", "OPPORTUNITES", "MENACES", "RECOMMANDATIONS"],
+          "lignes": [
+            {
+              "FORCES": "Existence d'une reglementation de controle sanitaire aux frontieres; Inspections sanitaires aux portes d'entree (port et aeroport); Existence de Haute Autorite pour le Port et pour l'Aeroport",
+              "FAIBLESSES": "Absence de designation officielle des points d'entree; Absence d'actualisation du cadre reglementaire et du systeme documentaire; Absence d'evaluation des points d'entree; Absence d'harmonisation des points d'entree avec les pays limitrophes; Insuffisance des ressources necessaires pour le controle sanitaire au niveau des points d'entree; Non utilisation des documents sanitaires a certains points d'entree; Defaut de coordination et de communication entre les etablissements medicaux et les points d'entree; Absence de systeme d'evaluation de la surveillance pour les menaces prioritaires; Absence de procedures standardisees et de plans pour les interventions d'urgence et le controle de routine",
+              "OPPORTUNITES": "Existence de cadres organisationnels (Asecna, OACI, OMAOC, OMI, Etc)",
+              "MENACES": "Instabilite politique de certains pays",
+              "RECOMMANDATIONS": "Evaluation des capacites des points d'entree; Renforcer les capacites au niveau des points d'entree; Ameliorer la gestion des urgences de sante publiques au niveau des points d'entree; Coordination, lutte antivectorielle"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5-RECOMMANDATIONS",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "6-PERSPECTIVES",
+      "texte": "Les perspectives immediates sont :  - La mise en place d'un Comite Multisectoriel de Mise en Oeuvre du RSI compose des points focaux des differents ministeres impliques et partenaires;  - Designation officielle des points d'entree qui doivent acquerir et maintenir les capacites requises du RSI;  - Conduire l'evaluation des capacites au niveau des points d'entree designes.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "7-ANNEXES",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - LEGISLATION",
+      "texte": "Sous-total 1",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - LEGISLATION",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier 2012", "Calendrier 2013", "Calendrier 2014", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Mettre en place un cadre reglementaire favorable a la mise en oeuvre du RSI", "Objectifs": "Disposer d'un cadre juridique suffisant pour satisfaire aux obligations du RSI d'ici fin 2014", "Resultats attendus": "L'ensemble des textes legislatifs, reglementaires et prescriptions administratives pertinents sont collectes, exploites et au besoin revises", "Activites": "tenir une reunion preparatoire de la revue documentaire", "Calendrier 2012": "X", "Calendrier 2013": "", "Calendrier 2014": "", "Responsable de Mise en oeuvre": "MSHPP (CTAJ-IAAF) et les Charges des affaires juridiques et/ou de la reglementation des autres secteurs impliques dans le RSI", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "reunion tenue"},
+            {"But": "Mettre en place un cadre reglementaire favorable a la mise en oeuvre du RSI", "Objectifs": "Disposer d'un cadre juridique suffisant pour satisfaire aux obligations du RSI d'ici fin 2014", "Resultats attendus": "L'ensemble des textes legislatifs, reglementaires et prescriptions administratives pertinents sont collectes, exploites et au besoin revises", "Activites": "Recenser et analyser les textes legislatif, reglementaires et prescription administrative pertinentes pour la mise en oeuvre du RSI (Consultation ou groupe technique)", "Calendrier 2012": "X", "Calendrier 2013": "", "Calendrier 2014": "", "Responsable de Mise en oeuvre": "MSHPP (CTAJ-IAAF) et les Charges des affaires juridiques et/ou de la reglementation des autres secteurs impliques dans le RSI", "Cout (Milliers FCFA)": "5 945 400", "Indicateurs de Performance": "Repertoire des textes legislatifs et reglementaires disponible"},
+            {"But": "Mettre en place un cadre reglementaire favorable a la mise en oeuvre du RSI", "Objectifs": "Disposer d'un cadre juridique suffisant pour satisfaire aux obligations du RSI d'ici fin 2014", "Resultats attendus": "L'ensemble des textes legislatifs, reglementaires et prescriptions administratives pertinents sont collectes, exploites et au besoin revises", "Activites": "organiser un atelier d'analyse des textes legislatifs, reglementaires et prescriptions administratives pertinents et de propositions de dispositions complementaires pour la mise en oeuvre du RSI", "Calendrier 2012": "X", "Calendrier 2013": "", "Calendrier 2014": "", "Responsable de Mise en oeuvre": "MSHPP (CTAJ-IAAF) et les Charges des affaires juridiques et/ou de la reglementation des autres secteurs impliques dans le RSI", "Cout (Milliers FCFA)": "5 998 200", "Indicateurs de Performance": "Textes legislatifs et reglementaires complementaires pour la mise en oeuvre du RSI identifies"},
+            {"But": "Mettre en place un cadre reglementaire favorable a la mise en oeuvre du RSI", "Objectifs": "Disposer d'un cadre juridique suffisant pour satisfaire aux obligations du RSI d'ici fin 2014", "Resultats attendus": "L'ensemble des textes legislatifs, reglementaires et prescriptions administratives pertinents sont collectes, exploites et au besoin revises", "Activites": "organiser un atelier de validation des textes avec les PTF et les partenaires sociaux", "Calendrier 2012": "X", "Calendrier 2013": "", "Calendrier 2014": "", "Responsable de Mise en oeuvre": "MSHPP (CTAJ-IAAF) et les Charges des affaires juridiques et/ou de la reglementation des autres secteurs impliques dans le RSI", "Cout (Milliers FCFA)": "5 998 200", "Indicateurs de Performance": "Textes complementaire a la mise en place du RSI elabores et valides"},
+            {"But": "Assurer une meilleure connaissance du RSI", "Objectifs": "Le point focal RSI est connu a tous les niveaux", "Resultats attendus": "", "Activites": "Prendre un acte reglementaire precisant davantage les attributions du Point Focal National RSI et le diffuser aupres de tous les secteurs impliques", "Calendrier 2012": "X", "Calendrier 2013": "", "Calendrier 2014": "", "Responsable de Mise en oeuvre": "MSHPP: CTAJ", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "acte reglementaire pris et diffuse"},
+            {"But": "Assurer une meilleure connaissance du RSI", "Objectifs": "Un comite multisectoriel RSI est mis en place", "Resultats attendus": "", "Activites": "Elaborer un arrete ministeriel mettant en place un comite multisectoriel RSI impliquant tous les secteurs pertinents et le diffuser", "Calendrier 2012": "X", "Calendrier 2013": "", "Calendrier 2014": "", "Responsable de Mise en oeuvre": "MSHPP: CTAJ", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "acte reglementaire pris et diffuse"},
+            {"But": "Assurer une meilleure connaissance du RSI", "Objectifs": "strategie de plaidoyer elaboree", "Resultats attendus": "", "Activites": "organiser des sessions de formation des acteurs de mise en oeuvre du RSI au niveau intermediaire et operationnel (membres des CRD et CDD)", "Calendrier 2012": "X", "Calendrier 2013": "X", "Calendrier 2014": "X", "Responsable de Mise en oeuvre": "PFN RSI", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Nombre de personnes formees"},
+            {"But": "Assurer une meilleure connaissance du RSI", "Objectifs": "strategie de plaidoyer elaboree", "Resultats attendus": "", "Activites": "Organiser des journees de sensibilisation des Parlementaires Partenaires sociaux, et Partenaires techniques et financiers", "Calendrier 2012": "X", "Calendrier 2013": "X", "Calendrier 2014": "X", "Responsable de Mise en oeuvre": "PFN RSI", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Nombre de personnes sensibilisees"},
+            {"But": "Assurer une meilleure connaissance du RSI", "Objectifs": "strategie de plaidoyer elaboree", "Resultats attendus": "", "Activites": "Reproduire en X exemplaires et diffuser le RSI 2005", "Calendrier 2012": "X", "Calendrier 2013": "X", "Calendrier 2014": "X", "Responsable de Mise en oeuvre": "PFN RSI", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Nombre d'exemplaires distribuees"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - COORDINATION",
+      "texte": "Sous-total 2",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - COORDINATION",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier 2012", "Calendrier 2013", "Calendrier 2014", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Mettre en place un cadre permanent de concertation multisectoriel RSI a partir des cadres de concertation sectoriels existants dans les domaines connexes du RSI", "Objectifs": "Ameliorer la coordination intra et intersectorielle entre acteurs impliques dans la mise en oeuvre du RSI d'ici fin 2014", "Resultats attendus": "Des reunions trimestrielles d'harmonisation et de coordination du comite multisectoriel RSI sont tenues", "Activites": "Organiser des reunions trimestrielles d'harmonisation et de coordination du comite multisectoriel RSI", "Calendrier 2012": "X", "Calendrier 2013": "X", "Calendrier 2014": "X", "Responsable de Mise en oeuvre": "MSHPP: PFN RSI", "Cout (Milliers FCFA)": "A budgetiser", "Indicateurs de Performance": "Nombre de reunions tenu/nombre prevu"},
+            {"But": "Mettre en place un cadre permanent de concertation multisectoriel RSI a partir des cadres de concertation sectoriels existants dans les domaines connexes du RSI", "Objectifs": "Ameliorer la coordination intra et intersectorielle entre acteurs impliques dans la mise en oeuvre du RSI d'ici fin 2014", "Resultats attendus": "Des reunions trimestrielles d'harmonisation et de coordination du comite multisectoriel RSI sont tenues", "Activites": "Mettre en place une unite multisectorielle chargee du developpement des capacites des Ressources humaines des secteurs pertinents dans le domaine du RSI", "Calendrier 2012": "X", "Calendrier 2013": "", "Calendrier 2014": "", "Responsable de Mise en oeuvre": "PFN RSI", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Unite fonctionnelle"},
+            {"But": "Mettre en place un cadre permanent de concertation multisectoriel RSI a partir des cadres de concertation sectoriels existants dans les domaines connexes du RSI", "Objectifs": "Ameliorer la coordination intra et intersectorielle entre acteurs impliques dans la mise en oeuvre du RSI d'ici fin 2014", "Resultats attendus": "Des reunions trimestrielles d'harmonisation et de coordination du comite multisectoriel RSI sont tenues", "Activites": "Designer un Point Focal charge du RSI au niveau de chaque secteur pertinent et diffuser son contact aupres du Point Focal national RSI", "Calendrier 2012": "X", "Calendrier 2013": "", "Calendrier 2014": "", "Responsable de Mise en oeuvre": "MSHPP: PFN RSI", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "PF designes officiellement pour chaque secteur"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - SURVEILLANCE",
+      "texte": "Sous-total 3",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - SURVEILLANCE",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Ameliorer le systeme de surveillance des urgences de sante publique", "Objectifs": "Ameliorer la cooperation sous-regionale en matiere de surveillance", "Resultats attendus": "La cooperation sous regionale en matiere de surveillance est amelioree", "Activites": "Recenser les textes disponibles regissant la cooperation en matiere de sante avec les pays limitrophes", "Calendrier": "Janvier", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": "Repertoire des textes disponible"},
+            {"But": "Ameliorer le systeme de surveillance des urgences de sante publique", "Objectifs": "Ameliorer le systeme de recueil et de traitement de l'information pour le systeme de surveillance des evenements", "Resultats attendus": "Amelioration du systeme de recueil et de traitement de l'information liee a la surveillance des urgences de sante publique", "Activites": "Tenir au moins une fois par an des rencontres avec les responsables de la surveillance epidemiologique des pays limitrophes", "Calendrier": "Janvier", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "8 526 000", "Indicateurs de Performance": "Nombre de rencontres organisees et proces verbaux"},
+            {"But": "Ameliorer le systeme de surveillance des urgences de sante publique", "Objectifs": "Ameliorer le systeme de recueil et de traitement de l'information pour le systeme de surveillance des evenements", "Resultats attendus": "Amelioration du systeme de recueil et de traitement de l'information liee a la surveillance des urgences de sante publique", "Activites": "Tenir un atelier d'identification des urgences de sante publique de portee internationale et d'elaboration des fiches de notification", "Calendrier": "Juillet", "Responsable de Mise en oeuvre": "MSPHP", "Cout (Milliers FCFA)": "10 160 500", "Indicateurs de Performance": "Les urgences prioritaires sont definies et les fiches de notification disponibles"},
+            {"But": "Ameliorer le systeme de surveillance des urgences de sante publique", "Objectifs": "Ameliorer le systeme de recueil et de traitement de l'information pour le systeme de surveillance des evenements", "Resultats attendus": "Amelioration du systeme de recueil et de traitement de l'information liee a la surveillance des urgences de sante publique", "Activites": "Reproduire et diffuser les fiches de surveillance des evenements chimiques, ionisants et pour les infections/affections ne disposant pas de fiches", "Calendrier": "Juillet", "Responsable de Mise en oeuvre": "MSPHP", "Cout (Milliers FCFA)": "500 000", "Indicateurs de Performance": "Rupture de stock en fiches au niveau des structures sanitaires"},
+            {"But": "Ameliorer le systeme de surveillance des urgences de sante publique", "Objectifs": "Ameliorer le systeme de recueil et de traitement de l'information pour le systeme de surveillance des evenements", "Resultats attendus": "Amelioration du systeme de recueil et de traitement de l'information liee a la surveillance des urgences de sante publique", "Activites": "Identifier au niveau du Ministere de la Sante une unite en charge de la surveillance des evenements chimiques, ionisants et des infections/affections ne faisant pas partie de la surveillance integree des maladies", "Calendrier": "Fevrier", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": "Unite clairement identifiee et fonctionnelle"},
+            {"But": "Ameliorer le systeme de surveillance des urgences de sante publique", "Objectifs": "Ameliorer le systeme de recueil et de traitement de l'information pour le systeme de surveillance des evenements", "Resultats attendus": "Amelioration du systeme de recueil et de traitement de l'information liee a la surveillance des urgences de sante publique", "Activites": "Diffuser l'annexe 2 du RSI a tous les medecins", "Calendrier": "Avril", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": ""},
+            {"But": "Ameliorer le systeme de surveillance des urgences de sante publique", "Objectifs": "Ameliorer le systeme de recueil et de traitement de l'information pour le systeme de surveillance des evenements", "Resultats attendus": "Amelioration du systeme de recueil et de traitement de l'information liee a la surveillance des urgences de sante publique", "Activites": "Organiser une supervision semestrielle de la surveillance y compris celle de l'utilisation de l'annexe 2 du RSI", "Calendrier": "Octobre", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "12 472 460", "Indicateurs de Performance": "Nombre de supervisions organisees"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - REPONSE-ACTION",
+      "texte": "Sous-total 4",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - REPONSE-ACTION",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Ameliorer les capacites pour une reponse rapide face aux epidemies et autres evenements de sante publique", "Objectifs": "1-Ameliorer la Prise en charge des victimes en cas d'urgence de sante publique", "Resultats attendus": "Une prise en charge appropriee des victimes est assuree", "Activites": "1-1-Organiser un atelier de sensibilisation et d'information sur la mobilisation des ressources en faveur du RSI a l'endroit des decideurs (parlementaires, ministeres concernes et collectivites locales)", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP et Partenaires", "Cout (Milliers FCFA)": "5 439 000", "Indicateurs de Performance": "Lignes budgetaires RSI inscrites"},
+            {"But": "Ameliorer les capacites pour une reponse rapide face aux epidemies et autres evenements de sante publique", "Objectifs": "1-Ameliorer la Prise en charge des victimes en cas d'urgence de sante publique", "Resultats attendus": "Une prise en charge appropriee des victimes est assuree", "Activites": "Contractualiser avec un cabinet pour l'elaboration des normes et procedures operationnelles standards en urgence de sante publique", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP et Partenaires", "Cout (Milliers FCFA)": "7 500 000", "Indicateurs de Performance": "Manuels de normes et procedures elaborees et validees. Nombre d'exemplaires distribues"},
+            {"But": "Ameliorer les capacites pour une reponse rapide face aux epidemies et autres evenements de sante publique", "Objectifs": "1-Ameliorer la Prise en charge des victimes en cas d'urgence de sante publique", "Resultats attendus": "Une prise en charge appropriee des victimes est assuree", "Activites": "1-2 Organiser pendant 3 jours un atelier de validation des procedures operationnelles standards (organisation des secours, transport et PEC des victimes et evaluation des interventions)", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "8 323 000", "Indicateurs de Performance": "Procedures operatoires et directives elaborees et validees"},
+            {"But": "Ameliorer les capacites pour une reponse rapide face aux epidemies et autres evenements de sante publique", "Objectifs": "1-Ameliorer la Prise en charge des victimes en cas d'urgence de sante publique", "Resultats attendus": "Une prise en charge appropriee des victimes est assuree", "Activites": "Organiser des sessions de vulgarisation des normes et protocoles d'un jour par axe ciblant des pools d'acteurs regionaux de la reponse", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "10 901 500", "Indicateurs de Performance": "Nombre de personnes formees"},
+            {"But": "Ameliorer les capacites pour une reponse rapide face aux epidemies et autres evenements de sante publique", "Objectifs": "Renforcer la cooperation et le partenariat avec les pays voisins en cas d'urgence de sante publique", "Resultats attendus": "Collaboration avec les pays voisins en cas d'urgence de sante publique effective", "Activites": "1-3-Prendre par un acte officiel definissant la composition, la mise en place et les ressources des equipes d'intervention rapide aux differents niveaux du systeme", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": "Equipes d'interventionnelles operationnelles aux differents niveaux"},
+            {"But": "Ameliorer les capacites pour une reponse rapide face aux epidemies et autres evenements de sante publique", "Objectifs": "Renforcer la cooperation et le partenariat avec les pays voisins en cas d'urgence de sante publique", "Resultats attendus": "Collaboration avec les pays voisins en cas d'urgence de sante publique effective", "Activites": "2-1-Etablir des accords de partenariat avec les pays voisins pour une synergie d'intervention face aux urgences de sante publique", "Calendrier": "2012-2013", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": "Accords de partenariat signes"},
+            {"But": "Ameliorer les capacites pour une reponse rapide face aux epidemies et autres evenements de sante publique", "Objectifs": "Renforcer la cooperation et le partenariat avec les pays voisins en cas d'urgence de sante publique", "Resultats attendus": "Collaboration avec les pays voisins en cas d'urgence de sante publique effective", "Activites": "2-2-Integrer dans les cadres de cooperation existants (commissions mixtes etablies, OOAS, cooperation transfrontaliere...) la reponse conjointe en cas d'urgence de sante publique", "Calendrier": "2012-2013", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": "La reponse en cas d'urgence inscrite dans les cadres de cooperation"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - PREPARATION",
+      "texte": "Sous-total 5 : 33 459 500",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - PREPARATION",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Ameliorer les capacites nationales de riposte aux urgences sanitaires", "Objectifs": "1-Ameliorer l'efficacite des strategies et outils d'intervention", "Resultats attendus": "Les interventions efficaces sont realisees dans les delais requis", "Activites": "1-1-Organiser des reunions annuelles de suivi de la mise en oeuvre du plan d'action", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "1 190 000", "Indicateurs de Performance": "Proportion d'interventions realisees conformement aux normes et protocoles"},
+            {"But": "Ameliorer les capacites nationales de riposte aux urgences sanitaires", "Objectifs": "1-Ameliorer l'efficacite des strategies et outils d'intervention", "Resultats attendus": "Les interventions efficaces sont realisees dans les delais requis", "Activites": "1-2-Organiser tous les deux ans des exercices de simulation pour tester l'operationalite des plans d'urgence en y associant au besoin les pays voisins", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "18 347 500", "Indicateurs de Performance": ""},
+            {"But": "Ameliorer les capacites nationales de riposte aux urgences sanitaires", "Objectifs": "1-Ameliorer l'efficacite des strategies et outils d'intervention", "Resultats attendus": "Les interventions efficaces sont realisees dans les delais requis", "Activites": "1-3-Contractualiser avec un cabinet pour la mise a jour de la carte sanitaire", "Calendrier": "", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "7 500 000", "Indicateurs de Performance": ""},
+            {"But": "Ameliorer les capacites nationales de riposte aux urgences sanitaires", "Objectifs": "1-Ameliorer l'efficacite des strategies et outils d'intervention", "Resultats attendus": "Les interventions efficaces sont realisees dans les delais requis", "Activites": "1-4-Organiser un atelier de validation de deux jours de la carte sanitaire et actualiser la liste des medicaments essentiels", "Calendrier": "", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "6 422 000", "Indicateurs de Performance": ""}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - COMMUNICATION DES RISQUES",
+      "texte": "Sous-total 6 : 24 234 300",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - COMMUNICATION DES RISQUES",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Assurer une bonne politique de communication en matiere d'urgence de sante publique", "Objectifs": "1-Assurer une disponibilite et une accessibilite de l'information en situation d'urgence de sante publique", "Resultats attendus": "L'information en situation d'urgence sanitaire est disponible et accessible", "Activites": "1-1-Organiser pendant 3jours un atelier multisectoriel d'elaboration d'un plan de communication en matiere d'urgence de sante publique", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "4 845 900", "Indicateurs de Performance": "Plan de communication en matiere d'urgence de sante publique elabore"},
+            {"But": "Assurer une bonne politique de communication en matiere d'urgence de sante publique", "Objectifs": "1-Assurer une disponibilite et une accessibilite de l'information en situation d'urgence de sante publique", "Resultats attendus": "L'information en situation d'urgence sanitaire est disponible et accessible", "Activites": "1-2-Organiser en un jour un atelier de validation et de diffusion du plan de communication", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "3 641 000", "Indicateurs de Performance": "Plan de communication en matiere d'urgence de sante publique valide et diffuse"},
+            {"But": "Assurer une bonne politique de communication en matiere d'urgence de sante publique", "Objectifs": "1-Assurer une disponibilite et une accessibilite de l'information en situation d'urgence de sante publique", "Resultats attendus": "L'information en situation d'urgence sanitaire est disponible et accessible", "Activites": "1-3-Organiser en trois jours un atelier de realisation des supports de communication", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "4 845 900", "Indicateurs de Performance": "Supports de communication elabores"},
+            {"But": "Assurer une bonne politique de communication en matiere d'urgence de sante publique", "Objectifs": "1-Assurer une disponibilite et une accessibilite de l'information en situation d'urgence de sante publique", "Resultats attendus": "L'information en situation d'urgence sanitaire est disponible et accessible", "Activites": "1-4-Organiser par axe des sessions de vulgarisation des supports de communication aupres des acteurs", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "10 901 500", "Indicateurs de Performance": "Nombre d'acteurs formes"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - RESSOURCES HUMAINES",
+      "texte": "Sous-total 7 : 18 441 800",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - RESSOURCES HUMAINES",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Developper les capacites en ressources humaines dans le cadre de la mise en oeuvre du RSI", "Objectifs": "Disposer d'une expertise adaptee pour la mise en oeuvre du RSI", "Resultats attendus": "Les ressources humaines sont formees pour la mise en oeuvre du RSI et la liste des experts dans chaque domaine est diffusee", "Activites": "organiser un atelier de formation des points focaux des secteurs concernes dans la mise en oeuvre du RSI", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "MSHPP: PFN RSI", "Cout (Milliers FCFA)": "5 998 200", "Indicateurs de Performance": "nombre de PF de secteurs formes/nombre prevu"},
+            {"But": "Developper les capacites en ressources humaines dans le cadre de la mise en oeuvre du RSI", "Objectifs": "Disposer d'une expertise adaptee pour la mise en oeuvre du RSI", "Resultats attendus": "Les ressources humaines sont formees pour la mise en oeuvre du RSI et la liste des experts dans chaque domaine est diffusee", "Activites": "Etablir et diffuser la liste des experts dans chaque domaine (capacites principales)", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP: PFN RSI", "Cout (Milliers FCFA)": "500 000", "Indicateurs de Performance": "Liste des experts diffusee"},
+            {"But": "Developper les capacites en ressources humaines dans le cadre de la mise en oeuvre du RSI", "Objectifs": "Disposer d'une expertise adaptee pour la mise en oeuvre du RSI", "Resultats attendus": "Les ressources humaines sont formees pour la mise en oeuvre du RSI et la liste des experts dans chaque domaine est diffusee", "Activites": "Faire l'inventaire des besoins en formation dans le cadre du RSI (Consultation ou groupe technique)", "Calendrier": "2012", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "5 945 400", "Indicateurs de Performance": "Un rapport sur la situation et les besoins disponibles"},
+            {"But": "Developper les capacites en ressources humaines dans le cadre de la mise en oeuvre du RSI", "Objectifs": "Disposer d'une expertise adaptee pour la mise en oeuvre du RSI", "Resultats attendus": "Les ressources humaines sont formees pour la mise en oeuvre du RSI et la liste des experts dans chaque domaine est diffusee", "Activites": "Organiser un atelier d'elaboration d'un plan de developpement des RH dans le cadre de la mise en oeuvre du RSI", "Calendrier": "2012", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "5 998 200", "Indicateurs de Performance": "Plan de developpement des RH valide et adopte"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - LABORATOIRES",
+      "texte": "Sous-total 8",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - LABORATOIRES",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Ameliorer la coordination des reseaux de laboratoires", "Resultats attendus": "collaboration entre laboratoire renforcee", "Activites": "Mettre en place un cadre de coordination et concertation entre le RNL et les autres laboratoires charges de la surveillance des evenements chimiques, zoonotiques et securite sanitaire des aliments", "Calendrier": "", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "Procedures de collaboration formalisees"},
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Faciliter l'acces aux laboratoires pour la confirmations des urgences de sante publique", "Resultats attendus": "Le referencement des laboratoires capable de confirmer les urgences de sante publique est ameliore", "Activites": "Confectionner un annuaire des laboratoires habilites a la gestion des urgences de sante publique ainsi que de leur domaines d'expertise", "Calendrier": "Juillet", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "177 500", "Indicateurs de Performance": "Annuaire disponible"},
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Faciliter l'acces aux laboratoires pour la confirmations des urgences de sante publique", "Resultats attendus": "Le referencement des laboratoires capable de confirmer les urgences de sante publique est ameliore", "Activites": "Participation des laboratoires de reference a des programmes internationaux d'evaluation externe de la qualite (frais abonnement)", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "Nombre de controles de la qualite"},
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Ameliorer les capacites des laboratoires", "Resultats attendus": "La capacite des laboratoires pour la gestion des urgences de sante publique est amelioree", "Activites": "Organiser un programme d'evaluation externe de la qualite pour les laboratoires regionaux", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "Nombre de participations au controle de la qualite"},
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Ameliorer les capacites des laboratoires", "Resultats attendus": "La capacite des laboratoires pour la gestion des urgences de sante publique est amelioree", "Activites": "Evaluer les capacites des laboratoires impliques dans la surveillance des evenements (zoonotique, securite sanitaire des aliments et chimique)", "Calendrier": "2012", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": ""},
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Ameliorer les capacites des laboratoires", "Resultats attendus": "La capacite des laboratoires pour la gestion des urgences de sante publique est amelioree", "Activites": "Tenir une reunion d'elaboration d'une demarche de certification pour les laboratoires habilites a confirmer les urgences de sante publique de portee internationale", "Calendrier": "Juillet", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": ""},
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Assurer une bonne securite des travailleurs de laboratoire et de l'environnement", "Resultats attendus": "La securite des travailleurs de laboratoires et de l'environnement est amelioree", "Activites": "Tenir une reunion d'elaboration d'un plan de mise aux normes des laboratoires habilites a la confirmation des urgences de sante publique de portee internationale", "Calendrier": "Janvier", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": ""},
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Assurer une bonne securite des travailleurs de laboratoire et de l'environnement", "Resultats attendus": "La securite des travailleurs de laboratoires et de l'environnement est amelioree", "Activites": "Former les responsables de laboratoire en biosecurite et en biosurete", "Calendrier": "Juillet", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "6 729 200", "Indicateurs de Performance": ""},
+            {"But": "Ameliorer les capacites des laboratoires pour la confirmation en toute securite des urgences de sante publique de portee internationale", "Objectifs": "Assurer une bonne securite des travailleurs de laboratoire et de l'environnement", "Resultats attendus": "La securite des travailleurs de laboratoires et de l'environnement est amelioree", "Activites": "Identifier des points focaux (Referents) pour chaque region en charge de la planification et de l'evaluation de la biosecurite et de la biosurete dans les laboratoires", "Calendrier": "Aout", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": ""}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - POINTS D'ENTREE",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - POINTS D'ENTREE",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Ameliorer les conditions de controle sanitaire au niveau des points d'entree", "Resultats attendus": "Le controle sanitaire est ameliore au niveau des points d'entree", "Activites": "Elaborer un plan de developpement des ressources necessaires au controle sanitaire pour les urgences de sante publique de portee internationale", "Calendrier": "", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Plan elabore et valide"},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Ameliorer les conditions de controle sanitaire au niveau des points d'entree", "Resultats attendus": "Le controle sanitaire est ameliore au niveau des points d'entree", "Activites": "Elaborer et partager les procedures operatoires pour la gestion des urgences de sante publique au niveau des points d'entree", "Calendrier": "Decembre", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Manuel de procedures elabores et valide"},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Mettre a jour le cadre reglementaire et le systeme documentaire", "Resultats attendus": "Le cadre reglementaire et le systeme documentaire est actualise", "Activites": "Harmoniser les points d'entree au niveau des frontieres en concertation avec les pays limitrophes", "Calendrier": "Janvier", "Responsable de Mise en oeuvre": "M Interieur", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Les points d'entree transfrontaliers identifies avec les pays limitrophes"},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Mettre a jour le cadre reglementaire et le systeme documentaire", "Resultats attendus": "Le cadre reglementaire et le systeme documentaire est actualise", "Activites": "Notifier officiellement les points d'entree choisis a l'OMS (5 parmi 11): Port de Dakar, aeroports LSS et AIBD, Rosso et Kidira", "Calendrier": "Fevrier", "Responsable de Mise en oeuvre": "Point focal RSI", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": "Les points d'entree retenus pour le RSI sont officiellement notifies a l'OMS"},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Ameliorer la communication entre les acteurs externes, les etablissements de sante et les points d'entree", "Resultats attendus": "La communication est amelioree entre les points d'entree, les etablissements de sante et les acteurs externes", "Activites": "Reviser le cadre reglementaire actuel et le systeme documentaire (Procedures operatoires) afin de faciliter la mise en oeuvre du RSI au niveau des points d'entree designes", "Calendrier": "Decembre", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": ""},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Ameliorer la communication entre les acteurs externes, les etablissements de sante et les points d'entree", "Resultats attendus": "La communication est amelioree entre les points d'entree, les etablissements de sante et les acteurs externes", "Activites": "Elaborer un tableau de bord pour le suivi et l'evaluation du controle sanitaire des urgences de sante publique de portee internationale au niveau des points d'entree", "Calendrier": "Juillet", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "0", "Indicateurs de Performance": "Rapports d'evaluation et reunions de restitution"},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Ameliorer la communication entre les acteurs externes, les etablissements de sante et les points d'entree", "Resultats attendus": "La communication est amelioree entre les points d'entree, les etablissements de sante et les acteurs externes", "Activites": "Elaborer un plan de communication entre les points d'entree, les etablissements de sante et les acteurs externes", "Calendrier": "Juillet", "Responsable de Mise en oeuvre": "Multisectoriel", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": "Plan elabore et valide"},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Renforcer les capacites requises RSI au niveau des points d'entree", "Resultats attendus": "Les principales lacunes sont identifiees et un plan de renforcement des capacites elabore", "Activites": "Mener une evaluation des capacites requises au niveau des points d'entree designes pour le RSI", "Calendrier": "Janvier", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Rapport sur l'analyse situationnelle disponible"},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Renforcer les capacites requises RSI au niveau des points d'entree", "Resultats attendus": "Les principales lacunes sont identifiees et un plan de renforcement des capacites elabore", "Activites": "Organiser un atelier de validation de l'analyse situationnelle et elaboration de renforcement des capacites", "Calendrier": "Fevrier", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Plan de renforcement des capacites des points d'entree elabore et valide"},
+            {"But": "Reduire le risque de propagation des urgences de sante publique au niveau des points d'entree", "Objectifs": "Renforcer les capacites requises RSI au niveau des points d'entree", "Resultats attendus": "Les principales lacunes sont identifiees et un plan de renforcement des capacites elabore", "Activites": "Plaidoyer et mobilisation des ressources pour le plan de renforcement des capacites au niveau des points d'entree", "Calendrier": "", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Ressources disponibles"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - EVENEMENTS LIES A DES ZOONOSES",
+      "texte": "Sous-total 10",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - EVENEMENTS LIES A DES ZOONOSES",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Ameliorer la prise en charge des risques lies aux zoonoses", "Objectifs": "Renforcer la coordination entre les differentes parties prenantes y compris les laboratoires concernes pour la gestion des evenements lies aux zoonoses", "Resultats attendus": "la coordination entre les differentes parties prenantes y compris les laboratoires concernes pour la gestion des evenements lies aux zoonoses est renforcee", "Activites": "Designation d'un point focal de la sante animale", "Calendrier": "", "Responsable de Mise en oeuvre": "Min. Elevage", "Cout (Milliers FCFA)": "X", "Indicateurs de Performance": "point focal designe"},
+            {"But": "Ameliorer la prise en charge des risques lies aux zoonoses", "Objectifs": "Renforcer la coordination entre les differentes parties prenantes y compris les laboratoires concernes pour la gestion des evenements lies aux zoonoses", "Resultats attendus": "la coordination entre les differentes parties prenantes y compris les laboratoires concernes pour la gestion des evenements lies aux zoonoses est renforcee", "Activites": "Mettre en place un comite technique pluridisciplinaire", "Calendrier": "", "Responsable de Mise en oeuvre": "PFN RSI", "Cout (Milliers FCFA)": "500000", "Indicateurs de Performance": "comite technique operationnel"},
+            {"But": "Ameliorer la prise en charge des risques lies aux zoonoses", "Objectifs": "Renforcer les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses", "Resultats attendus": "les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses sont etablis", "Activites": "Organiser un atelier d'elaboration et de validation des normes et procedures dans le cadre de la gestion multisectorielle des evenements zoonotiques", "Calendrier": "", "Responsable de Mise en oeuvre": "Point Focal Elevage - PFN RSI", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "Normes et procedures en situation d'urgences elaborees et validees"},
+            {"But": "Ameliorer la prise en charge des risques lies aux zoonoses", "Objectifs": "Renforcer les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses", "Resultats attendus": "les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses sont etablis", "Activites": "Mettre en place les procedures d'Echange regulier d'information entre les laboratoires sante humaine et sante animale", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "Point focal Elevage", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "collaboration efficace entre les laboratoires sante humaine et animale"},
+            {"But": "Ameliorer la prise en charge des risques lies aux zoonoses", "Objectifs": "Renforcer les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses", "Resultats attendus": "les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses sont etablis", "Activites": "Etablissement d'un repertoire d'experts mobilisables", "Calendrier": "", "Responsable de Mise en oeuvre": "comite technique", "Cout (Milliers FCFA)": "800000", "Indicateurs de Performance": "repertoire d'experts etabli"},
+            {"But": "Ameliorer la prise en charge des risques lies aux zoonoses", "Objectifs": "Renforcer les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses", "Resultats attendus": "les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses sont etablis", "Activites": "Etablissement d'une base de donnees epidemiologique des maladies zoonotiques", "Calendrier": "", "Responsable de Mise en oeuvre": "comite technique", "Cout (Milliers FCFA)": "2 000 000", "Indicateurs de Performance": "base de donnees epidemiologiques etablie et regulierement mise a jour"},
+            {"But": "Ameliorer la prise en charge des risques lies aux zoonoses", "Objectifs": "Renforcer les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses", "Resultats attendus": "les echanges d'informations et de bonnes pratiques entre les laboratoires impliques dans la gestion des evenements lies aux zoonoses sont etablis", "Activites": "Mise en place d'un reseau de laboratoires implique dans la gestion des maladies zoonotiques", "Calendrier": "", "Responsable de Mise en oeuvre": "comite technique", "Cout (Milliers FCFA)": "Atelier de 30 pers. 1 632 000 F", "Indicateurs de Performance": "reseau de laboratoires mis en place et fonctionnel"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - SECURITE SANITAIRE DES ALIMENTS",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - SECURITE SANITAIRE DES ALIMENTS",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Mettre en place un dispositif de coordination entre les acteurs de la securite sanitaire des aliments", "Resultats attendus": "un dispositif de coordination entre les acteurs de la securite sanitaire des aliments est mis en place", "Activites": "Redynamiser la commission de controle des produits alimentaires et l'affiliee au Codex", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "M. Commerce et MSHPP", "Cout (Milliers FCFA)": "3 reunions par an, 4 500 000 F", "Indicateurs de Performance": "la commission de controle des produits aliments operationnelle (Nombre de reunions et PV)"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Mettre en place un dispositif de coordination entre les acteurs de la securite sanitaire des aliments", "Resultats attendus": "un dispositif de coordination entre les acteurs de la securite sanitaire des aliments est mis en place", "Activites": "Renforcer le point focal Codex", "Calendrier": "2012", "Responsable de Mise en oeuvre": "MSHPP", "Cout (Milliers FCFA)": "2 Ordinateurs, une imprimante et une photocopieuse : 1 850 000 F", "Indicateurs de Performance": "la coordination du codex renforcee et fonctionnelle"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Mettre en place un dispositif de coordination entre les acteurs de la securite sanitaire des aliments", "Resultats attendus": "un dispositif de coordination entre les acteurs de la securite sanitaire des aliments est mis en place", "Activites": "Impliquer davantage le Senegal au reseau INFOSAN", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "points focaux Sante, Commerce, Elevage et Agriculture", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "le Senegal membre actif du reseau INFOSAN"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Mettre en place un dispositif de coordination entre les acteurs de la securite sanitaire des aliments", "Resultats attendus": "un dispositif de coordination entre les acteurs de la securite sanitaire des aliments est mis en place", "Activites": "Organiser des reunions de coordination entre le PFN RSI et les parties prenantes", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "PNF RSI", "Cout (Milliers FCFA)": "3 reunions par an, 4 500 000 F", "Indicateurs de Performance": "une bonne coordination entre le PFN RSI et les autres secteurs"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Maitriser les risques sanitaires lies aux aliments", "Resultats attendus": "les risques sanitaires lies aux aliments sont maitrises", "Activites": "Elaborer et tester des plans de gestion des situations d'urgence liees a la securite sanitaire des aliments", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "commission de controle des produits aliments", "Cout (Milliers FCFA)": "2 ateliers: 3 264 000F et 2 tests: 24 000 000F a raison de 12 000 000 F par test", "Indicateurs de Performance": "des plans d'urgence operationnels sont disponibles"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Maitriser les risques sanitaires lies aux aliments", "Resultats attendus": "les risques sanitaires lies aux aliments sont maitrises", "Activites": "Etablir la liste des risques alimentaires", "Calendrier": "2012", "Responsable de Mise en oeuvre": "commission de controle des produits aliments (section de l'information)", "Cout (Milliers FCFA)": "Atelier de 30 pers. 1 632 000 F", "Indicateurs de Performance": "la liste des risques alimentaires identifies est disponible"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Maitriser les risques sanitaires lies aux aliments", "Resultats attendus": "les risques sanitaires lies aux aliments sont maitrises", "Activites": "Renforcer les services d'inspections et de controle pour la maitrise de la SSA (mise a la norme ISO 17020)", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "MSHPP (SNH) - M. Commerce - Min. Elevage", "Cout (Milliers FCFA)": "6 vehicules a raison de 2 par secteur : 6x14 000 000 = 84 000 000 F", "Indicateurs de Performance": "les services d'inspections et de controle sont renforces"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Maitriser les risques sanitaires lies aux aliments", "Resultats attendus": "les risques sanitaires lies aux aliments sont maitrises", "Activites": "Evaluer les capacites des laboratoires de controle de la qualite des aliments (se referer a la composante LABORATOIRES)", "Calendrier": "2012-2013", "Responsable de Mise en oeuvre": "PM", "Cout (Milliers FCFA)": "PM", "Indicateurs de Performance": "les laboratoires mis aux normes (ISO 17025)"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Maitriser les risques sanitaires lies aux aliments", "Resultats attendus": "les risques sanitaires lies aux aliments sont maitrises", "Activites": "Organiser des ateliers de formations dans le cadre de l'analyse des risques", "Calendrier": "2012", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "3 ateliers: 4 896 000 F a raison de 1 632 000 F par atelier", "Indicateurs de Performance": "nombre de formations realisees dans le cadre de l'analyse des risques"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Maitriser les risques sanitaires lies aux aliments", "Resultats attendus": "les risques sanitaires lies aux aliments sont maitrises", "Activites": "Equiper en materiels informatiques l'organisme national de normalisation", "Calendrier": "", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "2 Ordinateurs une imprimante et une photocopieuse : 1 850 000 F", "Indicateurs de Performance": "l'organisme national de normalisation renforce en moyens techniques"},
+            {"But": "Garantir aux consommateurs des denrees alimentaires salubres", "Objectifs": "Maitriser les risques sanitaires lies aux aliments", "Resultats attendus": "les risques sanitaires lies aux aliments sont maitrises", "Activites": "Organiser 2 ateliers de formations sur la maitrise de la SSA (mise en place de BP d'hygiene, HACCP, Iso 22000) a l'intention des entreprises", "Calendrier": "2012-2013", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "2 ateliers: 3 264 000F", "Indicateurs de Performance": "nombre d'entreprises formees et nombre d'ateliers de formations realises dans le cadre de la SSA"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - EVENEMENTS CHIMIQUES",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - EVENEMENTS CHIMIQUES",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Ameliorer la prise en charge des incidents lies aux evenements chimiques", "Objectifs": "Mettre en place une cellule de coordination entre les differents secteurs", "Resultats attendus": "une cellule de coordination entre les differents secteurs operationnelle", "Activites": "designer un point focal pour coordonner avec le PFN RSI", "Calendrier": "", "Responsable de Mise en oeuvre": "Centre Anti-Poison (CAP)", "Cout (Milliers FCFA)": "X", "Indicateurs de Performance": "un point focal designe"},
+            {"But": "Ameliorer la prise en charge des incidents lies aux evenements chimiques", "Objectifs": "Mettre en place une cellule de coordination entre les differents secteurs", "Resultats attendus": "une cellule de coordination entre les differents secteurs operationnelle", "Activites": "etablir la liste des experts et services concernes", "Calendrier": "", "Responsable de Mise en oeuvre": "Min. Environnement (DEEC)", "Cout (Milliers FCFA)": "Atelier de 30 pers. 1 632 000 F", "Indicateurs de Performance": "une liste des experts et services concernes etablie"},
+            {"But": "Ameliorer la prise en charge des incidents lies aux evenements chimiques", "Objectifs": "Mettre en place un systeme de surveillance des incidents chimiques", "Resultats attendus": "un systeme de surveillance des incidents chimiques est mis en place", "Activites": "Elaborer et diffuser des procedures et manuels de prise en charge des incidents chimiques", "Calendrier": "2012-2013", "Responsable de Mise en oeuvre": "Centre Anti-Poison (CAP)", "Cout (Milliers FCFA)": "2 ateliers de 30 pers. 3 264 000 F et 1 200 000 F la diffusion", "Indicateurs de Performance": "des procedures et manuels elabores et diffuses"},
+            {"But": "Ameliorer la prise en charge des incidents lies aux evenements chimiques", "Objectifs": "Mettre en place un systeme de surveillance des incidents chimiques", "Resultats attendus": "un systeme de surveillance des incidents chimiques est mis en place", "Activites": "etablir une cartographie des zones a risques", "Calendrier": "", "Responsable de Mise en oeuvre": "Min. Environnement (DEEC)", "Cout (Milliers FCFA)": "Atelier de 30 pers. 1 632 000 F", "Indicateurs de Performance": "une cartographie des zones a risques etablie"},
+            {"But": "Ameliorer la prise en charge des incidents lies aux evenements chimiques", "Objectifs": "Mettre en place un systeme de surveillance des incidents chimiques", "Resultats attendus": "un systeme de surveillance des incidents chimiques est mis en place", "Activites": "Elaborer et tester un plan multisectoriel d'intervention d'urgence liee aux evenements chimiques", "Calendrier": "", "Responsable de Mise en oeuvre": "Min. Environnement (DEEC); MSHPP (CAP; DS)", "Cout (Milliers FCFA)": "2 ateliers: 3 264 000F et 2 tests: 24 000 000F a raison de 12 000 000 F par test", "Indicateurs de Performance": "un plan d'intervention d'urgence elabore et teste"},
+            {"But": "Ameliorer la prise en charge des incidents lies aux evenements chimiques", "Objectifs": "Mettre en place un systeme de surveillance des incidents chimiques", "Resultats attendus": "un systeme de surveillance des incidents chimiques est mis en place", "Activites": "Redynamiser la Commission nationale de Gestion des risques chimiques (reunions de coordination)", "Calendrier": "", "Responsable de Mise en oeuvre": "", "Cout (Milliers FCFA)": "", "Indicateurs de Performance": "Nombre de reunions"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "8-PLAN D'ACTION - URGENCES LIEES AUX RAYONNEMENTS",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Plan d'action - URGENCES LIEES AUX RAYONNEMENTS",
+          "colonnes": ["But", "Objectifs", "Resultats attendus", "Activites", "Calendrier", "Responsable de Mise en oeuvre", "Cout (Milliers FCFA)", "Indicateurs de Performance"],
+          "lignes": [
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "Etablir un plan multisectoriel d'urgence lie aux rayonnements dans le cadre du plan ORSEC", "Resultats attendus": "un plan multisectoriel de gestion des risques lies aux rayonnements est operationnel", "Activites": "Elaboration et validation du plan d'urgence (atelier)", "Calendrier": "", "Responsable de Mise en oeuvre": "ARSN", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "rapport de plan national finalise et valide"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "Etablir un plan multisectoriel d'urgence lie aux rayonnements dans le cadre du plan ORSEC", "Resultats attendus": "un plan multisectoriel de gestion des risques lies aux rayonnements est operationnel", "Activites": "multiplication et diffusion du plan", "Calendrier": "", "Responsable de Mise en oeuvre": "ARSN", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "nombre d'exemplaires distribues"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "Etablir un plan multisectoriel d'urgence lie aux rayonnements dans le cadre du plan ORSEC", "Resultats attendus": "un plan multisectoriel de gestion des risques lies aux rayonnements est operationnel", "Activites": "tester l'operationnalite du plan par des exercices de simulation", "Calendrier": "", "Responsable de Mise en oeuvre": "ARSN", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "exercices de simulation effectues"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "mettre en place un systeme de surveillance des evenements radiologiques", "Resultats attendus": "detection precoce et notification des evenements radiologiques", "Activites": "Inventaire national des sources de rayonnements ionisants", "Calendrier": "", "Responsable de Mise en oeuvre": "ARSN", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "Carte nationale des pratiques (medecine, industrie, recherche...) et des sources de rayonnements associees aux pratiques est disponible"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "mettre en place un systeme de surveillance des evenements radiologiques", "Resultats attendus": "detection precoce et notification des evenements radiologiques", "Activites": "renforcer la structure de surveillance en equipement de detection (dosimetrie)", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "ARSN", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "equipements disponibles"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "mettre en place un systeme de surveillance des evenements radiologiques", "Resultats attendus": "detection precoce et notification des evenements radiologiques", "Activites": "formation du personnel charge de la surveillance", "Calendrier": "2012-2013", "Responsable de Mise en oeuvre": "ARSN", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "personnel forme pour la surveillance"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "mettre en place un systeme de surveillance des evenements radiologiques", "Resultats attendus": "detection precoce et notification des evenements radiologiques", "Activites": "etablir des normes et procedures de la surveillance", "Calendrier": "", "Responsable de Mise en oeuvre": "ARSN", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "manuels et procedures concus"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "assurer une prise en charge appropriee des cas d'urgence lies aux rayonnements", "Resultats attendus": "les cas lies aux rayonnements sont correctement pris en charge", "Activites": "Arrangements multilateraux et bilateraux dans le cadre de la convention sur l'Assistance en cas d'accident nucleaire ou de situation d'urgence radiologique", "Calendrier": "2012-2013-2014", "Responsable de Mise en oeuvre": "ARSN", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "Signature des arrangements"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "assurer une prise en charge appropriee des cas d'urgence lies aux rayonnements", "Resultats attendus": "les cas lies aux rayonnements sont correctement pris en charge", "Activites": "identifier les structures sanitaires chargees de la prise en charge des cas lies aux rayonnements", "Calendrier": "", "Responsable de Mise en oeuvre": "ARSN et MSHPP", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "structures de prise en charge des cas lies aux rayonnements identifiees"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "assurer une prise en charge appropriee des cas d'urgence lies aux rayonnements", "Resultats attendus": "les cas lies aux rayonnements sont correctement pris en charge", "Activites": "Evaluer les besoins en equipements des structures de prise en charge des cas", "Calendrier": "", "Responsable de Mise en oeuvre": "ARSN et MSHPP", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "Document de l'evaluation des besoins disponible"},
+            {"But": "Ameliorer la prise en charge des risques lies aux accidents nucleaires et aux situations d'urgence radiologique", "Objectifs": "assurer une prise en charge appropriee des cas d'urgence lies aux rayonnements", "Resultats attendus": "les cas lies aux rayonnements sont correctement pris en charge", "Activites": "former le personnel sur la prise en charge des cas lies aux rayonnements", "Calendrier": "2012-2013", "Responsable de Mise en oeuvre": "ARSN et MSHPP", "Cout (Milliers FCFA)": "Budget", "Indicateurs de Performance": "Nombre de personnes formees"}
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

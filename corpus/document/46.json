@@ -1,0 +1,730 @@
+{
+  "metadata": {
+    "titre": "GUIDE TECHNIQUE NATIONAL POUR LA SURVEILLANCE INTEGREE DE LA MALADIE ET LA RIPOSTE - TROISIEME EDITION (VOLUME 1: SECTION INTRODUCTION)",
+    "annee": "2019",
+    "source": "Ministère de la Santé et de l'Action Sociale - République du Sénégal - Direction Générale de la Santé Publique - Direction de la Prévention",
+    "type_document": "Guide technique national"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de Garde et Titre",
+      "texte": "REPUBLIQUE DU SENEGALUn Peuple-Un But-Une FoiDIRECTION GENERALE DE LA SANTE PUBLIQUEDIRECTION DE LA PREVENTIONMinistère de la Santé et de l'Action SocialeGUIDE TECHNIQUE NATIONAL POUR LA SURVEILLANCE INTEGREE DE LA MALADIE ET LA RIPOSTETROISIEME EDITIONVOLUME 1: SECTION INTRODUCTIONDECEMBRE 2019",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Sigles et Abréviations",
+      "texte": "Liste des sigles et abréviations utilisés dans le document.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Sigles et Abréviations",
+          "colonnes": [
+            "Sigle / Abréviation",
+            "Signification"
+          ],
+          "lignes": [
+            {
+              "Sigle / Abréviation": "ANAM",
+              "Signification": "Agence Nationale des Affaires Maritimes"
+            },
+            {
+              "Sigle / Abréviation": "AMS",
+              "Signification": "Assemblée Mondiale de la Santé"
+            },
+            {
+              "Sigle / Abréviation": "ACS",
+              "Signification": "Agent Communautaire de Santé"
+            },
+            {
+              "Sigle / Abréviation": "ACPP",
+              "Signification": "Agent Communautaire de Promotion et de Prevention"
+            },
+            {
+              "Sigle / Abréviation": "ACs",
+              "Signification": "Agent Communautaire de Soins"
+            },
+            {
+              "Sigle / Abréviation": "AIBD",
+              "Signification": "Aéroport International Blaise Diagne"
+            },
+            {
+              "Sigle / Abréviation": "ARPV",
+              "Signification": "Association des Relais Polyvalents"
+            },
+            {
+              "Sigle / Abréviation": "BG",
+              "Signification": "Bajenu Gox"
+            },
+            {
+              "Sigle / Abréviation": "BRISE",
+              "Signification": "Bureau Régional de l'Immunisation et de la Surveillance Epidémiologique"
+            },
+            {
+              "Sigle / Abréviation": "CAP",
+              "Signification": "Centre Anti-Poison"
+            },
+            {
+              "Sigle / Abréviation": "CDC",
+              "Signification": "Centre for Diseases Control/Centre de Contrôle des maladies et prévention"
+            },
+            {
+              "Sigle / Abréviation": "CDS",
+              "Signification": "Comité de Développement Sanitaire"
+            },
+            {
+              "Sigle / Abréviation": "CEDEAO",
+              "Signification": "Communauté Économique de États de l'Afrique de l'Ouest"
+            },
+            {
+              "Sigle / Abréviation": "CI",
+              "Signification": "Cellule Informatique"
+            },
+            {
+              "Sigle / Abréviation": "COUS",
+              "Signification": "Centre des Opérations Urgences Sanitaires"
+            },
+            {
+              "Sigle / Abréviation": "CMT",
+              "Signification": "Cellule de la Médecine Traditionnelle"
+            },
+            {
+              "Sigle / Abréviation": "CRCM",
+              "Signification": "Centre Régional de Contrôle des Maladies"
+            },
+            {
+              "Sigle / Abréviation": "CS",
+              "Signification": "Centre de Sante"
+            },
+            {
+              "Sigle / Abréviation": "CSC",
+              "Signification": "Cellule Santé Communautaire"
+            },
+            {
+              "Sigle / Abréviation": "CSFM",
+              "Signification": "Contrôle Sanitaire aux Frontières Maritimes"
+            },
+            {
+              "Sigle / Abréviation": "CNGE",
+              "Signification": "Comité National de Gestion des Epidémies"
+            },
+            {
+              "Sigle / Abréviation": "CRGE",
+              "Signification": "Comité Régional de Gestion des Epidémies"
+            },
+            {
+              "Sigle / Abréviation": "CDGE",
+              "Signification": "Comité Départemental de Gestion des Epidémies"
+            },
+            {
+              "Sigle / Abréviation": "CLGE",
+              "Signification": "Comité Local de Gestion des Epidémies"
+            },
+            {
+              "Sigle / Abréviation": "CSE",
+              "Signification": "Cadre de Suivi Evaluation"
+            },
+            {
+              "Sigle / Abréviation": "CTC",
+              "Signification": "Centre de Traitement du Choléra"
+            },
+            {
+              "Sigle / Abréviation": "CVAC.i",
+              "Signification": "Comité de Veille et d'Alerte communautaire intégré"
+            },
+            {
+              "Sigle / Abréviation": "DGSP",
+              "Signification": "Direction Générale Santé Publique"
+            },
+            {
+              "Sigle / Abréviation": "DHIS-2",
+              "Signification": "District Heath Information System-2"
+            },
+            {
+              "Sigle / Abréviation": "DI",
+              "Signification": "Division de l'Immunisation"
+            },
+            {
+              "Sigle / Abréviation": "DL",
+              "Signification": "Direction des Laboratoires"
+            },
+            {
+              "Sigle / Abréviation": "DLM",
+              "Signification": "Direction de Lutte contre la Maladie"
+            },
+            {
+              "Sigle / Abréviation": "DLSI",
+              "Signification": "Division de la Lutte contre le SIDA"
+            },
+            {
+              "Sigle / Abréviation": "DP",
+              "Signification": "Direction de la Prévention"
+            },
+            {
+              "Sigle / Abréviation": "DPM",
+              "Signification": "Direction de la Pharmacie et du Médicament"
+            },
+            {
+              "Sigle / Abréviation": "DSRV",
+              "Signification": "Division de la Surveillance Epidémiologique et de la Riposte vaccinale"
+            },
+            {
+              "Sigle / Abréviation": "DS",
+              "Signification": "District sanitaire"
+            },
+            {
+              "Sigle / Abréviation": "DSISS",
+              "Signification": "Division du Système d'Information Sanitaire et Sociale"
+            },
+            {
+              "Sigle / Abréviation": "ECD",
+              "Signification": "Equipe Cadre de District"
+            },
+            {
+              "Sigle / Abréviation": "ECR",
+              "Signification": "Equipe Cadre de Région"
+            },
+            {
+              "Sigle / Abréviation": "EEC",
+              "Signification": "Evaluation Externe Conjointe du Règlement Sanitaire International"
+            },
+            {
+              "Sigle / Abréviation": "EMIS",
+              "Signification": "Équipe mobile d'intervention et de soutien"
+            },
+            {
+              "Sigle / Abréviation": "GAHP",
+              "Signification": "Grippe Aviaire Hautement Pathogène"
+            },
+            {
+              "Sigle / Abréviation": "GHSA",
+              "Signification": "Global Heath Security Agenda/Agenda mondial de la Sécurité Sanitaire"
+            },
+            {
+              "Sigle / Abréviation": "GRC",
+              "Signification": "Gestion des Risques de Catastrophe"
+            },
+            {
+              "Sigle / Abréviation": "ICP",
+              "Signification": "Infirmier Chef de Poste"
+            },
+            {
+              "Sigle / Abréviation": "IPD",
+              "Signification": "Institut Pasteur de Dakar"
+            },
+            {
+              "Sigle / Abréviation": "LANAC",
+              "Signification": "Laboratoire National d'Analyses et de Contrôle"
+            },
+            {
+              "Sigle / Abréviation": "MCD",
+              "Signification": "Médecin Chef de District"
+            },
+            {
+              "Sigle / Abréviation": "MCPME",
+              "Signification": "Ministère du Commerce et Petites et Moyennes Entreprises"
+            },
+            {
+              "Sigle / Abréviation": "MCR",
+              "Signification": "Médecin Chef de Région"
+            },
+            {
+              "Sigle / Abréviation": "MEV",
+              "Signification": "Maladie Evitable par la Vaccination"
+            },
+            {
+              "Sigle / Abréviation": "MON",
+              "Signification": "Modes opératoires normalisés"
+            },
+            {
+              "Sigle / Abréviation": "MSAS",
+              "Signification": "Ministère de la Santé et de l'Action Sociale"
+            },
+            {
+              "Sigle / Abréviation": "OCB",
+              "Signification": "Organisation Communautaire de Base"
+            },
+            {
+              "Sigle / Abréviation": "OIE",
+              "Signification": "Organisation Mondiale de la Santé animale"
+            },
+            {
+              "Sigle / Abréviation": "OIM",
+              "Signification": "Organisation Internationale des Migrations"
+            },
+            {
+              "Sigle / Abréviation": "OOAS",
+              "Signification": "Organisation Ouest Africaine de la Santé"
+            },
+            {
+              "Sigle / Abréviation": "OMS",
+              "Signification": "Organisation Mondiale de la Santé"
+            },
+            {
+              "Sigle / Abréviation": "OSC",
+              "Signification": "Organisation de la Société Civile"
+            },
+            {
+              "Sigle / Abréviation": "PE",
+              "Signification": "Points d'Entrée"
+            },
+            {
+              "Sigle / Abréviation": "PEV",
+              "Signification": "Programme Élargi de Vaccination"
+            },
+            {
+              "Sigle / Abréviation": "PFA",
+              "Signification": "Paralysie Flasque Aigue"
+            },
+            {
+              "Sigle / Abréviation": "PFNRSI",
+              "Signification": "Point Focal National RSI"
+            },
+            {
+              "Sigle / Abréviation": "PMT",
+              "Signification": "Patricien de la Médecine Traditionnelle"
+            },
+            {
+              "Sigle / Abréviation": "PNDSS",
+              "Signification": "Plan National de Développement Sanitaire et Social"
+            },
+            {
+              "Sigle / Abréviation": "PON",
+              "Signification": "Procédures Opérationnelles Normalisées"
+            },
+            {
+              "Sigle / Abréviation": "PSI",
+              "Signification": "Plan Spécifique à un Incident ou à un Evénement"
+            },
+            {
+              "Sigle / Abréviation": "RAA",
+              "Signification": "Revue Après Action"
+            },
+            {
+              "Sigle / Abréviation": "RM",
+              "Signification": "Région Médicale"
+            },
+            {
+              "Sigle / Abréviation": "RSI",
+              "Signification": "Règlement Sanitaire International"
+            },
+            {
+              "Sigle / Abréviation": "SBC",
+              "Signification": "Surveillance à Base Communautaire"
+            },
+            {
+              "Sigle / Abréviation": "SBE",
+              "Signification": "Surveillance Basée sur les Evènements"
+            },
+            {
+              "Sigle / Abréviation": "SBI",
+              "Signification": "Surveillance Basée sur les Indicateurs"
+            },
+            {
+              "Sigle / Abréviation": "SGI",
+              "Signification": "Système de Gestion des Incidents"
+            },
+            {
+              "Sigle / Abréviation": "SIMR",
+              "Signification": "Surveillance Intégrée de la Maladie et la Riposte"
+            },
+            {
+              "Sigle / Abréviation": "SMSRAM",
+              "Signification": "Système Mondial de Surveillance de la Résistance aux Antimicrobiens (GLASS)"
+            },
+            {
+              "Sigle / Abréviation": "SNEIPS",
+              "Signification": "Service National de l'Education et de l'Information Pour la Santé"
+            },
+            {
+              "Sigle / Abréviation": "SNH",
+              "Signification": "Service National de l'Hygiene"
+            },
+            {
+              "Sigle / Abréviation": "TBMR",
+              "Signification": "Tuberculose multirésistante"
+            },
+            {
+              "Sigle / Abréviation": "USAID",
+              "Signification": "Agence Américaine pour le Développement International"
+            },
+            {
+              "Sigle / Abréviation": "USPPI",
+              "Signification": "Urgence de Santé Publique de Portée Internationale"
+            },
+            {
+              "Sigle / Abréviation": "UTC",
+              "Signification": "Unité de Traitement du Choléra"
+            },
+            {
+              "Sigle / Abréviation": "XDR",
+              "Signification": "Tuberculose Ultrarésistant ou à bacilles ultrarésistants"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Définition des Concepts",
+      "texte": "Glossaire et définitions des termes techniques de surveillance et de riposte.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Définitions des concepts",
+          "colonnes": [
+            "Concept",
+            "Définition"
+          ],
+          "lignes": [
+            {
+              "Concept": "Aigu",
+              "Définition": "Toute maladie ayant une apparition rapide (soudaine) et qui suit une courte évolution."
+            },
+            {
+              "Concept": "Alerte",
+              "Définition": "Signaux d'avertissement précoce indirect d'un événement considéré comme présentant un risque pour la santé publique et survenant dans une communauté sous surveillance. Les alertes doivent faire l'objet d'une investigation approfondie et être vérifiées pour savoir si elles représentent un événement avéré ou non."
+            },
+            {
+              "Concept": "Bajenu Gox",
+              "Définition": "Marraines de quartier ou de village."
+            },
+            {
+              "Concept": "Catastrophe",
+              "Définition": "La perturbation grave du fonctionnement d'une communauté ou d'une société, causant des pertes humaines, matérielles, économiques et environnementales énormes qui dépassent la capacité de la communauté ou de la société touchée à s'en sortir avec ses propres ressources."
+            },
+            {
+              "Concept": "Chronique",
+              "Définition": "Toute affection sanitaire qui se développe lentement ou qui est de longue durée et tend à aboutir à une limitation fonctionnelle et à un besoin des soins médicaux permanents."
+            },
+            {
+              "Concept": "Élimination",
+              "Définition": "Réduction à zéro (ou à un très faible taux cible défini) de nouveaux cas dans une région géographique définie."
+            },
+            {
+              "Concept": "Endémie",
+              "Définition": "Maladie ou affection que l'on trouve régulièrement chez certaines personnes ou dans une certaine région."
+            },
+            {
+              "Concept": "Épidémiologie",
+              "Définition": "L'étude de la répartition et des déterminants de l'état de santé et son application au contrôle des problèmes de santé publique."
+            },
+            {
+              "Concept": "Épidémie",
+              "Définition": "Renvoie à une augmentation du nombre de cas d'une maladie ou d'un événement au-delà de ce qui est normalement attendu dans cette population, dans une région donnée sur une certaine période."
+            },
+            {
+              "Concept": "Éradication",
+              "Définition": "La réduction délibérée de la prévalence de maladies spécifiques au point d'une absence continue de transmission dans le monde."
+            },
+            {
+              "Concept": "Étiologie",
+              "Définition": "Renvoie à la cause, série de causes, ou à l'origine d'une maladie ou d'une affection."
+            },
+            {
+              "Concept": "Événement",
+              "Définition": "En vertu du RSI (2005) (article 1), un événement est défini comme « une manifestation de la maladie, ou un accident qui crée un potentiel pour la maladie » (en se référant particulièrement aux événements de santé publique de portée internationale [USPPI]). Un incident ou accident d'urgence. Un événement peut être sans importance, ou être important, planifié ou non planifié (ex. un événement météorologique extrême ou un rassemblement de masse) qui peut avoir une incidence sur la sécurité et la sûreté des communautés. Dans le cadre de la surveillance basée sur les évènements: tout signal vérifié et confirmé devient un évènement. N.B. « Événement » et « incident » sont souvent employés de manière interchangeable."
+            },
+            {
+              "Concept": "Flambée",
+              "Définition": "La survenue de plus de cas qu'attendu dans une région géographique ou à une période donnée."
+            },
+            {
+              "Concept": "Grappe",
+              "Définition": "Accumulation de cas ou d'affections liées à la santé dans une région donnée, pendant une certaine période, sans se préoccuper de savoir si le nombre de cas est plus grand que prévu par rapport au temps ou au lieu, ou aux deux."
+            },
+            {
+              "Concept": "Incident",
+              "Définition": "Accident ou événement, naturel ou causé par l'homme, qui requiert une riposte d'urgence pour protéger la vie, les biens ou l'environnement. Un incident peut être confiné géographiquement ou dispersé. Les incidents peuvent commencer soudainement ou graduellement. Il peut être de très courte durée, ou continuer pendant des mois ou des années. Les catastrophes liées à la guerre, les urgences médicales et de santé publique, et autres urgences."
+            },
+            {
+              "Concept": "Interface homme-animal-environnement",
+              "Définition": "Série continue de contacts et d'interactions entre des personnes, des animaux, leurs produits et leur environnement qui, dans certains cas, facilite la transmission de pathogènes zoonotiques ou le partage de menaces pour la santé."
+            },
+            {
+              "Concept": "Isolement",
+              "Définition": "C'est une technique de prévention qui consiste à mettre à l'écart des personnes ou des animaux atteints d'une maladie infectieuse extrêmement contagieuse dans le but de limiter sa propagation. La prise en charge des cas doit se faire dans une unité de soin spéciale et nécessite le respect strict des protocoles standards et complémentaires d'hygiène. Il existe l'isolement géographique (mise en chambre seule ou groupement de patients avec la même pathologie) et l'isolement technique (moyens visant à couper la voie de transmission: hygiène des mains, EPI)."
+            },
+            {
+              "Concept": "Lien épidémiologique",
+              "Définition": "Lorsqu'un patient est ou a été exposé à un cas probable ou confirmé."
+            },
+            {
+              "Concept": "Maladie",
+              "Définition": "Pathologie ou affection médicale, quelle qu'en soit l'origine ou la source, qui présente ou pourrait présenter un mal important pour les animaux, les humains et les plantes."
+            },
+            {
+              "Concept": "Maladie zoonotique ou zoonose",
+              "Définition": "Maladie infectieuse pouvant être transmise de l'animal à l'homme ou vice versa."
+            },
+            {
+              "Concept": "Multisectoriel",
+              "Définition": "Participation de plus d'un secteur travaillant ensemble sur un programme conjoint ou riposte à un événement (par exemple, une investigation conjointe menée par la santé publique et la police)."
+            },
+            {
+              "Concept": "Pandémie",
+              "Définition": "Épidémie qui survient dans le monde entier, ou sur une très vaste étendue, traversant des frontières internationales et affectant généralement un grand nombre de personnes."
+            },
+            {
+              "Concept": "Point d'entrée",
+              "Définition": "Tout passage, par voie terrestre, aérienne ou maritime, pour l'entrée ou la sortie internationale de voyageurs, bagages, fret, conteneurs, moyens de transport, marchandises et colis postaux, ainsi que des agences et des zones qui leur fournissent des services à l'entrée ou à la sortie."
+            },
+            {
+              "Concept": "Quarantaine",
+              "Définition": "C'est une technique de prévention qui consiste à mettre à l'écart des personnes ou des animaux apparemment sains ayant été exposés à une maladie contagieuse. Sa durée dépend de la phase d'incubation de la pathologie causale. Elle nécessite une surveillance rigoureuse des cas afin de guetter les moindres signes suspects."
+            },
+            {
+              "Concept": "Règlement sanitaire international (2005)",
+              "Définition": "Instrument juridique international qui est contraignant dans 196 pays. Le Règlement vise à aider la communauté internationale à prévenir et à répondre aux risques aigus de santé publique qui ont le potentiel de traverser les frontières et de menacer des personnes à travers le monde."
+            },
+            {
+              "Concept": "Signal",
+              "Définition": "Données et/ou informations considérées par le système d'alerte précoce et réponse comme présentant un risque potentiel pour la santé humaine. Il peut s'agir de rapports de cas ou de décès, d'une éventuelle exposition d'êtres humains à des dangers potentiels biologiques, chimiques ou radiologiques et nucléaires, ou de la survenue de catastrophes naturelles ou d'origine humaine. Une fois identifiés, ces signaux seront vérifiés. Après vérification, un signal devient un « évènement »."
+            },
+            {
+              "Concept": "Site de notification",
+              "Définition": "Site qui communique des données de surveillance et de flambée au niveau du district. Un site de notification comprend tous les établissements de santé publics, privés et parapublics, confessionnels, les laboratoires autonomes et les points d'entrée, ainsi que des rapports d'événements provenant de la surveillance et de la riposte au niveau de la communauté."
+            },
+            {
+              "Concept": "Système d'information de gestion de la santé",
+              "Définition": "Système de communication (partage) périodique (hebdomadaire, mensuelle et trimestrielle) en version électronique ou papier des maladies, des affections et des risques au Ministère de la santé par chaque structure de santé."
+            },
+            {
+              "Concept": "Système de gestion des incidents (SGI)",
+              "Définition": "Il s'agit d'une approche normalisée à la gestion des urgences qui comprend le personnel, les installations, les équipements, les procédures et les communications dans une structure organisationnelle commune. Les procédures normalisées du SGI permettent à tous ceux qui répondent au même incident de formuler un plan unifié pour gérer l'incident."
+            },
+            {
+              "Concept": "Une seule santé",
+              "Définition": "Une approche pour traiter d'une menace pour la santé, partagée à l'interface homme-animal-environnement, fondée sur la collaboration, la communication et la coordination sur l'ensemble des secteurs et disciplines pertinents, dans le but ultime d'atteindre des résultats optimaux pour la santé, aussi bien chez l'homme que chez l'animal."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Préface",
+      "texte": "La préoccupation majeure des autorités sanitaires et des décideurs politiques est de réduire le fardeau des maladies, des décès et des invalidités au sein des communautés. Ainsi l'objectif de prévenir et de contrôler les maladies a conduit les Etats membres de la Région africaine de l'OMS à adopter et appliquer dans sa résolution AFR/RC48/R2 du Comité Régional tenu à Harare (Zimbabwe) en 1998 la stratégie régionale relative à la Surveillance Intégrée de la Maladie (SIM), devenue par la suite Surveillance Intégrée de la Maladie et de Riposte (SIMR).Cette stratégie SMIR et les deux guides techniques génériques de référence publiés en 2001 et 2010 par OMS Afro et qui furent ensuite adoptés et adaptés respectivement en 2008 et 2013 par le Sénégal (première et deuxième édition) ont servi de référence pour les activités de la surveillance à tous les niveaux, pour améliorer les activités de détection précoce, la préparation, l'investigation en temps réel et la riposte face à des épidémies ou d'autre urgences de santé publique. Sa mise en œuvre dans le cadre du Règlement sanitaire international (2005) a permis de renforcer les capacités des États membres leur permettant de développer leurs capacités fonctionnelles pour la détection précoce et la riposte aux maladies, affections et événements prioritaires qui touchent leurs populations.Les enjeux actuels prennent en compte l'interface homme-animal-environnement permettant d'obtenir une meilleure coordination entre la surveillance de la santé humaine et animale et les autres secteurs impliqués dans l'approche « Une seule santé », une utilisation plus rationnelle des capacités des réseaux de laboratoires dans le cadre de la surveillance et de la riposte et une participation accrue des communautés aux interventions de santé publique.L'intensification toujours croissante des échanges internationaux, l'augmentation du trafic aérien, maritime et terrestre international, les crises humanitaires récurrentes avec déplacements massifs de populations, la récente épidémie de maladie à virus Ebola, la résurgence d'autres maladies émergentes et réémergentes, les menaces d'ordre sécuritaire posent de plus en plus des défis complexes. Dans l'élaboration de cette troisième édition du guide technique SMIR, pour renforcer davantage les capacités de lutte contre les maladies, les directives ont été mises à niveau et de nouveaux paradigmes intégrés notamment : la surveillance basée sur les évènements (SBE), la surveillance électronique (e-surveillance), l'adaptation de la SIMR aux catastrophes et situations d'urgence de santé publique.Le guide technique national SIMR 3e édition adapté aux spécificités de notre pays et de sa pyramide sanitaire est une référence générale pertinente pour les activités de surveillance à tous les niveaux.Les acteurs de la santé, les partenaires des autres secteurs et les communautés sont vivement invités à s'approprier ce guide et à mettre en œuvre ses directives. C'est un gage pour réduire les risques d'éclosion et de propagation de maladies, affections ou évènements de santé publique, d'atténuer ou de stopper leurs effets dommageables sur les populations et de préservation de la stabilité sociale.M. Abdoulaye Diouf SARRMinistre de la santé et de l'action sociale",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Remerciements",
+      "texte": "La troisième édition du Guide technique pour la surveillance intégrée de la maladie et la riposte a été préparée par le Programme OMS de gestion des situations d'urgence sanitaire (WHE), avec la participation active des unités chargées de la surveillance des maladies au Bureau régional de l'Afrique (AFRO) à Brazzaville (Congo). La revue technique du document a été assurée par les Centers for Disease Control and Prevention des États-Unis et par l'Agence des États-Unis pour le développement international (USAID).La révision du Guide technique pour la SIMR a pour objet :• D'aligner le document sur la situation actuelle et sur les besoins des États Membres ;• D'aligner le Guide sur les objectifs, cibles et autres éléments énoncés dans la stratégie régionale pour la sécurité sanitaire et les situations d'urgence 2016-2020 ;• De mettre à jour le document en y renseignant des informations actualisées et en tenant compte de nouveaux développements tels que l'apparition et la réapparition de maladies, d'affections et d'événements prioritaires pour la santé publique ;• D'intégrer les recommandations récentes des groupes d'experts sur le renforcement du RSI (2005) qui s'appuient sur l'approche « Une seule santé » ;• D'aborder de façon intégrée les stratégies de gestion des risques de catastrophe ;• De tenir compte des leçons tirées de la flambée épidémique sans précédent de maladie à virus Ebola qui a sévi en Afrique de l'Ouest, de l'éradication de la poliomyélite et de la gestion d'autres crises humanitaires ;• De tirer parti des progrès technologiques et d'exploiter les possibilités offertes par Internet et la téléphonie mobile pour étendre la mise en œuvre de la surveillance communautaire des événements en temps réel, grâce à des plateformes solides adossées sur le système d'information géographique (SIG) ;• De généraliser d'autres systèmes de surveillance électronique et d'intégrer de nouvelles façons de renforcer les capacités à l'aide des outils d'apprentissage en ligne de la SIMR.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.1 Introduction",
+      "texte": "Cette section présente le concept de surveillance intégrée de la maladie et de la riposte (SIMR) qui comprend la surveillance basée sur les indicateurs (SBI) et la surveillance basée sur les événements (SBE) comme parties intégrantes d'un système national de surveillance épidémiologique.La section donne également des indications sur le fonctionnement de la SIMR, ses objectifs et la façon dont elle peut aider à mettre en place et renforcer les capacités de base du Règlement sanitaire international (RSI), facilitant ainsi sa mise en œuvre.La section présente d'autres aspects tels que :- L'approche « Une seule santé » ;- Le lien entre la gestion des risques de catastrophe et la SIMR ;- Les fonctions essentielles de la surveillance ;- La manière dont le niveau opérationnel peut utiliser le guide pour renforcer la surveillance et la riposte ;- Les rôles et responsabilités des divers acteurs à différents niveaux ;- Les maladies, affections et événements prioritaires de la SIMR.Il est important de souligner d'emblée que ce guide a pour but d'aider à mettre en place et à renforcer les systèmes de surveillance des maladies et affections prioritaires et de tous les autres événements de santé publique, connus ou inconnus, qu'il s'agisse de maladies ou d'autres dangers énoncés dans le RSI.Ce guide ne se limite pas seulement aux maladies connues.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.2 Surveillance en santé publique",
+      "texte": "La surveillance en santé publique ou surveillance épidémiologique est l'identification, le recueil, le regroupement, l'analyse et l'interprétation systématiques et continus des données sur la survenue de la maladie et sur les événements de santé publique. Il a pour but de prendre, en temps opportun, des mesures efficaces, telles que la diffusion aux personnes concernées des informations pertinentes, en vue d'une action efficace et appropriée.La surveillance est essentielle pour la planification, la mise en œuvre, le suivi et l'évaluation de la pratique de la santé publique. Le Bureau régional OMS de l'Afrique (OMS/AFRO) a décidé d'atteindre ses objectifs de surveillance en santé publique par la mise en œuvre de la stratégie SIMR.1.2.1 Définition des différents types ou approches de surveillance en santé publique1.2.1.1 Surveillance passiveSystème par lequel une structure chargée de centraliser l'information (aux différents niveaux de la pyramide sanitaire) reçoit les rapports de routine émanant des structures de santé tels que les hôpitaux, les centres/postes de santé, les cliniques privées et la communauté ou d'autres sources. Il n'y a pas de recherche active de cas.1.2.1.2 Surveillance activeElle implique une recherche continuous de cas dans la communauté ou dans les structures de santé (contacts réguliers, appels, visites physiques, examen des registres). Par exemple : recherche active des cas de rougeole et de poliomyélite.1.2.1.3 Surveillance intégrée des maladiesApproche visant à recueillir des données sanitaires de plusieurs maladies à l'aide d'outils normalisés, reposant sur deux canaux : SBI et SBE.1.2.1.4 Surveillance basée sur les indicateurs (SBI)Identification, recueil, suivi, analyse et interprétation systématiques réguliers de données structurées issues de sources formelles.Méthodes courantes : surveillance au niveau des structures sanitaires, surveillance au cas par cas, surveillance sentinelle, surveillance syndromique, surveillance au laboratoire, surveillance spécifique à une maladie, et surveillance à base communautaire (SBC).1.2.1.5 Surveillance basée sur les événements (SBE)Saisie organisée et rapide d'informations sur des événements présentant un risque potentiel pour la santé publique provenant de canaux formels et informels (médias, réseaux sociaux, écoles, etc.).1.2.2 SBE et SBI comme épine dorsale de la stratégie SIMRLa SBE et la SBI se complètent dans la fonction d'alerte précoce et de riposte. La SBE permet de détecter rapidement les petites épidémies et signaux inhabituels, tandis que la SBI surveille les tendances des maladies dans le temps.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Figure 1: SBI et SBE dans la stratégie de SIMR",
+          "description": "Schéma explicatif de l'intégration de la Surveillance Basée sur les Indicateurs (SBI) et de la Surveillance Basée sur les Événements (SBE) au sein de la SIMR.",
+          "donnees": [
+            {
+              "composante": "SBI",
+              "processus": "Systématique, Routine/Régulier, Principalement passif, Toujours les mêmes sources",
+              "caracteristiques": "Données structurées limitées, Prédéterminées, Formelle, Crédibles et fiables, Principalement basées sur les soins de santé",
+              "exemples_sources": "Surveillance épidémiologique, Notification obligatoire, Surveillance sentinelle, Surveillance syndromique, Registres, Données sur la mortalité, Données de laboratoire, Investigation/Recherche"
+            },
+            {
+              "composante": "SBE",
+              "processus": "Formalisé, Flexible, Actif, Ad-hoc, En temps réel",
+              "caracteristiques": "Données non structurées, Multiples et variables, Pas prédéfinies, Informelles et formelles, Fiabilité non établie",
+              "exemples_sources": "Médias, Communauté, Internet/blogs/réseaux sociaux, Réseaux informels, Sites web officiels, Réseaux d'alerte, ONG, Secteur privé, Santé animale, Catastrophes environnementales"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Figure 2: Niveaux d'application et circuit de l'information de la SBE et de la SBI dans la SIMR",
+          "description": "Représentation du flux d'information bidirectionnel de la SBE et SBI à travers la pyramide sanitaire du Sénégal : Niveau National, Niveau Régional, Niveau District, Niveau Structure de santé, et Niveau Communautaire."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "1.3 Stratégie de surveillance intégrée de la maladie et la riposte",
+      "texte": "La stratégie de SIMR rassemble les activités de surveillance sous un cadre intégré pour une utilisation rationnelle des ressources humaines et financières.1.3.1 En quoi consiste un système intégré ?Toutes les activités de surveillance sont coordonnées et rationalisées. Plusieurs activités sont regroupées. Le niveau du district est la plaque tournante de l'intégration. Les équipes cadres (district, région, niveau central) collaborent avec le comité de gestion des épidémies. Le flux d'informations est bidirectionnel (horizontal et vertical).1.3.2 Objectifs de la surveillance intégrée des maladies et de la riposteObjectif général : Améliorer la capacité des pays à détecter, signaler, confirmer et riposter efficacement contre les maladies, affections et événements hautement prioritaires.Objectifs spécifiques : Renforcer la capacité à mener des activités de surveillance, promouvoir la participation des cliniciens, intégrer les systèmes de surveillance, améliorer l'exploitation des données, améliorer la circulation des données, renforcer les capacités des laboratoires, mettre en place une réponse efficace, promouvoir la participation communautaire et conduire des enquêtes épidémiologiques.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.4 SIMR ET RSI (2005)",
+      "texte": "1.4.1 Objet et portée du RSI (2005)Le RSI (2005) vise à prévenir la propagation internationale des maladies, s'en protéger et réagir par une action de santé publique proportionnée. La SIMR fournit l'infrastructure, les ressources et les procédures pour mettre en œuvre les capacités de base du RSI.1.4.2 Suivi et évaluation de la capacité fonctionnelle de base pour l'application du RSI (2005)Comprend 4 composantes : rapports annuels obligatoires à l'AMS, évaluation externe conjointe (EEC), revue après action (RAA), et exercices de simulation.1.4.3 Application du RSI (2005) au SénégalLe Sénégal a nommé le Point Focal National RSI, évalué les événements, renforcé le réseau de laboratoires et révisé le guide SIMR. L'EEC de 2016 a souligné les progrès et identifié les axes d'amélioration (notamment la pérennité financière et le renforcement des mécanismes multisectoriels).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Figure 3: Application du RSI par SIMR",
+          "description": "Schéma illustrant la synergie entre la SIMR et le RSI (2005) autour des fonctions de Détecter, Confirmer/Vérifier, Notifier/Déclarer et Réponse Rapide."
+        },
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Figure 4: Cadre de suivi et d'évaluation du RSI",
+          "description": "Représentation du cadre de suivi et évaluation du RSI composé du rapport annuel, de l'évaluation externe conjointe (EEC), des exercices de simulation et de la revue après action (RAA)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "1.5 L'approche « Une seule santé » et la SIMR",
+      "texte": "L'approche « Une seule santé » traite des menaces sanitaires à l'interface homme-animal-environnement. Elle s'appuie sur la collaboration, la communication et la coordination intersectorielles pour anticiper et contrôler les zoonoses et risques environnementaux.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.6 La SIMR et la gestion des risques de catastrophe",
+      "texte": "La SIMR est un outil clé dans la gestion des risques de catastrophe en fournissant une alerte précoce pour l'évaluation des risques, l'identification des dangers et la réduction de la vulnérabilité des populations.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.7 Mise en œuvre des activités transfrontalières dans le cadre de la SIMR",
+      "texte": "Face à la porosité des frontières et aux mouvements de populations, les pays doivent coordonner leurs interventions de surveillance et de riposte aux zones frontalières, partager les données et organiser des exercices de simulation conjoints.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.8 La SIMR électronique (e_SIMR) comme plateforme pour améliorer la surveillance en temps réel",
+      "texte": "L'e_SIMR utilise les outils numériques et téléphoniques pour accélérer la transmission des données, améliorer la qualité et la complétude des rapports, et générer des alertes automatisées en temps réel.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.9 Description des fonctions de surveillance énoncées dans le présent guide",
+      "texte": "Le processus de surveillance comprend 8 étapes clés :Étape 1 : Identifier les maladies, affections et événements sur la base des définitions de cas standardisées.Étape 2 : Notifier les cas suspects à l'échelon supérieur.Étape 3 : Analyser (temps, lieu, personne) et interpréter les données.Étape 4 : Investiguer et confirmer les cas/flambées en laboratoire.Étape 5 : Préparer les plans de riposte et la logistique.Étape 6 : Riposter efficacement.Étape 7 : Communiquer sur les risques.Étape 8 : Suivre, évaluer, superviser et assurer un retour d'information.1.9.1 Différents niveaux où les activités de surveillance sont menéesCommunauté, Structure de santé, District, Région, et Niveau Central.1.9.2 Comment les districts peuvent-ils renforcer la surveillance et la riposte à l'aide des outils de la SIMR ?Utilisation de la matrice SIMR pour identifier les responsabilités, combler les lacunes et planifier les ressources.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.10 Efforts déployés par l'OMS/AFRO pour le renforcement de la SIMR",
+      "texte": "Support technique, directives, formations, plaidoyer pour la mobilisation des ressources et facilitation du partage d'informations à l'échelle régionale.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.11 Contenu du guide",
+      "texte": "Le guide révisé intègre la SBE, l'e-SIMR, la surveillance communautaire, l'approche 'Une seule santé' et la gestion des catastrophes. Il sert de référence pour la formation, la supervision et l'action sur le terrain.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.12 Maladies, affections et évènements prioritaires inclus dans la SIMR",
+      "texte": "Présentation des maladies prioritaires classées par catégorie de surveillance au Sénégal.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1: Liste des maladies, affections et événements prioritaires pour la SIMR au Sénégal-2019",
+          "colonnes": [
+            "Maladies, affections ou événements à potentiel épidémique qui nécessitent une notification immédiate",
+            "Maladies faisant l'objet de mesures d'éradication ou d'élimination",
+            "Autres maladies, affections ou événements importants pour la santé publique",
+            "Maladies ou événements de portée internationale"
+          ],
+          "lignes": [
+            {
+              "Maladies, affections ou événements à potentiel épidémique qui nécessitent une notification immédiate": "1. Fièvres hémorragiques aigües (Ebola, Marburg, Vallée du Rift, Lassa, Crimée-Congo, West Nile, Dengue)2. Anthrax3. Méningite bactérienne4. Chikungunya5. Choléra6. Diarrhée sanglante (Shigellose)7. Listériose8. Peste9. Leishmanioses10. Groupe d'animaux morts dans un cheptel, un troupeau ou dans la faune sauvage / Groupe de décès d'humains dans une communauté11. Groupe de personnes ou d'animaux malades présentant les mêmes symptômes",
+              "Maladies faisant l'objet de mesures d'éradication ou d'élimination": "1. Poliomyélite2. Rougeole3. Fièvre jaune4. Dracunculose (maladie du ver de Guinée)5. Tétanos néonatal6. Lèpre7. Filariose lymphatique8. Noma9. Onchocercose10. Trachome",
+              "Autres maladies, affections ou événements importants pour la santé publique": "1. Coqueluche2. Diphtérie3. Hépatites virales aigüe et chronique4. Manifestations post vaccinales indésirables (MAPI)5. Diabète (nouveaux cas)6. Diarrhée avec déshydratation chez les < 5 ans7. Épilepsie8. Rage humaine9. VIH/SIDA (nouveaux cas)10. Hypertension (nouveaux cas)11. Traumatismes (accidents de la circulation)12. Paludisme13. Malnutrition chez les enfants < 5 ans14. Décès maternels15. Décès néonatals16. Pneumonie grave chez les enfants < 5 ans17. Infections sexuellement transmissibles (IST)18. Schistosomiases19. Géo helminthiases (Trichocéphalose, Oxyurose, Ascaridiose, Ankylostomiase, Anguillulose)20. Trypanosomiases21. Tuberculose (nouveaux cas)22. Tuberculose MDR/XDR23. Asthme24. Drépanocytose25. Infections respiratoires aigües (IRA) sévères26. Fièvre typhoïde27. Maladie à virus Zika",
+              "Maladies ou événements de portée internationale": "1. Grippe humaine due à une nouvelle souche2. Syndrome respiratoire aigu sévère (SRAS)3. Variole4. Événement sanitaire de portée internationale ou nationale (maladie infectieuse, zoonose, infection alimentaire, contamination chimique, radioactive ou maladie d'origine inconnue)"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.13 Organisation du guide pour la SIMR",
+      "texte": "Le guide est structuré en 11 sections réparties dans 6 volumes distincts :Volume 1 - Section d'introductionVolume 2 - Sections 1, 2 et 3Volume 3 - Sections 4, 5, 6 et 7Volume 4 - Sections 8 et 9Volume 5 - Section 10Volume 6 - Section 11",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1.14 Annexes à la section d'introduction",
+      "texte": "Liste des annexes incluses dans la section d'introduction.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Annexe A Matrice de la SIMR: fonctions et activités essentielles par niveau de système de santé",
+          "colonnes": [
+            "Niveau",
+            "Identification",
+            "Notification",
+            "Analyse et interprétation",
+            "Investigation et confirmation",
+            "Préparation",
+            "Riposte",
+            "Communication sur les risques",
+            "Suivi, évaluation, supervision et retour d'information"
+          ],
+          "lignes": [
+            {
+              "Niveau": "Communauté",
+              "Identification": "Utiliser les définitions communautaires de cas pour identifier les maladies, événements et affections prioritaires. Appuyer les ICP.",
+              "Notification": "Notifier les informations essentielles sur les signaux à l'établissement de santé et aux autorités compétentes.",
+              "Analyse et interprétation": "Faire participer les personnalités locales à l'observation et description. Cartographier la circonscription.",
+              "Investigation et confirmation": "Soutenir les activités d'investigation, mener des enquêtes sur les rumeurs. Assurer la liaison pour le retour d'information.",
+              "Préparation": "Participer aux comités de gestion et de préparation aux urgences. Participer aux formations et exercices.",
+              "Riposte": "Mettre en œuvre les activités de riposte, encourager la participation communautaire, sensibiliser les populations.",
+              "Communication sur les risques": "Identifier les porte-paroles, construire une relation avec l'établissement de santé, inclure l'approche Une seule santé.",
+              "Suivi, évaluation, supervision et retour d'information": "Vérifier la réaction de la communauté, donner des informations en retour, participer aux examens à postériori."
+            },
+            {
+              "Niveau": "Structure de santé",
+              "Identification": "Utiliser les définitions de cas standardisées pour détecter, confirmer en laboratoire et enregistrer. Prélever et transporter les échantillons.",
+              "Notification": "Notifier les informations sur les cas immédiats. Communiquer chaque semaine les données sommaires. Notifier les dépassements de seuil.",
+              "Analyse et interprétation": "Préparer et mettre à jour les graphiques, tableaux et cartes selon temps, lieu, personne. Interpréter les résultats.",
+              "Investigation et confirmation": "Prendre part à l'investigation. Recueillir, emballer, conserver et transporter les échantillons. Vérifier les signaux d'alerte.",
+              "Préparation": "Participer aux comités de préparation, formations, exercices de simulation. Contrôler et entretenir le matériel.",
+              "Riposte": "Participer aux activités de riposte (prise en charge, recherche des contacts). Prendre des mesures de contrôle supplémentaires.",
+              "Communication sur les risques": "S'assurer du lien avec les dirigeants communautaires, communiquer sur la prévention, organiser des sessions d'écoute.",
+              "Suivi, évaluation, supervision et retour d'information": "Évaluer la participation communautaire, réaliser des auto-évaluations, suivre et évaluer les activités, fournir les données sommaires."
+            },
+            {
+              "Niveau": "District",
+              "Identification": "Soutenir l'établissement de soins, recueillir les données, vérifier la qualité, s'assurer de la disponibilité des outils et du matériel de prélèvement.",
+              "Notification": "Transmettre les rapports hebdomadaires et mensuels à la Région, notifier immédiatement les flambées et événements RSI.",
+              "Analyse et interprétation": "Centraliser, analyser et interpréter les données du district. Établir les courbes épidémiques et seuils d'alerte.",
+              "Investigation et confirmation": "Mener les investigations d'épidémies dans le district, envoyer les échantillons aux laboratoires de référence.",
+              "Préparation": "Activer le Comité Départemental de Gestion des Épidémies, élaborer le plan de préparation, constituer des stocks de sécurité.",
+              "Riposte": "Coordonner la riposte sur le terrain, déployer l'Équipe Cadre de District, superviser la prise en charge et le suivi des contacts.",
+              "Communication sur les risques": "Mettre en œuvre le plan de communication sur les risques, mobiliser les acteurs locaux et leaders d'opinion.",
+              "Suivi, évaluation, supervision et retour d'information": "Superviser régulièrement les structures de santé, évaluer la promptitude et la complétude, transmettre les bulletins de rétro-information."
+            }
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

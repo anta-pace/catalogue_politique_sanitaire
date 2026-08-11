@@ -1,0 +1,492 @@
+{
+  "metadata": {
+    "titre": "Bulletin Trimestriel du SISS N°54 - Oct. Nov. Dec. 2022",
+    "annee": "2022",
+    "source": "Ministère de la Santé et de l'Action Sociale (MSAS) - Système National d'Information Sanitaire et Sociale (SNISS)",
+    "type_document": "Bulletin statistique trimestriel"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Edito",
+      "texte": "Le MSAS s'appuie sur son Système d'Information Sanitaire (SIS), renforcé via le Système National d'Information Sanitaire et Sociale (SNISS), pour harmoniser le suivi et l'évaluation du système de santé dans une logique de gestion axée sur les résultats. Ce bulletin trimestriel vise à diffuser régulièrement les statistiques sanitaires auprès des acteurs de la santé, des autorités administratives et territoriales et des Partenaires Techniques et Financiers. Les données mobilisées proviennent des formulaires DHIS2 R_20 (santé de la mère et du nouveau-né), R_21 (prise en charge VIH/Sida), PEV (vaccination par stratégie) et du tracker de surveillance de la mortalité. Les analyses portent sur la consultation prénatale, la prévention de la transmission mère-enfant (PTME), l'assistance à l'accouchement, la vaccination rougeole-rubéole (RR1), la mortalité néonatale, la mortinatalité et la mortalité hospitalière (2017-2021).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1. Complétude des formulaires",
+      "texte": "Le niveau de complétude des formulaires utilisés dans ce bulletin est présenté dans le tableau I (source DHIS2, extraction du 30/01/2023). Au niveau national, la complétude du formulaire santé de la mère et du nouveau-né atteint 73,6 %, en retrait par rapport à la cible de 100 % (écart de 23,4 points). Aucune région n'atteint la cible : le taux varie de 92 % à Kédougou à 11,9 % à Matam, plaçant l'ensemble des régions dans la catégorie de performance faible. Kédougou, Kolda et Fatick affichent les meilleurs résultats, à l'opposé de Matam et Sédhiou.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau I : Taux de rapportage (%) par région",
+          "colonnes": ["Régions", "R20_Santé de la mère et du nouveau-né", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage"],
+          "lignes": [
+            {"Régions": "Dakar", "R20_Santé de la mère et du nouveau-né": "77,2", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "71,2"},
+            {"Régions": "Diourbel", "R20_Santé de la mère et du nouveau-né": "75,3", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "84,0"},
+            {"Régions": "Fatick", "R20_Santé de la mère et du nouveau-né": "81,7", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "80,0"},
+            {"Régions": "Kaffrine", "R20_Santé de la mère et du nouveau-né": "78,4", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "71,7"},
+            {"Régions": "Kaolack", "R20_Santé de la mère et du nouveau-né": "78,1", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "84,3"},
+            {"Régions": "Kédougou", "R20_Santé de la mère et du nouveau-né": "92", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "83,3"},
+            {"Régions": "Kolda", "R20_Santé de la mère et du nouveau-né": "85,6", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "81,7"},
+            {"Régions": "Louga", "R20_Santé de la mère et du nouveau-né": "74,3", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "73,6"},
+            {"Régions": "Matam", "R20_Santé de la mère et du nouveau-né": "11,9", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "13,9"},
+            {"Régions": "Saint-Louis", "R20_Santé de la mère et du nouveau-né": "75,6", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "82,7"},
+            {"Régions": "Sédhiou", "R20_Santé de la mère et du nouveau-né": "60,9", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "59,7"},
+            {"Régions": "Tambacounda", "R20_Santé de la mère et du nouveau-né": "78,2", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "85,2"},
+            {"Régions": "Thiès", "R20_Santé de la mère et du nouveau-né": "74,7", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "75,6"},
+            {"Régions": "Ziguinchor", "R20_Santé de la mère et du nouveau-né": "78,1", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "79,8"},
+            {"Régions": "Sénégal", "R20_Santé de la mère et du nouveau-né": "73,6", "R21_VIH_Rapport PTME EPS ET CS - Taux de rapportage": "73,2"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.1.A Suivi prénatal (SRMNIA)",
+      "texte": "Au niveau national, la couverture adéquate en consultation prénatale (CPN) est de 31,8 %, loin de l'objectif de 84 %, soit moins de la moitié de la cible. Kédougou (44,6 %), Dakar (43 %) et Thiès (39,2 %) affichent les meilleurs taux, Matam le plus faible (3,1 %). En termes d'écart à l'objectif régional, Kédougou, Tambacounda et Kaffrine présentent les plus faibles gaps, tandis que Matam, Ziguinchor et Dakar enregistrent les plus grands écarts.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Suivi prénatal - couverture CPN, cible et complétude par région",
+          "source": "Formulaire R20 SMNN, DHIS2, 30/01/2023",
+          "donnees": [
+            {"region": "Sénégal", "couverture_CPN": 31.8, "cible": 84, "complétude": 73.6},
+            {"region": "Dakar", "couverture_CPN": 43, "cible": 100, "complétude": 77.2},
+            {"region": "Diourbel", "couverture_CPN": 32.2, "cible": 81.3, "complétude": 75.3},
+            {"region": "Fatick", "couverture_CPN": 28.7, "cible": 71.2, "complétude": 81.7},
+            {"region": "Kaffrine", "couverture_CPN": 31.8, "cible": 64.2, "complétude": 78.4},
+            {"region": "Kaolack", "couverture_CPN": 33.8, "cible": 87.3, "complétude": 78.1},
+            {"region": "Kédougou", "couverture_CPN": 44.6, "cible": 68.8, "complétude": 92},
+            {"region": "Kolda", "couverture_CPN": 28.7, "cible": 66.6, "complétude": 85.6},
+            {"region": "Louga", "couverture_CPN": 30.5, "cible": 76.2, "complétude": 74.3},
+            {"region": "Matam", "couverture_CPN": 3.1, "cible": 72.5, "complétude": 11.9},
+            {"region": "Saint-Louis", "couverture_CPN": 36.1, "cible": 93, "complétude": 75.6},
+            {"region": "Sédhiou", "couverture_CPN": 16.6, "cible": 69.7, "complétude": 60.9},
+            {"region": "Tambacounda", "couverture_CPN": 26.8, "cible": 58.1, "complétude": 78.2},
+            {"region": "Thiès", "couverture_CPN": 39.2, "cible": 93.1, "complétude": 74.7},
+            {"region": "Ziguinchor", "couverture_CPN": 21.1, "cible": 87.2, "complétude": 78.1}
+          ]
+        },
+        {
+          "type": "graphique",
+          "titre": "Gap CPN par rapport aux cibles régionales (barres empilées 100%)",
+          "source": "Formulaire R20 SMNN, DHIS2, 30/01/2023",
+          "donnees": [
+            {"region": "Sénégal", "couverture_CPN_pct": 31.8, "gap_CPN_pct": 52.2},
+            {"region": "Dakar", "couverture_CPN_pct": 43, "gap_CPN_pct": 57},
+            {"region": "Diourbel", "couverture_CPN_pct": 32.2, "gap_CPN_pct": 49.1},
+            {"region": "Fatick", "couverture_CPN_pct": 28.7, "gap_CPN_pct": 42.5},
+            {"region": "Kaffrine", "couverture_CPN_pct": 31.8, "gap_CPN_pct": 32.4},
+            {"region": "Kaolack", "couverture_CPN_pct": 33.8, "gap_CPN_pct": 53.5},
+            {"region": "Kédougou", "couverture_CPN_pct": 44.6, "gap_CPN_pct": 24.2},
+            {"region": "Kolda", "couverture_CPN_pct": 28.7, "gap_CPN_pct": 37.9},
+            {"region": "Louga", "couverture_CPN_pct": 30.5, "gap_CPN_pct": 45.7},
+            {"region": "Matam", "couverture_CPN_pct": 3.1, "gap_CPN_pct": 69.4},
+            {"region": "Saint-Louis", "couverture_CPN_pct": 36.1, "gap_CPN_pct": 56.9},
+            {"region": "Sédhiou", "couverture_CPN_pct": 16.6, "gap_CPN_pct": 53.1},
+            {"region": "Tambacounda", "couverture_CPN_pct": 26.8, "gap_CPN_pct": 31.3},
+            {"region": "Thiès", "couverture_CPN_pct": 39.2, "gap_CPN_pct": 53.9},
+            {"region": "Ziguinchor", "couverture_CPN_pct": 21.1, "gap_CPN_pct": 66.1}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.1.A Mortalité néonatale et mortinatalité",
+      "texte": "Le taux de décès néonatal enregistré au niveau des structures sanitaires est de 6,4 pour mille au niveau national. Kaolack (19,2‰), Ziguinchor (13,2‰) et Kolda (11‰) enregistrent les taux les plus élevés ; Louga (2,7‰), Dakar (2,8‰) et Kaffrine (2,9‰) les plus faibles. Concernant la mortinatalité, le taux national de mort-nés est de 22,9‰, avec Tambacounda (40,6‰), Louga (30,5‰) et Ziguinchor (30,1‰) en tête, et Diourbel au taux le plus faible (14,5‰). Les mort-nés macérés sont généralement plus fréquents que les mort-nés frais, sauf à Kaolack, Kédougou et Tambacounda.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Taux de décès néonatal enregistré au niveau des structures (‰)",
+          "source": "Formulaire R20 SMNN, DHIS2",
+          "donnees": [
+            {"region": "Sénégal", "taux_pour_mille": 6.4},
+            {"region": "Dakar", "taux_pour_mille": 2.8},
+            {"region": "Diourbel", "taux_pour_mille": 3.6},
+            {"region": "Fatick", "taux_pour_mille": 6.2},
+            {"region": "Kaffrine", "taux_pour_mille": 2.9},
+            {"region": "Kaolack", "taux_pour_mille": 19.2},
+            {"region": "Kédougou", "taux_pour_mille": 7.7},
+            {"region": "Kolda", "taux_pour_mille": 11},
+            {"region": "Louga", "taux_pour_mille": 2.7},
+            {"region": "Matam", "taux_pour_mille": 4.8},
+            {"region": "Saint-Louis", "taux_pour_mille": 9.1},
+            {"region": "Sédhiou", "taux_pour_mille": 6.7},
+            {"region": "Tambacounda", "taux_pour_mille": 6.5},
+            {"region": "Thiès", "taux_pour_mille": 4.6},
+            {"region": "Ziguinchor", "taux_pour_mille": 13.2}
+          ]
+        },
+        {
+          "type": "graphique",
+          "titre": "Taux de mort-nés frais / macérés / total au niveau des structures (‰)",
+          "source": "Formulaire R20 SMNN, DHIS2, 30/01/2023",
+          "donnees": [
+            {"region": "Sénégal", "mort_nes_frais": 10, "mort_nes_maceres": 13, "mort_nes_total": 22.9},
+            {"region": "Dakar", "mort_nes_frais": 7, "mort_nes_maceres": 13, "mort_nes_total": 20},
+            {"region": "Diourbel", "mort_nes_frais": 6, "mort_nes_maceres": 8.8, "mort_nes_total": 14.5},
+            {"region": "Fatick", "mort_nes_frais": 12, "mort_nes_maceres": 13, "mort_nes_total": 25},
+            {"region": "Kaffrine", "mort_nes_frais": 12, "mort_nes_maceres": 14, "mort_nes_total": 27},
+            {"region": "Kaolack", "mort_nes_frais": 12, "mort_nes_maceres": 12, "mort_nes_total": 28},
+            {"region": "Kédougou", "mort_nes_frais": 14.3, "mort_nes_maceres": 10, "mort_nes_total": 29},
+            {"region": "Kolda", "mort_nes_frais": 13, "mort_nes_maceres": 15, "mort_nes_total": 29},
+            {"region": "Louga", "mort_nes_frais": 13, "mort_nes_maceres": 16.9, "mort_nes_total": 30.5},
+            {"region": "Matam", "mort_nes_frais": 13, "mort_nes_maceres": 14, "mort_nes_total": 29},
+            {"region": "Saint-Louis", "mort_nes_frais": 13, "mort_nes_maceres": 13, "mort_nes_total": 29},
+            {"region": "Sédhiou", "mort_nes_frais": 13, "mort_nes_maceres": 13, "mort_nes_total": 29},
+            {"region": "Tambacounda", "mort_nes_frais": 21.5, "mort_nes_maceres": 19.07, "mort_nes_total": 40.6},
+            {"region": "Thiès", "mort_nes_frais": 7, "mort_nes_maceres": 20, "mort_nes_total": 43},
+            {"region": "Ziguinchor", "mort_nes_frais": 12, "mort_nes_maceres": 18.1, "mort_nes_total": 30.1}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.1.B Assistance à l'accouchement",
+      "texte": "Le taux national d'accouchement assisté par du personnel qualifié est de 97,3 %, pour une cible de 100 %. Kaffrine (99 %), Dakar (98,9 %) et Kédougou (98,1 %) enregistrent les taux les plus élevés ; Matam (92,9 %), Sédhiou (93,7 %) et Tambacounda (95,1 %) les plus faibles.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Taux d'accouchement assisté par un personnel qualifié (%)",
+          "donnees": [
+            {"region": "Sénégal", "taux_pct": 97.3},
+            {"region": "Dakar", "taux_pct": 98.9},
+            {"region": "Diourbel", "taux_pct": 95.4},
+            {"region": "Fatick", "taux_pct": 96.9},
+            {"region": "Kaffrine", "taux_pct": 99},
+            {"region": "Kaolack", "taux_pct": 97.5},
+            {"region": "Kédougou", "taux_pct": 98.1},
+            {"region": "Kolda", "taux_pct": 97},
+            {"region": "Louga", "taux_pct": 97.6},
+            {"region": "Matam", "taux_pct": 92.9},
+            {"region": "Saint-Louis", "taux_pct": 97.8},
+            {"region": "Sédhiou", "taux_pct": 93.7},
+            {"region": "Tambacounda", "taux_pct": 95.1},
+            {"region": "Thiès", "taux_pct": 97.1},
+            {"region": "Ziguinchor", "taux_pct": 97}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.1.C Vaccination Rougeole Rubéole (RR1)",
+      "texte": "Au niveau national, la complétude du reporting PEV est de 75,8 % (cible 100 %) et la couverture vaccinale RR1 de 68,8 % (cible 90 %). Aucune région n'atteint ces deux objectifs. Kédougou enregistre la meilleure complétude (89,7 %), suivi de Diourbel (87,4 %) ; Matam affiche la plus faible (10,3 %). Pour la couverture vaccinale, Dakar est en tête (85,4 %), suivi de Kédougou (81,1 %), Matam étant le plus faible (8,9 %).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Reporting PEV et couverture vaccinale RR1 par région (%)",
+          "donnees": [
+            {"region": "Sénégal", "reporting_PEV": 75.8, "couverture_RR1": 68.8},
+            {"region": "Dakar", "reporting_PEV": 84.3, "couverture_RR1": 85.4},
+            {"region": "Diourbel", "reporting_PEV": 87.4, "couverture_RR1": 76.4},
+            {"region": "Fatick", "reporting_PEV": 83.6, "couverture_RR1": 62.2},
+            {"region": "Kaffrine", "reporting_PEV": 78.6, "couverture_RR1": 68.9},
+            {"region": "Kaolack", "reporting_PEV": 78.1, "couverture_RR1": 73.9},
+            {"region": "Kédougou", "reporting_PEV": 89.7, "couverture_RR1": 81.1},
+            {"region": "Kolda", "reporting_PEV": 86.3, "couverture_RR1": 79.7},
+            {"region": "Louga", "reporting_PEV": 75.1, "couverture_RR1": 67.9},
+            {"region": "Matam", "reporting_PEV": 10.3, "couverture_RR1": 8.9},
+            {"region": "Saint-Louis", "reporting_PEV": 75.6, "couverture_RR1": 73.5},
+            {"region": "Sédhiou", "reporting_PEV": 64.2, "couverture_RR1": 48.5},
+            {"region": "Tambacounda", "reporting_PEV": 81, "couverture_RR1": 63.4},
+            {"region": "Thiès", "reporting_PEV": 78.1, "couverture_RR1": 75.8},
+            {"region": "Ziguinchor", "reporting_PEV": 77.3, "couverture_RR1": 40.1}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.2 Élimination de la transmission mère-enfant (ETME)",
+      "texte": "L'élimination de la transmission mère-enfant du VIH repose sur cinq critères : plus de 95 % des femmes enceintes ayant bénéficié d'au moins une consultation prénatale ; plus de 95 % connaissant leur statut VIH ; plus de 95 % des femmes séropositives sous traitement antirétroviral ; un taux de nouvelles infections pédiatriques inférieur ou égal à 50 pour 100 000 naissances vivantes ; et un taux de transmission inférieur à 5 % chez les populations allaitantes.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.2.A Enfants ayant bénéficié de PCR avant 6 semaines",
+      "texte": "La proportion d'enfants de mères séropositives ayant bénéficié d'une PCR varie fortement selon les régions, de 168 % à Kaolack (la valeur dépassant 100 % s'explique par des enfants testés sur une période dont la naissance est antérieure à celle-ci) à 21 % à Kédougou, la région la moins performante sur cet indicateur.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Proportion d'enfants de mères séropositives ayant bénéficié de PCR avant 6 semaines (%)",
+          "source": "DHIS2, extrait le 30/01/2023",
+          "donnees": [
+            {"region": "Dakar", "taux_pct": 98},
+            {"region": "Diourbel", "taux_pct": 77},
+            {"region": "Fatick", "taux_pct": 81},
+            {"region": "Kaffrine", "taux_pct": 103},
+            {"region": "Kaolack", "taux_pct": 168},
+            {"region": "Kédougou", "taux_pct": 21},
+            {"region": "Kolda", "taux_pct": 70},
+            {"region": "Louga", "taux_pct": 42},
+            {"region": "Matam", "taux_pct": 100},
+            {"region": "Saint-Louis", "taux_pct": 74},
+            {"region": "Sédhiou", "taux_pct": 82},
+            {"region": "Tambacounda", "taux_pct": 113},
+            {"region": "Thiès", "taux_pct": 76},
+            {"region": "Ziguinchor", "taux_pct": 86},
+            {"region": "Sénégal", "taux_pct": 89}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.2.B Utilisation de la consultation prénatale (CPN)",
+      "texte": "Le taux d'utilisation de la CPN varie de 10 % à Matam, la valeur la plus faible, à 114 % à Kédougou, la plus élevée.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Taux d'utilisation CPN par région (%)",
+          "source": "DHIS2",
+          "donnees": [
+            {"region": "Dakar", "taux_pct": 71},
+            {"region": "Diourbel", "taux_pct": 70},
+            {"region": "Fatick", "taux_pct": 57},
+            {"region": "Kaffrine", "taux_pct": 74},
+            {"region": "Kaolack", "taux_pct": 71},
+            {"region": "Kédougou", "taux_pct": 114},
+            {"region": "Kolda", "taux_pct": 73},
+            {"region": "Louga", "taux_pct": 68},
+            {"region": "Matam", "taux_pct": 10},
+            {"region": "Saint-Louis", "taux_pct": 78},
+            {"region": "Sédhiou", "taux_pct": 41},
+            {"region": "Tambacounda", "taux_pct": 67},
+            {"region": "Thiès", "taux_pct": 75},
+            {"region": "Ziguinchor", "taux_pct": 44},
+            {"region": "Sénégal", "taux_pct": 65}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.2.C Femmes enceintes séropositives sous traitement antirétroviral",
+      "texte": "Le taux de mise sous traitement antirétroviral (TARV) des femmes enceintes séropositives est faible dans plusieurs régions, notamment Fatick (25 %) et Matam (8 %). Tambacounda enregistre le taux le plus élevé (86 %). Aucune région n'atteint l'objectif de 95 %.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Proportion de femmes enceintes séropositives mises sous TARV, anciennes et nouvelles (%)",
+          "source": "DHIS2",
+          "donnees": [
+            {"region": "Dakar", "taux_pct": 55},
+            {"region": "Diourbel", "taux_pct": 70},
+            {"region": "Fatick", "taux_pct": 25},
+            {"region": "Kaffrine", "taux_pct": 49},
+            {"region": "Kaolack", "taux_pct": 50},
+            {"region": "Kédougou", "taux_pct": 79},
+            {"region": "Kolda", "taux_pct": 51},
+            {"region": "Louga", "taux_pct": 34},
+            {"region": "Matam", "taux_pct": 8},
+            {"region": "Saint-Louis", "taux_pct": 61},
+            {"region": "Sédhiou", "taux_pct": 31},
+            {"region": "Tambacounda", "taux_pct": 86},
+            {"region": "Thiès", "taux_pct": 67},
+            {"region": "Ziguinchor", "taux_pct": 48},
+            {"region": "Sénégal", "taux_pct": 51}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "2.2.D Tests de dépistage VIH réalisés auprès des femmes enceintes",
+      "texte": "Matam (9 %) et Sédhiou (39 %) enregistrent les taux de test les plus faibles, Kédougou le plus élevé (111 %). Il existe une déperdition entre le nombre de femmes vues en CPN et celles ayant bénéficié d'un dépistage VIH : au niveau national, 8 966 femmes enceintes vues en CPN n'ont pas été dépistées, ce qui, compte tenu d'une prévalence de 0,2 %, représenterait environ 18 femmes enceintes séropositives non dépistées. Le récapitulatif national des quatre indicateurs ETME est : PCR 89 %, mise sous TARV 51 %, tests réalisés 64 %, taux d'utilisation CPN 65 %.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Proportion de tests de dépistage VIH réalisés sur les femmes vues en CPN (%)",
+          "source": "DHIS2",
+          "donnees": [
+            {"region": "Dakar", "taux_pct": 68},
+            {"region": "Diourbel", "taux_pct": 67},
+            {"region": "Fatick", "taux_pct": 56},
+            {"region": "Kaffrine", "taux_pct": 71},
+            {"region": "Kaolack", "taux_pct": 70},
+            {"region": "Kédougou", "taux_pct": 111},
+            {"region": "Kolda", "taux_pct": 72},
+            {"region": "Louga", "taux_pct": 67},
+            {"region": "Matam", "taux_pct": 9},
+            {"region": "Saint-Louis", "taux_pct": 78},
+            {"region": "Sédhiou", "taux_pct": 39},
+            {"region": "Tambacounda", "taux_pct": 67},
+            {"region": "Thiès", "taux_pct": 74},
+            {"region": "Ziguinchor", "taux_pct": 44},
+            {"region": "Sénégal", "taux_pct": 64}
+          ]
+        },
+        {
+          "type": "graphique",
+          "titre": "Récapitulatif national des quatre indicateurs ETME (%)",
+          "source": "DHIS2",
+          "donnees": [
+            {"indicateur": "Taux d'utilisation CPN", "valeur_pct": 65},
+            {"indicateur": "Proportion de test réalisé", "valeur_pct": 64},
+            {"indicateur": "Mise sous TARV (anciennes+nouvelles)", "valeur_pct": 51},
+            {"indicateur": "PCR", "valeur_pct": 89}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "3.1 Décès hospitaliers selon les admissions (2016-2021)",
+      "texte": "Entre 2016 et 2021, le nombre de décès hospitaliers a régulièrement augmenté, passant de 16 957 à 24 805, pour une mortalité hospitalière moyenne de 8,9 % sur la période.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Admissions, décès et taux de décès hospitaliers, 2016-2021",
+          "donnees": [
+            {"annee": "2016", "admissions": 198316, "deces": 16957, "taux_deces_pct": 8.6},
+            {"annee": "2017", "admissions": 211137, "deces": 18637, "taux_deces_pct": 8.8},
+            {"annee": "2018", "admissions": 215806, "deces": 19074, "taux_deces_pct": 8.8},
+            {"annee": "2019", "admissions": 233455, "deces": 20075, "taux_deces_pct": 8.6},
+            {"annee": "2020", "admissions": 231300, "deces": 22202, "taux_deces_pct": 9.6},
+            {"annee": "2021", "admissions": 273600, "deces": 24805, "taux_deces_pct": 9.1}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "3.2 Structure des décès hospitaliers selon le sexe",
+      "texte": "Les décès hospitaliers touchent davantage les hommes, avec une moyenne de 55 % par année sur la période 2016-2021.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Répartition des décès hospitaliers par sexe, 2016-2021 (%)",
+          "donnees": [
+            {"annee": "2016", "masculin_pct": 55, "feminin_pct": 45},
+            {"annee": "2017", "masculin_pct": 56, "feminin_pct": 44},
+            {"annee": "2018", "masculin_pct": 55, "feminin_pct": 45},
+            {"annee": "2019", "masculin_pct": 55, "feminin_pct": 45},
+            {"annee": "2020", "masculin_pct": 55, "feminin_pct": 45},
+            {"annee": "2021", "masculin_pct": 56, "feminin_pct": 44}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "3.3 Structure des décès hospitaliers selon les groupes d'âge",
+      "texte": "Les décès hospitaliers sont plus élevés chez les 15-59 ans et les moins de 15 ans que chez les 60 ans et plus, sur l'ensemble de la période 2016-2021, bien que la part des 60 ans et plus ait fortement augmenté en 2020 et 2021.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Structure des décès hospitaliers selon les groupes d'âge, 2016-2021",
+          "colonnes": ["Année", "-15 ans", "15 - 59 ans", "60 ans et +", "Total Deces"],
+          "lignes": [
+            {"Année": "2016", "-15 ans": "5 936", "15 - 59 ans": "6 640", "60 ans et +": "5 161", "Total Deces": "17737"},
+            {"Année": "2017", "-15 ans": "6 167", "15 - 59 ans": "7 113", "60 ans et +": "5 545", "Total Deces": "18825"},
+            {"Année": "2018", "-15 ans": "6 702", "15 - 59 ans": "7 049", "60 ans et +": "5 414", "Total Deces": "19165"},
+            {"Année": "2019", "-15 ans": "6 796", "15 - 59 ans": "7 899", "60 ans et +": "5 551", "Total Deces": "20246"},
+            {"Année": "2020", "-15 ans": "7 352", "15 - 59 ans": "7 962", "60 ans et +": "7 107", "Total Deces": "22421"},
+            {"Année": "2021", "-15 ans": "7 070", "15 - 59 ans": "9 178", "60 ans et +": "8 668", "Total Deces": "24916"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4. Informations clés sur le SIS - Interopérabilité",
+      "texte": "Le Sénégal a adopté en 2013 le DHIS2 comme plateforme nationale de gestion des données sanitaires agrégées et individuelles (module Tracker). L'interopérabilité des sous-systèmes reste un défi pour une prise de décision fondée sur des données de qualité ; deux initiatives y répondent au sein du MSAS. La première, portée depuis 2019 par la Division de Lutte contre le Sida (DLSI), la division du système d'informations sanitaire et sociale (DSISS) et l'Université Gaston Berger, rend interopérables le Système Electronique de Notifications des Cas (SENCAS) et le Tracker-VIH : les données de dépistage saisies dans SENCAS sont reversées dans le DHIS2 via une solution tampon, le code d'identification unique SENCAS permettant de retrouver le patient dans la base Tracker-VIH, afin d'alléger la charge des prestataires et d'améliorer la qualité des données. La seconde initiative concerne iHRIS (Integrated Human Resources Information Software), plateforme open-source introduite en 2013 par la direction des Ressources humaines du MSAS avec l'appui de l'USAID, pour combler le déficit de données sur les ressources humaines et contribuer à la couverture sanitaire universelle. iHRIS dispose de deux interfaces distinctes pour le personnel étatique d'une part, et le personnel privé et communautaire d'autre part, portant sur les caractéristiques sociodémographiques et professionnelles du personnel de santé.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logo/schéma",
+          "titre": "Logo DHIS2",
+          "description": "Logo de la plateforme DHIS2, mentionnée comme plateforme nationale de gestion des données sanitaires."
+        },
+        {
+          "type": "image",
+          "categorie": "capture d'écran",
+          "titre": "Interfaces de connexion SENCAS et DHIS2",
+          "description": "Captures d'écran des pages d'authentification des plateformes SENCAS (espace authentification) et DHIS2 (système d'information sanitaire MSAS)."
+        },
+        {
+          "type": "image",
+          "categorie": "capture d'écran",
+          "titre": "Interface d'accueil iHRIS",
+          "description": "Capture d'écran de la page d'accueil et de connexion de la plateforme iHRIS du Ministère de la Santé et de l'Action Sociale."
+        },
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Flux d'installation iHRIS vers serveur et DHIS2",
+          "description": "Schéma illustrant le flux : installation d'iHRIS, transfert vers un serveur, puis interconnexion avec la plateforme DHIS2."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "5. Note sur l'EDS 2022-2023",
+      "texte": "L'Enquête Démographique et de Santé (EDS) vise à disposer de données sur la situation démographique et sanitaire ; le Sénégal la mène tous les cinq ans depuis plus de deux décennies, avec une périodicité annuelle entre 2011 et 2019 selon deux composantes (ménages et structures de santé). L'édition en cours porte sur la santé mère-enfant, le paludisme, le VIH/Sida et les IST, la santé mentale, la couverture maladie universelle, l'eau, l'hygiène, l'assainissement et l'électricité. Des données seront également collectées au niveau des structures de santé pour évaluer la qualité de l'offre de services, la disponibilité et l'adéquation des équipements, la compétence des prestataires et le niveau de satisfaction des bénéficiaires.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Équipe de rédaction et de relecture",
+      "texte": "Liste des membres de l'équipe de rédaction et de l'équipe de relecture du bulletin.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Équipe de rédaction",
+          "colonnes": ["Rédaction"],
+          "lignes": [
+            {"Rédaction": "Mme Ndiaye Diodio Diagne"},
+            {"Rédaction": "Mme Sarr Aissatou Nomokho"},
+            {"Rédaction": "Dr Aboubacry Dramé"},
+            {"Rédaction": "M. Mamadou Djiba"},
+            {"Rédaction": "M. Mamadou Mangane"},
+            {"Rédaction": "Dr Ahmadou Bouya Ndao"},
+            {"Rédaction": "M. Pape Diogop Ndao"},
+            {"Rédaction": "M. Papa Oumar Diagne"},
+            {"Rédaction": "M. Daouda Malick Gueye"},
+            {"Rédaction": "M. Pape Ibrahima Ndour"},
+            {"Rédaction": "Mme Dansokho Aissatou Sow"},
+            {"Rédaction": "M. Babacar Senghor"},
+            {"Rédaction": "Dr Paulette Suzanne Ndiaye"},
+            {"Rédaction": "M. Abdou Faye"},
+            {"Rédaction": "Mme Guéthie Diop"},
+            {"Rédaction": "Mme Ndeye Penda Diop"},
+            {"Rédaction": "Dr Fatoumata Zahra Mouhamed Mboup"},
+            {"Rédaction": "Dr Moussa Diakhaté"},
+            {"Rédaction": "M. Abdoulaye Faye"},
+            {"Rédaction": "M. Saer Diouf"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Équipe de relecture",
+          "colonnes": ["Relecture"],
+          "lignes": [
+            {"Relecture": "Dr Babacar Gueye"},
+            {"Relecture": "Dr Abdoulaye Diaw"},
+            {"Relecture": "Dr Paulette Suzanne Ndiaye"}
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

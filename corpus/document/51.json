@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "titre": "Présentation de la Carte sanitaire et du Plan stratégique Santé digitale (PSSD) 2018-2023",
+    "annee": "2018",
+    "source": "Ministère de la Santé et de l'Action sociale, Cellule CSSDOS",
+    "type_document": "Document institutionnel / Présentation de politiques publiques"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "En-tête et Identification de la Structure",
+      "texte": "REPUBLIQUE DU SENEGAL Un Peuple - Un But - Une Foi Ministère de la Santé et de l'Action sociale Direction générale de la Santé (DGS) Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la Santé (CSSDOS) Fann Résidence, Rue Aimé Césaire, Dakar, Sénégal Tel: +221 33 869 42 97 / Fax: +221 33 869 42 49 http://www.sante.gouv.sn",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo CSS DOS",
+          "description": "Logo circulaire montrant la carte du Sénégal encadrée par deux mains tenant un stéthoscope, avec l'inscription CSS DOS et la devise 'L'ART SANITAIRE, C'EST SANTE, DEVOIR, RESPECT, UNION'."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Introduction",
+      "texte": "Pour soutenir et améliorer la qualité des soins et une circulation d'une information de qualité, le MSAS a pris les dispositions nécessaires pour la digitalisation du système de santé. Le Plan stratégique Santé digitale 2018-2023 qui vient d'être validé entre dans sa phase d'opérationnalisation ainsi que la nouvelle carte sanitaire. La Direction générale de la Santé remercie tous les centres de responsabilité du MSAS, les opérateurs de télécommunications, les ONGs (PATH, AMREF, Africare), la société civile, les Start Up, les universités, les RM, les DS, les EPS, les autorités administratives, les départements ministériels, les élus locaux et parlementaires, le secteur privé de la santé, les structures de santé de Défense et de sécurité, les ordres professionnels, l'ARTP, l'ADIE, la CDP, les partenaires techniques et financiers, le MCTPEN qui ont contribué à l'élaboration de la nouvelle carte sanitaire et du Plan stratégique Santé digitale.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Rappel des missions de la Cellule de la Carte sanitaire et sociale, de la Santé digitale et de l'Observatoire de la Santé (CSSDOS)",
+      "texte": "• Actualiser, suivre et évaluer la carte sanitaire et sociale, et la Santé digitale ; • Organiser l'écosystème de la Santé digitale ; • Initier des programmes et/ou projets de Santé digitale (Télémédecine, m-Santé, e-Learning, Dossier patient informatisé, harmonisation de l'utilisation des services et applications) ; • Assurer le secrétariat exécutif de l'Observatoire de la Santé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Adoption et mise en œuvre de la nouvelle carte sanitaire",
+      "texte": "Le Gouvernement du Sénégal a adopté lors du Conseil des ministres du 25 juillet 2018, la nouvelle carte sanitaire qui définit la politique et les stratégies en matière d'accès et d'équité de soins de santé. Cette carte sanitaire constitue pour le MSAS, le référentiel en matière de paquets de services, de normes en ressources humaines, en équipements, et constitue la base de données pour les besoins relatifs à l'offre de soins ainsi que la fonctionnalité et la régularité des structures de santé. En outre, pour mieux rationaliser l'utilisation de l'information géographique du MSAS, la cellule CSSDOS diffuse et met à jour la carte à travers un Système d'Information Géographique (SIG Santé) et des plateformes cartographiques web et mobiles. Elle appuie les centres de responsabilité dans la cartographie de leurs indicateurs.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Contenu de la nouvelle carte sanitaire",
+      "texte": "Concernant le contenu de l'actuelle carte sanitaire, il est le résultat de l'expression d'une ambition affichée par le Gouvernement pour faire du pays un hub médical sous régional couplée à un réalisme économique efficace. Le MSAS a mis en place une carte sanitaire de développement et de rationalisation de l'offre de soins afin de mettre en exécution cette priorité gouvernementale exprimée lors de plusieurs conseils des ministres.Nouvelle carte sanitaire du Sénégal en 7 (sept) tomes : Tome 1: Généralités, processus d'élaboration et orientations de mise en œuvre Tome 2: Projet de décret et annexes Tome 3: Normes des paquets de services par niveau Tome 4: Normes exhaustives en équipements, surfaces et pièces Tome 5: Etat des lieux et besoins prévisionnels de l'offre de soins Tome 6: Programme de Développement de la Carte sanitaire (projet d'investissement qui met l'accent sur les besoins prioritaires pour renforcer l'offre de soins de base) Tome 7: Manuel de procédures de la carte sanitaire",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Densification de la carte sanitaire",
+          "donnees": [
+            {
+              "structure": "Poste de santé",
+              "valeur_2018": "1380",
+              "valeur_2023": "1680"
+            },
+            {
+              "structure": "Centre de santé",
+              "valeur_2018": "101",
+              "valeur_2023": "147"
+            },
+            {
+              "structure": "Hôpital départemental",
+              "valeur_2018": "10",
+              "valeur_2023": "13"
+            },
+            {
+              "structure": "Hôpital régional",
+              "valeur_2018": "13",
+              "valeur_2023": "19"
+            },
+            {
+              "structure": "Hôpital national",
+              "valeur_2018": "12",
+              "valeur_2023": "17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Programme de Développement de la Carte sanitaire et sociale (PDCS)",
+      "texte": "Le Programme de Développement de la Carte sanitaire et sociale (PDCS) prévoit des besoins prioritaires en personnels de soins et d'action sociale estimés à onze mille (11 000). Concernant les équipements de diagnostic et les lits, il est prévu la mise à niveau des postes et des centres de santé suivant les normes de la carte sanitaire. Pour les soins promotionnels et préventifs offerts par les services de l'hygiène, il est prévu dans le PDCS, la construction de douze (12) postes d'hygiène, quatorze (14) brigades départementales, quatre (4) brigades régionales et deux (2) brigades spéciales. Pour les filets sociaux, il est prévu la construction de vingt et un (21) Centres de Promotion et de Réinsertion sociale (CPRS) et la réhabilitation de six (6) autres ; et la construction d'un (1) Centre national de Réadaptation sociale (CNRS).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Plan stratégique Santé digitale 2018-2023",
+      "texte": "Les technologies du numérique peuvent jouer un rôle essentiel dans l'atteinte de la couverture sanitaire universelle. L'utilisation à grande échelle de ces technologies permettra au MSAS d'améliorer (1) l'accès aux soins de santé, (2) la gestion des filets sociaux, (3) la circulation d'informations de qualité pour la prise de décision et (4) la gouvernance sanitaire et la formation. « D'ici 2023, la Stratégie Santé Digitale permettra au Sénégal d'améliorer durablement la couverture sanitaire universelle des populations et d'assurer une prise de décision des acteurs basée sur des informations de qualité et sécurisée ».",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Objectifs, axes stratégiques et interventions prioritaires du PSSD",
+      "texte": "Objectifs et axes stratégiques du PSSD : Impulser et promouvoir l'accès aux soins de qualité par le biais de la Télésanté, du m-Santé et des objets médicaux connectés.B) Favoriser la prévention et la prise en charge du risque maladie à travers une plus large diffusion d'informations sur la santé et une digitalisation de la couverture maladie universelle.) Renforcer les performances du personnel de santé par l'utilisation optimale des TIC.) Améliorer la gouvernance sanitaire grâce à la disponibilité d'une information de qualité et sécurisée à tous les niveaux du système de santé.Interventions prioritaires du PSSD : • Communication, formation et sensibilisation. • Gouvernance et Leadership. • Dossiers de santé de l'usager. • Télésanté. • Plateforme Santé digitale (architecture, normes d'interopérabilité et cahiers de charges).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "diagramme",
+          "titre": "Environnement du dossier de santé de l'usager",
+          "description": "Schéma représentant la base de données centrale 'Dossier de santé de l'usager' interconnectée avec divers modules et services : Urgences pré hospitalières, Urgences hospitalières, Vérification des rendez vous, Gestion de la production Clinique, Aide au diagnostic (laboratoires, imagerie médicale), Gestion des hospitalisations / Hôtellerie, Gestion de l'Information médicale, Gestion de la Pharmacie IB, CNI Biométrique, Pharmacies, Assurance maladie, Facturation, et Gestion Financière et comptable."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Atouts, contraintes générales et défis (perspectives)",
+      "texte": "Atouts du Sénégal : • Engagement de l'Etat pour l'économie numérique à travers la stratégie SN 2025 et le financement de la Délégation à l'Entreprenariat Rapide (DER) aux Starts Up ; • Existence de sociétés, de Start Up, d'ONG et d'entreprises performantes et engagées dans les domaines des Technologies de l'Information et de la Communication ; • Engagement des partenaires internationaux (OMS et UIT) à côté du MSAS pour la digitalisation du système de santé ; • Couvertures en réseaux téléphonique et internet assez satisfaisantes pour démarrer des projets digitaux ; • Engagement manifeste du Ministère de la Santé et de l'Action sociale à travers la création de la cellule CSSDOS et la validation du PSSD ; • Partenariat durable déjà établi entre le MSAS et le MCTPEN.Contraintes générales : • Insuffisance de l'autonomie fonctionnelle et manque en ressources humaines et financières de la cellule CSSDOS ; • Fragmentation des initiatives en santé digitale ; • Manque de financement pour la mise en œuvre des feuilles de route de la carte sanitaire et du PSSD.Défis (perspectives) : • Amélioration de la gouvernance interne (MSAS) et inter sectorielle de la santé numérique ; • Financement et mise en œuvre des feuilles de route (FdR) du PSSD et de la carte sanitaire.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Conclusion",
+      "texte": "Le MSAS a produit une carte sanitaire de développement et de rationalisation de l'offre de soins. Elle est considérée comme l'opérationnalisation du volet des prestations et de l'offre de soins de la SNFS et du nouveau PNDSS. Son utilisation désormais obligatoire, permettra de contribuer substantiellement à la réalisation de l'ambition sanitaire du Plan Sénégal Emergent (PSE), d'assurer encore plus d'équité et d'efficience aux interventions (techniques et financières des acteurs avec l'introduction de l'e-Santé dans l'offre de soins. Le Plan stratégique Santé digitale 2018-2023 est le résultat d'un travail participatif dont l'opérationnalisation permettra au système de santé d'être durablement renforcé. Les domaines sanitaires prioritaires identifiés sont relatifs à l'accès des populations aux services de soins de qualité, à la prise en charge des maladies chroniques, au développement et à l'épanouissement du personnel de soins ainsi qu'une meilleure efficience de la gouvernance sanitaire.",
+      "tableaux": [],
+      "images": []
+    }
+  ]
+}

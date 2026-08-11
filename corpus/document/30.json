@@ -1,0 +1,3136 @@
+{
+  "metadata": {
+    "titre": "ANNUAIRE STATISTIQUE DE LA RECHERCHE POUR LA SANTE - ANNEE 2019",
+    "annee": "2019",
+    "source": "MINISTERE DE LA SANTE ET DE L'ACTION SOCIALE - DIRECTION DE LA PLANIFICATION, DE LA RECHERCHE ET DES STATISTIQUES - DIVISION DE LA RECHERCHE / CNERS",
+    "type_document": "Annuaire statistique"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Remerciements",
+      "texte": "L'élaboration de cet annuaire statistique de la recherche pour la santé ne serait pas possible sans la participation technique active de plusieurs acteurs du système de santé parmi lesquels, on peut citer: le Directeur de la Planification, de la Recherche et des Statistiques (DPRS) et les agents de la Division Recherche (DR), de la Division du Système d'Information Sanitaire et Social (DSISS) et du secrétariat permanent du Comité national d'Ethique pour la Recherche en Santé (CNERS).Ce processus a également reçu l'appui financier de EDCTP par l'entremise du projet SEN-ETHICS qui a financé deux ateliers qui ont abouti à la production dudit annuaire. En conséquence de ces appuis et au nom du Ministre de la Santé et de l'Action sociale (MSAS), la DPRS formule ses remerciements à l'adresse de tous les acteurs ci-dessus listés, particulièrement l'équipe de rédaction composée ainsi qu'il suit:- Dr Youssoupha NDIAYE : DPRS/MSAS- Dr Samba Cor SARR : DR/DPRS/MSAS- Dr Abdoulaye DIALLO : DR/DPRS/MSAS- M. Abib NDIAYE : DR/DPRS/MSAS- M. Mame Omar GUEYE : DR/DPRS/MSAS- M. Ousmane DIOUF : CNERS/MSAS- M. Papa Ibrahima NDOUR : DSISS/DPRS/MSAS- Mme Viviane M. Solange MBENGUE : DR/DPRS/MSAS- Dr Zeyni El Abidine SY : DSISS/DPRS/MSAS",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Sigles et Acronymes",
+      "texte": "CCC : Communication pour le Changement de Comportement;CNERS : Comité national d'Ethique pour la Recherche en Santé ;CNRS : Conseil national pour la Recherche en Santé;DER : Division des Etudes et de la Recherche;DERF : Direction des Etudes, de la Recherche et de la Formation;DPRS : Direction de la Planification, de la Recherche et des Statistiques;DR : Division de la Recherche;DS : Direction de la Santé ;DSISS : Division du Système d'Information Sanitaire et Sociale;EDCTP : European and Developing Countries Clinical Trails Partnership;HTA : Hypertension Artérielle;MI : Maladies infectieuses;MNT : Maladies Non Transmissibles;MSAS : Ministère de la Santé et de l'Action sociale;MSM : Man Having Sex with Man;MSP : Ministère de la Santé et de la Prévention;MSPM : Ministère de la Santé et de la Prévention médicale;OMS : Organisation Mondiale de la Santé;ONG : Organisation Non Gouvernementale;PEC : Prise en Charge;PVVIH : Personne vivant avec le VIH;RH : Ressource Humaine;SISR : Système d'Information Sanitaire de Routine;SRAJ : Santé de la Reproduction des Adolescents et des Jeunes;VBG : Violences Basées sur le Genre;VIH : Virus de l'Immunodéficience Humaine.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PREFACE",
+      "texte": "L'annuaire statistique de la recherche en santé est un document dans lequel est compilé l'ensemble des recherches enregistrées au Comité national d'Ethique pour la Recherche en Santé (CNERS) au cours de l'année. Il permet d'avoir un aperçu sur l'évolution de la recherche qui vise à générer de la connaissance dont l'utilisation pourrait contribuer à améliorer la santé des populations.Avec l'option de promouvoir l'utilisation des évidences dans les politiques et pratiques de santé, cet annuaire constitue un maillon important du dispositif mis en place par le Ministère de la Santé et de l'Action sociale (MSAS).La Direction de la Planification, de la Recherche et des Statistiques (DPRS) du MSAS, conformément à sa mission, de coordonner et de promouvoir la recherche pour la santé, s'engage à produire et diffuser chaque année « l'annuaire statistique de la recherche pour la santé ».La confection dudit annuaire participe au renforcement de la disponibilité de l'information statistique sur les sujets de recherche développés chaque année au Sénégal et qui ont fait l'objet d'avis éthiques et d'autorisations administratives.Cet annuaire 2019 de la recherche pour la santé, réalisé à partir de la base de données du CNERS, s'adresse aux professionnels de la recherche pour la santé, aux acteurs académiques et institutionnels, dans la diversité de leurs cadres d'exercice, ainsi qu'au grand public dont l'intérêt pour le domaine ne cesse de croître.Les informations qui y sont contenues portent sur les délais d'examen et d'autorisation des protocoles de recherche, les types de recherches et domaines abordés, le profil des chercheurs et des institutions partenaires, les zones d'exécution, groupes cibles et durée des recherches et enfin les financements mobilisés.Je remercie tous les acteurs ayant participé à l'élaboration du guide ainsi que le partenaire technique et financier.J'invite les acteurs du système de santé à en faire un bon usage.Le MinistreAbdoulaye Diouf SARR",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "tampon_signature",
+          "titre": "Signature et sceau du Ministre de la Santé et de l'Action sociale",
+          "description": "Sceau officiel du Ministère de la Santé et de l'Action sociale de la République du Sénégal et signature d'Abdoulaye Diouf SARR."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "AVANT-PROPOS",
+      "texte": "Le Sénégal, à travers la loi n°2009-17 du 09 mars 2009 portant code d'éthique pour la recherche en santé, a créé un organe de régulation de la recherche appelé Comité National d'Ethique pour la Recherche en Santé (CNERS) doté d'une personnalité juridique, et placé sous la tutelle administrative du Ministère de la Santé et de l'Action sociale (MSAS) et sous la tutelle financière du Ministère de l'Économie et des Finances. Le décret 2009-729 est venu préciser ses missions qui sont, entre autres, d'examiner les protocoles de recherche en santé en vue d'assurer la protection des personnes qui se prêtent à la recherche et de faire le suivi de leur mise en œuvre. Il constitue ainsi un organe qui contribue au développement de la recherche dans le respect des principes éthiques. A travers la base de données constituée, le CNERS offre ainsi au MSAS la possibilité de créer une meilleure lisibilité dans le champ de la production de la connaissance.En effet, la loi 2009-17 fait obligation à tout chercheur travaillant sur des recherches impliquant des humains ou des données les concernant de soumettre les protocoles desdits recherches au CNERS. Ce dispositif permet de créer une base de données sur l'activité de recherche qui peut servir de moyen de développement d'un observatoire sur la recherche pour la santé. L'institutionnalisation d'un annuaire statistique de la recherche pour la santé est une exploitation pertinente de cette base afin de fournir des données susceptibles d'aider à des prises de décisions ou à l'identification de sujets de recherche.Le CNERS reste engagé à apporter tout son soutien au système de santé, et à contribuer au développement de la recherche au service d'une meilleure santé et d'un bien-être optimal au profit des usagers du système.Au nom des membres du CNERS, je félicite l'équipe de la DPRS pour le travail méticuleux réalisé. Ces félicitations, accompagnées de remerciements, s'adressent aussi aux différentes personnes ressources et partenaires techniques et financiers, particulièrement EDCTP à travers le projet SENETHICS, qui se sont montrés disponibles pour accompagner le MSAS tout au long du processus de production du présent annuaire. Je vous donne rendez-vous pour les prochaines publications.La Présidente du Comité National d'Ethique pour la Recherche en SantéPr Anta Tal Dia",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "INTRODUCTION",
+      "texte": "L'Organisation mondiale de la santé (OMS), lors de sa 43e Assemblée mondiale de la Santé, avait défini la recherche comme « un processus visant à obtenir une connaissance systématique et des technologies pouvant être utilisées pour améliorer la santé des individus ou de groupes de populations déterminées. »Au Sénégal, la recherche est comprise comme étant un outil de développement socio-économique et sanitaire, nécessaire pour la prise de décisions et visant à apporter un bien-être aux populations. Cela a favorisé le développement des activités de recherche avec la création de plusieurs plateformes animées par des équipes pluridisciplinaires. Pour accompagner cette dynamique, l'Etat a mis en place des mécanismes de régulation et des opportunités de financement de la recherche pour la santé.A travers le Comité national d'Ethique pour la Recherche en Santé (CNERS) mis en place par la loi n° 2009-17 du 09 mars 2009 portant Code d'éthique pour la santé, une base de données de recherche pour la santé est constituée. Son exploitation devrait permettre de fournir annuellement des statistiques sur les dimensions essentielles de la recherche pour la santé, pour une gouvernance et un développement optimal du secteur.Ainsi, l'option d'institutionnaliser l'élaboration d'un annuaire statistique de la recherche pour la santé a été prise. Il s'agit, à partir des objectifs préalablement définis, d'exploiter la base de données du CNERS pour disposer d'un document informationnel sur l'évolution de la recherche et les différents centres d'intérêt qui ont mobilisé les chercheurs et leurs partenaires financiers durant l'année. Ledit document sera structuré ainsi qu'il suit Contexte et justification, Cadre conceptuel, Objectifs, Méthodologie, Résultats et Conclusion.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "1. CONTEXTE ET JUSTIFICATION",
+      "texte": "La recherche pour la santé est considérée comme un moyen d'information de base sur l'état de santé ou les pathologies de la population en mettant au point des outils pour prévenir et soigner la maladie, en atténuer les effets et à concevoir des approches plus efficaces pour la prestation des soins de santé tant aux personnes qu'aux communautés. Elle est donc une composante fondamentale de tout processus de développement durable d'un pays. Par conséquent, elle doit se réaliser dans un contexte garantissant, d'une part, la qualité scientifique des résultats, et d'autre part, le respect des principes éthiques et la création de conditions d'accès aux connaissances générées.Au Sénégal, la recherche pour la santé relevait directement du Cabinet du Ministère de la Santé, de 1964 à 1999. Par la suite, elle a été gérée par la division des études et de la recherche rattachée à l'ex Direction des Études de la Recherche et de la Formation (DERF), de 2000 à 2004.La même division a été transférée à la Direction de la Santé (DS) par le Décret n° 2004-14042 portant organisation du Ministère de la Santé et de la Prévention médicale (MSPM), de 2004 à 2012.A partir de 2013, par le décret n° 2013-1225 du 04 septembre 2013 portant répartition des services de l'Etat, la division des Études et de la Recherche est transférée à la direction de la Planification, de la Recherche et des Statistiques (DPRS) avec une nouvelle appellation Division de la Recherche. Il a fallu attendre 2020 pour voir ce rattachement être consolidé par le décret n° 2020-936 du 03 avril 2020 portant organisation du Ministère de la Santé et de l'Action sociale.Parallèlement à l'évolution institutionnelle, l'instance de revue éthique et scientifique des protocoles de recherche a connu des changements tant en statut qu'en contenu. En effet, la première instance de revue éthique a été créée en 2001 par l'arrêté ministériel n° 1422 MSP-DERF-DER du 2 mars 2001 portant création et organisation du Conseil National de Recherche en Santé (CNRS). Ladite instance était composée de deux entités: une chargée de la revue scientifique et une autre de la revue éthique. La régularité fonctionnelle de cette instance était difficilement réalisable du fait de la tenue des réunions de chaque entité à des dates différentes et de la similitude de la composition des membres.Pour harmoniser le fonctionnement du CNRS, l'arrêté n° 3224 du 17 mars 2004 a été pris pour regrouper les deux entités dans une seule instance. Il a fallu attendre la loi n° 2009-17 du 09 mars 2009 et son décret d'application n° 2009-729 du 3 août 2009 portant création, organisation et fonctionnement du Comité national d'Ethique pour la Recherche en Santé (CNERS) pour relever le niveau institutionnel du comité et faire apparaitre le concept éthique dans sa dénomination. Cette dernière instance de revue éthique est rattachée à la DPRS par le décret n° 2020-936 du 03 avril 2020 portant organisation du Ministère de la Santé et de l'Action sociale en son article 82.Ce descriptif du parcours de l'évolution institutionnelle et de contenu de la division de la recherche (DR) et du CNERS montre à suffisance le souci de faire le secteur de la recherche un segment dynamique et productif au profit de l'épanouissement intégral sanitaire et social des populations.Autrement dit, pour le développement d'un cadre de coordination, de gouvernance et respect des principes éthiques, l'Etat du Sénégal a enregistré des avancées significatives. En effet, la mise en place d'un Comité national d'éthique, l'édiction de textes portant régulation de la recherche et le développement de réseaux sous régionaux sur la régulation, l'éthique et la bioéthique ont concouru à la création d'un environnement favorable à la pratique de la recherche respectueuse des droits humains.Contrairement à ces acquis sur la régulation et le développement de la recherche, il est enregistré des déficits importants dans la constitution et le déploiement d'un système d'information sur la recherche pour la santé. Parmi les gaps recensés, l'on peut noter, entre autres: l'absence d'annuaire statistique, de bulletins dédiés au secteur et de sites internet exclusivement centrés sur la recherche pour la santé.Pour y remédier, le Ministère de la Santé et de l'Action sociale (MSAS), à travers la division de la recherche (DR), s'est proposé de construire un système fonctionnel d'information sur la recherche pour la santé en commençant par l'institutionnalisation de l'annuaire statistique de la recherche pour la santé. L'élaboration du document est inspirée par le modèle conceptuel basé sur la gestion de la connaissance dont la quintessence est explicitée dans le chapitre qui suit.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2. CADRE CONCEPTUEL",
+      "texte": "La Loi n° 2009-17 du 9 mars 2009 a fait obligation à tout chercheur voulant mettre en œuvre un protocole impliquant des personnes de soumettre ledit projet de recherche au CNERS. Cela a permis de disposer d'une base de données assez complète sur la recherche et les résultats générés. Ainsi, ce dispositif mis en place offre une formidable opportunité de créer une lisibilité dans la dynamique de la recherche à travers la mise à disposition de façon périodique et régulière, d'un annuaire statistique.En tant qu'outil structurant et dynamisant, l'annuaire statistique offre une lisibilité et une visibilité à la recherche en santé en présentant les séries statistiques rétrospectives de l'ensemble de l'activité dudit secteur. Les données contenues dans l'annuaire sont présentées en grande partie sous forme de tableaux. Toutefois, des illustrations et commentaires sont utilisés dans l'optique d'introduire ou d'éclairer la compréhension des tableaux.En effet, un tel document constitue les mémoires statistiques du secteur de la recherche pour la santé et donne, en même temps, une photographie transversale et/ou évolutive dudit secteur. Il permet ainsi de comparer et d'analyser des situations. Il constitue un outil fondamental pour une prise de décisions basée sur les faits et l'identification de nouveaux sujets d'investigation.L'élaboration de ce document est faite à partir de l'exploitation de la base de données du CNERS. Pour une utilisation optimale de ladite base et dans la perspective de favoriser la synergie dans les actions de recherche, il est nécessaire de procéder chaque année à une analyse approfondie des données et de générer ainsi des informations sur les tendances thématiques, financières, institutionnelles et géographiques du secteur.Cet annuaire offre ainsi des informations sur la dynamique de la recherche pour l'année écoulée et, au besoin, fournit des indications sur les investissements à envisager dans une perspective de développement de la recherche dans le département de la santé et de l'action sociale.Elaborer un tel document requiert l'option d'un cadre conceptuel qui s'inspire de la théorie d'Ermine sur la gestion de la connaissance qui consiste, à partir de données statistiques, à fournir des indicateurs qui mettent en valeur un capital susceptible d'être utilisé pour suivre la performance d'un secteur et de créer des opportunités d'actions pour la prise en charge d'autres défis. En effet, selon Ermine, le mot capitalisation doit être entendu au sens large du terme, qui dérive du mot « capital ». Il s'agit d'accumuler un capital dans l'optique d'en tirer la substantifique moëlle pour son stockage, sa préservation, sa vulgarisation et son usage à des fins d'amélioration de la science et de ses dérivées.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3. OBJECTIFS",
+      "texte": "• Objectif généralFournir annuellement des statistiques sur les dimensions essentielles de la recherche pour la santé pour une gouvernance et un développement optimal du secteur.• Objectifs spécifiques- Elaborer des tableaux présentant les statistiques selon les indicateurs prédéfinis;- Eclairer la compréhension des différents tableaux statistiques issus de l'exploitation des données ;- Définir des perspectives d'utilisation de la connaissance générée par l'annuaire.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4. METHODOLOGIE",
+      "texte": "L'analyse statistique de la base de données de protocoles du CNERS a été réalisée à l'aide des logiciels EXCEL et SPHINX. Des tris à plat et des croisements de variables ont permis de renseigner des indicateurs retenus pour l'élaboration dudit annuaire.Les résultats seront présentés sous forme de tableaux et de graphiques, et explicités littéralement. Des commentaires accompagnent ces illustrations dans l'optique de faciliter leur compréhension pour une utilisation potentielle de la connaissance générée.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5. RESULTATS",
+      "texte": "Au cours de l'année 2019, le CNERS a reçu 90 protocoles pour une revue éthique et scientifique. Les résultats présentés ci-dessous portent sur l'ensemble de ces protocoles. Certains protocoles n'avaient pas de données sur toutes les variables considérées dans l'analyse.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.1. Délais d'examen et d'autorisation des protocoles de recherche",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.1.1. Délai d'examen des protocoles de recherche par le CNERS",
+      "texte": "Ce délai représente le temps écoulé entre la date d'enregistrement du protocole de recherche et sa revue effective par le comité. Il est exprimé en nombre de jours. Le tableau ci-dessous porte sur 86 protocoles de recherche déjà examinés au 31 décembre 2019 parmi les 90 reçus au secrétariat du CNERS.Le délai moyen entre le dépôt du protocole de recherche et son évaluation par le CNERS est de 28 jours. En procédure d'urgence, celui-ci est ramené en moyenne à 4 jours. Globalement, près de 64% des protocoles sont examinés dans un délai de 30 jours. Néanmoins, un délai maximum de 124 jours a été observé au cours de l'année 2019 concernant un protocole.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1: Délai d'examen des protocoles passés en revue par le CNERS",
+          "colonnes": [
+            "Délai d'examen des protocoles passés en revue",
+            "Nombre de protocoles",
+            "Pourcentage",
+            "% cumulé"
+          ],
+          "lignes": [
+            {
+              "Délai d'examen des protocoles passés en revue": "Moins de 15 jours",
+              "Nombre de protocoles": "10",
+              "Pourcentage": "11,63",
+              "% cumulé": "11,63"
+            },
+            {
+              "Délai d'examen des protocoles passés en revue": "De 15 à 30 jours",
+              "Nombre de protocoles": "45",
+              "Pourcentage": "52,33",
+              "% cumulé": "63,95"
+            },
+            {
+              "Délai d'examen des protocoles passés en revue": "De 30 à 45 jours",
+              "Nombre de protocoles": "25",
+              "Pourcentage": "29,07",
+              "% cumulé": "93,02"
+            },
+            {
+              "Délai d'examen des protocoles passés en revue": "De 45 à 60 jours",
+              "Nombre de protocoles": "3",
+              "Pourcentage": "3,49",
+              "% cumulé": "96,51"
+            },
+            {
+              "Délai d'examen des protocoles passés en revue": "60 jours et plus",
+              "Nombre de protocoles": "3",
+              "Pourcentage": "3,49",
+              "% cumulé": "100"
+            },
+            {
+              "Délai d'examen des protocoles passés en revue": "Total",
+              "Nombre de protocoles": "86",
+              "Pourcentage": "100",
+              "% cumulé": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.1.2. Délai de réponse du chercheur aux commentaires du CNERS",
+      "texte": "Il s'agit de la durée écoulée entre la date d'envoi des premiers commentaires du CNERS au chercheur et la réception de la réponse de ce dernier. En 2019, les 86 protocoles examinés ont fait l'objet de commentaires et de questions adressés aux chercheurs auxquels 61 ont apporté des réponses.On note une promptitude des chercheurs à répondre aux commentaires et questions soulevés par le CNERS. En effet, près des deux tiers des chercheurs (64%) ont apporté des réponses dans un délai maximal de 30 jours qui constitue la durée moyenne observée.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 2: Délai de réponse des chercheurs aux commentaires du CNERS",
+          "colonnes": [
+            "Délai de réponse du chercheur (en jours)",
+            "Nombre de protocoles",
+            "Pourcentage",
+            "% cumulé"
+          ],
+          "lignes": [
+            {
+              "Délai de réponse du chercheur (en jours)": "Moins de 15",
+              "Nombre de protocoles": "19",
+              "Pourcentage": "31,15",
+              "% cumulé": "31,15"
+            },
+            {
+              "Délai de réponse du chercheur (en jours)": "De 15 à 30",
+              "Nombre de protocoles": "20",
+              "Pourcentage": "32,79",
+              "% cumulé": "63,93"
+            },
+            {
+              "Délai de réponse du chercheur (en jours)": "De 30 à 45",
+              "Nombre de protocoles": "12",
+              "Pourcentage": "19,67",
+              "% cumulé": "83,61"
+            },
+            {
+              "Délai de réponse du chercheur (en jours)": "De 45 à 60",
+              "Nombre de protocoles": "7",
+              "Pourcentage": "11,48",
+              "% cumulé": "95,08"
+            },
+            {
+              "Délai de réponse du chercheur (en jours)": "60 et plus",
+              "Nombre de protocoles": "3",
+              "Pourcentage": "4,92",
+              "% cumulé": "100"
+            },
+            {
+              "Délai de réponse du chercheur (en jours)": "Total",
+              "Nombre de protocoles": "61",
+              "Pourcentage": "100",
+              "% cumulé": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.1.3. Délai de délivrance de l'avis éthique et scientifique du CNERS",
+      "texte": "Il s'agit de la durée écoulée entre la date de réception de la réponse du chercheur aux questions et commentaires du CNERS et la date de délivrance de l'avis éthique et scientifique. Parmi les 61 protocoles dont les investigateurs principaux ont apporté des réponses, 98% ont reçu l'avis éthique et scientifique du CNERS.Il ressort de l'analyse du tableau ci-dessous, que près de la moitié des avis éthiques et scientifiques (45%) sont délivrés dans un délai de 48h. Cette célérité de traitement est confortée par le fait que plus de 4/5ème (81,6%) des dossiers sont traités dans un délai de 6 jours.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 3: Délai de délivrance de l'avis éthique et scientifique",
+          "colonnes": [
+            "Délai de délivrance de l'avis éthique et scientifique (en jours)",
+            "Nombre de Protocoles",
+            "Pourcentage",
+            "% cumulé"
+          ],
+          "lignes": [
+            {
+              "Délai de délivrance de l'avis éthique et scientifique (en jours)": "Moins de 2",
+              "Nombre de Protocoles": "27",
+              "Pourcentage": "45",
+              "% cumulé": "45"
+            },
+            {
+              "Délai de délivrance de l'avis éthique et scientifique (en jours)": "De 2 à 6",
+              "Nombre de Protocoles": "22",
+              "Pourcentage": "36.67",
+              "% cumulé": "81,67"
+            },
+            {
+              "Délai de délivrance de l'avis éthique et scientifique (en jours)": "De 7 à 14",
+              "Nombre de Protocoles": "10",
+              "Pourcentage": "16.67",
+              "% cumulé": "98,33"
+            },
+            {
+              "Délai de délivrance de l'avis éthique et scientifique (en jours)": "15 et plus",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,67",
+              "% cumulé": "100"
+            },
+            {
+              "Délai de délivrance de l'avis éthique et scientifique (en jours)": "Total",
+              "Nombre de Protocoles": "60",
+              "Pourcentage": "100",
+              "% cumulé": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.1.4. Délai de délivrance de l'autorisation administrative de recherche",
+      "texte": "Il s'agit de la durée écoulée entre la notification de l'avis du CNERS et la délivrance de l'autorisation administrative de recherche par le Ministre de la Santé et de l'Action sociale.Le délai moyen entre l'émission de l'avis éthique et scientifique et la délivrance de l'autorisation administrative de recherche est de 8 jours. On relève que la quasi-totalité (88,52%) des autorisations sont délivrées dans un délai de 14 jours.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 4: Délai de délivrance de l'autorisation administrative de recherche",
+          "colonnes": [
+            "Délai de délivrance de l'autorisation administrative de recherche (en jours)",
+            "Nombre de Protocoles",
+            "Pourcentage",
+            "% cumulé"
+          ],
+          "lignes": [
+            {
+              "Délai de délivrance de l'autorisation administrative de recherche (en jours)": "Moins de 2",
+              "Nombre de Protocoles": "7",
+              "Pourcentage": "11,48",
+              "% cumulé": "11,48"
+            },
+            {
+              "Délai de délivrance de l'autorisation administrative de recherche (en jours)": "De 2 à 6",
+              "Nombre de Protocoles": "22",
+              "Pourcentage": "36,07",
+              "% cumulé": "47,54"
+            },
+            {
+              "Délai de délivrance de l'autorisation administrative de recherche (en jours)": "De 7 à 14",
+              "Nombre de Protocoles": "25",
+              "Pourcentage": "40.98",
+              "% cumulé": "88,52"
+            },
+            {
+              "Délai de délivrance de l'autorisation administrative de recherche (en jours)": "15 et plus",
+              "Nombre de Protocoles": "7",
+              "Pourcentage": "11,48",
+              "% cumulé": "100"
+            },
+            {
+              "Délai de délivrance de l'autorisation administrative de recherche (en jours)": "Total",
+              "Nombre de Protocoles": "61",
+              "Pourcentage": "100",
+              "% cumulé": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.2. Types de recherches et domaines abordés",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.2.1. Types de recherches",
+      "texte": "Conformément à la Loi n° 2009-17 du 09 mars 2009, en son article 3, cinq types de recherche sont définis :- La recherche biomédicale;- La recherche épidémiologique;- La recherche en sciences sociales et humaines;- La recherche sur les systèmes de santé ;- La recherche en médecine traditionnelle.En 2019, la recherche en sciences sociales et humaines représente 41,1% des protocoles examinés. Elle est suivie par la recherche biomédicale et celle sur les systèmes de santé avec respectivement 26,7% et 24,4%. Par contre, la recherche épidémiologique ne compte que pour 7,8%.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Figure 1: Types de recherche",
+          "donnees": [
+            {
+              "type_recherche": "Recherche sur les sciences sociales et humaines",
+              "valeur": "41%"
+            },
+            {
+              "type_recherche": "Recherche biomédicale",
+              "valeur": "27%"
+            },
+            {
+              "type_recherche": "Recherche sur les systèmes de santé",
+              "valeur": "24%"
+            },
+            {
+              "type_recherche": "Recherche épidémiologique",
+              "valeur": "8%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "5.2.2. Domaines d'études",
+      "texte": "Les protocoles enregistrés en 2019 (90 protocoles) couvrent principalement les domaines d'étude suivants : VIH (14,4%), Santé de la Reproduction (13,3%), Maladies Infectieuses (10%), Nutrition et Paludisme (8,9%) respectivement, Maladies Non Transmissibles et Santé environnementale, 6,7% pour chaque domaine. En effet, ces domaines représentent près de 70% de l'ensemble des protocoles.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Figure 2: Domaines d'études",
+          "donnees": [
+            {
+              "domaine": "VIH",
+              "pourcentage": "14,4%"
+            },
+            {
+              "domaine": "SR",
+              "pourcentage": "13,3%"
+            },
+            {
+              "domaine": "MI",
+              "pourcentage": "10,0%"
+            },
+            {
+              "domaine": "Nutrition",
+              "pourcentage": "8,9%"
+            },
+            {
+              "domaine": "Paludisme",
+              "pourcentage": "8,9%"
+            },
+            {
+              "domaine": "MNT",
+              "pourcentage": "6,7%"
+            },
+            {
+              "domaine": "Santé environnementale",
+              "pourcentage": "6,7%"
+            },
+            {
+              "domaine": "Economie de la santé",
+              "pourcentage": "5,6%"
+            },
+            {
+              "domaine": "MTN",
+              "pourcentage": "4,4%"
+            },
+            {
+              "domaine": "Socio-anthropologie",
+              "pourcentage": "4,4%"
+            },
+            {
+              "domaine": "Cancer",
+              "pourcentage": "4,4%"
+            },
+            {
+              "domaine": "SISR",
+              "pourcentage": "2,2%"
+            },
+            {
+              "domaine": "Démographie",
+              "pourcentage": "1,1%"
+            },
+            {
+              "domaine": "Genre",
+              "pourcentage": "1,1%"
+            },
+            {
+              "domaine": "Microbiologie",
+              "pourcentage": "1,1%"
+            },
+            {
+              "domaine": "RH",
+              "pourcentage": "1,1%"
+            },
+            {
+              "domaine": "Santé des adolescents",
+              "pourcentage": "1,1%"
+            },
+            {
+              "domaine": "Santé scolaire",
+              "pourcentage": "1,1%"
+            },
+            {
+              "domaine": "Socio-économie",
+              "pourcentage": "1,1%"
+            },
+            {
+              "domaine": "Tuberculose",
+              "pourcentage": "1,1%"
+            },
+            {
+              "domaine": "Une seule santé \"One health\"",
+              "pourcentage": "1,1%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "5.2.3. Type de recherche selon l'origine du financement",
+      "texte": "La recherche pour la santé est essentiellement financée par des ressources extérieures. La part du financement domestique reste faible. Quel que soit le type de recherche, on note une disproportion prononcée des parts de financement domestique et extérieur.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Figure 3: Origine du financement selon le type recherche (en nombre de protocoles)",
+          "donnees": [
+            {
+              "type_recherche": "Recherche sur les sciences sociales et humaines",
+              "financement_exterieur": "33",
+              "financement_domestique": "4"
+            },
+            {
+              "type_recherche": "Recherche biomédicale",
+              "financement_exterieur": "23",
+              "financement_domestique": "1"
+            },
+            {
+              "type_recherche": "Recherche sur les systèmes de santé",
+              "financement_exterieur": "17",
+              "financement_domestique": "5"
+            },
+            {
+              "type_recherche": "Recherche épidémiologique",
+              "financement_exterieur": "5",
+              "financement_domestique": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "5.3. Profil des chercheurs et des institutions partenaires",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.3.1. Profil des chercheurs",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.3.1.1. Statut du chercheur",
+      "texte": "La majorité des chercheurs (93%) proviennent des universités et des institutions. Le reste est constitué par les étudiants, dont 5% d'étrangers et 2% de nationaux.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Figure 4: Statut des chercheurs",
+          "donnees": [
+            {
+              "statut": "Chercheurs universitaires et institutionnels",
+              "pourcentage": "93%"
+            },
+            {
+              "statut": "Etudiants étrangers",
+              "pourcentage": "5%"
+            },
+            {
+              "statut": "Etudiants nationaux",
+              "pourcentage": "2%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "5.3.1.2. Profil genre des chercheurs",
+      "texte": "Parmi les principaux investigateurs, près d'un tiers (28,9%) sont des femmes (cf. tableau 5). Parmi les 30 protocoles mentionnant un Co-investigateurs dans l'équipe de recherche, la répartition par genre de ces derniers est presque équilibrée. En effet, ils sont 14 hommes à avoir le statut de Co-investigateur dans les 30 projets de recherche concernées, contre 16 femmes (cf. tableau 6).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 5: Répartition des principaux investigateurs selon le genre",
+          "colonnes": [
+            "Genre Investigateur principal",
+            "Nombre de Protocoles",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Genre Investigateur principal": "Masculin",
+              "Nombre de Protocoles": "64",
+              "Pourcentage": "71,1"
+            },
+            {
+              "Genre Investigateur principal": "Féminin",
+              "Nombre de Protocoles": "26",
+              "Pourcentage": "28,9"
+            },
+            {
+              "Genre Investigateur principal": "Total",
+              "Nombre de Protocoles": "90",
+              "Pourcentage": "100"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 6: Répartition des Co-investigateurs selon le genre",
+          "colonnes": [
+            "Genre Co-investigateur",
+            "Nombre de Protocoles",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Genre Co-investigateur": "Masculin",
+              "Nombre de Protocoles": "14",
+              "Pourcentage": "46,7%"
+            },
+            {
+              "Genre Co-investigateur": "Féminin",
+              "Nombre de Protocoles": "16",
+              "Pourcentage": "53,3%"
+            },
+            {
+              "Genre Co-investigateur": "Total",
+              "Nombre de Protocoles": "30",
+              "Pourcentage": "100%"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.3.2. Profil des institutions partenaires",
+      "texte": "Les résultats montrent une diversité de profils des partenaires. Ainsi, plus d'un tiers des recherches proviennent des universités et instituts de recherche soient 38%. Les agences de coopération (bilatérale et multilatérale) arrivent en deuxième position et représentent 20%.Les ONG, ayant une antenne locale, représentent 17% des partenaires qui accompagnent les chercheurs contre 11% pour les fondations internationales et 5% pour les agences gouvernementales et organismes intergouvernementaux.Cependant, il est à noter que seuls 8% des recherches sont portées par des chercheurs individuels.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Figure 5: Répartition des institutions partenaires (en %)",
+          "donnees": [
+            {
+              "type_institution": "Universités et instituts de recherche",
+              "pourcentage": "38%"
+            },
+            {
+              "type_institution": "ONG",
+              "pourcentage": "17%"
+            },
+            {
+              "type_institution": "Agences de coopération bilatérale",
+              "pourcentage": "11%"
+            },
+            {
+              "type_institution": "Fondations internationales",
+              "pourcentage": "11%"
+            },
+            {
+              "type_institution": "Agences de coopération multilatérale",
+              "pourcentage": "9%"
+            },
+            {
+              "type_institution": "Chercheurs individuels",
+              "pourcentage": "8%"
+            },
+            {
+              "type_institution": "Agences gouvernementales",
+              "pourcentage": "5%"
+            },
+            {
+              "type_institution": "Organisme intergouvernemental",
+              "pourcentage": "1%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "5.3.3. Localisation géographique des partenaires",
+      "texte": "Pour un tiers (31,1%) des 90 protocoles soumis au CNERS, les partenaires sont basés à l'extérieur. Un peu plus du tiers des partenaires viennent de l'Europe (37,7%) contre 30% pour l'Amérique du nord (USA, Canada).",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Figure 6: Localisation géographique des partenaires (en %)",
+          "donnees": [
+            {
+              "pays": "Sénégal",
+              "pourcentage": "32%"
+            },
+            {
+              "pays": "USA",
+              "pourcentage": "24%"
+            },
+            {
+              "pays": "France",
+              "pourcentage": "18%"
+            },
+            {
+              "pays": "Suisse",
+              "pourcentage": "7%"
+            },
+            {
+              "pays": "Belgique",
+              "pourcentage": "6%"
+            },
+            {
+              "pays": "Canada",
+              "pourcentage": "6%"
+            },
+            {
+              "pays": "Royaume-Uni",
+              "pourcentage": "4%"
+            },
+            {
+              "pays": "Espagne",
+              "pourcentage": "1%"
+            },
+            {
+              "pays": "Allemagne",
+              "pourcentage": "1%"
+            },
+            {
+              "pays": "Pays-Bas",
+              "pourcentage": "1%"
+            },
+            {
+              "pays": "Italie",
+              "pourcentage": "1%"
+            },
+            {
+              "pays": "Luxembourg",
+              "pourcentage": "1%"
+            },
+            {
+              "pays": "Kenya",
+              "pourcentage": "1%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "5.4. Zones d'exécution, groupes cibles et durée des recherches",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.4.1. Zones d'exécution",
+      "texte": "La région de Dakar abrite 42,2% des recherches. En dehors de Dakar, on constate que cinq régions abritent 15 à 22% des études, il s'agit de Ziguinchor, Saint-Louis, Kaolack, Kédougou et Kolda. Les études ayant une mise en œuvre à l'échelle nationale ne représentent que 12,2%.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 7: Zone d'exécution des protocoles",
+          "colonnes": [
+            "Région de mise en œuvre",
+            "Nombre de Protocoles",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Région de mise en œuvre": "Dakar",
+              "Nombre de Protocoles": "38",
+              "Pourcentage": "42,2"
+            },
+            {
+              "Région de mise en œuvre": "Ziguinchor",
+              "Nombre de Protocoles": "20",
+              "Pourcentage": "22,2"
+            },
+            {
+              "Région de mise en œuvre": "Saint-Louis",
+              "Nombre de Protocoles": "18",
+              "Pourcentage": "20,0"
+            },
+            {
+              "Région de mise en œuvre": "Kaolack",
+              "Nombre de Protocoles": "17",
+              "Pourcentage": "18,9"
+            },
+            {
+              "Région de mise en œuvre": "Kédougou",
+              "Nombre de Protocoles": "16",
+              "Pourcentage": "17,8"
+            },
+            {
+              "Région de mise en œuvre": "Kolda",
+              "Nombre de Protocoles": "14",
+              "Pourcentage": "15.6"
+            },
+            {
+              "Région de mise en œuvre": "Louga",
+              "Nombre de Protocoles": "12",
+              "Pourcentage": "13,3"
+            },
+            {
+              "Région de mise en œuvre": "Thiès",
+              "Nombre de Protocoles": "12",
+              "Pourcentage": "13,3"
+            },
+            {
+              "Région de mise en œuvre": "Tambacounda",
+              "Nombre de Protocoles": "11",
+              "Pourcentage": "12,2"
+            },
+            {
+              "Région de mise en œuvre": "Matam",
+              "Nombre de Protocoles": "10",
+              "Pourcentage": "11,1"
+            },
+            {
+              "Région de mise en œuvre": "Diourbel",
+              "Nombre de Protocoles": "8",
+              "Pourcentage": "8,9"
+            },
+            {
+              "Région de mise en œuvre": "Fatick",
+              "Nombre de Protocoles": "8",
+              "Pourcentage": "8,9"
+            },
+            {
+              "Région de mise en œuvre": "Sédhiou",
+              "Nombre de Protocoles": "8",
+              "Pourcentage": "8,9"
+            },
+            {
+              "Région de mise en œuvre": "Kaffrine",
+              "Nombre de Protocoles": "6",
+              "Pourcentage": "6,7"
+            },
+            {
+              "Région de mise en œuvre": "Dans les 14 régions",
+              "Nombre de Protocoles": "11",
+              "Pourcentage": "12,2"
+            },
+            {
+              "Région de mise en œuvre": "Total",
+              "Nombre de Protocoles": "90",
+              "Pourcentage": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.4.2. Groupes cibles",
+      "texte": "La répartition des cibles des recherches fait ressortir un intérêt pour les groupes spécifiques comme les adolescents, les jeunes, les enfants et les femmes.Les études ayant pour cible la population générale représentent près du tiers (30%) tandis que les femmes et les enfants viennent en deuxième position (22,4%).Les personnes âgées, les personnes vivant avec un handicap, les MSM et les travailleurs du sexe sont peu ciblés par les recherches. Au total, seuls 7 protocoles de recherche s'intéressent à ces quatre groupes suscités.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 8: Répartition des cibles des études menées en 2019",
+          "colonnes": [
+            "Population cible de l'étude",
+            "Nombre de Protocoles",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Population cible de l'étude": "Population générale",
+              "Nombre de Protocoles": "27",
+              "Pourcentage": "30"
+            },
+            {
+              "Population cible de l'étude": "Enfants",
+              "Nombre de Protocoles": "22",
+              "Pourcentage": "24,4"
+            },
+            {
+              "Population cible de l'étude": "Autres profils",
+              "Nombre de Protocoles": "22",
+              "Pourcentage": "24,4"
+            },
+            {
+              "Population cible de l'étude": "Professionnels de santé",
+              "Nombre de Protocoles": "20",
+              "Pourcentage": "22.2"
+            },
+            {
+              "Population cible de l'étude": "Femmes",
+              "Nombre de Protocoles": "17",
+              "Pourcentage": "18,9"
+            },
+            {
+              "Population cible de l'étude": "Adolescents",
+              "Nombre de Protocoles": "16",
+              "Pourcentage": "17.8"
+            },
+            {
+              "Population cible de l'étude": "Acteurs institutionnels",
+              "Nombre de Protocoles": "11",
+              "Pourcentage": "12,2"
+            },
+            {
+              "Population cible de l'étude": "PVVIH",
+              "Nombre de Protocoles": "10",
+              "Pourcentage": "11.1"
+            },
+            {
+              "Population cible de l'étude": "Personnes âgées",
+              "Nombre de Protocoles": "3",
+              "Pourcentage": "3,3"
+            },
+            {
+              "Population cible de l'étude": "MSM",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2,2"
+            },
+            {
+              "Population cible de l'étude": "Professionnels du sexe",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Population cible de l'étude": "Personnes handicapées",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Population cible de l'étude": "Total",
+              "Nombre de Protocoles": "90",
+              "Pourcentage": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.4.3. Planification des recherches",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.4.3.1. Durée de l'étude",
+      "texte": "La durée moyenne planifiée des recherches est de 16 mois. Pour 35,6% des recherches, la durée s'étend sur moins de 6 mois. La proportion des recherches dont la durée est comprise entre 6 et 12 mois, d'une part, et entre 12 et 18 mois, d'autre part, est de 20%. Les protocoles dont la durée est comprise entre 18 et 24 mois représentent 3,3%, alors que 7,8% ont une durée qui s'étale entre 24 et 36 mois et 13,3% sur plus de 36 mois.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 9: Durée moyenne planifiée des études",
+          "colonnes": [
+            "Durée (en mois)",
+            "Nombre de Protocoles",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Durée (en mois)": "Moins de 6 mois",
+              "Nombre de Protocoles": "32",
+              "Pourcentage": "35,6"
+            },
+            {
+              "Durée (en mois)": "De 6 à 12",
+              "Nombre de Protocoles": "18",
+              "Pourcentage": "20"
+            },
+            {
+              "Durée (en mois)": "De 12 à 18",
+              "Nombre de Protocoles": "18",
+              "Pourcentage": "20"
+            },
+            {
+              "Durée (en mois)": "De 18 à 24",
+              "Nombre de Protocoles": "3",
+              "Pourcentage": "3,3"
+            },
+            {
+              "Durée (en mois)": "De 24 à 30",
+              "Nombre de Protocoles": "6",
+              "Pourcentage": "6,7"
+            },
+            {
+              "Durée (en mois)": "De 30 à 36",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Durée (en mois)": "36 et plus",
+              "Nombre de Protocoles": "12",
+              "Pourcentage": "13,3"
+            },
+            {
+              "Durée (en mois)": "Total",
+              "Nombre de Protocoles": "90",
+              "Pourcentage": "100"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.4.3.2. Durée moyenne planifiée selon le type de recherche",
+      "texte": "L'analyse comparative de la durée moyenne des protocoles selon le type de recherche montre que les recherches biomédicales durent plus longtemps (25 mois); suivent les recherches en sciences sociales et humaines (17 mois). Les recherches épidémiologiques et les recherches sur les systèmes de santé durent respectivement 9 et 8 mois.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 10: Durée moyenne d'exécution selon le type de recherche",
+          "colonnes": [
+            "Type de recherche selon la loi",
+            "Durée (en mois)"
+          ],
+          "lignes": [
+            {
+              "Type de recherche selon la loi": "Recherche biomédicale",
+              "Durée (en mois)": "25"
+            },
+            {
+              "Type de recherche selon la loi": "Recherche épidémiologique",
+              "Durée (en mois)": "9"
+            },
+            {
+              "Type de recherche selon la loi": "Recherche sur les systèmes de santé",
+              "Durée (en mois)": "8"
+            },
+            {
+              "Type de recherche selon la loi": "Recherche en sciences sociales et humaines",
+              "Durée (en mois)": "17"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.5. Budget",
+      "texte": "",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.5.1. Budget moyen par protocole",
+      "texte": "Le montant total des budgets pour l'année 2019 s'élève à 9 635 500 840 FCFA. Le budget par protocole le plus élevé est de 1 830 000 000 FCFA. L'analyse des données montre que près de la moitié des protocoles (47,8%) ont un budget de moins de 20 millions tandis qu'environ un tiers des budgets est dans la tranche comprise entre 20 et 100 millions. Environ 9% des protocoles ont un budget au-delà 200 millions. Trois recherches (3,3%) ont un budget qui dépasse le milliard.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 11: Répartition des protocoles selon le budget",
+          "colonnes": [
+            "Budget (en FCFA)",
+            "Nombre de Protocoles",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Budget (en FCFA)": "Moins de 1 000 000",
+              "Nombre de Protocoles": "5",
+              "Pourcentage": "5,6"
+            },
+            {
+              "Budget (en FCFA)": "De 1 000 000 à 5 000 000",
+              "Nombre de Protocoles": "12",
+              "Pourcentage": "13,3"
+            },
+            {
+              "Budget (en FCFA)": "De 5 000 000 à 20 000 000",
+              "Nombre de Protocoles": "26",
+              "Pourcentage": "28,9"
+            },
+            {
+              "Budget (en FCFA)": "De 20 000 000 à 100 000 000",
+              "Nombre de Protocoles": "29",
+              "Pourcentage": "32,2"
+            },
+            {
+              "Budget (en FCFA)": "De 100 000 000 à 200 000 000",
+              "Nombre de Protocoles": "10",
+              "Pourcentage": "11,1"
+            },
+            {
+              "Budget (en FCFA)": "De 200 000 000 à 300 000 000",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Budget (en FCFA)": "De 400 000 000 à 500 000 000",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2,2"
+            },
+            {
+              "Budget (en FCFA)": "De 500 000 000 à 1 000 000 000",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2.2"
+            },
+            {
+              "Budget (en FCFA)": "Plus de 1 000 000 000",
+              "Nombre de Protocoles": "3",
+              "Pourcentage": "3,3"
+            },
+            {
+              "Budget (en FCFA)": "Total",
+              "Nombre de Protocoles": "90",
+              "Pourcentage": "100"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.5.2. Budget moyen selon le type de recherche",
+      "texte": "Le budget moyen investi varie selon le type de recherche. Ce montant moyen suit la tendance des nombres d'études menées pour chaque type de recherche.Les montants les plus élevés sont notés au niveau des études en sciences humaines et sociales, qui font 41% des protocoles reçus en 2019, et qui ont investi en moyenne 167.000.000 Francs CFA par recherche. Pour les études sur les systèmes de santé, le budget moyen investi tourne autour de 28.000.000 francs par protocole, tandis que ce montant est de 93.000.000 francs pour les recherches biomédicales.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.5.3. Origine du financement",
+      "texte": "La recherche pour la santé est essentiellement financée par des ressources extérieures (85,6%). La part du financement domestique est de 14,4%.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 12: Répartition des protocoles selon l'origine du financement",
+          "colonnes": [
+            "Origine",
+            "Nombre de Protocoles",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Origine": "Financement domestique",
+              "Nombre de Protocoles": "13",
+              "Pourcentage": "14,4"
+            },
+            {
+              "Origine": "Financement extérieur",
+              "Nombre de Protocoles": "77",
+              "Pourcentage": "85,6"
+            },
+            {
+              "Origine": "Total",
+              "Nombre de Protocoles": "90",
+              "Pourcentage": "100"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "5.5.4. Domaine d'étude selon la source de financement",
+      "texte": "Au regard de la figure 7, il apparait que sur les 20 domaines d'étude, 8 seulement ont reçu un financement domestique. Pour ce qui est du financement extérieur, tous les domaines d'étude identifiés en bénéficient, mais à des proportions variables. Onze (11) domaines sont exclusivement financés par des fonds extérieurs. Il s'agit de: Ressources humaines, santé scolaire, Socio-économie, One health, Tuberculose, Démographie, Genre, Microbiologie, Cancer, MTN et Economie de la santé.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Figure 7: Répartition des domaines de recherche selon la source de financement (en %)",
+          "donnees": [
+            {
+              "domaine": "Santé de la Reproduction",
+              "financement_exterieur": "11,1%",
+              "financement_domestique": "3.3%"
+            },
+            {
+              "domaine": "Maladies infectieuses",
+              "financement_exterieur": "7,8%",
+              "financement_domestique": "1.1%"
+            },
+            {
+              "domaine": "Paludisme",
+              "financement_exterieur": "7,8%",
+              "financement_domestique": "1.1%"
+            },
+            {
+              "domaine": "Nutrition",
+              "financement_exterieur": "8,9%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "Santé environnementale",
+              "financement_exterieur": "5,6%",
+              "financement_domestique": "1,1%"
+            },
+            {
+              "domaine": "Economie de la santé",
+              "financement_exterieur": "5,6%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "MTN",
+              "financement_exterieur": "4,4%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "Cancer",
+              "financement_exterieur": "4,4%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "Maladies non transmissibles",
+              "financement_exterieur": "3,3%",
+              "financement_domestique": "3,3%"
+            },
+            {
+              "domaine": "Socio-anthropo",
+              "financement_exterieur": "2.2%",
+              "financement_domestique": "1,1%"
+            },
+            {
+              "domaine": "Microbiologie",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "Genre",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "SISR",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "1,1%"
+            },
+            {
+              "domaine": "Démographie",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "Tuberculose",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "One health",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "Socio-économie",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "Santé scolaire",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "0,0%"
+            },
+            {
+              "domaine": "RH",
+              "financement_exterieur": "1,1%",
+              "financement_domestique": "0,0%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "CONCLUSION",
+      "texte": "En 2019, 90 protocoles de recherche ont été enregistrés dont 95% examinés par le CNERS. Les délais de délivrance des avis ont varié de moins de 48 heures (45%) et entre 2 à 6 jours (37%). Quant aux autorisations administratives de recherche, elles sont délivrées entre moins de 48heures (11%) et 2 à 6 jours (48%).Pour le profil des utilisateurs de la recherche, presque tous proviennent des universités et des instituts de recherche (93%) et les reste sont des étudiants nationaux.Au niveau des investigateurs principaux, 29% sont des femmes. Pour l'année 2019, l'essentiel des activités de recherche se trouve concentrer dans les régions de Dakar, Ziguinchor, Saint-Louis, Kaolack et Kédougou, avec une particularité de la région de Dakar qui accueille la mise en œuvre de 13 protocoles.Les études ayant pour cible la population générale représentent près du tiers (30%) tandis que les femmes et les enfants viennent en deuxième position (22,4%).Pour les types de recherche définis par la loi, l'année 2019 a été marquée par la prédominance des sciences sociales et humaines (41%) contre l'épidémiologie (8%). Cette dernière typologie de recherche reste encore insuffisamment utilisée pour répondre aux problématiques de santé.Le montant total des budgets pour l'année 2019 s'élève à 9 635 500 840 FCFA. Pour 35,6% des recherches, la durée s'étend sur moins de 6 mois.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Annexes",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "1. Source de financement selon le type de recherche",
+          "colonnes": [
+            "Type de recherche selon la loi/Type de financement",
+            "Financement domestique",
+            "Financement extérieur"
+          ],
+          "lignes": [
+            {
+              "Type de recherche selon la loi/Type de financement": "Recherche biomédicale",
+              "Financement domestique": "1",
+              "Financement extérieur": "23"
+            },
+            {
+              "Type de recherche selon la loi/Type de financement": "Recherche épidémiologique",
+              "Financement domestique": "2",
+              "Financement extérieur": "5"
+            },
+            {
+              "Type de recherche selon la loi/Type de financement": "Recherche sur les systèmes de santé",
+              "Financement domestique": "5",
+              "Financement extérieur": "17"
+            },
+            {
+              "Type de recherche selon la loi/Type de financement": "Recherche en sciences sociales et humaines",
+              "Financement domestique": "5",
+              "Financement extérieur": "33"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "2. Répartition des thèmes de recherche",
+          "colonnes": [
+            "Thème de recherche",
+            "Nombre de Protocoles",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Thème de recherche": "PEC VIH",
+              "Nombre de Protocoles": "4",
+              "Pourcentage": "4,4"
+            },
+            {
+              "Thème de recherche": "Dépistage VIH",
+              "Nombre de Protocoles": "3",
+              "Pourcentage": "3,3"
+            },
+            {
+              "Thème de recherche": "PEC malnutrition",
+              "Nombre de Protocoles": "3",
+              "Pourcentage": "3,3"
+            },
+            {
+              "Thème de recherche": "CCC",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2,2"
+            },
+            {
+              "Thème de recherche": "Communication",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2,2"
+            },
+            {
+              "Thème de recherche": "Contraception",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2.2"
+            },
+            {
+              "Thème de recherche": "PEC HTA",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2.2"
+            },
+            {
+              "Thème de recherche": "Prévention du paludisme",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2,2"
+            },
+            {
+              "Thème de recherche": "SRAJ",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2.2"
+            },
+            {
+              "Thème de recherche": "Vaccination",
+              "Nombre de Protocoles": "2",
+              "Pourcentage": "2,2"
+            },
+            {
+              "Thème de recherche": "Accès aux services de Santé maternelle et néonatale",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Accès aux services de SR",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Accès aux services sociaux de base",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1.1"
+            },
+            {
+              "Thème de recherche": "Accès aux services VIH, TB et paludisme",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Anthropologie du genre",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Assainissement",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Assurance maladie",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Coopération internationale",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Dépistage du Cancer du col de l'utérus",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Dépistage intégré TB malnutrition",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Déterminants de la diarrhée",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Déterminants de la résistance à la vaccination",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Diagnostic des diarrhées sanglantes",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1.1"
+            },
+            {
+              "Thème de recherche": "Diagnostic du diabète",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Diagnostic du HIV",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Diagnostic du paludisme",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Diagnostic Malnutrition",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Diagnostic pneumopathies",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Epidémiologie des maladies fébriles",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Ethnoarchéologie",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1.1"
+            },
+            {
+              "Thème de recherche": "Evaluation questionnaire Nutrition",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Exposition aux phtalates",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Financement de la santé",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Génétique",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Genre et responsabilisation en milieu de travail",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Gestion de la performance",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Handicap et accès aux services SR",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1.1"
+            },
+            {
+              "Thème de recherche": "Hygiène alimentaire",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Infections humaines",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Lutte contre le péril fécal",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Microbione intestinal",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Migration internationale",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Mutilation génitale féminine",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC cancer du col de l'utérus",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC de la schistosomiase",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC Diarrhée",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC Drépanocytose",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC helminthiases",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC Hépatite",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC Hépatite B",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC intégrée des maladies diarrhéiques",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC IRA",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC nutrition",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC paludisme",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "PEC Schistosomiase",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Prévalence VIH",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Prévention",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Prévention comorbidité VIH et Hépatite B",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Prévention contre le tabagisme",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Prévention de l'usage des drogues",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Prévention de la malnutrition",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Prévention dengue",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Prévention du cancer du col",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1.1"
+            },
+            {
+              "Thème de recherche": "Prévention HTA",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Qualité de vie",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Qualité des données",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Résistance des parasites",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Resistance médicamenteuse",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Sante des adolescents",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Santé et droits sexuels et reproductifs des adolescents",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Santé scolaire",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Stigmatisation",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Suivi PVVIH",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Surveillance à base communautaire",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Surveillance du paludisme",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "VBG",
+              "Nombre de Protocoles": "1",
+              "Pourcentage": "1,1"
+            },
+            {
+              "Thème de recherche": "Total",
+              "Nombre de Protocoles": "90",
+              "Pourcentage": "100,0"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "3. Budget moyen selon les types de recherche",
+          "colonnes": [
+            "Type de recherche",
+            "Budget moyen",
+            "Pourcentage"
+          ],
+          "lignes": [
+            {
+              "Type de recherche": "Recherche biomédicale",
+              "Budget moyen": "93 600 631",
+              "Pourcentage": "26,93"
+            },
+            {
+              "Type de recherche": "Recherche épidémiologique",
+              "Budget moyen": "57 628 144",
+              "Pourcentage": "16,58"
+            },
+            {
+              "Type de recherche": "Recherche sur les systèmes de santé",
+              "Budget moyen": "28 644 252",
+              "Pourcentage": "8,24"
+            },
+            {
+              "Type de recherche": "Recherche en sciences sociales et humaines",
+              "Budget moyen": "167 723 141",
+              "Pourcentage": "48,25"
+            },
+            {
+              "Type de recherche": "Total",
+              "Budget moyen": "",
+              "Pourcentage": "100"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "4. Zone d'exécution et groupes cibles",
+          "colonnes": [
+            "Niveau de mise en œuvre",
+            "Enfants",
+            "Femmes",
+            "Adolescents",
+            "Personnes âgées",
+            "Personnes handicapées",
+            "PVVIH",
+            "MSM",
+            "Professionnels du sexe",
+            "Population générale",
+            "Professionnels de santé",
+            "Autres profils",
+            "Acteurs institutionnels"
+          ],
+          "lignes": [
+            {
+              "Niveau de mise en œuvre": "Dakar",
+              "Enfants": "5",
+              "Femmes": "3",
+              "Adolescents": "6",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "1",
+              "PVVIH": "5",
+              "MSM": "1",
+              "Professionnels du sexe": "0",
+              "Population générale": "11",
+              "Professionnels de santé": "12",
+              "Autres profils": "9",
+              "Acteurs institutionnels": "7"
+            },
+            {
+              "Niveau de mise en œuvre": "Diourbel",
+              "Enfants": "1",
+              "Femmes": "2",
+              "Adolescents": "1",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "0",
+              "MSM": "0",
+              "Professionnels du sexe": "0",
+              "Population générale": "5",
+              "Professionnels de santé": "0",
+              "Autres profils": "2",
+              "Acteurs institutionnels": "1"
+            },
+            {
+              "Niveau de mise en œuvre": "Fatick",
+              "Enfants": "1",
+              "Femmes": "2",
+              "Adolescents": "3",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "1",
+              "MSM": "1",
+              "Professionnels du sexe": "0",
+              "Population générale": "1",
+              "Professionnels de santé": "1",
+              "Autres profils": "2",
+              "Acteurs institutionnels": "1"
+            },
+            {
+              "Niveau de mise en œuvre": "Kaffrine",
+              "Enfants": "2",
+              "Femmes": "3",
+              "Adolescents": "3",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "0",
+              "MSM": "0",
+              "Professionnels du sexe": "0",
+              "Population générale": "1",
+              "Professionnels de santé": "0",
+              "Autres profils": "0",
+              "Acteurs institutionnels": "0"
+            },
+            {
+              "Niveau de mise en œuvre": "Kaolack",
+              "Enfants": "1",
+              "Femmes": "4",
+              "Adolescents": "7",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "2",
+              "MSM": "0",
+              "Professionnels du sexe": "0",
+              "Population générale": "4",
+              "Professionnels de santé": "3",
+              "Autres profils": "4",
+              "Acteurs institutionnels": "3"
+            },
+            {
+              "Niveau de mise en œuvre": "Kédougou",
+              "Enfants": "4",
+              "Femmes": "4",
+              "Adolescents": "3",
+              "Personnes âgées": "1",
+              "Personnes handicapées": "0",
+              "PVVIH": "0",
+              "MSM": "0",
+              "Professionnels du sexe": "0",
+              "Population générale": "8",
+              "Professionnels de santé": "2",
+              "Autres profils": "4",
+              "Acteurs institutionnels": "1"
+            },
+            {
+              "Niveau de mise en œuvre": "Kolda",
+              "Enfants": "2",
+              "Femmes": "4",
+              "Adolescents": "5",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "1",
+              "MSM": "0",
+              "Professionnels du sexe": "0",
+              "Population générale": "5",
+              "Professionnels de santé": "2",
+              "Autres profils": "3",
+              "Acteurs institutionnels": "2"
+            },
+            {
+              "Niveau de mise en œuvre": "Louga",
+              "Enfants": "3",
+              "Femmes": "5",
+              "Adolescents": "3",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "2",
+              "MSM": "1",
+              "Professionnels du sexe": "0",
+              "Population générale": "4",
+              "Professionnels de santé": "5",
+              "Autres profils": "2",
+              "Acteurs institutionnels": "1"
+            },
+            {
+              "Niveau de mise en œuvre": "Matam",
+              "Enfants": "2",
+              "Femmes": "3",
+              "Adolescents": "2",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "0",
+              "MSM": "0",
+              "Professionnels du sexe": "0",
+              "Population générale": "4",
+              "Professionnels de santé": "1",
+              "Autres profils": "2",
+              "Acteurs institutionnels": "1"
+            },
+            {
+              "Niveau de mise en œuvre": "Saint-Louis",
+              "Enfants": "5",
+              "Femmes": "4",
+              "Adolescents": "6",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "1",
+              "MSM": "0",
+              "Professionnels du sexe": "0",
+              "Population générale": "6",
+              "Professionnels de santé": "3",
+              "Autres profils": "2",
+              "Acteurs institutionnels": "2"
+            },
+            {
+              "Niveau de mise en œuvre": "Thiès",
+              "Enfants": "3",
+              "Femmes": "2",
+              "Adolescents": "5",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "2",
+              "MSM": "1",
+              "Professionnels du sexe": "0",
+              "Population générale": "0",
+              "Professionnels de santé": "5",
+              "Autres profils": "4",
+              "Acteurs institutionnels": "3"
+            },
+            {
+              "Niveau de mise en œuvre": "Tambacounda",
+              "Enfants": "1",
+              "Femmes": "3",
+              "Adolescents": "3",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "1",
+              "MSM": "0",
+              "Professionnels du sexe": "0",
+              "Population générale": "3",
+              "Professionnels de santé": "1",
+              "Autres profils": "4",
+              "Acteurs institutionnels": "1"
+            },
+            {
+              "Niveau de mise en œuvre": "Sédhiou",
+              "Enfants": "1",
+              "Femmes": "4",
+              "Adolescents": "2",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "2",
+              "MSM": "1",
+              "Professionnels du sexe": "0",
+              "Population générale": "3",
+              "Professionnels de santé": "2",
+              "Autres profils": "1",
+              "Acteurs institutionnels": "1"
+            },
+            {
+              "Niveau de mise en œuvre": "Ziguinchor",
+              "Enfants": "1",
+              "Femmes": "5",
+              "Adolescents": "6",
+              "Personnes âgées": "0",
+              "Personnes handicapées": "0",
+              "PVVIH": "6",
+              "MSM": "1",
+              "Professionnels du sexe": "0",
+              "Population générale": "4",
+              "Professionnels de santé": "4",
+              "Autres profils": "3",
+              "Acteurs institutionnels": "3"
+            },
+            {
+              "Niveau de mise en œuvre": "Niveau national",
+              "Enfants": "3",
+              "Femmes": "4",
+              "Adolescents": "3",
+              "Personnes âgées": "2",
+              "Personnes handicapées": "0",
+              "PVVIH": "0",
+              "MSM": "0",
+              "Professionnels du sexe": "1",
+              "Population générale": "5",
+              "Professionnels de santé": "3",
+              "Autres profils": "3",
+              "Acteurs institutionnels": "2"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "5. Répartition des domaines d'études par zone",
+          "colonnes": [
+            "Zone de mise en œuvre",
+            "Dakar",
+            "Diourbel",
+            "Fatick",
+            "Kaffrine",
+            "Kaolack",
+            "Kédougou",
+            "Kolda",
+            "Louga",
+            "Matam",
+            "Saint-Louis",
+            "Thiès",
+            "Tambacounda",
+            "Sédhiou",
+            "Ziguinchor",
+            "Niveau national"
+          ],
+          "lignes": [
+            {
+              "Zone de mise en œuvre": "VIH",
+              "Dakar": "6",
+              "Diourbel": "0",
+              "Fatick": "1",
+              "Kaffrine": "0",
+              "Kaolack": "1",
+              "Kédougou": "0",
+              "Kolda": "1",
+              "Louga": "2",
+              "Matam": "0",
+              "Saint-Louis": "1",
+              "Thiès": "3",
+              "Tambacounda": "0",
+              "Sédhiou": "2",
+              "Ziguinchor": "7",
+              "Niveau national": "2"
+            },
+            {
+              "Zone de mise en œuvre": "MTN",
+              "Dakar": "0",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "1",
+              "Kaolack": "0",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "2",
+              "Thiès": "0",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "1"
+            },
+            {
+              "Zone de mise en œuvre": "Cancer",
+              "Dakar": "2",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "0",
+              "Kédougou": "1",
+              "Kolda": "0",
+              "Louga": "1",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "1",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "1",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Paludisme",
+              "Dakar": "1",
+              "Diourbel": "2",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "2",
+              "Kédougou": "6",
+              "Kolda": "2",
+              "Louga": "2",
+              "Matam": "1",
+              "Saint-Louis": "2",
+              "Thiès": "0",
+              "Tambacounda": "1",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "2"
+            },
+            {
+              "Zone de mise en œuvre": "Maladies infectieuses",
+              "Dakar": "6",
+              "Diourbel": "0",
+              "Fatick": "1",
+              "Kaffrine": "0",
+              "Kaolack": "1",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "0",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "1",
+              "Niveau national": "2"
+            },
+            {
+              "Zone de mise en œuvre": "MNT",
+              "Dakar": "6",
+              "Diourbel": "1",
+              "Fatick": "1",
+              "Kaffrine": "0",
+              "Kaolack": "1",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "1",
+              "Matam": "1",
+              "Saint-Louis": "1",
+              "Thiès": "1",
+              "Tambacounda": "1",
+              "Sédhiou": "0",
+              "Ziguinchor": "1",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Nutrition",
+              "Dakar": "1",
+              "Diourbel": "1",
+              "Fatick": "1",
+              "Kaffrine": "1",
+              "Kaolack": "1",
+              "Kédougou": "2",
+              "Kolda": "2",
+              "Louga": "2",
+              "Matam": "2",
+              "Saint-Louis": "3",
+              "Thiès": "2",
+              "Tambacounda": "1",
+              "Sédhiou": "0",
+              "Ziguinchor": "1",
+              "Niveau national": "1"
+            },
+            {
+              "Zone de mise en œuvre": "Santé de la Reproduction",
+              "Dakar": "5",
+              "Diourbel": "1",
+              "Fatick": "1",
+              "Kaffrine": "2",
+              "Kaolack": "6",
+              "Kédougou": "2",
+              "Kolda": "6",
+              "Louga": "1",
+              "Matam": "1",
+              "Saint-Louis": "5",
+              "Thiès": "2",
+              "Tambacounda": "2",
+              "Sédhiou": "4",
+              "Ziguinchor": "5",
+              "Niveau national": "1"
+            },
+            {
+              "Zone de mise en œuvre": "Santé environnementale",
+              "Dakar": "1",
+              "Diourbel": "2",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "1",
+              "Kédougou": "1",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "1",
+              "Saint-Louis": "2",
+              "Thiès": "1",
+              "Tambacounda": "1",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Socio-anthropologie",
+              "Dakar": "2",
+              "Diourbel": "0",
+              "Fatick": "1",
+              "Kaffrine": "0",
+              "Kaolack": "0",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "1",
+              "Saint-Louis": "1",
+              "Thiès": "0",
+              "Tambacounda": "0",
+              "Sédhiou": "1",
+              "Ziguinchor": "0",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Microbiologie",
+              "Dakar": "0",
+              "Diourbel": "1",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "0",
+              "Kédougou": "1",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "1",
+              "Thiès": "0",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Genre",
+              "Dakar": "1",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "0",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "0",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "SISR",
+              "Dakar": "0",
+              "Diourbel": "0",
+              "Fatick": "1",
+              "Kaffrine": "0",
+              "Kaolack": "1",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "0",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "1",
+              "Niveau national": "1"
+            },
+            {
+              "Zone de mise en œuvre": "Démographie",
+              "Dakar": "1",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "0",
+              "Kédougou": "0",
+              "Kolda": "1",
+              "Louga": "1",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "0",
+              "Tambacounda": "1",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Tuberculose",
+              "Dakar": "0",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "0",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "1",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "One health",
+              "Dakar": "1",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "0",
+              "Kédougou": "1",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "1",
+              "Thiès": "0",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "1",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Economie de la santé",
+              "Dakar": "3",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "1",
+              "Kaolack": "1",
+              "Kédougou": "1",
+              "Kolda": "1",
+              "Louga": "1",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "0",
+              "Tambacounda": "2",
+              "Sédhiou": "1",
+              "Ziguinchor": "1",
+              "Niveau national": "1"
+            },
+            {
+              "Zone de mise en œuvre": "Socio-économie",
+              "Dakar": "0",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "1",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "0",
+              "Tambacounda": "1",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Santé scolaire",
+              "Dakar": "1",
+              "Diourbel": "0",
+              "Fatick": "1",
+              "Kaffrine": "1",
+              "Kaolack": "1",
+              "Kédougou": "1",
+              "Kolda": "1",
+              "Louga": "1",
+              "Matam": "1",
+              "Saint-Louis": "1",
+              "Thiès": "1",
+              "Tambacounda": "1",
+              "Sédhiou": "0",
+              "Ziguinchor": "1",
+              "Niveau national": "0"
+            },
+            {
+              "Zone de mise en œuvre": "Ressources Humaines",
+              "Dakar": "1",
+              "Diourbel": "0",
+              "Fatick": "0",
+              "Kaffrine": "0",
+              "Kaolack": "0",
+              "Kédougou": "0",
+              "Kolda": "0",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "0",
+              "Thiès": "0",
+              "Tambacounda": "0",
+              "Sédhiou": "0",
+              "Ziguinchor": "0",
+              "Niveau national": "0"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "6. Protocoles enregistrés pour l'année 2019",
+          "colonnes": [
+            "Intitulé protocoles",
+            "Chercheur principal",
+            "Administrateur",
+            "Sponsors",
+            "Soumission",
+            "Budget",
+            "Date de soumission"
+          ],
+          "lignes": [
+            {
+              "Intitulé protocoles": "SEN19/01: «Etude monocentrique randomisée contrôle pivot de phase II/III évaluant la tolérance et l'efficacité de la thérapie vasculaire par stimulation électronique sur les crises vaso-occlusives des patients drépanocytaires »",
+              "Chercheur principal": "Pr Saliou DIOP",
+              "Administrateur": "Centre National de Transfusion Sanguine de Dakar",
+              "Sponsors": "DIAVEIN SAS",
+              "Soumission": "1 ère Soumission",
+              "Budget": "17 964 200",
+              "Date de soumission": "02/01/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/02: « Améliorer la gestion communautaire de la malnutrition aiguë: Diagnostic par image de la malnutrition aiguë »",
+              "Chercheur principal": "Dr Laura Medialdea Marcos",
+              "Administrateur": "Action Contre la Faim",
+              "Sponsors": "Programme Alimentaire Mondial (PAM)",
+              "Soumission": "1 ère Soumission",
+              "Budget": "95 461 300",
+              "Date de soumission": "09/01/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/03: Efficacité et innocuité du tannate de gélatine dans le traitement de la diarrhée aiguë de l'enfant. Une étude randomisée, contrôlée, en double aveugle »",
+              "Chercheur principal": "Dr. Aldiouma DIALLO",
+              "Administrateur": "IRD",
+              "Sponsors": "AXONAL Real World European CRD",
+              "Soumission": "1 ère Soumission",
+              "Budget": "41 405 100",
+              "Date de soumission": "10/01/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/04 « Enquête exploratoire sur la relation de soin entre professionnels de santé et HSH au Sénégal. Analyse des effets de la stigmatisation sur la qualité du traitement »",
+              "Chercheur principal": "Dr Albert Gautier Ndione",
+              "Administrateur": "CRCF",
+              "Sponsors": "Queen Mary University",
+              "Soumission": "1ère Soumission",
+              "Budget": "4 772 296",
+              "Date de soumission": "18/01/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/05: « Devenir médical des participants de la cohorte ANRS 1215 »",
+              "Chercheur principal": "Dr Bernard TAVERNE",
+              "Administrateur": "CRCF",
+              "Sponsors": "ANRS",
+              "Soumission": "1 ère Soumission",
+              "Budget": "600 000",
+              "Date de soumission": "25/01/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/06: « Santé maternelle et néonatale à Kédougou (Sénégal) Une étude de cas d'une région en retard de développement »",
+              "Chercheur principal": "Pr. Souleymane MBOUP",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "IRESSEF",
+              "Soumission": "1 ère Soumission",
+              "Budget": "8 762 758",
+              "Date de soumission": "06/02/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/07: « Maladies diarrhéiques et changement climatique au Sénégal : Etude approfondie des facteurs de risque, renforcement et maintien de la collaboration multisectorielle »",
+              "Chercheur principal": "Melissa Hidrobo",
+              "Administrateur": "IFPRI",
+              "Sponsors": "IFPRI",
+              "Soumission": "1ère Soumission",
+              "Budget": "1093374374",
+              "Date de soumission": "11/02/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/08: « Evaluation de l'artésunate-méfloquine comme traitement alternatif de la schistosomiase chez les enfants d'âge scolaire au Sénégal (SchistoSAM) »",
+              "Chercheur principal": "Pr. Souleymane MBOUP",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "Institut de médecine tropicale d'Anvers de Belgique",
+              "Soumission": "1 ére Soumission",
+              "Budget": "449 861 132",
+              "Date de soumission": "13/02/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/09: « Maladies diarrhéiques et changement climatique au Sénégal: Etude approfondie des facteurs de risque, renforcement et maintien de la collaboration multisectorielle »",
+              "Chercheur principal": "Dr Sokhna THIAM",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "Institut de Tropical et de Santé Publique de Bâle",
+              "Soumission": "1 ère Soumission",
+              "Budget": "229722300",
+              "Date de soumission": "14/02/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/10: « Recherche bio-archéologiques et ethnographies sur les baobabs cimetières de la région de Fatick »",
+              "Chercheur principal": "Mr Lamine BADJI",
+              "Administrateur": "Institut de recherche en Ingénierie Culturel et en Anthropologie (URICA)",
+              "Sponsors": "Institut de recherche en Ingénierie Culturel et en Anthropologie (URICA)",
+              "Soumission": "1 ére Soumission",
+              "Budget": "128 570 000",
+              "Date de soumission": "18/02/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/11: Cure fonctionnelle du virus de l'hépatite B au Sénégal: La cohorte SEN-B »",
+              "Chercheur principal": "Pr Moussa SEYDI",
+              "Administrateur": "CRCF",
+              "Sponsors": "Fonds National Suisse (FNSNF)",
+              "Soumission": "1 ère Soumission",
+              "Budget": "",
+              "Date de soumission": "27/02/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/12: «Etude sur l'autonomisation des jeunes pour améliorer la santé sexuelle et reproductive et les droits des adolescents: une recherche-action participative dans les régions de Kaolack et Tambacounda »",
+              "Chercheur principal": "Pr Mohamadou SALL",
+              "Administrateur": "IPDSR",
+              "Sponsors": "Global Affairs Canada, Affaires Mondiales Canada",
+              "Soumission": "1 ère Soumission",
+              "Budget": "1 192 346 Dollars",
+              "Date de soumission": "27/02/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/13: Evaluation des performances cliniques et opérationnelle de HealthCube »",
+              "Chercheur principal": "Pr Souleymane MBOUP",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "HealthCube",
+              "Soumission": "1ère Soumission",
+              "Budget": "33 350 400",
+              "Date de soumission": "05/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/14: « Initiative de santé urbaine pour la lutte contre l'hypertension artérielle à Dakar »",
+              "Chercheur principal": "Dr El Hadji Babacar GUEYE",
+              "Administrateur": "Intra Health",
+              "Sponsors": "Intra Health",
+              "Soumission": "1 ère Soumission",
+              "Budget": "5 430 000",
+              "Date de soumission": "05/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/15: Anthropologie du genre dans les programmes de santé communautaire »",
+              "Chercheur principal": "Dr Hélène KANE",
+              "Administrateur": "CNRS UMI Environnements, santé, sociétés",
+              "Sponsors": "UMIESS",
+              "Soumission": "1ère Soumission",
+              "Budget": "64 937 000",
+              "Date de soumission": "06/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/16: « Evaluation de la campagne de communication du programme national de lutte contre le paludisme/Sénégal",
+              "Chercheur principal": "Dr Khoudia SOW",
+              "Administrateur": "CRCF",
+              "Sponsors": "CRCF",
+              "Soumission": "1 ére Soumission",
+              "Budget": "15 075 000",
+              "Date de soumission": "07/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/17: Qualitative assessment of selected nutrition. indicator survey questions »",
+              "Chercheur principal": "Dr Fatou NDOYE",
+              "Administrateur": "ASKAAN",
+              "Sponsors": "ASKAAN",
+              "Soumission": "1ère Soumission",
+              "Budget": "147 944 174",
+              "Date de soumission": "12/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/18: « Etude longitudinale sur les facteurs d'idéation et de comportements liés la santé maternelle et infantile. la planification familiale, au VIH, à l'eau et l'assainissement et les violences basées sur le genre au Sénégal »",
+              "Chercheur principal": "Dr Cheikh Mbacke FAYE",
+              "Administrateur": "FALL Action Population and Health Research Centre (APHRC)",
+              "Sponsors": "Echidna Giving",
+              "Soumission": "1 ère Soumission",
+              "Budget": "75 047.000",
+              "Date de soumission": "22/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/19: « Etude longitudinale sur les facteurs d'idéation et de comportements liés à la santé maternelle et infantile, à la planification familiale, au VIH, à l'eau et l'assainissement et les violences basées sur le genre au Sénégal »",
+              "Chercheur principal": "Dr El Hadji Babacar GUEYE",
+              "Administrateur": "Intra Health",
+              "Sponsors": "Centre for communication programs",
+              "Soumission": "1 ère Soumission",
+              "Budget": "",
+              "Date de soumission": "22/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/20: «The global microbiome conservancy comprendre et conserver notre héritage microbien »",
+              "Chercheur principal": "Pr Daouda NDIAYE",
+              "Administrateur": "UCAD",
+              "Sponsors": "Massachuetts Institue Technology",
+              "Soumission": "1 ère Soumission",
+              "Budget": "22 668 237",
+              "Date de soumission": "26/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/21: « Analyse situationnelle sur les résistences de la vaccination au Sénégal »",
+              "Chercheur principal": "Dr Nadck DIOP",
+              "Administrateur": "UCAD",
+              "Sponsors": "Massachuetts Institue Technology",
+              "Soumission": "1ère Soumission",
+              "Budget": "1 274 000",
+              "Date de soumission": "26/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/22: Recherche portant sur l'accessibilité et la disponibilité des médicaments et technologies essentiels de l'hypertension artérielle dans les districts de Dakar- projet Bettre Hearts, Better Cites »",
+              "Chercheur principal": "Dr Issa WONE",
+              "Administrateur": "PATH",
+              "Sponsors": "Fondation Novartis",
+              "Soumission": "1 ère Soumission",
+              "Budget": "5 944 000",
+              "Date de soumission": "26/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/23: « Les complications des MGF chez les parturientes en Casamance: étude multicentrique »",
+              "Chercheur principal": "Dr Ndack DIOP",
+              "Administrateur": "UFRSS/Ziguinchor",
+              "Sponsors": "Coopération espagnole/ambassade d'Espagne au Sénégal",
+              "Soumission": "1ère Soumission",
+              "Budget": "22.960.000",
+              "Date de soumission": "28/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/24: De l'enquête national de surveillance combinée (comportementale et biologique) »",
+              "Chercheur principal": "Pr Souleymane MBOUP",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "Fond Mondial",
+              "Soumission": "1ère Soumission",
+              "Budget": "79 600 000",
+              "Date de soumission": "28/03/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/25: « Analyse par genre des postes de direction dans les secteurs de la santé et des services sociaux au Sénégal »",
+              "Chercheur principal": "Dr Ayisha DIOP",
+              "Administrateur": "Tonjo Cullen Balogun",
+              "Sponsors": "University 25esearch Co. LLC (URC)",
+              "Soumission": "1ère Soumission",
+              "Budget": "12 000 000",
+              "Date de soumission": "09/04/2109"
+            },
+            {
+              "Intitulé protocoles": "SEN19/26: « Améliorer l'accés au dépistage du cancer du col de l'utérus HPV induit en Casamance, Sénégal (dépistage du cancer du col de l'utérus et test HPV: pratiques et tendances en Casamance Sénégal et en Guinée Bissau) »",
+              "Chercheur principal": "Pr Noel Magloire Manga",
+              "Administrateur": "Enda-Santé",
+              "Sponsors": "Cooperation Luxembourgeoise",
+              "Soumission": "1ère Soumission",
+              "Budget": "52 412 302",
+              "Date de soumission": "04/12/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/27: Stigma & CARES: Une enquête évaluation de la stigmatisation et la discrimination sur l'accès au dépistage et aux soins des personnes vivant avec le VIH et le HPV en Casamance »",
+              "Chercheur principal": "Dr Khadidiatou THIAM",
+              "Administrateur": "Enda-Santé",
+              "Sponsors": "Cooperation Luxembourgeoise",
+              "Soumission": "1ère Soumission",
+              "Budget": "",
+              "Date de soumission": "12/04/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/28: « Etude de la résistance aux antirétroviraux dans le cadre de la stratégie tester et traiter chez les personnes vivantes avec le VIH en Casamance, région de Ziguinchor »",
+              "Chercheur principal": "Pr Noel Magloire Manga",
+              "Administrateur": "Enda-Santé",
+              "Sponsors": "Cooperation Luxembourgeoise",
+              "Soumission": "1ère Soumission",
+              "Budget": "163 989 250",
+              "Date de soumission": "12/04/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/29: Etude de la prévention de la transmission mère-enfant de l'hépatite B en Casamance par administration de Ténofovir »",
+              "Chercheur principal": "Pr Noel Magloire Manga",
+              "Administrateur": "Enda-Santé",
+              "Sponsors": "Cooperation Luxembourgeoise",
+              "Soumission": "1ère Soumission",
+              "Budget": "122 663 959",
+              "Date de soumission": "12/04/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/30: Biosurveillance et évaluation de l'exposition environnementale des phthalates et leurs métabolites dans la population sénégalaise »",
+              "Chercheur principal": "Pr Moussa DIENG",
+              "Administrateur": "Université Alioune Diop de Bambey",
+              "Sponsors": "Kurunthachalam Kannan",
+              "Soumission": "1ère Soumission",
+              "Budget": "1 753 926",
+              "Date de soumission": "12/04/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/31: Examen de la qualité des données DHIS2 et leur utilisation pour améliorer l'utilisation des données de routine dans la prise de décision en matière de contrôle du paludisme au Sénégal »",
+              "Chercheur principal": "Pr Melissa A MARX",
+              "Administrateur": "Johns Hopkins University",
+              "Sponsors": "Johns Hopkins Institute for International Programs",
+              "Soumission": "1ère Soumission",
+              "Budget": "3 207 955",
+              "Date de soumission": "12/04/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/32: « Décrire, analyser et comprendre les effets de l'introduction de l'autodépistage du VIH en Afrique »",
+              "Chercheur principal": "Dr Joseph Larmarange",
+              "Administrateur": "ONG Solthis",
+              "Sponsors": "CEPED/IRD",
+              "Soumission": "1ère Soumission",
+              "Budget": "1 391 916 688",
+              "Date de soumission": "15/04/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/33: « Evaluation des performances cliniques de OraQuick HIV 1/2 Rapid Antibody test et OraQuick HIV Self-Test»",
+              "Chercheur principal": "Pr Souleymane MBOUP",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "IRESSEF",
+              "Soumission": "1ère Soumission",
+              "Budget": "7 326 000",
+              "Date de soumission": "26/04/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/34: « Etude des facteurs qui influencent l'utilisation des services de dépistage précoce du VIH chez les enfants et la mesure de la charge virale des personnes vivant avec le VIH dans quatre zones du Sénégal (Louga, Diofior, Bignona et Vélingara) »",
+              "Chercheur principal": "Dr Ndeye FALL NDOYE",
+              "Administrateur": "ASKAAN",
+              "Sponsors": "UNICEF",
+              "Soumission": "1ère Soumission",
+              "Budget": "7 808 000",
+              "Date de soumission": "29/04/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/35: « Recherche opérationnelle sur les déterminants de l'utilisation des moustiques imprégnées d'insecticide (MII) pour la lutte contre le paludisme dans la zone d'intervention du PGIRE au Sénégal »",
+              "Chercheur principal": "Pr. Ousmane FAYE",
+              "Administrateur": "UCAD/FST",
+              "Sponsors": "OMVS",
+              "Soumission": "1ère Soumission",
+              "Budget": "27 085 500",
+              "Date de soumission": "06/05/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/36: « Recherche sur la diversité génétique des parasites et l'impact sur l'efficacité des vaccins contre le paludisme »",
+              "Chercheur principal": "Dr Amy Krisinite BEL",
+              "Administrateur": "Institut Pasteur de Dakar",
+              "Sponsors": "Institut Pasteur Paris",
+              "Soumission": "1ère Soumission",
+              "Budget": "10 000 000",
+              "Date de soumission": "03/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/37: « Etude de la résistance des isolats de plasmodium falciparum responsables d'infection symptomatiques et asymptomatiques aux combinaisons thérapeutiques à base »",
+              "Chercheur principal": "Dr Alassane MBENGUE",
+              "Administrateur": "Institut Pasteur de Dakar",
+              "Sponsors": "Institut Francis Crick UK",
+              "Soumission": "1ère Soumission",
+              "Budget": "20 000 000",
+              "Date de soumission": "03/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/38: « Etude de la banque mondiale; Comprendre la migration internationale en Afrique de l'Ouest, le cas du Sénégal et de la Gambie »",
+              "Chercheur principal": "Dr Federica MARZO",
+              "Administrateur": "IFPRI",
+              "Sponsors": "IFPRI",
+              "Soumission": "1ère Soumission",
+              "Budget": "",
+              "Date de soumission": "11/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/39: « Evaluation d'impact de la série télévisée \"C'est la vie\" sur les violences basées sur le genre reproductive et sexuelle en rurale au Sénégal »",
+              "Chercheur principal": "Melissa Hidrobo",
+              "Administrateur": "Banque mondiale",
+              "Sponsors": "Banque mondiale",
+              "Soumission": "1ère Soumission",
+              "Budget": "0",
+              "Date de soumission": "12/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/40: « Maladies rénales et infection à VIH en Afrique subsaharienne à l'ère des combinaisons antirétrovirales »",
+              "Chercheur principal": "Pr. Moussa SEYDI",
+              "Administrateur": "CRCF",
+              "Sponsors": "IRD",
+              "Soumission": "1ère Soumission",
+              "Budget": "",
+              "Date de soumission": "14/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/41: La relation entre les habitudes de sommeil et la qualité de vie des habitants d'un village rural du Sénégal »",
+              "Chercheur principal": "Nicholas Carrier",
+              "Administrateur": "Univesité de Québec En Outaouais",
+              "Sponsors": "",
+              "Soumission": "1ère Soumission",
+              "Budget": "",
+              "Date de soumission": "20/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/42: « Amélioration du dépistage de la tuberculose de l'enfant au Sénégal couplé au dépistage de la malnutrition: Etude pilote de faisabilité dans les districts sanitaires de Thiès et Tivaouane (Région de Thiès) »",
+              "Chercheur principal": "Dr Nafissatou Oumar TOURE",
+              "Administrateur": "PNT",
+              "Sponsors": "OMS/TDR",
+              "Soumission": "1ère Soumission",
+              "Budget": "19 413 000",
+              "Date de soumission": "24/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/43: « Utiliser la théorie de l'écologie des communautés pour prédire les effets de l'expansion et de l'intensification de l'agriculture sur les infections humaines implication pour l'agriculture durable »",
+              "Chercheur principal": "Gilles RIVEAU",
+              "Administrateur": "EPSL",
+              "Sponsors": "National Science Fondation, National Institutes of Health, Department of Agriculture",
+              "Soumission": "1ère Soumission",
+              "Budget": "156 116 376",
+              "Date de soumission": "27/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/44: « Analyse des déterminants sociaux, culturels et individuels des comportements à risque, de prévention et de réponse liés aux six zoonoses prioritaires du Sénégal »",
+              "Chercheur principal": "Dr Gérôme SAMBOU",
+              "Administrateur": "Ministère de l'élevage",
+              "Sponsors": "USAID",
+              "Soumission": "1ère Soumission",
+              "Budget": "11 334 000",
+              "Date de soumission": "27/06/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/45: Un essai contrôle randomisé par grappes pour évaluer l'effet de d'un l'ajout d'un traitement de l'eau à domicile et une promotion de l'hygiène au programme thérapeutique ambulatoire standard de la malnutrition aiguë sévère sur les taux de guérison dans le nord du Sénégal »",
+              "Chercheur principal": "Pr Moustapha SEYE",
+              "Administrateur": "Action contre la faim",
+              "Sponsors": "USAID et OFDA",
+              "Soumission": "1ère Soumission",
+              "Budget": "422 274 418",
+              "Date de soumission": "03/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/46: « Aspects cliniques, gravité, prise en charge et issues des maladies fébriles en Afrique subsaharienne étude FISSA »",
+              "Chercheur principal": "Dr Pierre Birahime NDIAYE",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "ALERRT/EDCTP",
+              "Soumission": "1ère Soumission",
+              "Budget": "169 665 600",
+              "Date de soumission": "04/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/47: « Evaluation du système du système de surveillance, suivi/évaluation (SSE) du paludisme au Sénégal »",
+              "Chercheur principal": "Dr Roger TINE",
+              "Administrateur": "UCAD/FMPO",
+              "Sponsors": "USAID",
+              "Soumission": "1ère Soumission",
+              "Budget": "24 793 175",
+              "Date de soumission": "08/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/48: « Etude de l'efficacité et la tolérance du malachrorite dans la prise en charge du paludisme non compliqué »",
+              "Chercheur principal": "Pr Daouda Ndiaye",
+              "Administrateur": "CHU Aristide Le Dantec",
+              "Sponsors": "Compagnie Naturasana",
+              "Soumission": "1ère Soumission",
+              "Budget": "81 781 100",
+              "Date de soumission": "23/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/49: « Projet d'étude moléculaire du paludisme au Sénégal »",
+              "Chercheur principal": "Pr Daouda Ndiaye",
+              "Administrateur": "CHU Aristide Le Dantec",
+              "Sponsors": "Harvard Université",
+              "Soumission": "1ère Soumission",
+              "Budget": "35 447 500",
+              "Date de soumission": "23/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/50: « Couverture vaccinale: les pays modèles en santé globale »",
+              "Chercheur principal": "Pr Souleymane MBOUP",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "Université d'Emory Rollins school of Public Health",
+              "Soumission": "1ère Soumission",
+              "Budget": "50 000 000",
+              "Date de soumission": "29/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/51: « Etude de base de la situation alimentaire et nutritionnelle des enfants de 6-23 mois issus de ménages vulnérables bénéficiant d'assistance nutritionnelle du PAM dans le Département de Matam »",
+              "Chercheur principal": "Pr Adama Diouf",
+              "Administrateur": "UCAD/FST",
+              "Sponsors": "Programme Alimentaire Mondial (PAM)",
+              "Soumission": "1ère Soumission",
+              "Budget": "11 589 434",
+              "Date de soumission": "31/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/52: « Etiologies des diarrhées sanglants dans les sites sentinelles de surveillance au Sénégal »",
+              "Chercheur principal": "Dr Bissoume Sambe BA",
+              "Administrateur": "Instituut Pasteur de Dakar",
+              "Sponsors": "CDC Africa Centre for Disease control and Prevention",
+              "Soumission": "1ère Soumission",
+              "Budget": "139 427 416",
+              "Date de soumission": "31/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/53: « Evaluation de la séroprotection et des risques d'infection par le virus de la dengue au Sénégal »",
+              "Chercheur principal": "Dr Ousmane FAYE",
+              "Administrateur": "Institut Pasteur de Dakar",
+              "Sponsors": "Laboratoire de nutrition, département de biologie animale FST/UCAD",
+              "Soumission": "1ère Soumission",
+              "Budget": "167 174 500",
+              "Date de soumission": "31/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/54: « Impact de la supplémentation en A sur le statut et les réserves hépatiques en vitamine A 'enfants âgés de 6 à 23 mois à Dakar à l'aide du test MRDR »",
+              "Chercheur principal": "Pr Nicole Idohou Dossou",
+              "Administrateur": "Laboratoire de nutrition, département de biologie animale FST/UCAD",
+              "Sponsors": "",
+              "Soumission": "1ère Soumission",
+              "Budget": "10 820 093",
+              "Date de soumission": "31/07/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/55: Evaluation de la contamination fécale par de multiples voies environnementales à Dakar, au Sénégal, à l'aide de l'outil d'évaluation de l'exposition SaniPath »",
+              "Chercheur principal": "Dr Seydina Ousmane SENE",
+              "Administrateur": "IPAR",
+              "Sponsors": "IPAR",
+              "Soumission": "1ère Soumission",
+              "Budget": "2 805 000",
+              "Date de soumission": "07/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/56: « L'aide publique au développement, la dette publique extérieur et équité dans les pays à revenu faible et intermédiaire : analyse de données de panel et étude de cas au Sénégal »",
+              "Chercheur principal": "Melissa Martinez Alvarez",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "Londre School of hygiene & tropical médecine",
+              "Soumission": "1ère Soumission",
+              "Budget": "5 160 742",
+              "Date de soumission": "08/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/57: Réduire le Fardeau des Maladies Diarrhéiques en Milieu Urbain face aux Changements Climatiques: une Approche Intégrée pour la Durabilité dans deux Villes Secondaires de l'Afrique de l'Ouest »",
+              "Chercheur principal": "Dr Sokhna Thiam",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "Programme LIRA 2030 Africa (Leading Integrated Research for Agenda 2030 in Africa) financé par the Network of African Science Academies (NASAC) and the International Science Council (ISC)",
+              "Soumission": "1ère Soumission",
+              "Budget": "58 950 000",
+              "Date de soumission": "08/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/58: Soutien aux maladies et assurance à base communautaire (les mutuelles de santé) dans le Nord du Sénégal »",
+              "Chercheur principal": "Mr Kristian Aardahl",
+              "Administrateur": "CRCF",
+              "Sponsors": "University of Oslo",
+              "Soumission": "1ère Soumission",
+              "Budget": "1 500 000",
+              "Date de soumission": "08/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/59: «Etude des facteurs liés à la couverture de la vaccination contre le papillomavirus humain (PVH) au premier trimestre 2019 dans la région de Kédougou »",
+              "Chercheur principal": "Dr Babacar GUEYE",
+              "Administrateur": "Région médicale de Kédougou",
+              "Sponsors": "Dr Jon Andrew Dykens",
+              "Soumission": "1ère Soumission",
+              "Budget": "49 656 000",
+              "Date de soumission": "16/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/60: « Evaluation des tests sur le lieu d'intervention en cours de développement pour une meilleur prise en charge des cas de paludisme à Kédougou »",
+              "Chercheur principal": "Dr Makhtar NIANG",
+              "Administrateur": "Amadou Alpha SALL",
+              "Sponsors": "Gonzalo J. Domingo",
+              "Soumission": "1ère Soumission",
+              "Budget": "49 656 000",
+              "Date de soumission": "19/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/61: Examiner l'accès aux services de santé sexuelle et reproductive pour des jeunes femmes en situation de Handicap à Dakar, Sénégal »",
+              "Chercheur principal": "Olivia SOULE",
+              "Administrateur": "GRAG",
+              "Sponsors": "Dr Larry Irons",
+              "Soumission": "1ère Soumission",
+              "Budget": "414 000",
+              "Date de soumission": "20/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/62: « Projet de surveillance à base communautaire de la Croix-Rouge sénégalaise »",
+              "Chercheur principal": "Dr Zeyni El Abidine SY",
+              "Administrateur": "Prospective et coopération",
+              "Sponsors": "Croix-Rouge du Sénégal",
+              "Soumission": "1ère Soumission",
+              "Budget": "21 351 400",
+              "Date de soumission": "26/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/63: Faisabilité et acceptabilité de l'introduction du vaccin antirotavirus non répliquant (NRRV) »",
+              "Chercheur principal": "Dr Jessica Price",
+              "Administrateur": "Morgan Glascock",
+              "Sponsors": "Bill & Melinda Gates",
+              "Soumission": "1ère Soumission",
+              "Budget": "19 000 000",
+              "Date de soumission": "28/08/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/64: «Etude descriptive de l'état actuel des communautés ayant participé au PRCC et des communautés de diffusion »",
+              "Chercheur principal": "Dr Heather Lanthorn",
+              "Administrateur": "IDinsight",
+              "Sponsors": "Tostan International",
+              "Soumission": "1ère Soumission",
+              "Budget": "18 546 770,88",
+              "Date de soumission": "13/09/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/65: Expérience des clientes et des prestataires de soins en matière des contraceptifs réversibles à longue durée d'action au Sénégal »",
+              "Chercheur principal": "D'Aurélie Brunie",
+              "Administrateur": "MSAS/DSME Guillermo Martinez PATH",
+              "Sponsors": "Bill & Melinda Gates",
+              "Soumission": "1ère Soumission",
+              "Budget": "160 372 100",
+              "Date de soumission": "18/09/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/66: « Etude anthropologique sur les problèmes liés à l'utilisation et à l'accés des femmes et jeunes aux services de santé sexuelle et reproductive dans les districts sanitaires de Keur Massar, Yeumbeul et Mbao »",
+              "Chercheur principal": "Dr Abibou Diagne CAMARA",
+              "Administrateur": "Ministère de l'éducation nationale",
+              "Sponsors": "Medicos del Mundo",
+              "Soumission": "1ère Soumission",
+              "Budget": "3 500 000",
+              "Date de soumission": "30/09/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/67: Documentation de la mise en place de la coalition de lutte contre les HTA en entreprise dans le cadre du programme Better Hearts Better cities-Sénégal »",
+              "Chercheur principal": "Dr Ida Rose DIONE",
+              "Administrateur": "",
+              "Sponsors": "Fondation Novartis",
+              "Soumission": "1ère Soumission",
+              "Budget": "1.000.000",
+              "Date de soumission": "30/09/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/68: « Attitudes et comportements en santé sexuelle des adolescents/jeunes en milieu scolaire »",
+              "Chercheur principal": "Dr Malick SALLA",
+              "Administrateur": "",
+              "Sponsors": "Marie Stopes international Sénégal",
+              "Soumission": "1ère Soumission",
+              "Budget": "10 813 000",
+              "Date de soumission": "09/10/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/69: « Rôle de l'entérovitus 68 dans les infections respiratoires aigües sévères et responsables dans les myélites flasques aigues chez les enfants de moins de 5 ans au Sénégal »",
+              "Chercheur principal": "Dr Ndongo Dia",
+              "Administrateur": "Institut Pasteur de Dakar",
+              "Sponsors": "Réseau international des instituts pasteurs",
+              "Soumission": "1ère Soumission",
+              "Budget": "14 759 032",
+              "Date de soumission": "21/10/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/70: « Electrification rurale au Sénégal, raisons pour se raccrocher et rester raccordé »",
+              "Chercheur principal": "Dr Hernandez Orlando",
+              "Administrateur": "Unité de Formation et Coordination (UFC/MCA)",
+              "Sponsors": "MCCWashington/ Wits Reproductive Health and HIV Institute",
+              "Soumission": "1ère Soumission",
+              "Budget": "202 619 098",
+              "Date de soumission": "22/10/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/71 « Évaluation des performances cliniques de Sedia Asanté T VIH-1/2 Essai contrôlé et observé d'un nouveau dispositif de test du VIH entre les mains d'utilisateurs formés »",
+              "Chercheur principal": "Pr Souleymane MBOUP",
+              "Administrateur": "IRESSEF",
+              "Sponsors": "",
+              "Soumission": "1ère Soumission",
+              "Budget": "8 241 800 FCFA",
+              "Date de soumission": "29/10/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/72 « Etude de performances dans les zones d'intervention du GSF Sénégal (Département s de Goudiry, Kédougou, Matam, Mbacké et Ranérou) »",
+              "Chercheur principal": "Dr Alsane SECK",
+              "Administrateur": "DELVIC Sanitation Initiatives",
+              "Sponsors": "Adama SY",
+              "Soumission": "1ère Soumission",
+              "Budget": "52 356 705",
+              "Date de soumission": "29/10/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/73 « Evaluation finale sur la couverture en service de supplémentation hebdomadaire en fer acide folique des adolescentes (WIFAS)/ Phase Finale »",
+              "Chercheur principal": "Dr Amadou MOREAU",
+              "Administrateur": "GRAG",
+              "Sponsors": "Nutition International",
+              "Soumission": "1ère Soumission",
+              "Budget": "43 798 918",
+              "Date de soumission": "06/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/74 « Proposition d'enquête sur la consommation de substances et la santé chez les élèves des classes de seconde des lycées au Sénégal »",
+              "Chercheur principal": "Mme Seyni Dieye",
+              "Administrateur": "ONUDC",
+              "Sponsors": "ONUDC",
+              "Soumission": "1ère Soumission",
+              "Budget": "22 000 000",
+              "Date de soumission": "07/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/75 « Comprendre le système de financement de la santé et documenter les types de frais d'utilisation (formels et informels) affectant l'accès aux services VIH, tuberculose et paludisme au Sénégal »",
+              "Chercheur principal": "Dr Cristina de la Torre",
+              "Administrateur": "ICF",
+              "Sponsors": "Fonds Mondial",
+              "Soumission": "1ère Soumission",
+              "Budget": "10 476 500",
+              "Date de soumission": "07/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/76 « Aspects économiques des interventions en matière de santé sexuelle et reproductive des adolescents (SRA) au Sénégal »",
+              "Chercheur principal": "Dr Abdoulaye DIALLO",
+              "Administrateur": "AFHEA Sénégal",
+              "Sponsors": "CRDI",
+              "Soumission": "1ère Soumission",
+              "Budget": "28 000 000",
+              "Date de soumission": "07/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/77 « Gestion de la performance des agents de santé et de la qualité »",
+              "Chercheur principal": "AIDA MEYER",
+              "Administrateur": "Grand Canyon University",
+              "Sponsors": "Grand Canyon University",
+              "Soumission": "1ère Soumission",
+              "Budget": "0",
+              "Date de soumission": "11/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/78 « Action Contre la malnutrition et le retard de croisement dans trois pays (Sénégal, Inde, Indonésie): étude de cohorte »",
+              "Chercheur principal": "Pr Babacar Faye",
+              "Administrateur": "UCAD/FMPO",
+              "Sponsors": "Global Challenge for Research Funds (GCRF)",
+              "Soumission": "1ère Soumission",
+              "Budget": "1 830 000 000",
+              "Date de soumission": "13/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/79 « Surveillance de l'efficacité des médicaments et de l'émergence d'une résistance anthelminthique aux helminthes par le sol chez les enfants d'âge scolaire au Sénégal »",
+              "Chercheur principal": "Pr Babacar Faye",
+              "Administrateur": "UCAD/FMPO",
+              "Sponsors": "Bill and Milinda Gates",
+              "Soumission": "1ère Soumission",
+              "Budget": "10 960 202",
+              "Date de soumission": "19/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/80 « Enquête de base et de recherche formative du projet « Fort pour le Futur Améliorer la nutrition, la santé et le bien-être des adolescents à Thies, au Sénégal »",
+              "Chercheur principal": "Pr Adama FAYE",
+              "Administrateur": "ISED/UCAD",
+              "Sponsors": "Nutrition International",
+              "Soumission": "1ère Soumission",
+              "Budget": "16 341 965",
+              "Date de soumission": "22/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/81 « évaluation finale du projet intègre de nutrition dans les régions de Kolda et Kédougou (pinkk) »",
+              "Chercheur principal": "Pr. Adama FAYE",
+              "Administrateur": "ISED/UCAD",
+              "Sponsors": "Nutrition International",
+              "Soumission": "1ère Soumission",
+              "Budget": "86 292 740",
+              "Date de soumission": "22/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/82 « Exploration de la perception de la pilule contraceptive mensuelle Lyndra chez les femmes et les professionnels de santé au Sénégal »",
+              "Chercheur principal": "Dr Rigobert Kouadio",
+              "Administrateur": "Cabinet Ciblage Dakar",
+              "Sponsors": "Bill & Melinda Gates",
+              "Soumission": "1ère Soumission",
+              "Budget": "13 080 100",
+              "Date de soumission": "27/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/83 « Analyse situationnelle de la stratégie de lutte contre le cancer du col de l'utérus au Sénégal »",
+              "Chercheur principal": "Dr Ida Ndione",
+              "Administrateur": "PATH",
+              "Sponsors": "PATH",
+              "Soumission": "1ère Soumission",
+              "Budget": "6 000 000",
+              "Date de soumission": "28/11/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/84 « L'échec thérapeutique chez les enfants et adolescents vivant avec le VIH en contexte décentralisé »",
+              "Chercheur principal": "Bernard Taverne",
+              "Administrateur": "CRCF",
+              "Sponsors": "ANRS",
+              "Soumission": "1ère Soumission",
+              "Budget": "133 139 136",
+              "Date de soumission": "05/12/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/85 « Etude prospective cas-témoins multicentrique internationale d'évaluation des performances de la méthode PNEUMOSCOPE pour le diagnostic des broncho-pneumopathies aigues communautaires de l'enfant de moins de 5 ans »",
+              "Chercheur principal": "Dr Idrissa Demba BA",
+              "Administrateur": "Département Pédiatrie Centre Hospitalier Albert Royer",
+              "Sponsors": "Pr Alain Gervaix Linda Anto",
+              "Soumission": "1ère Soumission",
+              "Budget": "6 000 000",
+              "Date de soumission": "06/12/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/86 « Global youth tobacco survey (GYTS) ou Enquête mondiale sur le tabagisme chez les jeunes »",
+              "Chercheur principal": "Dr Oumar BA",
+              "Administrateur": "MSAS",
+              "Sponsors": "",
+              "Soumission": "1ère Soumission",
+              "Budget": "32 100 000",
+              "Date de soumission": "12/12/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/87 « Hybridation facteur de propagation de la schistosomiase approche intégrative pour évaluer la capacité invasive des hybrides de schistosomes sous la pression du praziquantel à Richard-Toll, Sénégal »",
+              "Chercheur principal": "Dr Bruno SENGHO",
+              "Administrateur": "IRD",
+              "Sponsors": "EDCTP",
+              "Soumission": "1ère Soumission",
+              "Budget": "97 573 603",
+              "Date de soumission": "17/12/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/88 « Optimiser les bénéfices de santé publique de la réglementation du commerce du sexe au Sénégal »",
+              "Chercheur principal": "Pr Cheikh T. NDOUR",
+              "Administrateur": "DLSI",
+              "Sponsors": "University College, London, Department of population health sciences, Center of global health economics",
+              "Soumission": "1ère Soumission",
+              "Budget": "21 000 000",
+              "Date de soumission": "23/12/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/89 « Une étude qualitative des perspectives des acteurs politiques sur l'influence des facteurs contextuels dans l'intégration des programmes de financement basé sur la performance dans les systèmes de santé du Rwanda et du Sénégal »",
+              "Chercheur principal": "Dr AMEH, George Fom",
+              "Administrateur": "Bureau Suivi Evaluation du programme de financement basé sur les résultats",
+              "Sponsors": "Dr Dorothy Hannis",
+              "Soumission": "1ère Soumission",
+              "Budget": "6 500 000",
+              "Date de soumission": "31/12/2019"
+            },
+            {
+              "Intitulé protocoles": "SEN19/90 « Etude formative sur les préférences, perceptions, connaissances, attitudes et pratiques relatives aux bouillons au Sénégal »",
+              "Chercheur principal": "Pr. Sylvain Landry Birane FAYE",
+              "Administrateur": "UCAD",
+              "Sponsors": "HKI Sénégal (Lamine GUEYE)",
+              "Soumission": "1ère Soumission",
+              "Budget": "26 420 000",
+              "Date de soumission": "31/12/2019"
+            }
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

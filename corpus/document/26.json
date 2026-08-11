@@ -1,0 +1,3848 @@
+{
+  "metadata": {
+    "titre": "Annuaire des statistiques sanitaires et sociales 2017",
+    "annee": "2017",
+    "source": "Ministère de la Santé et de l'Action sociale - République du Sénégal",
+    "type_document": "Annuaire statistique"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "PAGE DE GARDE ET PRÉFACE",
+      "texte": "RÉPUBLIQUE DU SÉNÉGALUN PEUPLE - UN BUT - UNE FOIMINISTÈRE DE LA SANTÉ ET DE L'ACTION SOCIALEAnnuaire des statistiques sanitaires et sociales 2017ANNUAIRE DES STATISTIQUES SANITAIRES ET SOCIALES DU SÉNÉGAL 2017PREFACEL'annuaire statistique du Ministère de la Santé et de l'Action sociale paraît pour la troisième année consécutive sous l'ère de l'utilisation de l'entrepôt de données sanitaires et sociales du Sénégal à travers la plateforme de gestion des données dénommée District Health Information Software, version 2 (DHIS 2).Document national de référence en matière d'information sanitaire et sociale, l'annuaire statistique renseigne sur le niveau de réalisation des prestations de services de santé, afin d'apprécier les performances des structures.L'annuaire a notamment pour vocation de fournir aux décideurs, aux acteurs de terrain, et aux partenaires techniques et financiers les principales informations nécessaires à l'analyse de la situation sanitaire et sociale du pays et de faciliter ainsi la prise de décision.Des avancées ont été notées dans la disponibilité des données. Cependant, j'invite l'ensemble des acteurs à s'investir davantage pour une meilleure complétude et une qualité renforcée des données.Dès lors, l'annuaire statistique traduira au mieux les efforts importants que fournit l'ensemble du personnel de la santé et de l'action sociale que je félicite et encourage.De même, je remercie tous les partenaires sociaux, techniques et financiers pour leur accompagnement constant dans la mise en œuvre de la politique nationale de santé et à la réalisation de ce document.M. Abdoulaye Diouf SARRMinistre de la Santé et de l'Action socialeRépublique du Sénégal",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "REMERCIEMENTS",
+      "texte": "Plusieurs personnes et institutions ont contribué à l'élaboration de cet annuaire statistique 2017. Qu'elles trouvent ici l'expression de notre gratitude.Il s'agit notamment :■ des acteurs du système de santé à tous les échelons de la pyramide sanitaire ;■ des participants aux différents ateliers de rédaction ;■ des partenaires sociaux ;■ des partenaires techniques et financiers ;■ des personnes ressources ;■ des membres de l'équipe de relecture.C'est grâce à votre engagement et aux efforts fournis dans la collecte des données, l'élaboration des rapports d'activités, la saisie et le contrôle de la qualité des données, que ce document a pu être produit et diffusé.Le directeur de la Planification, de la Recherche et des Statistiques",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Sommaire",
+      "texte": "PREFACE | 4REMERCIEMENTS | 5SIGLES ET ACRONYMES | 8INTRODUCTION | 10I. Organisation et Fonctionnement du Système de Santé | 10II. Méthodologie d'élaboration de l'annuaire | 14III. Ressources du système | 153.1 Population | 153.2 Ressources humaines | 183.3 Ressources financières | 193.4 Médicaments et produits essentiels | 243.5. Infrastructures et équipements | 273.6. Logistique | 30IV. Activités de services | 334.1. Complétude et promptitude des données issues du DHIS2 | 334.2. Données des activités curatives | 344.3. Données des activités Préventives | 514.4. Morbidité | 694.5. Mortalité dans les structures | 1844.6. Données des activités du niveau communautaire | 223V. Données des activités des hôpitaux (EPS) | 2255.1. Activités curatives des hôpitaux | 2255.2. Données des activités d'aide au diagnostic | 2295.3. Données des activités de maternité dans les hôpitaux (EPS) par région | 2335.4. Morbidité dans les hôpitaux | 2375.5. Données du Centre national de transfusion sanguine (CNTS) | 239VI. Données des programmes | 2446.1 Lutte contre le Paludisme | 2446.2. Lutte contre la tuberculose | 2476.3. Lutte contre le VIH/SIDA | 2496.4. Lutte contre la Lèpre (Programme National d'Élimination de la Lèpre) | 252VII. Données de Couverture Maladie Universelle | 253VIII. Données du Service National de l'Hygiène | 2568.1. Données de base | 2568.2. Activités SNH | 257IX. Données de l'Action Sociale | 262X. Indicateurs généraux | 26310.1 Indicateurs démographiques | 26310.2 Indicateurs de performance | 26510.2.2. Indicateurs du Paludisme | 267",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "SIGLES ET ACRONYMES",
+      "texte": "ACPP : Acteur Communautaire de Prévention et de PromotionAE : Approvisionnement en eauAEP : Approvisionnement en eau potableACS : Acteur Communautaire de Santé / Acteur Communautaire de soinsACT : Artemisinin Combination TherapyAge ND : Age Non DéterminéAMIU : Aspiration Manuelle Intra-utérineANSD : Agence Nationale de la Statistique et de la DémographieARV : Anti Rétro VirauxATB : AntibiotiqueATPC : Assainissement Total Piloté par la CommunautéATPE : Aliment Thérapeutique Prêt à l'EmploiAVC : Accident Vasculaire CérébralAVP : Accident de la Voie PubliqueBCG : Bacille de Calmette et GuérinBPH : Bonnes Pratiques d'HygièneBPHA : Bonnes Pratiques d'Hygiène des AlimentsBPP : Bonne Pratique PhytosanitaireBSF : Bourse de Sécurité FamilialeCA : Chiffre d'AffaireCAA : Complications Attendues des AccouchementsCDS : Comité de Développement SanitaireCEC : Carte d'Egalité des ChancesCM : Certificat MédicalCMU : Couverture Maladie UniverselleCNLS : Conseil National de Lutte contre le SIDACNRS : Centre National de Réadaptation SocialeCNTS : Centre National de Transfusion SanguineCPN : Consultation prénataleCPON : Consultation postnataleCPRS : Centre de Promotion et de Réinsertion socialeCREN : Centre de Récupération et d'Éducation NutritionnelleDA : Denrées AlimentairesDAGE : Direction de l'Administration Générale et de l'EquipementDGAS : Direction Générale de l'Action SocialeDHIS2 : District Health Information Software, version 2DIEM : Direction des Infrastructures, des Équipements et de la MaintenanceDIU : Dispositif Intra UtérinDLSI : Division de la Lutte contre le SIDA et les ISTDMS : Durée Moyenne de SéjourDP : Direction de la PréventionDPRS : Direction de la Planification, de la Recherche et des StatistiquesDRH : Direction des Ressources HumainesDS : District SanitaireDSDOM : Dispensateur de soins à DomicileDSISS : Division du Système d'Information Sanitaire et SocialDSME : Direction de la Santé de la Mère et de l'EnfantPENTA : Vaccin (contre Diphtérie Tétanos Coqueluche Hépatite B Haemophilus influenzae B)ECD : Equipe Cadre de DistrictECG : Electro CardiographieECR : Equipe Cadre de RégionEPS : Etablissement Public de SantéERP : Etablissement Recevant du PublicF : FémininFAR : Femmes en Age de ReproductionFCFA : Franc de la Communauté Financière AfricaineFDAL : Fin de Défécation à l'Air LibreFDS : Forces de Défense et de SécuritéGATPA : Gestion Active de la Troisième Phase de l'AccouchementGEA : Gastro entérite AigueGEU : Grossesse Extra UtérineHBP : Hypertrophie Bénigne de la ProstateHBS : Anticorps Anti HBSVIH : Virus de l'Immunodéficience HumaineHPP : Hémorragie du PostpartumHRP : Hémorragie Rétro placentaireHTA : Hypertension ArtérielleICP : Infirmier Chef de posteIHS : Institut d'Hygiène SocialeIM : Intra MusculaireINN : Infection Néo NataleIRA : Infection Respiratoire AigueIRL : Indice de Rotation des LitsISF : Indice synthétique de féconditéIST : Infection Sexuellement TransmissibleJEGESINAA : Concept wolof qui veut dire rapprocher les médicaments et produits sanitaires au niveau districtJNM : Journée Nationale de MicronutrimentsJNV : Journée Nationale de VaccinationHepB : Vaccin contre le virus de l'Hépatite BLFI : Loi de Finance InitialeLFR : Loi de Finance RectificativeM : MasculinMAM : Malnutrition Aigüe ModéréeMAMA : Méthode de l'Allaitement Maternel et de l'AménorrhéeMAO : Méthode d'Auto ObservationMAPI : Manifestation Adverse Post ImmunisationMAS : Malnutrition Aigüe SévèreMCD : Médecin Chef de DistrictMCR : Médecin Chef de RégionMDO : Maladie à Déclaration ObligatoireMEG : Médicaments Essentiels GénériquesMILDA : Moustiquaire Imprégnée à Longue Durée d'ActionMSAS : Ministère de la Santé et de l'Action socialeND : Non DisponibleODD : Objectif de Développement DurableORL : Oto-Rhino-LaryngologiePCV : Vaccin Anti Pneumococcique ConjuguéPECADOM : Prise en charge à DomicilePEV : Programme Élargi de VaccinationPF : Planification FamilialePFA : Paralysie Flasque AiguePNA : Pharmacie Nationale d'ApprovisionnementPNBSF : Programme national de bourses de sécurité familialePNDS : Plan National de Développement SanitairePNEL : Programme National d'Elimination de la LèprePNLP : Programme National de Lutte Contre le PaludismePNT : Programme National de Lutte contre la TuberculosePRA : Pharmacie Régionale d'ApprovisionnementPS : Poste de SantéPT : Population TotalePTF : Partenaires Techniques et FinanciersPTME : Prévention de la Transmission Mère/EnfantPVVIH : Personne vivant avec le VIHRGO : Reflux Gastro EsophagienRM : Région MédicaleRR : Vaccin contre la Rougeole et la RubéoleRSS : Renforcement du Système de SantéRU : Rupture UtérineSAU : Service d'Accueil et d'UrgenceSC : Sous CutanéSDAS : Service départemental de l'Action socialeSIDA : Syndrome de l'Immuno-Déficience AcquiseSISR : Système d'Information sanitaire de routineSNH : Service National de l'HygièneSNP : Surveillance Nutritionnelle et PondéraleSP : Sulfadoxine PyriméthamineSR : Santé de la ReproductionSRAJ : Santé de la Reproduction des Adolescents/JeunesSRAS : Service régional de l'Action socialeSRO : Solution de Réhydratation OraleTB : TuberculoseTBM : Taux brut de mortalitéTBN : Taux brut de natalitéTBR : Taux brut de reproductionTCE : Traumatisme Cranio-EncéphaliqueTDR : Test de Diagnostic RapideTEP : Tuberculose Extra PulmonaireTME : Transmission Mère/EnfantTNR : Taux net de reproductionTOM : Taux d'Occupation MoyenTPI : Traitement Préventif IntermittentTPM- : Tuberculose Pulmonaire à Microscopie négativeTPM+ : Tuberculose Pulmonaire à Microscopie positiveTRO : Thérapie de Réhydratation OraleUREN : Unité de Réhabilitation et d'Education NutritionnelleUREN-C : Unité de Réhabilitation et d'Education Nutritionnelle / CommunautaireUSER : Unité Suivi-Évaluation et RechercheVAA : Vaccin Anti AmarilVAT : Vaccin Anti TétaniqueVPO : Vaccin Anti Poliomyélitique Oral",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "INTRODUCTION",
+      "texte": "L'annuaire statistique du Ministère de la Santé et de l'Action sociale (MSAS) est une publication périodique de référence en matière d'information sanitaire et sociale. C'est un document d'aide à l'analyse, à la prise de décision et à la planification, car il permet aux utilisateurs d'accéder à des données statistiques complètes et de qualité.L'élaboration de l'annuaire statistique sanitaire et sociale 2017 intervient dans un contexte marqué par l'avant dernière année de mise en œuvre du Plan National de Développement Sanitaire (PNDS) 2009-2018 et le démarrage du processus de mise en œuvre des Objectifs de Développement Durable (ODD).La méthodologie d'élaboration de l'annuaire a consisté d'abord à organiser des ateliers de validation et d'audit de la qualité des données au niveau des régions médicales. Ces instances ont permis de vérifier la qualité des données disponibles dans les districts sanitaires (DS) et les Établissements publics de Santé (EPS) hospitaliers et de les valider. De même, cet annuaire a intégré les données des programmes de santé, des services de l'action sociale et celles relatives aux ressources humaines, aux médicaments, à la Couverture Maladie Universelle, à l'hygiène, aux équipements et infrastructures.En résumé, l'annuaire 2017 comprend, entre autres données statistiques, les principaux indicateurs de santé de l'année 2017, les informations sur les ressources du système de santé, ainsi que les résultats des activités réalisées au niveau des hôpitaux, des centres de santé, des postes de santé et des structures du niveau communautaire.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "I. Organisation et Fonctionnement du Système de Santé",
+      "texte": "1.1 Organisation du système de santéLe système de santé du Sénégal est organisé selon une structure pyramidale à trois niveaux :■ niveau central ;■ niveau intermédiaire ;■ niveau périphérique.Le niveau centralIl regroupe le Cabinet du Ministre, les Directions générales, les Directions nationales, les Services rattachés et les EPS de niveau 3.Le niveau intermédiaireIl est constitué des Régions médicales, des Services régionaux de l'action sociale, des brigades régionales de l'hygiène et des EPS de niveau 2. L'aire d'intervention de la région médicale correspond à celle administrative. La région médicale est chargée de la coordination, la supervision, l'inspection et du contrôle des structures sanitaires publiques et privées. Elle organise aussi la collaboration technique entre toutes les structures régionales de santé et les assiste dans leurs tâches d'administration, de gestion et de planification.Le niveau périphériqueIl est représenté par les districts sanitaires, les services départementaux de l'action sociale, les sous brigades d'hygiène et les EPS de niveau 1. Le district sanitaire couvre une zone géographique pouvant épouser les contours d'un département entier ou une partie. Il est assimilé à une zone opérationnelle comprenant au moins un centre de santé, des postes de santé qui polarisent des cases de santé et maternités rurales. Il s'y applique la santé dans son aspect multidimensionnel (préventif, curatif, social et éducatif). La figure 1 schématise l'organisation du système de santé au Sénégal.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Figure 2: Organisation du système de santé au Sénégal",
+          "description": "Schéma représentant l'organisation du système de santé au Sénégal selon une pyramide à trois niveaux. Organisation des prestations de soins et services d'un côté et Organisation administrative de l'autre, sous l'autorité du MINISTÈRE DE LA SANTÉ ET DE L'ACTION SOCIALE. NIVEAU CENTRAL: Cabinet du Ministre de la Santé et de l'Action sociale, Secrétariat Général, Directions et Services nationaux / Etablissements publics de santé (EPS) de niveau 3. NIVEAU INTERMEDIAIRE: Régions médicales, Services régionaux de l'Action sociale, Brigade régionale d'Hygiène / Etablissements publics de santé (EPS) de niveau 2. NIVEAU PÉRIPHÉRIQUE: Districts sanitaires, Services départementaux de l'Action sociale, Centres de promotion et de reinsertion sociale, Sous-brigade d'Hygiène / Etablissements publics de santé (EPS) de niveau 1, Centre de santé, Postes de santé, Cases de santé."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "1.2 Fonctionnement du système de santé",
+      "texte": "Le fonctionnement du système de santé repose sur six piliers :■ la structure organisationnelle ;■ les prestations de service ;■ les ressources humaines ;■ Le financement de la santé ;■ la gestion des médicaments et des produits essentiels ;■ le système d'information sanitaire et sociale.1.2.1. Structure organisationnelleLa gouvernance du système de santé est assurée par des gestionnaires dont les rôles et responsabilités varient selon le niveau de la pyramide sanitaire. Elle consiste à l'application des politiques sanitaires, l'allocation et l'utilisation des ressources, l'élaboration et le suivi des cadres de performances.1.2.2. Prestation de servicesL'offre de soins épouse l'architecture de la pyramide sanitaire.Au sommet, il y a les Etablissement Publics de Santé (EPS) hospitaliers de niveau 3. Au niveau intermédiaire se trouvent les EPS hospitaliers de niveau 2 communément appelés hôpitaux régionaux. Au niveau périphérique, l'offre de soins est assurée par :■ les EPS hospitaliers de niveau 1 ;■ les centres de santé ;■ les postes de santé auxquels sont rattachées les cases de santé et les maternités rurales isolées.Un paquet de services curatifs et promotionnels est assuré par un dispositif communautaire assez structuré regroupant les cases de santé et les sites communautaires.Ce schéma est complété par l'offre du secteur privé et des structures sanitaires des autres départements ministériels (Forces de Défense et de Sécurité (FDS), Éducation, Justice, etc.) à tous les échelons de la pyramide.S'agissant de la référence contre référence, elle est assurée au sommet de la pyramide par l'hôpital suivi du centre de santé et des postes de santé.En outre, d'autres prestations sont offertes par les structures d'hygiène: brigade régionale d'hygiène, sous brigade d'hygiène et les postes d'hygiène. Dans le volet de l'action sociale, l'offre est composée des Centres nationaux de Réadaptation sociale (CNRS), les Services régionaux de l'Action sociale (SRAS), les Services départementaux de l'Action sociale (SDAS) et les Centres de Promotion et de Réinsertion sociale (CPRS).Ressources humainesLe développement des ressources humaines est crucial pour l'offre de prestations en santé et action sociale. Malgré une insuffisance dans la couverture, des efforts notables ont été consentis dans le recrutement de ressources humaines de toutes les catégories professionnelles.1.2.3. Financement de la santéLes principales sources de financement sont constituées par l'État, les Comités de Développement Sanitaire (CDS), les Collectivités territoriales et les Partenaires Techniques et Financiers (PTFs).1.2.4. Gestion des médicaments et produits essentielsLa Pharmacie Nationale d'Approvisionnement (PNA) a mis en œuvre plusieurs stratégies innovantes pour rendre disponibles et accessibles géographiquement et financièrement les médicaments et produits essentiels. Il s'agit principalement du renforcement du maillage du territoire par la mise en place de onze (11) Pharmacies Régionales d'Approvisionnement (PRA) et d'un système de dépôt-vente dans le cadre de la stratégie dénommée « JEGESINAA, YEKSINAA ». Il s'y ajoute le modèle de « PRA mobile » pour les régions dépourvues de locaux abritant une PRA (Kaffrine, Sédhiou et Kédougou).1.2.5. Système d'information sanitaire et socialeLe rôle du système d'information sanitaire et sociale consiste à recueillir, stocker, analyser et évaluer la qualité des données en vue de produire et de diffuser des informations sanitaires et sociales, notamment l'annuaire des statistiques. Des données sanitaires et sociales exhaustives et de qualité permettent une bonne planification et une prise de décision. La figure 2 illustre le circuit de l'information sanitaire.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "schéma",
+          "titre": "Figure 3: Circuit de collecte de l'information sanitaire de routine",
+          "description": "Organigramme décrivant le processus de production de l'information sanitaire de routine, selon le niveau / DHIS2, les points de collecte, les acteurs et la périodicité (Mensuelle, Trimestrielle, Semestrielle, Annuelle, Hebdomadaire pour la surveillance épidémiologique). Le processus englobe la collecte des données, le dépouillement, le contrôle de la qualité, le traitement, l'analyse, la présentation, la transmission des données et le feedback, allant du niveau Communautaire (Domicile, Sites, Cases avec ACS, ACPP) au District (Poste de santé, Centre de santé avec ICP, MCD), à la Région Médicale (EPS 1, EPS 2 avec DIR) et enfin à la DPRS / Niveau central (EPS 3 avec DIR/SERV)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "II. Méthodologie d'élaboration de l'annuaire",
+      "texte": "L'annuaire statistique 2017 a été élaboré de manière inclusive et participative.Le processus a démarré par des missions d'audit de la qualité des données qui ont permis de vérifier l'exhaustivité, la cohérence et l'exactitude des données.Ensuite un atelier d'analyse de la qualité des données a été organisé par l'équipe de la DSISS et des feed-back ont été faits aux différentes régions. Après l'intégration des observations du niveau opérationnel, un second atelier a été tenu pour la validation des données avec les membres des équipes cadres de région (ECR), des équipes cadre de District (ECD) et les représentants des établissements publics de santé (EPS).Cette première étape préparatoire a été suivie de deux ateliers qui ont permis la rédaction de l'annuaire statistique 2017. Ces ateliers ont vu la participation de l'ensemble des acteurs du système de santé à tous les niveaux. Suite à la compilation des données issues des différents centres de responsabilité du ministère de la santé et de l'action sociale, une première version du document a été envoyée par voie électronique aux différents chefs de service pour relecture.Des observations et des corrections ont été apportées au document avant la tenue de l'atelier de finalisation.Remarque: Il est important de noter que la principale source de données est la plateforme DHIS2. Toutefois, dans un souci d'harmonisation et de cohérence, les données de certains programmes, services, et agences (Action Sociale, Couverture Maladie Universelle, Ressources Humaines, Vaccination, Paludisme, Tuberculose, VIH, Hygiène) proviennent des bases de données de ces entités.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "III. Ressources du système - 3.1 Population",
+      "texte": "Données démographiques et populations cibles par région pour l'année 2017 (Source: ANSD/Rapport de projection 2017).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1: Population totale par sexe et populations cibles en santé maternelle par région",
+          "colonnes": [
+            "REGIONS",
+            "Hommes",
+            "Femmes",
+            "Ensemble",
+            "Naissances attendues: PT*0,0369",
+            "CAA: PT*0,0369*0.15",
+            "FAR (15-49ans): PT*0,242"
+          ],
+          "lignes": [
+            {
+              "REGIONS": "Dakar",
+              "Hommes": "1 758 957",
+              "Femmes": "1 770 343",
+              "Ensemble": "3 529 300",
+              "Naissances attendues: PT*0,0369": "130 231",
+              "CAA: PT*0,0369*0.15": "19 535",
+              "FAR (15-49ans): PT*0,242": "854 091"
+            },
+            {
+              "REGIONS": "Diourbel",
+              "Hommes": "814 429",
+              "Femmes": "878 538",
+              "Ensemble": "1 692 967",
+              "Naissances attendues: PT*0,0369": "62 470",
+              "CAA: PT*0,0369*0.15": "9 371",
+              "FAR (15-49ans): PT*0,242": "409 698"
+            },
+            {
+              "REGIONS": "Fatick",
+              "Hommes": "403 666",
+              "Femmes": "409 876",
+              "Ensemble": "813 542",
+              "Naissances attendues: PT*0,0369": "30 020",
+              "CAA: PT*0,0369*0.15": "4 503",
+              "FAR (15-49ans): PT*0,242": "196 877"
+            },
+            {
+              "REGIONS": "Kaffrine",
+              "Hommes": "325 616",
+              "Femmes": "329 505",
+              "Ensemble": "655 121",
+              "Naissances attendues: PT*0,0369": "24 174",
+              "CAA: PT*0,0369*0.15": "3 626",
+              "FAR (15-49ans): PT*0,242": "158 539"
+            },
+            {
+              "REGIONS": "Kaolack",
+              "Hommes": "537 303",
+              "Femmes": "549 161",
+              "Ensemble": "1 086 464",
+              "Naissances attendues: PT*0,0369": "40 091",
+              "CAA: PT*0,0369*0.15": "6 014",
+              "FAR (15-49ans): PT*0,242": "262 924"
+            },
+            {
+              "REGIONS": "Kédougou",
+              "Hommes": "89 493",
+              "Femmes": "82 989",
+              "Ensemble": "172 482",
+              "Naissances attendues: PT*0,0369": "6 365",
+              "CAA: PT*0,0369*0.15": "955",
+              "FAR (15-49ans): PT*0,242": "41 741"
+            },
+            {
+              "REGIONS": "Kolda",
+              "Hommes": "378 190",
+              "Femmes": "370 261",
+              "Ensemble": "748 451",
+              "Naissances attendues: PT*0,0369": "27 618",
+              "CAA: PT*0,0369*0.15": "4 143",
+              "FAR (15-49ans): PT*0,242": "181 125"
+            },
+            {
+              "REGIONS": "Louga",
+              "Hommes": "485 632",
+              "Femmes": "491 253",
+              "Ensemble": "976 885",
+              "Naissances attendues: PT*0,0369": "36 047",
+              "CAA: PT*0,0369*0.15": "5 407",
+              "FAR (15-49ans): PT*0,242": "236 406"
+            },
+            {
+              "REGIONS": "Matam",
+              "Hommes": "323 187",
+              "Femmes": "331 794",
+              "Ensemble": "654 981",
+              "Naissances attendues: PT*0,0369": "24 169",
+              "CAA: PT*0,0369*0.15": "3 625",
+              "FAR (15-49ans): PT*0,242": "158 505"
+            },
+            {
+              "REGIONS": "Saint-louis",
+              "Hommes": "503 900",
+              "Femmes": "505 270",
+              "Ensemble": "1 009 170",
+              "Naissances attendues: PT*0,0369": "37 238",
+              "CAA: PT*0,0369*0.15": "5 586",
+              "FAR (15-49ans): PT*0,242": "244 219"
+            },
+            {
+              "REGIONS": "Sédhiou",
+              "Hommes": "261 713",
+              "Femmes": "255 303",
+              "Ensemble": "517 016",
+              "Naissances attendues: PT*0,0369": "19 078",
+              "CAA: PT*0,0369*0.15": "2 862",
+              "FAR (15-49ans): PT*0,242": "125 118"
+            },
+            {
+              "REGIONS": "Tambacounda",
+              "Hommes": "396 116",
+              "Femmes": "387 661",
+              "Ensemble": "783 777",
+              "Naissances attendues: PT*0,0369": "28 921",
+              "CAA: PT*0,0369*0.15": "4 338",
+              "FAR (15-49ans): PT*0,242": "189 674"
+            },
+            {
+              "REGIONS": "Thiès",
+              "Hommes": "999 818",
+              "Femmes": "995 219",
+              "Ensemble": "1 995 037",
+              "Naissances attendues: PT*0,0369": "73 617",
+              "CAA: PT*0,0369*0.15": "11 043",
+              "FAR (15-49ans): PT*0,242": "482 799"
+            },
+            {
+              "REGIONS": "Ziguinchor",
+              "Hommes": "318 921",
+              "Femmes": "302 247",
+              "Ensemble": "621 168",
+              "Naissances attendues: PT*0,0369": "22 921",
+              "CAA: PT*0,0369*0.15": "3 438",
+              "FAR (15-49ans): PT*0,242": "150 323"
+            },
+            {
+              "REGIONS": "Sénégal",
+              "Hommes": "7 596 941",
+              "Femmes": "7 659 420",
+              "Ensemble": "15 256 361",
+              "Naissances attendues: PT*0,0369": "562 960",
+              "CAA: PT*0,0369*0.15": "84 444",
+              "FAR (15-49ans): PT*0,242": "3 692 039"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 2: Populations cibles par programme",
+          "colonnes": [
+            "REGIONS",
+            "0-6mois: PT*0,0206",
+            "PEV (0-11mois): PT*0,0353",
+            "0-23mois: PT*0,0693",
+            "0-24 mois: PT*0,0721",
+            "6-23mois: PT*0,0517",
+            "24-59mois: PT*0,0934",
+            "36-59mois: PT*0,0604",
+            "6-11 mois: PT*0,0176",
+            "12-59 mois: PT*0,1275",
+            "JNM (6-59 mois): PT*0,1452",
+            "0-59mois: PT*0,1628",
+            "SNP (0-36 mois): PT*0,1050",
+            "JNV (0-5 ans): PT*0,1907"
+          ],
+          "lignes": [
+            {
+              "REGIONS": "Dakar",
+              "0-6mois: PT*0,0206": "72 704",
+              "PEV (0-11mois): PT*0,0353": "124 584",
+              "0-23mois: PT*0,0693": "244 580",
+              "0-24 mois: PT*0,0721": "254 463",
+              "6-23mois: PT*0,0517": "182 465",
+              "24-59mois: PT*0,0934": "329 637",
+              "36-59mois: PT*0,0604": "213 170",
+              "6-11 mois: PT*0,0176": "62 116",
+              "12-59 mois: PT*0,1275": "449 986",
+              "JNM (6-59 mois): PT*0,1452": "512 454",
+              "0-59mois: PT*0,1628": "574 570",
+              "SNP (0-36 mois): PT*0,1050": "370 577",
+              "JNV (0-5 ans): PT*0,1907": "673 038"
+            },
+            {
+              "REGIONS": "Diourbel",
+              "0-6mois: PT*0,0206": "34 875",
+              "PEV (0-11mois): PT*0,0353": "59 762",
+              "0-23mois: PT*0,0693": "117 323",
+              "0-24 mois: PT*0,0721": "122 063",
+              "6-23mois: PT*0,0517": "87 526",
+              "24-59mois: PT*0,0934": "158 123",
+              "36-59mois: PT*0,0604": "102 255",
+              "6-11 mois: PT*0,0176": "29 796",
+              "12-59 mois: PT*0,1275": "215 853",
+              "JNM (6-59 mois): PT*0,1452": "245 819",
+              "0-59mois: PT*0,1628": "275 615",
+              "SNP (0-36 mois): PT*0,1050": "177 762",
+              "JNV (0-5 ans): PT*0,1907": "322 849"
+            },
+            {
+              "REGIONS": "Fatick",
+              "0-6mois: PT*0,0206": "16 759",
+              "PEV (0-11mois): PT*0,0353": "28 718",
+              "0-23mois: PT*0,0693": "56 378",
+              "0-24 mois: PT*0,0721": "58 656",
+              "6-23mois: PT*0,0517": "42 060",
+              "24-59mois: PT*0,0934": "75 985",
+              "36-59mois: PT*0,0604": "49 138",
+              "6-11 mois: PT*0,0176": "14 318",
+              "12-59 mois: PT*0,1275": "103 727",
+              "JNM (6-59 mois): PT*0,1452": "118 126",
+              "0-59mois: PT*0,1628": "132 445",
+              "SNP (0-36 mois): PT*0,1050": "85 422",
+              "JNV (0-5 ans): PT*0,1907": "155 142"
+            },
+            {
+              "REGIONS": "Kaffrine",
+              "0-6mois: PT*0,0206": "13 495",
+              "PEV (0-11mois): PT*0,0353": "23 126",
+              "0-23mois: PT*0,0693": "45 400",
+              "0-24 mois: PT*0,0721": "47 234",
+              "6-23mois: PT*0,0517": "33 870",
+              "24-59mois: PT*0,0934": "61 188",
+              "36-59mois: PT*0,0604": "39 569",
+              "6-11 mois: PT*0,0176": "11 530",
+              "12-59 mois: PT*0,1275": "83 528",
+              "JNM (6-59 mois): PT*0,1452": "95 124",
+              "0-59mois: PT*0,1628": "106 654",
+              "SNP (0-36 mois): PT*0,1050": "68 788",
+              "JNV (0-5 ans): PT*0,1907": "124 932"
+            },
+            {
+              "REGIONS": "Kaolack",
+              "0-6mois: PT*0,0206": "22 381",
+              "PEV (0-11mois): PT*0,0353": "38 352",
+              "0-23mois: PT*0,0693": "75 292",
+              "0-24 mois: PT*0,0721": "78 334",
+              "6-23mois: PT*0,0517": "56 170",
+              "24-59mois: PT*0,0934": "101 476",
+              "36-59mois: PT*0,0604": "65 622",
+              "6-11 mois: PT*0,0176": "19 122",
+              "12-59 mois: PT*0,1275": "138 524",
+              "JNM (6-59 mois): PT*0,1452": "157 755",
+              "0-59mois: PT*0,1628": "176 876",
+              "SNP (0-36 mois): PT*0,1050": "114 079",
+              "JNV (0-5 ans): PT*0,1907": "207 189"
+            },
+            {
+              "REGIONS": "Kédougou",
+              "0-6mois: PT*0,0206": "3 553",
+              "PEV (0-11mois): PT*0,0353": "6 089",
+              "0-23mois: PT*0,0693": "11 953",
+              "0-24 mois: PT*0,0721": "12 436",
+              "6-23mois: PT*0,0517": "8 917",
+              "24-59mois: PT*0,0934": "16 110",
+              "36-59mois: PT*0,0604": "10 418",
+              "6-11 mois: PT*0,0176": "3 036",
+              "12-59 mois: PT*0,1275": "21 991",
+              "JNM (6-59 mois): PT*0,1452": "25 044",
+              "0-59mois: PT*0,1628": "28 080",
+              "SNP (0-36 mois): PT*0,1050": "18 111",
+              "JNV (0-5 ans): PT*0,1907": "32 892"
+            },
+            {
+              "REGIONS": "Kolda",
+              "0-6mois: PT*0,0206": "15 418",
+              "PEV (0-11mois): PT*0,0353": "26 420",
+              "0-23mois: PT*0,0693": "51 868",
+              "0-24 mois: PT*0,0721": "53 963",
+              "6-23mois: PT*0,0517": "38 695",
+              "24-59mois: PT*0,0934": "69 905",
+              "36-59mois: PT*0,0604": "45 206",
+              "6-11 mois: PT*0,0176": "13 173",
+              "12-59 mois: PT*0,1275": "95 428",
+              "JNM (6-59 mois): PT*0,1452": "108 675",
+              "0-59mois: PT*0,1628": "121 848",
+              "SNP (0-36 mois): PT*0,1050": "78 587",
+              "JNV (0-5 ans): PT*0,1907": "142 730"
+            },
+            {
+              "REGIONS": "Louga",
+              "0-6mois: PT*0,0206": "20 124",
+              "PEV (0-11mois): PT*0,0353": "34 484",
+              "0-23mois: PT*0,0693": "67 698",
+              "0-24 mois: PT*0,0721": "70 433",
+              "6-23mois: PT*0,0517": "50 505",
+              "24-59mois: PT*0,0934": "91 241",
+              "36-59mois: PT*0,0604": "59 004",
+              "6-11 mois: PT*0,0176": "17 193",
+              "12-59 mois: PT*0,1275": "124 553",
+              "JNM (6-59 mois): PT*0,1452": "141 844",
+              "0-59mois: PT*0,1628": "159 037",
+              "SNP (0-36 mois): PT*0,1050": "102 573",
+              "JNV (0-5 ans): PT*0,1907": "186 292"
+            },
+            {
+              "REGIONS": "Matam",
+              "0-6mois: PT*0,0206": "13 493",
+              "PEV (0-11mois): PT*0,0353": "23 121",
+              "0-23mois: PT*0,0693": "45 390",
+              "0-24 mois: PT*0,0721": "47 224",
+              "6-23mois: PT*0,0517": "33 863",
+              "24-59mois: PT*0,0934": "61 175",
+              "36-59mois: PT*0,0604": "39 561",
+              "6-11 mois: PT*0,0176": "11 528",
+              "12-59 mois: PT*0,1275": "83 510",
+              "JNM (6-59 mois): PT*0,1452": "95 103",
+              "0-59mois: PT*0,1628": "106 631",
+              "SNP (0-36 mois): PT*0,1050": "68 773",
+              "JNV (0-5 ans): PT*0,1907": "124 905"
+            },
+            {
+              "REGIONS": "Saint-Louis",
+              "0-6mois: PT*0,0206": "20 789",
+              "PEV (0-11mois): PT*0,0353": "35 624",
+              "0-23mois: PT*0,0693": "69 935",
+              "0-24 mois: PT*0,0721": "72 761",
+              "6-23mois: PT*0,0517": "52 174",
+              "24-59mois: PT*0,0934": "94 256",
+              "36-59mois: PT*0,0604": "60 954",
+              "6-11 mois: PT*0,0176": "17 761",
+              "12-59 mois: PT*0,1275": "128 669",
+              "JNM (6-59 mois): PT*0,1452": "146 531",
+              "0-59mois: PT*0,1628": "164 293",
+              "SNP (0-36 mois): PT*0,1050": "105 963",
+              "JNV (0-5 ans): PT*0,1907": "192 449"
+            },
+            {
+              "REGIONS": "Sédhiou",
+              "0-6mois: PT*0,0206": "10 651",
+              "PEV (0-11mois): PT*0,0353": "18 251",
+              "0-23mois: PT*0,0693": "35 829",
+              "0-24 mois: PT*0,0721": "37 277",
+              "6-23mois: PT*0,0517": "26 730",
+              "24-59mois: PT*0,0934": "48 289",
+              "36-59mois: PT*0,0604": "31 228",
+              "6-11 mois: PT*0,0176": "9 099",
+              "12-59 mois: PT*0,1275": "65 920",
+              "JNM (6-59 mois): PT*0,1452": "75 071",
+              "0-59mois: PT*0,1628": "84 170",
+              "SNP (0-36 mois): PT*0,1050": "54 287",
+              "JNV (0-5 ans): PT*0,1907": "98 595"
+            },
+            {
+              "REGIONS": "Tambacounda",
+              "0-6mois: PT*0,0206": "16 146",
+              "PEV (0-11mois): PT*0,0353": "27 667",
+              "0-23mois: PT*0,0693": "54 316",
+              "0-24 mois: PT*0,0721": "56 510",
+              "6-23mois: PT*0,0517": "40 521",
+              "24-59mois: PT*0,0934": "73 205",
+              "36-59mois: PT*0,0604": "47 340",
+              "6-11 mois: PT*0,0176": "13 794",
+              "12-59 mois: PT*0,1275": "99 932",
+              "JNM (6-59 mois): PT*0,1452": "113 804",
+              "0-59mois: PT*0,1628": "127 599",
+              "SNP (0-36 mois): PT*0,1050": "82 297",
+              "JNV (0-5 ans): PT*0,1907": "149 466"
+            },
+            {
+              "REGIONS": "Thiès",
+              "0-6mois: PT*0,0206": "41 098",
+              "PEV (0-11mois): PT*0,0353": "70 425",
+              "0-23mois: PT*0,0693": "138 256",
+              "0-24 mois: PT*0,0721": "143 842",
+              "6-23mois: PT*0,0517": "103 143",
+              "24-59mois: PT*0,0934": "186 336",
+              "36-59mois: PT*0,0604": "120 500",
+              "6-11 mois: PT*0,0176": "35 113",
+              "12-59 mois: PT*0,1275": "254 367",
+              "JNM (6-59 mois): PT*0,1452": "289 679",
+              "0-59mois: PT*0,1628": "324 792",
+              "SNP (0-36 mois): PT*0,1050": "209 479",
+              "JNV (0-5 ans): PT*0,1907": "380 454"
+            },
+            {
+              "REGIONS": "Ziguinchor",
+              "0-6mois: PT*0,0206": "12 796",
+              "PEV (0-11mois): PT*0,0353": "21 927",
+              "0-23mois: PT*0,0693": "43 047",
+              "0-24 mois: PT*0,0721": "44 786",
+              "6-23mois: PT*0,0517": "32 114",
+              "24-59mois: PT*0,0934": "58 017",
+              "36-59mois: PT*0,0604": "37 519",
+              "6-11 mois: PT*0,0176": "10 933",
+              "12-59 mois: PT*0,1275": "79 199",
+              "JNM (6-59 mois): PT*0,1452": "90 194",
+              "0-59mois: PT*0,1628": "101 126",
+              "SNP (0-36 mois): PT*0,1050": "65 223",
+              "JNV (0-5 ans): PT*0,1907": "118 457"
+            },
+            {
+              "REGIONS": "Sénégal",
+              "0-6mois: PT*0,0206": "314 281",
+              "PEV (0-11mois): PT*0,0353": "538 550",
+              "0-23mois: PT*0,0693": "1 057 266",
+              "0-24 mois: PT*0,0721": "1 099 984",
+              "6-23mois: PT*0,0517": "788 754",
+              "24-59mois: PT*0,0934": "1 424 944",
+              "36-59mois: PT*0,0604": "921 484",
+              "6-11 mois: PT*0,0176": "268 512",
+              "12-59 mois: PT*0,1275": "1 945 186",
+              "JNM (6-59 mois): PT*0,1452": "2 215 224",
+              "0-59mois: PT*0,1628": "2 483 736",
+              "SNP (0-36 mois): PT*0,1050": "1 601 918",
+              "JNV (0-5 ans): PT*0,1907": "2 909 388"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 3: Répartition de la population cible par programme",
+          "colonnes": [
+            "REGIONS",
+            "9 ans: PT*0,0259",
+            "JNV (moins de 14 ans): PT*0,3949",
+            "10 ans: PT*0,0253",
+            "11 ans: PT*0,0246",
+            "12 ans: PT*0,0240",
+            "13 ans: PT*0,0234",
+            "SRAJ (10-14 ans): PT*0,1293",
+            "SRAJ (15-19 ans): PT*0,1049",
+            "SRAJ (20-24 ans): PT*0,0915",
+            "3ème âge (60 ans et plus): PT*0,0550"
+          ],
+          "lignes": [
+            {
+              "REGIONS": "Dakar",
+              "9 ans: PT*0,0259": "91 409",
+              "JNV (moins de 14 ans): PT*0,3949": "1 393 721",
+              "10 ans: PT*0,0253": "89 291",
+              "11 ans: PT*0,0246": "86 821",
+              "12 ans: PT*0,0240": "84 703",
+              "13 ans: PT*0,0234": "82 586",
+              "SRAJ (10-14 ans): PT*0,1293": "456 338",
+              "SRAJ (15-19 ans): PT*0,1049": "370 224",
+              "SRAJ (20-24 ans): PT*0,0915": "322 931",
+              "3ème âge (60 ans et plus): PT*0,0550": "194 112"
+            },
+            {
+              "REGIONS": "Diourbel",
+              "9 ans: PT*0,0259": "43 848",
+              "JNV (moins de 14 ans): PT*0,3949": "668 553",
+              "10 ans: PT*0,0253": "42 832",
+              "11 ans: PT*0,0246": "41 647",
+              "12 ans: PT*0,0240": "40 631",
+              "13 ans: PT*0,0234": "39 615",
+              "SRAJ (10-14 ans): PT*0,1293": "218 901",
+              "SRAJ (15-19 ans): PT*0,1049": "177 592",
+              "SRAJ (20-24 ans): PT*0,0915": "154 906",
+              "3ème âge (60 ans et plus): PT*0,0550": "93 113"
+            },
+            {
+              "REGIONS": "Fatick",
+              "9 ans: PT*0,0259": "21 071",
+              "JNV (moins de 14 ans): PT*0,3949": "321 268",
+              "10 ans: PT*0,0253": "20 583",
+              "11 ans: PT*0,0246": "20 013",
+              "12 ans: PT*0,0240": "19 525",
+              "13 ans: PT*0,0234": "19 037",
+              "SRAJ (10-14 ans): PT*0,1293": "105 191",
+              "SRAJ (15-19 ans): PT*0,1049": "85 341",
+              "SRAJ (20-24 ans): PT*0,0915": "74 439",
+              "3ème âge (60 ans et plus): PT*0,0550": "44 745"
+            },
+            {
+              "REGIONS": "Kaffrine",
+              "9 ans: PT*0,0259": "16 968",
+              "JNV (moins de 14 ans): PT*0,3949": "258 707",
+              "10 ans: PT*0,0253": "16 575",
+              "11 ans: PT*0,0246": "16 116",
+              "12 ans: PT*0,0240": "15 723",
+              "13 ans: PT*0,0234": "15 330",
+              "SRAJ (10-14 ans): PT*0,1293": "84 707",
+              "SRAJ (15-19 ans): PT*0,1049": "68 722",
+              "SRAJ (20-24 ans): PT*0,0915": "59 944",
+              "3ème âge (60 ans et plus): PT*0,0550": "36 032"
+            },
+            {
+              "REGIONS": "Kaolack",
+              "9 ans: PT*0,0259": "28 139",
+              "JNV (moins de 14 ans): PT*0,3949": "429 045",
+              "10 ans: PT*0,0253": "27 488",
+              "11 ans: PT*0,0246": "26 727",
+              "12 ans: PT*0,0240": "26 075",
+              "13 ans: PT*0,0234": "25 423",
+              "SRAJ (10-14 ans): PT*0,1293": "140 480",
+              "SRAJ (15-19 ans): PT*0,1049": "113 970",
+              "SRAJ (20-24 ans): PT*0,0915": "99 411",
+              "3ème âge (60 ans et plus): PT*0,0550": "59 756"
+            },
+            {
+              "REGIONS": "Kédougou",
+              "9 ans: PT*0,0259": "4 467",
+              "JNV (moins de 14 ans): PT*0,3949": "68 113",
+              "10 ans: PT*0,0253": "4 364",
+              "11 ans: PT*0,0246": "4 243",
+              "12 ans: PT*0,0240": "4 140",
+              "13 ans: PT*0,0234": "4 036",
+              "SRAJ (10-14 ans): PT*0,1293": "22 302",
+              "SRAJ (15-19 ans): PT*0,1049": "18 093",
+              "SRAJ (20-24 ans): PT*0,0915": "15 782",
+              "3ème âge (60 ans et plus): PT*0,0550": "9 487"
+            },
+            {
+              "REGIONS": "Kolda",
+              "9 ans: PT*0,0259": "19 385",
+              "JNV (moins de 14 ans): PT*0,3949": "295 563",
+              "10 ans: PT*0,0253": "18 936",
+              "11 ans: PT*0,0246": "18 412",
+              "12 ans: PT*0,0240": "17 963",
+              "13 ans: PT*0,0234": "17 514",
+              "SRAJ (10-14 ans): PT*0,1293": "96 775",
+              "SRAJ (15-19 ans): PT*0,1049": "78 513",
+              "SRAJ (20-24 ans): PT*0,0915": "68 483",
+              "3ème âge (60 ans et plus): PT*0,0550": "41 165"
+            },
+            {
+              "REGIONS": "Louga",
+              "9 ans: PT*0,0259": "25 301",
+              "JNV (moins de 14 ans): PT*0,3949": "385 772",
+              "10 ans: PT*0,0253": "24 715",
+              "11 ans: PT*0,0246": "24 031",
+              "12 ans: PT*0,0240": "23 445",
+              "13 ans: PT*0,0234": "22 859",
+              "SRAJ (10-14 ans): PT*0,1293": "126 311",
+              "SRAJ (15-19 ans): PT*0,1049": "102 475",
+              "SRAJ (20-24 ans): PT*0,0915": "89 385",
+              "3ème âge (60 ans et plus): PT*0,0550": "53 729"
+            },
+            {
+              "REGIONS": "Matam",
+              "9 ans: PT*0,0259": "16 964",
+              "JNV (moins de 14 ans): PT*0,3949": "258 652",
+              "10 ans: PT*0,0253": "16 571",
+              "11 ans: PT*0,0246": "16 113",
+              "12 ans: PT*0,0240": "15 720",
+              "13 ans: PT*0,0234": "15 327",
+              "SRAJ (10-14 ans): PT*0,1293": "84 689",
+              "SRAJ (15-19 ans): PT*0,1049": "68 708",
+              "SRAJ (20-24 ans): PT*0,0915": "59 931",
+              "3ème âge (60 ans et plus): PT*0,0550": "36 024"
+            },
+            {
+              "REGIONS": "Saint-Louis",
+              "9 ans: PT*0,0259": "26 138",
+              "JNV (moins de 14 ans): PT*0,3949": "398 521",
+              "10 ans: PT*0,0253": "25 532",
+              "11 ans: PT*0,0246": "24 826",
+              "12 ans: PT*0,0240": "24 220",
+              "13 ans: PT*0,0234": "23 615",
+              "SRAJ (10-14 ans): PT*0,1293": "130 486",
+              "SRAJ (15-19 ans): PT*0,1049": "105 862",
+              "SRAJ (20-24 ans): PT*0,0915": "92 339",
+              "3ème âge (60 ans et plus): PT*0,0550": "55 504"
+            },
+            {
+              "REGIONS": "Sédhiou",
+              "9 ans: PT*0,0259": "13 391",
+              "JNV (moins de 14 ans): PT*0,3949": "204 170",
+              "10 ans: PT*0,0253": "13 081",
+              "11 ans: PT*0,0246": "12 719",
+              "12 ans: PT*0,0240": "12 408",
+              "13 ans: PT*0,0234": "12 098",
+              "SRAJ (10-14 ans): PT*0,1293": "66 850",
+              "SRAJ (15-19 ans): PT*0,1049": "54 235",
+              "SRAJ (20-24 ans): PT*0,0915": "47 307",
+              "3ème âge (60 ans et plus): PT*0,0550": "28 436"
+            },
+            {
+              "REGIONS": "Tambacounda",
+              "9 ans: PT*0,0259": "20 300",
+              "JNV (moins de 14 ans): PT*0,3949": "309 514",
+              "10 ans: PT*0,0253": "19 830",
+              "11 ans: PT*0,0246": "19 281",
+              "12 ans: PT*0,0240": "18 811",
+              "13 ans: PT*0,0234": "18 340",
+              "SRAJ (10-14 ans): PT*0,1293": "101 342",
+              "SRAJ (15-19 ans): PT*0,1049": "82 218",
+              "SRAJ (20-24 ans): PT*0,0915": "71 716",
+              "3ème âge (60 ans et plus): PT*0,0550": "43 108"
+            },
+            {
+              "REGIONS": "Thiès",
+              "9 ans: PT*0,0259": "51 671",
+              "JNV (moins de 14 ans): PT*0,3949": "787 840",
+              "10 ans: PT*0,0253": "50 474",
+              "11 ans: PT*0,0246": "49 078",
+              "12 ans: PT*0,0240": "47 881",
+              "13 ans: PT*0,0234": "46 684",
+              "SRAJ (10-14 ans): PT*0,1293": "257 958",
+              "SRAJ (15-19 ans): PT*0,209 279": "209 279",
+              "SRAJ (20-24 ans): PT*0,0915": "182 546",
+              "3ème âge (60 ans et plus): PT*0,0550": "109 727"
+            },
+            {
+              "REGIONS": "Ziguinchor",
+              "9 ans: PT*0,0259": "16 088",
+              "JNV (moins de 14 ans): PT*0,3949": "245 299",
+              "10 ans: PT*0,0253": "15 716",
+              "11 ans: PT*0,0246": "15 281",
+              "12 ans: PT*0,0240": "14 908",
+              "13 ans: PT*0,0234": "14 435",
+              "SRAJ (10-14 ans): PT*0,1293": "80 317",
+              "SRAJ (15-19 ans): PT*0,1049": "65 161",
+              "SRAJ (20-24 ans): PT*0,0915": "56 837",
+              "3ème âge (60 ans et plus): PT*0,0550": "34 164"
+            },
+            {
+              "REGIONS": "Sénégal",
+              "9 ans: PT*0,0259": "395 140",
+              "JNV (moins de 14 ans): PT*0,3949": "6 024 737",
+              "10 ans: PT*0,0253": "385 986",
+              "11 ans: PT*0,0246": "375 306",
+              "12 ans: PT*0,0240": "366 153",
+              "13 ans: PT*0,0234": "356 999",
+              "SRAJ (10-14 ans): PT*0,1293": "1 972 647",
+              "SRAJ (15-19 ans): PT*0,1049": "1 600 392",
+              "SRAJ (20-24 ans): PT*0,0915": "1 395 957",
+              "3ème âge (60 ans et plus): PT*0,0550": "839 100"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3.2 Ressources humaines",
+      "texte": "Répartition des effectifs des catégories socio-professionnelles du secteur public par région en 2017 (Source: DRH/2017).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 4: Répartition de catégories socio-professionnelles du secteur public par région",
+          "colonnes": [
+            "Catégories socio-professionnelles",
+            "Dakar",
+            "Diourbel",
+            "Fatick",
+            "Kaffrine",
+            "Kaolack",
+            "Kédougou",
+            "Kolda",
+            "Louga",
+            "Matam",
+            "Saint-Louis",
+            "Sédhiou",
+            "Tambacounda",
+            "Thiès",
+            "Ziguinchor",
+            "Sénégal"
+          ],
+          "lignes": [
+            {
+              "Catégories socio-professionnelles": "Médecin (total)",
+              "Dakar": "833",
+              "Diourbel": "114",
+              "Fatick": "34",
+              "Kaffrine": "23",
+              "Kaolack": "32",
+              "Kédougou": "12",
+              "Kolda": "20",
+              "Louga": "54",
+              "Matam": "41",
+              "Saint-Louis": "87",
+              "Sédhiou": "14",
+              "Tambacounda": "69",
+              "Thiès": "100",
+              "Ziguinchor": "77",
+              "Sénégal": "1510"
+            },
+            {
+              "Catégories socio-professionnelles": "Médecin généraliste",
+              "Dakar": "91",
+              "Diourbel": "36",
+              "Fatick": "10",
+              "Kaffrine": "8",
+              "Kaolack": "10",
+              "Kédougou": "5",
+              "Kolda": "4",
+              "Louga": "21",
+              "Matam": "14",
+              "Saint-Louis": "23",
+              "Sédhiou": "7",
+              "Tambacounda": "23",
+              "Thiès": "21",
+              "Ziguinchor": "22",
+              "Sénégal": "295"
+            },
+            {
+              "Catégories socio-professionnelles": "Gynécologue",
+              "Dakar": "65",
+              "Diourbel": "10",
+              "Fatick": "3",
+              "Kaffrine": "2",
+              "Kaolack": "2",
+              "Kédougou": "1",
+              "Kolda": "2",
+              "Louga": "3",
+              "Matam": "3",
+              "Saint-Louis": "5",
+              "Sédhiou": "0",
+              "Tambacounda": "4",
+              "Thiès": "9",
+              "Ziguinchor": "4",
+              "Sénégal": "113"
+            },
+            {
+              "Catégories socio-professionnelles": "Chirurgien généraliste",
+              "Dakar": "19",
+              "Diourbel": "4",
+              "Fatick": "1",
+              "Kaffrine": "0",
+              "Kaolack": "1",
+              "Kédougou": "1",
+              "Kolda": "1",
+              "Louga": "0",
+              "Matam": "1",
+              "Saint-Louis": "4",
+              "Sédhiou": "1",
+              "Tambacounda": "2",
+              "Thiès": "5",
+              "Ziguinchor": "1",
+              "Sénégal": "41"
+            },
+            {
+              "Catégories socio-professionnelles": "Pédiatre",
+              "Dakar": "78",
+              "Diourbel": "7",
+              "Fatick": "1",
+              "Kaffrine": "2",
+              "Kaolack": "1",
+              "Kédougou": "0",
+              "Kolda": "1",
+              "Louga": "0",
+              "Matam": "0",
+              "Saint-Louis": "4",
+              "Sédhiou": "0",
+              "Tambacounda": "2",
+              "Thiès": "6",
+              "Ziguinchor": "3",
+              "Sénégal": "105"
+            },
+            {
+              "Catégories socio-professionnelles": "Pharmacien",
+              "Dakar": "126",
+              "Diourbel": "4",
+              "Fatick": "2",
+              "Kaffrine": "0",
+              "Kaolack": "5",
+              "Kédougou": "1",
+              "Kolda": "2",
+              "Louga": "1",
+              "Matam": "0",
+              "Saint-Louis": "3",
+              "Sédhiou": "0",
+              "Tambacounda": "8",
+              "Thiès": "8",
+              "Ziguinchor": "3",
+              "Sénégal": "163"
+            },
+            {
+              "Catégories socio-professionnelles": "Sage-femme d'Etat",
+              "Dakar": "557",
+              "Diourbel": "181",
+              "Fatick": "123",
+              "Kaffrine": "120",
+              "Kaolack": "163",
+              "Kédougou": "35",
+              "Kolda": "75",
+              "Louga": "159",
+              "Matam": "102",
+              "Saint-Louis": "147",
+              "Sédhiou": "66",
+              "Tambacounda": "143",
+              "Thiès": "271",
+              "Ziguinchor": "145",
+              "Sénégal": "2287"
+            },
+            {
+              "Catégories socio-professionnelles": "Infirmier d'Etat",
+              "Dakar": "722",
+              "Diourbel": "120",
+              "Fatick": "82",
+              "Kaffrine": "62",
+              "Kaolack": "97",
+              "Kédougou": "35",
+              "Kolda": "59",
+              "Louga": "128",
+              "Matam": "79",
+              "Saint-Louis": "97",
+              "Sédhiou": "24",
+              "Tambacounda": "118",
+              "Thiès": "234",
+              "Ziguinchor": "133",
+              "Sénégal": "1990"
+            },
+            {
+              "Catégories socio-professionnelles": "Assistant Infirmier",
+              "Dakar": "318",
+              "Diourbel": "104",
+              "Fatick": "67",
+              "Kaffrine": "88",
+              "Kaolack": "107",
+              "Kédougou": "20",
+              "Kolda": "69",
+              "Louga": "65",
+              "Matam": "84",
+              "Saint-Louis": "132",
+              "Sédhiou": "54",
+              "Tambacounda": "125",
+              "Thiès": "152",
+              "Ziguinchor": "145",
+              "Sénégal": "1530"
+            },
+            {
+              "Catégories socio-professionnelles": "Aide infirmier",
+              "Dakar": "847",
+              "Diourbel": "149",
+              "Fatick": "45",
+              "Kaffrine": "6",
+              "Kaolack": "96",
+              "Kédougou": "1",
+              "Kolda": "10",
+              "Louga": "56",
+              "Matam": "20",
+              "Saint-Louis": "82",
+              "Sédhiou": "6",
+              "Tambacounda": "114",
+              "Thiès": "162",
+              "Ziguinchor": "19",
+              "Sénégal": "1613"
+            },
+            {
+              "Catégories socio-professionnelles": "Technicien supérieur Administration-Enseignement",
+              "Dakar": "118",
+              "Diourbel": "10",
+              "Fatick": "6",
+              "Kaffrine": "6",
+              "Kaolack": "13",
+              "Kédougou": "2",
+              "Kolda": "3",
+              "Louga": "9",
+              "Matam": "2",
+              "Saint-Louis": "11",
+              "Sédhiou": "0",
+              "Tambacounda": "6",
+              "Thiès": "18",
+              "Ziguinchor": "8",
+              "Sénégal": "212"
+            },
+            {
+              "Catégories socio-professionnelles": "Technicien supérieur Odontologie",
+              "Dakar": "34",
+              "Diourbel": "5",
+              "Fatick": "4",
+              "Kaffrine": "0",
+              "Kaolack": "5",
+              "Kédougou": "1",
+              "Kolda": "1",
+              "Louga": "4",
+              "Matam": "6",
+              "Saint-Louis": "5",
+              "Sédhiou": "1",
+              "Tambacounda": "4",
+              "Thiès": "14",
+              "Ziguinchor": "3",
+              "Sénégal": "87"
+            },
+            {
+              "Catégories socio-professionnelles": "Technicien supérieur Anesthésie-Réanimation",
+              "Dakar": "67",
+              "Diourbel": "11",
+              "Fatick": "4",
+              "Kaffrine": "4",
+              "Kaolack": "5",
+              "Kédougou": "1",
+              "Kolda": "4",
+              "Louga": "5",
+              "Matam": "4",
+              "Saint-Louis": "7",
+              "Sédhiou": "0",
+              "Tambacounda": "7",
+              "Thiès": "12",
+              "Ziguinchor": "5",
+              "Sénégal": "136"
+            },
+            {
+              "Catégories socio-professionnelles": "Technicien supérieur Ophtalmologie",
+              "Dakar": "46",
+              "Diourbel": "7",
+              "Fatick": "5",
+              "Kaffrine": "2",
+              "Kaolack": "6",
+              "Kédougou": "2",
+              "Kolda": "5",
+              "Louga": "9",
+              "Matam": "2",
+              "Saint-Louis": "3",
+              "Sédhiou": "1",
+              "Tambacounda": "8",
+              "Thiès": "15",
+              "Ziguinchor": "5",
+              "Sénégal": "116"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3.3 Ressources financières",
+      "texte": "Données financières du Ministère de la Santé et de l'Action sociale, recettes et dépenses par région pour l'année 2017.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 5: Synthèse du budget MSAS 2017",
+          "colonnes": [
+            "Rubriques",
+            "LFI 2017 - Montants alloués (FCFA)",
+            "LFI 2017 - Part du budget (%)",
+            "LFR 2017 - Virements de crédits",
+            "LFR 2017 - Reports de crédits",
+            "LFR 2017 - Montants alloués (FCFA)",
+            "LFR 2017 - Part du budget (%)"
+          ],
+          "lignes": [
+            {
+              "Rubriques": "Dépenses de personnel",
+              "LFI 2017 - Montants alloués (FCFA)": "36 174 009 000",
+              "LFI 2017 - Part du budget (%)": "22",
+              "LFR 2017 - Virements de crédits": "0",
+              "LFR 2017 - Reports de crédits": "0",
+              "LFR 2017 - Montants alloués (FCFA)": "36 174 009 000",
+              "LFR 2017 - Part du budget (%)": "24"
+            },
+            {
+              "Rubriques": "Dépenses de fonctionnement",
+              "LFI 2017 - Montants alloués (FCFA)": "7 675 537 000",
+              "LFI 2017 - Part du budget (%)": "5",
+              "LFR 2017 - Virements de crédits": "2 579 662 427",
+              "LFR 2017 - Reports de crédits": "0",
+              "LFR 2017 - Montants alloués (FCFA)": "10 255 199 427",
+              "LFR 2017 - Part du budget (%)": "7"
+            },
+            {
+              "Rubriques": "Transferts courants",
+              "LFI 2017 - Montants alloués (FCFA)": "39 265 805 000",
+              "LFI 2017 - Part du budget (%)": "24",
+              "LFR 2017 - Virements de crédits": "-142 193 000",
+              "LFR 2017 - Reports de crédits": "0",
+              "LFR 2017 - Montants alloués (FCFA)": "39 123 612 000",
+              "LFR 2017 - Part du budget (%)": "26"
+            },
+            {
+              "Rubriques": "Investissements exécutés par l'État - Financement intérieur",
+              "LFI 2017 - Montants alloués (FCFA)": "33 387 000 000",
+              "LFI 2017 - Part du budget (%)": "20",
+              "LFR 2017 - Virements de crédits": "-16 376 946 729",
+              "LFR 2017 - Reports de crédits": "677 175 698",
+              "LFR 2017 - Montants alloués (FCFA)": "17 687 228 969",
+              "LFR 2017 - Part du budget (%)": "12"
+            },
+            {
+              "Rubriques": "Investissements exécutés par l'État - Financement extérieur",
+              "LFI 2017 - Montants alloués (FCFA)": "37 755 000 000",
+              "LFI 2017 - Part du budget (%)": "23",
+              "LFR 2017 - Virements de crédits": "0",
+              "LFR 2017 - Reports de crédits": "0",
+              "LFR 2017 - Montants alloués (FCFA)": "37 755 000 000",
+              "LFR 2017 - Part du budget (%)": "25"
+            },
+            {
+              "Rubriques": "Transferts en capital",
+              "LFI 2017 - Montants alloués (FCFA)": "9 265 000 000",
+              "LFI 2017 - Part du budget (%)": "6",
+              "LFR 2017 - Virements de crédits": "-1 774 431 214",
+              "LFR 2017 - Reports de crédits": "0",
+              "LFR 2017 - Montants alloués (FCFA)": "7 490 568 786",
+              "LFR 2017 - Part du budget (%)": "5"
+            },
+            {
+              "Rubriques": "Total budget MSAS",
+              "LFI 2017 - Montants alloués (FCFA)": "163 522 351 000",
+              "LFI 2017 - Part du budget (%)": "100",
+              "LFR 2017 - Virements de crédits": "0",
+              "LFR 2017 - Reports de crédits": "0",
+              "LFR 2017 - Montants alloués (FCFA)": "148 485 618 182",
+              "LFR 2017 - Part du budget (%)": "100"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 6a: Bilan des recettes par région (FCFA) - Partie 1",
+          "colonnes": [
+            "Recettes",
+            "Dakar",
+            "Diourbel",
+            "Fatick",
+            "Kaffrine",
+            "Kaolack",
+            "Kédougou",
+            "Kolda",
+            "Louga"
+          ],
+          "lignes": [
+            {
+              "Recettes": "Accouchements",
+              "Dakar": "368 424 525",
+              "Diourbel": "118 344 550",
+              "Fatick": "28 810 935",
+              "Kaffrine": "33 209 239",
+              "Kaolack": "43 332 215",
+              "Kédougou": "209 600",
+              "Kolda": "36 000",
+              "Louga": "25 847 064"
+            },
+            {
+              "Recettes": "Consultation adultes",
+              "Dakar": "561 756 190",
+              "Diourbel": "126 131 540",
+              "Fatick": "176 787 943",
+              "Kaffrine": "129 441 057",
+              "Kaolack": "62 007 770",
+              "Kédougou": "77 612 775",
+              "Kolda": "21 934 580",
+              "Louga": "73 881 771"
+            },
+            {
+              "Recettes": "Consultation enfants malades",
+              "Dakar": "43 012 543",
+              "Diourbel": "71 087 510",
+              "Fatick": "19 524 328",
+              "Kaffrine": "24 877 760",
+              "Kaolack": "12 354 600",
+              "Kédougou": "3 669 450",
+              "Kolda": "4 441 590",
+              "Louga": "21 901 295"
+            },
+            {
+              "Recettes": "Consultation enfants sains",
+              "Dakar": "5 318 564",
+              "Diourbel": "2 220 500",
+              "Fatick": "2 306 211",
+              "Kaffrine": "636 105",
+              "Kaolack": "3 949 000",
+              "Kédougou": "84 600",
+              "Kolda": "54 700",
+              "Louga": "3 465 195"
+            },
+            {
+              "Recettes": "Consultation prénatales",
+              "Dakar": "191 265 502",
+              "Diourbel": "85 517 285",
+              "Fatick": "29 462 359",
+              "Kaffrine": "36 731 880",
+              "Kaolack": "35 975 409",
+              "Kédougou": "8 452 475",
+              "Kolda": "10 044 934",
+              "Louga": "32 278 665"
+            },
+            {
+              "Recettes": "Hospitalisation",
+              "Dakar": "76 119 935",
+              "Diourbel": "48 700 850",
+              "Fatick": "11 662 958",
+              "Kaffrine": "12 513 000",
+              "Kaolack": "10 233 140",
+              "Kédougou": "5 834 850",
+              "Kolda": "1 796 600",
+              "Louga": "12 832 150"
+            },
+            {
+              "Recettes": "Laboratoire",
+              "Dakar": "707 757 920",
+              "Diourbel": "59 956 152",
+              "Fatick": "14 110 054",
+              "Kaffrine": "16 467 301",
+              "Kaolack": "19 397 940",
+              "Kédougou": "39 782 050",
+              "Kolda": "1 525 650",
+              "Louga": "45 085 295"
+            },
+            {
+              "Recettes": "Médicaments",
+              "Dakar": "1 106 441 629",
+              "Diourbel": "548 046 569",
+              "Fatick": "190 934 246",
+              "Kaffrine": "323 403 667",
+              "Kaolack": "442 165 903",
+              "Kédougou": "194 719 210",
+              "Kolda": "206 807 465",
+              "Louga": "428 241 996"
+            },
+            {
+              "Recettes": "Pansement/injection",
+              "Dakar": "37 277 751",
+              "Diourbel": "7 775 394",
+              "Fatick": "3 289 445",
+              "Kaffrine": "2 409 620",
+              "Kaolack": "2 600 599",
+              "Kédougou": "1 245 490",
+              "Kolda": "229 060",
+              "Louga": "3 489 596"
+            },
+            {
+              "Recettes": "Planification familiale",
+              "Dakar": "110 830 548",
+              "Diourbel": "25 385 746",
+              "Fatick": "9 574 836",
+              "Kaffrine": "6 639 113",
+              "Kaolack": "10 665 235",
+              "Kédougou": "4 119 505",
+              "Kolda": "4 083 906",
+              "Louga": "8 151 298"
+            },
+            {
+              "Recettes": "Autres recettes",
+              "Dakar": "1 178 574 677",
+              "Diourbel": "161 967 193",
+              "Fatick": "108 506 693",
+              "Kaffrine": "50 093 000",
+              "Kaolack": "104 064 010",
+              "Kédougou": "24 449 238",
+              "Kolda": "29 545 090",
+              "Louga": "103 713 832"
+            },
+            {
+              "Recettes": "Total recettes",
+              "Dakar": "4 386 779 784",
+              "Diourbel": "1 255 133 289",
+              "Fatick": "594 970 008",
+              "Kaffrine": "636 421 742",
+              "Kaolack": "746 745 821",
+              "Kédougou": "360 179 243",
+              "Kolda": "280 499 575",
+              "Louga": "758 888 157"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 6b: Bilan des recettes par région (FCFA) - Partie 2",
+          "colonnes": [
+            "Recettes",
+            "Matam",
+            "Saint-Louis",
+            "Sédhiou",
+            "Tambacounda",
+            "Thiès",
+            "Ziguinchor",
+            "Sénégal"
+          ],
+          "lignes": [
+            {
+              "Recettes": "Accouchements",
+              "Matam": "17 595 856",
+              "Saint-Louis": "50 230 550",
+              "Sédhiou": "3 194 850",
+              "Tambacounda": "1 085 809",
+              "Thiès": "126 839 250",
+              "Ziguinchor": "6 878 500",
+              "Sénégal": "337 269 868"
+            },
+            {
+              "Recettes": "Consultation adultes",
+              "Matam": "34 659 634",
+              "Saint-Louis": "90 563 057",
+              "Sédhiou": "22 963 989",
+              "Tambacounda": "44 971 937",
+              "Thiès": "133 511 461",
+              "Ziguinchor": "134 214 700",
+              "Sénégal": "1 002 550 674"
+            },
+            {
+              "Recettes": "Consultation enfants malades",
+              "Matam": "3 350 459",
+              "Saint-Louis": "29 921 280",
+              "Sédhiou": "5 702 414",
+              "Tambacounda": "9 825 420",
+              "Thiès": "39 312 960",
+              "Ziguinchor": "8 738 054",
+              "Sénégal": "183 619 610"
+            },
+            {
+              "Recettes": "Consultation enfants sains",
+              "Matam": "238 900",
+              "Saint-Louis": "36 602 185",
+              "Sédhiou": "34 302 864",
+              "Tambacounda": "1 513 700",
+              "Thiès": "9 740 167",
+              "Ziguinchor": "876 828",
+              "Sénégal": "93 770 455"
+            },
+            {
+              "Recettes": "Consultation prénatales",
+              "Matam": "16 118 050",
+              "Saint-Louis": "56 700 802",
+              "Sédhiou": "12 506 815",
+              "Tambacounda": "16 639 241",
+              "Thiès": "87 143 938",
+              "Ziguinchor": "17 156 080",
+              "Sénégal": "359 210 648"
+            },
+            {
+              "Recettes": "Hospitalisation",
+              "Matam": "2 922 800",
+              "Saint-Louis": "11 695 100",
+              "Sédhiou": "4 632 600",
+              "Tambacounda": "9 474 950",
+              "Thiès": "34 208 413",
+              "Ziguinchor": "21 812 295",
+              "Sénégal": "139 618 856"
+            },
+            {
+              "Recettes": "Laboratoire",
+              "Matam": "4 350 770",
+              "Saint-Louis": "133 077 033",
+              "Sédhiou": "15 071 240",
+              "Tambacounda": "6 491 200",
+              "Thiès": "124 453 520",
+              "Ziguinchor": "121 747 465",
+              "Sénégal": "541 559 518"
+            },
+            {
+              "Recettes": "Médicaments",
+              "Matam": "309 334 177",
+              "Saint-Louis": "635 445 233",
+              "Sédhiou": "231 092 340",
+              "Tambacounda": "563 998 071",
+              "Thiès": "1 038 940 423",
+              "Ziguinchor": "373 396 448",
+              "Sénégal": "4 938 479 179"
+            },
+            {
+              "Recettes": "Pansement/injection",
+              "Matam": "1 408 800",
+              "Saint-Louis": "3 707 780",
+              "Sédhiou": "833 859",
+              "Tambacounda": "1 526 090",
+              "Thiès": "13 161 819",
+              "Ziguinchor": "6 613 755",
+              "Sénégal": "40 515 913"
+            },
+            {
+              "Recettes": "Planification familiale",
+              "Matam": "1 783 375",
+              "Saint-Louis": "25 412 391",
+              "Sédhiou": "3 065 860",
+              "Tambacounda": "4 286 639",
+              "Thiès": "38 189 060",
+              "Ziguinchor": "11 982 155",
+              "Sénégal": "127 953 373"
+            },
+            {
+              "Recettes": "Autres recettes à préciser",
+              "Matam": "29 001 721",
+              "Saint-Louis": "184 468 541",
+              "Sédhiou": "36 788 649",
+              "Tambacounda": "36 237 327",
+              "Thiès": "382 600 702",
+              "Ziguinchor": "86 042 589",
+              "Sénégal": "1 175 511 392"
+            },
+            {
+              "Recettes": "Total recettes",
+              "Matam": "420 764 542",
+              "Saint-Louis": "1 257 823 952",
+              "Sédhiou": "370 155 480",
+              "Tambacounda": "696 050 384",
+              "Thiès": "2 028 101 713",
+              "Ziguinchor": "789 458 869",
+              "Sénégal": "8 940 059 486"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 7a: Bilan des dépenses par région (FCFA) - Partie 1",
+          "colonnes": [
+            "Dépenses",
+            "Dakar",
+            "Diourbel",
+            "Fatick",
+            "Kaffrine",
+            "Kaolack",
+            "Kédougou",
+            "Kolda",
+            "Louga"
+          ],
+          "lignes": [
+            {
+              "Dépenses": "Electricité/lampe/pétrole",
+              "Dakar": "23 677 917",
+              "Diourbel": "18 561 436",
+              "Fatick": "12 064 558",
+              "Kaffrine": "7 330 133",
+              "Kaolack": "5 699 364",
+              "Kédougou": "6 875 650",
+              "Kolda": "5 902 528",
+              "Louga": "7 466 795"
+            },
+            {
+              "Dépenses": "Frais bancaires",
+              "Dakar": "7 140 693",
+              "Diourbel": "4 196 614",
+              "Fatick": "1 233 395",
+              "Kaffrine": "1 982 358",
+              "Kaolack": "1 019 480",
+              "Kédougou": "395 525",
+              "Kolda": "561 776",
+              "Louga": "2 103 770"
+            },
+            {
+              "Dépenses": "Frais/achat eau",
+              "Dakar": "15 428 571",
+              "Diourbel": "5 426 601",
+              "Fatick": "3 145 780",
+              "Kaffrine": "2 832 499",
+              "Kaolack": "2 808 780",
+              "Kédougou": "520 000",
+              "Kolda": "1 189 437",
+              "Louga": "3 187 146"
+            },
+            {
+              "Dépenses": "Indemnités dépositaires",
+              "Dakar": "260 179 973",
+              "Diourbel": "64 938 467",
+              "Fatick": "76 939 934",
+              "Kaffrine": "61 986 390",
+              "Kaolack": "29 406 830",
+              "Kédougou": "10 649 464",
+              "Kolda": "22 598 649",
+              "Louga": "34 967 614"
+            },
+            {
+              "Dépenses": "Indemnités vendeurs de ticket",
+              "Dakar": "253 593 606",
+              "Diourbel": "162 348 742",
+              "Fatick": "40 747 140",
+              "Kaffrine": "20 590 653",
+              "Kaolack": "40 117 616",
+              "Kédougou": "7 430 263",
+              "Kolda": "11 964 144",
+              "Louga": "62 234 757"
+            },
+            {
+              "Dépenses": "Investissements",
+              "Dakar": "357 320 385",
+              "Diourbel": "89 624 567",
+              "Fatick": "34 817 743",
+              "Kaffrine": "41 400 436",
+              "Kaolack": "52 945 318",
+              "Kédougou": "23 696 950",
+              "Kolda": "13 330 312",
+              "Louga": "62 256 520"
+            },
+            {
+              "Dépenses": "Maintenance chaine de froid",
+              "Dakar": "6 366 080",
+              "Diourbel": "1 127 949",
+              "Fatick": "1 128 986",
+              "Kaffrine": "516 705",
+              "Kaolack": "829 455",
+              "Kédougou": "167 000",
+              "Kolda": "844 800",
+              "Louga": "1 107 050"
+            },
+            {
+              "Dépenses": "Maintenance locaux",
+              "Dakar": "105 476 767",
+              "Diourbel": "25 351 167",
+              "Fatick": "15 314 196",
+              "Kaffrine": "15 965 244",
+              "Kaolack": "25 824 890",
+              "Kédougou": "4 040 640",
+              "Kolda": "13 301 908",
+              "Louga": "17 106 405"
+            },
+            {
+              "Dépenses": "Maintenance logistique",
+              "Dakar": "10 119 413",
+              "Diourbel": "6 652 672",
+              "Fatick": "6 625 480",
+              "Kaffrine": "10 349 070",
+              "Kaolack": "12 087 657",
+              "Kédougou": "2 326 900",
+              "Kolda": "6 682 615",
+              "Louga": "7 052 465"
+            },
+            {
+              "Dépenses": "Médicaments",
+              "Dakar": "752 907 707",
+              "Diourbel": "297 484 632",
+              "Fatick": "191 377 261",
+              "Kaffrine": "251 135 520",
+              "Kaolack": "277 756 138",
+              "Kédougou": "102 840 689",
+              "Kolda": "90 478 897",
+              "Louga": "263 776 189"
+            },
+            {
+              "Dépenses": "Outils de gestion",
+              "Dakar": "91 442 918",
+              "Diourbel": "32 327 479",
+              "Fatick": "17 771 263",
+              "Kaffrine": "12 354 353",
+              "Kaolack": "20 437 474",
+              "Kédougou": "5 383 722",
+              "Kolda": "9 513 566",
+              "Louga": "15 302 037"
+            },
+            {
+              "Dépenses": "Achat gaz",
+              "Dakar": "10 510 685",
+              "Diourbel": "4 169 043",
+              "Fatick": "4 182 580",
+              "Kaffrine": "3 325 546",
+              "Kaolack": "2 522 255",
+              "Kédougou": "2 816 100",
+              "Kolda": "3 464 250",
+              "Louga": "2 377 912"
+            },
+            {
+              "Dépenses": "Caisse de solidarité",
+              "Dakar": "61 453 350",
+              "Diourbel": "13 731 941",
+              "Fatick": "7 717 641",
+              "Kaffrine": "5 717 338",
+              "Kaolack": "5 219 388",
+              "Kédougou": "1 913 105",
+              "Kolda": "4 204 895",
+              "Louga": "8 395 319"
+            },
+            {
+              "Dépenses": "Carburant liaison",
+              "Dakar": "39 882 414",
+              "Diourbel": "17 188 485",
+              "Fatick": "10 535 700",
+              "Kaffrine": "13 244 982",
+              "Kaolack": "10 565 035",
+              "Kédougou": "3 680 550",
+              "Kolda": "5 864 512",
+              "Louga": "13 028 545"
+            },
+            {
+              "Dépenses": "Carburant stratégie avancée",
+              "Dakar": "20 368 939",
+              "Diourbel": "13 374 141",
+              "Fatick": "7 170 572",
+              "Kaffrine": "13 545 913",
+              "Kaolack": "7 263 550",
+              "Kédougou": "2 117 550",
+              "Kolda": "6 635 660",
+              "Louga": "9 086 325"
+            },
+            {
+              "Dépenses": "Autres à préciser",
+              "Dakar": "2 100 915 562",
+              "Diourbel": "359 880 488",
+              "Fatick": "172 547 812",
+              "Kaffrine": "139 985 917",
+              "Kaolack": "223 050 400",
+              "Kédougou": "40 537 275",
+              "Kolda": "50 340 548",
+              "Louga": "227 680 909"
+            },
+            {
+              "Dépenses": "Total dépenses",
+              "Dakar": "4 116 784 980",
+              "Diourbel": "1 116 384 424",
+              "Fatick": "603 320 041",
+              "Kaffrine": "602 263 057",
+              "Kaolack": "717 553 630",
+              "Kédougou": "215 391 383",
+              "Kolda": "246 878 497",
+              "Louga": "737 129 758"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 7b: Bilan des dépenses par région (FCFA) - Partie 2",
+          "colonnes": [
+            "Dépenses",
+            "Matam",
+            "Saint-Louis",
+            "Sédhiou",
+            "Tambacounda",
+            "Thiès",
+            "Ziguinchor",
+            "SENEGAL"
+          ],
+          "lignes": [
+            {
+              "Dépenses": "Electricité/lampe/pétrole",
+              "Matam": "3 439 738",
+              "Saint-Louis": "12 182 683",
+              "Sédhiou": "8 779 185",
+              "Tambacounda": "7 845 655",
+              "Thiès": "23 009 385",
+              "Ziguinchor": "16 425 447",
+              "SENEGAL": "117 021 121"
+            },
+            {
+              "Dépenses": "Frais bancaire",
+              "Matam": "203 300",
+              "Saint-Louis": "1 424 981",
+              "Sédhiou": "1 377 675",
+              "Tambacounda": "3 155 750",
+              "Thiès": "6 877 732",
+              "Ziguinchor": "800 773",
+              "SENEGAL": "21 136 515"
+            },
+            {
+              "Dépenses": "Frais/achat eau",
+              "Matam": "2 435 727",
+              "Saint-Louis": "5 564 621",
+              "Sédhiou": "825 065",
+              "Tambacounda": "3 201 251",
+              "Thiès": "10 712 673",
+              "Ziguinchor": "4 913 877",
+              "SENEGAL": "41 336 856"
+            },
+            {
+              "Dépenses": "Indemnités dépositaires",
+              "Matam": "33 921 537",
+              "Saint-Louis": "125 686 810",
+              "Sédhiou": "26 179 834",
+              "Tambacounda": "26 198 563",
+              "Thiès": "174 353 571",
+              "Ziguinchor": "53 787 661",
+              "SENEGAL": "676 676 857"
+            },
+            {
+              "Dépenses": "Indemnités vendeurs tickets",
+              "Matam": "19 688 203",
+              "Saint-Louis": "154 527 485",
+              "Sédhiou": "10 657 177",
+              "Tambacounda": "11 317 720",
+              "Thiès": "100 174 483",
+              "Ziguinchor": "48 131 887",
+              "SENEGAL": "527 581 528"
+            },
+            {
+              "Dépenses": "Investissement",
+              "Matam": "20 390 315",
+              "Saint-Louis": "75 028 363",
+              "Sédhiou": "28 078 359",
+              "Tambacounda": "50 907 537",
+              "Thiès": "148 802 719",
+              "Ziguinchor": "36 522 975",
+              "SENEGAL": "588 177 547"
+            },
+            {
+              "Dépenses": "Maintenance chaine de froid",
+              "Matam": "1 049 350",
+              "Saint-Louis": "885 600",
+              "Sédhiou": "388 500",
+              "Tambacounda": "1 344 980",
+              "Thiès": "2 363 430",
+              "Ziguinchor": "1 451 130",
+              "SENEGAL": "12 076 986"
+            },
+            {
+              "Dépenses": "Maintenance des locaux",
+              "Matam": "11 643 995",
+              "Saint-Louis": "38 569 855",
+              "Sédhiou": "9 942 279",
+              "Tambacounda": "14 416 165",
+              "Thiès": "492 547 245",
+              "Ziguinchor": "18 691 382",
+              "SENEGAL": "677 364 204"
+            },
+            {
+              "Dépenses": "Maintenance logistique",
+              "Matam": "4 545 550",
+              "Saint-Louis": "10 432 709",
+              "Sédhiou": "3 614 307",
+              "Tambacounda": "5 251 120",
+              "Thiès": "14 917 443",
+              "Ziguinchor": "6 919 575",
+              "SENEGAL": "90 804 891"
+            },
+            {
+              "Dépenses": "Médicaments",
+              "Matam": "212 039 324",
+              "Saint-Louis": "371 687 870",
+              "Sédhiou": "263 345 195",
+              "Tambacounda": "310 262 632",
+              "Thiès": "618 008 321",
+              "Ziguinchor": "257 200 371",
+              "SENEGAL": "3 209 908 407"
+            },
+            {
+              "Dépenses": "Outils de gestion",
+              "Matam": "10 728 067",
+              "Saint-Louis": "40 302 057",
+              "Sédhiou": "10 138 848",
+              "Tambacounda": "10 037 058",
+              "Thiès": "45 690 275",
+              "Ziguinchor": "25 146 809",
+              "SENEGAL": "222 805 529"
+            },
+            {
+              "Dépenses": "Achat gaz/électricité",
+              "Matam": "1 585 589",
+              "Saint-Louis": "3 027 000",
+              "Sédhiou": "3 428 415",
+              "Tambacounda": "7 265 735",
+              "Thiès": "6 524 330",
+              "Ziguinchor": "5 460 060",
+              "SENEGAL": "45 979 772"
+            },
+            {
+              "Dépenses": "Caisse de solidarité",
+              "Matam": "2 360 870",
+              "Saint-Louis": "22 295 029",
+              "Sédhiou": "2 323 890",
+              "Tambacounda": "7 036 415",
+              "Thiès": "30 252 459",
+              "Ziguinchor": "3 015 514",
+              "SENEGAL": "100 863 709"
+            },
+            {
+              "Dépenses": "Carburant liaison district",
+              "Matam": "6 199 489",
+              "Saint-Louis": "13 691 192",
+              "Sédhiou": "5 905 200",
+              "Tambacounda": "6 961 122",
+              "Thiès": "29 678 697",
+              "Ziguinchor": "9 715 685",
+              "SENEGAL": "129 070 451"
+            },
+            {
+              "Dépenses": "Carburant stratégie avancée",
+              "Matam": "3 781 170",
+              "Saint-Louis": "13 860 981",
+              "Sédhiou": "7 417 010",
+              "Tambacounda": "7 815 410",
+              "Thiès": "18 986 402",
+              "Ziguinchor": "8 378 660",
+              "SENEGAL": "106 059 203"
+            },
+            {
+              "Dépenses": "Autres dépenses",
+              "Matam": "86 353 759",
+              "Saint-Louis": "262 745 832",
+              "Sédhiou": "53 873 694",
+              "Tambacounda": "137 734 662",
+              "Thiès": "651 323 042",
+              "Ziguinchor": "161 621 270",
+              "SENEGAL": "2 207 795 120"
+            },
+            {
+              "Dépenses": "Total dépenses",
+              "Matam": "420 365 983",
+              "Saint-Louis": "1 151 913 068",
+              "Sédhiou": "436 274 633",
+              "Tambacounda": "610 751 775",
+              "Thiès": "2 374 222 207",
+              "Ziguinchor": "658 183 076",
+              "SENEGAL": "8 774 247 108"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 8: Résumé du bilan financier (FCFA)",
+          "colonnes": [
+            "Rubriques",
+            "Solde antérieur",
+            "Total recettes",
+            "Total dépenses",
+            "Disponible fin d'année"
+          ],
+          "lignes": [
+            {
+              "Rubriques": "Dakar",
+              "Solde antérieur": "195 727 908",
+              "Total recettes": "4 386 779 784",
+              "Total dépenses": "4 116 784 980",
+              "Disponible fin d'année": "465 722 712"
+            },
+            {
+              "Rubriques": "Diourbel",
+              "Solde antérieur": "122 007 996",
+              "Total recettes": "1 255 133 289",
+              "Total dépenses": "1 116 384 424",
+              "Disponible fin d'année": "260 756 861"
+            },
+            {
+              "Rubriques": "Fatick",
+              "Solde antérieur": "122 321 136",
+              "Total recettes": "594 970 008",
+              "Total dépenses": "603 320 041",
+              "Disponible fin d'année": "113 971 103"
+            },
+            {
+              "Rubriques": "Kaffrine",
+              "Solde antérieur": "82 802 894",
+              "Total recettes": "636 421 742",
+              "Total dépenses": "602 263 057",
+              "Disponible fin d'année": "116 961 579"
+            },
+            {
+              "Rubriques": "Kaolack",
+              "Solde antérieur": "115 037 723",
+              "Total recettes": "746 745 821",
+              "Total dépenses": "717 553 630",
+              "Disponible fin d'année": "144 229 914"
+            },
+            {
+              "Rubriques": "Kédougou",
+              "Solde antérieur": "15 546 023",
+              "Total recettes": "360 179 243",
+              "Total dépenses": "215 391 383",
+              "Disponible fin d'année": "160 333 883"
+            },
+            {
+              "Rubriques": "Kolda",
+              "Solde antérieur": "37 605 315",
+              "Total recettes": "280 499 575",
+              "Total dépenses": "246 878 497",
+              "Disponible fin d'année": "71 226 393"
+            },
+            {
+              "Rubriques": "Louga",
+              "Solde antérieur": "162 038 753",
+              "Total recettes": "758 888 157",
+              "Total dépenses": "737 129 758",
+              "Disponible fin d'année": "183 797 152"
+            },
+            {
+              "Rubriques": "Matam",
+              "Solde antérieur": "89 591 022",
+              "Total recettes": "420 764 542",
+              "Total dépenses": "420 365 983",
+              "Disponible fin d'année": "89 989 581"
+            },
+            {
+              "Rubriques": "Saint-Louis",
+              "Solde antérieur": "171 146 171",
+              "Total recettes": "1 257 823 952",
+              "Total dépenses": "1 151 913 068",
+              "Disponible fin d'année": "277 057 055"
+            },
+            {
+              "Rubriques": "Sédhiou",
+              "Solde antérieur": "20 534 407",
+              "Total recettes": "370 155 480",
+              "Total dépenses": "436 274 633",
+              "Disponible fin d'année": "-45 584 746"
+            },
+            {
+              "Rubriques": "Tambacounda",
+              "Solde antérieur": "48 816 905",
+              "Total recettes": "696 050 384",
+              "Total dépenses": "610 751 775",
+              "Disponible fin d'année": "134 115 514"
+            },
+            {
+              "Rubriques": "Thiès",
+              "Solde antérieur": "173 236 173",
+              "Total recettes": "2 028 101 713",
+              "Total dépenses": "2 374 222 207",
+              "Disponible fin d'année": "-172 884 321"
+            },
+            {
+              "Rubriques": "Ziguinchor",
+              "Solde antérieur": "62 457 145",
+              "Total recettes": "789 458 869",
+              "Total dépenses": "658 183 076",
+              "Disponible fin d'année": "193 732 938"
+            },
+            {
+              "Rubriques": "SENEGAL",
+              "Solde antérieur": "1 101 133 667",
+              "Total recettes": "8 940 059 486",
+              "Total dépenses": "8 774 247 108",
+              "Disponible fin d'année": "1 266 946 045"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3.4 Médicaments et produits essentiels",
+      "texte": "Répartition des stocks de la Pharmacie Nationale d'Approvisionnement (PNA) et chiffres d'affaires au 31/12/2017.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 9: Répartition du stock de la PNA au 31/12/2017",
+          "colonnes": [
+            "Centres d'activité (siégé +PRA)",
+            "Produits de lutte contre la Tuberculose",
+            "Produits de lutte contre le VIH Sida",
+            "Produits de lutte contre le Paludisme",
+            "Produits anticancéreux",
+            "Vaccins/ Sérums hors PEV",
+            "Contraceptifs",
+            "Dialyse",
+            "Insuline",
+            "Autres MEG",
+            "TOTAL"
+          ],
+          "lignes": [
+            {
+              "Centres d'activité (siégé +PRA)": "MAGASIN CENTRAL",
+              "Produits de lutte contre la Tuberculose": "59 950 150",
+              "Produits de lutte contre le VIH Sida": "537 534 690",
+              "Produits de lutte contre le Paludisme": "76 799 258",
+              "Produits anticancéreux": "721 426 075",
+              "Vaccins/ Sérums hors PEV": "48 741 920",
+              "Contraceptifs": "335 876 453",
+              "Dialyse": "684 983 457",
+              "Insuline": "577 345 875",
+              "Autres MEG": "2 916 527 454",
+              "TOTAL": "5 959 185 332"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Dakar",
+              "Produits de lutte contre la Tuberculose": "9 854 867",
+              "Produits de lutte contre le VIH Sida": "53 960 341",
+              "Produits de lutte contre le Paludisme": "17 564 983",
+              "Produits anticancéreux": "4 765 347",
+              "Vaccins/ Sérums hors PEV": "2 616 705",
+              "Contraceptifs": "0",
+              "Dialyse": "0",
+              "Insuline": "2 467 976",
+              "Autres MEG": "828 536 432",
+              "TOTAL": "919 766 651"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Diourbel",
+              "Produits de lutte contre la Tuberculose": "3 257 930",
+              "Produits de lutte contre le VIH Sida": "8 632 811",
+              "Produits de lutte contre le Paludisme": "5 678 983",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "1 834 292",
+              "Contraceptifs": "1 352 655",
+              "Dialyse": "1 345 780",
+              "Insuline": "905 628",
+              "Autres MEG": "286 363 972",
+              "TOTAL": "309 372 051"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Fatick",
+              "Produits de lutte contre la Tuberculose": "3 667 049",
+              "Produits de lutte contre le VIH Sida": "11 350 812",
+              "Produits de lutte contre le Paludisme": "678 456",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "3 554 903",
+              "Contraceptifs": "0",
+              "Dialyse": "0",
+              "Insuline": "373 021",
+              "Autres MEG": "242 736 785",
+              "TOTAL": "262 361 026"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Kaolack",
+              "Produits de lutte contre la Tuberculose": "7 965 740",
+              "Produits de lutte contre le VIH Sida": "17 926 411",
+              "Produits de lutte contre le Paludisme": "4 456 080",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "3 738 150",
+              "Contraceptifs": "565 920",
+              "Dialyse": "6 543 865",
+              "Insuline": "482 978",
+              "Autres MEG": "102 332 397",
+              "TOTAL": "144 011 541"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Kolda",
+              "Produits de lutte contre la Tuberculose": "2 471 477",
+              "Produits de lutte contre le VIH Sida": "15 785 911",
+              "Produits de lutte contre le Paludisme": "3 765 894",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "2 956 266",
+              "Contraceptifs": "0",
+              "Dialyse": "0",
+              "Insuline": "811 413",
+              "Autres MEG": "138 036 027",
+              "TOTAL": "163 826 988"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Louga",
+              "Produits de lutte contre la Tuberculose": "4 717 459",
+              "Produits de lutte contre le VIH Sida": "7 990 058",
+              "Produits de lutte contre le Paludisme": "1 654 378",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "2 667 952",
+              "Contraceptifs": "4 987 450",
+              "Dialyse": "0",
+              "Insuline": "151 572",
+              "Autres MEG": "267 823 832",
+              "TOTAL": "289 992 701"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Matam",
+              "Produits de lutte contre la Tuberculose": "1 792 792",
+              "Produits de lutte contre le VIH Sida": "10 101 670",
+              "Produits de lutte contre le Paludisme": "1 324 567",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "2 330 742",
+              "Contraceptifs": "0",
+              "Dialyse": "1 305 340",
+              "Insuline": "240 813",
+              "Autres MEG": "167 836 289",
+              "TOTAL": "184 932 213"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Saint louis",
+              "Produits de lutte contre la Tuberculose": "9 216 546",
+              "Produits de lutte contre le VIH Sida": "21 871 538",
+              "Produits de lutte contre le Paludisme": "1 235 424",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "1 477 751",
+              "Contraceptifs": "0",
+              "Dialyse": "380 956 745",
+              "Insuline": "7 654 876",
+              "Autres MEG": "330 282 287",
+              "TOTAL": "752 695 167"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Tambacounda",
+              "Produits de lutte contre la Tuberculose": "3 804 786",
+              "Produits de lutte contre le VIH Sida": "15 446 251",
+              "Produits de lutte contre le Paludisme": "2 345 634",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "46 793",
+              "Contraceptifs": "4 325 670",
+              "Dialyse": "13 064 380",
+              "Insuline": "99 750",
+              "Autres MEG": "155 052 991",
+              "TOTAL": "194 186 255"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Thies",
+              "Produits de lutte contre la Tuberculose": "3 876 489",
+              "Produits de lutte contre le VIH Sida": "12 988 414",
+              "Produits de lutte contre le Paludisme": "7 356 476",
+              "Produits anticancéreux": "3 425 807",
+              "Vaccins/ Sérums hors PEV": "4 313 250",
+              "Contraceptifs": "0",
+              "Dialyse": "0",
+              "Insuline": "564 875",
+              "Autres MEG": "351 524 315",
+              "TOTAL": "384 049 626"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Ziguinchor",
+              "Produits de lutte contre la Tuberculose": "3 966 502",
+              "Produits de lutte contre le VIH Sida": "28 975 654",
+              "Produits de lutte contre le Paludisme": "845 673",
+              "Produits anticancéreux": "0",
+              "Vaccins/ Sérums hors PEV": "2 956 266",
+              "Contraceptifs": "0",
+              "Dialyse": "69 765 345",
+              "Insuline": "199 769",
+              "Autres MEG": "89 221 542",
+              "TOTAL": "195 930 751"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Total PRA uniquement",
+              "Produits de lutte contre la Tuberculose": "54 591 637",
+              "Produits de lutte contre le VIH Sida": "205 029 871",
+              "Produits de lutte contre le Paludisme": "46 906 548",
+              "Produits anticancéreux": "8 191 154",
+              "Vaccins/ Sérums hors PEV": "28 493 070",
+              "Contraceptifs": "11 231 695",
+              "Dialyse": "472 981 455",
+              "Insuline": "13 952 671",
+              "Autres MEG": "2 959 746 869",
+              "TOTAL": "3 801 124 970"
+            },
+            {
+              "Centres d'activité (siégé +PRA)": "Total siège + PRA",
+              "Produits de lutte contre la Tuberculose": "114 541 787",
+              "Produits de lutte contre le VIH Sida": "742 564 561",
+              "Produits de lutte contre le Paludisme": "123 705 806",
+              "Produits anticancéreux": "729 617 229",
+              "Vaccins/ Sérums hors PEV": "77 234 990",
+              "Contraceptifs": "347 108 148",
+              "Dialyse": "1 157 964 912",
+              "Insuline": "591 298 546",
+              "Autres MEG": "5 876 274 323",
+              "TOTAL": "9 760 310 302"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 10: Chiffre d'affaires (CA) de la PNA au 31/12/2017",
+          "colonnes": [
+            "Centres d'activité (Siege et PRA)",
+            "CA au 31/12/2017 (FCFA)",
+            "Proportion par rapport au total du CA au 31/12/2017 (%)"
+          ],
+          "lignes": [
+            {
+              "Centres d'activité (Siege et PRA)": "Magasin central (MC)",
+              "CA au 31/12/2017 (FCFA)": "7 051 194 988",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "35,19"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Dakar",
+              "CA au 31/12/2017 (FCFA)": "3 094 505 573",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "23,83"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Diourbel",
+              "CA au 31/12/2017 (FCFA)": "1 303 973 374",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "10,04"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Fatick",
+              "CA au 31/12/2017 (FCFA)": "527 786 499",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "4,06"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Kaolack",
+              "CA au 31/12/2017 (FCFA)": "1 479 648 714",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "11,40"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Kolda",
+              "CA au 31/12/2017 (FCFA)": "875 824 655",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "6,75"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Louga",
+              "CA au 31/12/2017 (FCFA)": "590 512 154",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "4,55"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Matam",
+              "CA au 31/12/2017 (FCFA)": "660 976 231",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "5,09"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Saint louis",
+              "CA au 31/12/2017 (FCFA)": "1 044 633 116",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "8,05"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Tambacounda",
+              "CA au 31/12/2017 (FCFA)": "1 162 485 815",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "8,95"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Thiès",
+              "CA au 31/12/2017 (FCFA)": "1 278 454 462",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "9,85"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Ziguinchor",
+              "CA au 31/12/2017 (FCFA)": "965 251 130",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "7,43"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Total PRA uniquement",
+              "CA au 31/12/2017 (FCFA)": "12 984 051 723",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "100"
+            },
+            {
+              "Centres d'activité (Siege et PRA)": "Total siège + PRA",
+              "CA au 31/12/2017 (FCFA)": "20 035 246 711",
+              "Proportion par rapport au total du CA au 31/12/2017 (%)": "100"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 11: Répartition du chiffre d'affaires 2017 selon les clients",
+          "colonnes": [
+            "STRUCTURES",
+            "CA au 31/12/2017 (FCFA)",
+            "Proportion par rapport au total 2017 (%)"
+          ],
+          "lignes": [
+            {
+              "STRUCTURES": "Hôpitaux",
+              "CA au 31/12/2017 (FCFA)": "3 786 492 732",
+              "Proportion par rapport au total 2017 (%)": "18,90"
+            },
+            {
+              "STRUCTURES": "Districts",
+              "CA au 31/12/2017 (FCFA)": "6 201 267 374",
+              "Proportion par rapport au total 2017 (%)": "30,95"
+            },
+            {
+              "STRUCTURES": "DLSI",
+              "CA au 31/12/2017 (FCFA)": "1 579 936 876",
+              "Proportion par rapport au total 2017 (%)": "7,89"
+            },
+            {
+              "STRUCTURES": "CNLS-RSS/DLSI",
+              "CA au 31/12/2017 (FCFA)": "1 980 034 120",
+              "Proportion par rapport au total 2017 (%)": "9,88"
+            },
+            {
+              "STRUCTURES": "PNT",
+              "CA au 31/12/2017 (FCFA)": "290 270 184",
+              "Proportion par rapport au total 2017 (%)": "1,45"
+            },
+            {
+              "STRUCTURES": "MSAS",
+              "CA au 31/12/2017 (FCFA)": "301 818 493",
+              "Proportion par rapport au total 2017 (%)": "1,51"
+            },
+            {
+              "STRUCTURES": "Programme dialyse",
+              "CA au 31/12/2017 (FCFA)": "3 664 651 008",
+              "Proportion par rapport au total 2017 (%)": "18,29"
+            },
+            {
+              "STRUCTURES": "Grossistes prives",
+              "CA au 31/12/2017 (FCFA)": "488 509 900",
+              "Proportion par rapport au total 2017 (%)": "2,44"
+            },
+            {
+              "STRUCTURES": "Autres",
+              "CA au 31/12/2017 (FCFA)": "1 742 266 024",
+              "Proportion par rapport au total 2017 (%)": "8,70"
+            },
+            {
+              "STRUCTURES": "TOTAL",
+              "CA au 31/12/2017 (FCFA)": "20 035 246 711",
+              "Proportion par rapport au total 2017 (%)": "100"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3.5. Infrastructures et équipements",
+      "texte": "Répartition des structures sanitaires et des unités spécialisées par région au Sénégal en 2017.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 12: Répartition des structures sanitaires par région",
+          "colonnes": [
+            "Région",
+            "District",
+            "Hôpital niveau 3",
+            "Hôpital niveau 2",
+            "Hôpital niveau 1",
+            "EPS non hospitalier",
+            "Hôpital privé",
+            "Centres de santé",
+            "Postes de santé",
+            "Cases de santé",
+            "Sites communautaires",
+            "Cabinets médicaux privés",
+            "Cliniques privées",
+            "Cabinets paramédicaux",
+            "Structures militaires et paramilitaires"
+          ],
+          "lignes": [
+            {
+              "Région": "Dakar",
+              "District": "10",
+              "Hôpital niveau 3": "10",
+              "Hôpital niveau 2": "1",
+              "Hôpital niveau 1": "3",
+              "EPS non hospitalier": "4",
+              "Hôpital privé": "1",
+              "Centres de santé": "23",
+              "Postes de santé": "123",
+              "Cases de santé": "39",
+              "Sites communautaires": "51",
+              "Cabinets médicaux privés": "166",
+              "Cliniques privées": "62",
+              "Cabinets paramédicaux": "218",
+              "Structures militaires et paramilitaires": "36"
+            },
+            {
+              "Région": "Diourbel",
+              "District": "4",
+              "Hôpital niveau 3": "1",
+              "Hôpital niveau 2": "1",
+              "Hôpital niveau 1": "1",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "8",
+              "Postes de santé": "93",
+              "Cases de santé": "106",
+              "Sites communautaires": "746",
+              "Cabinets médicaux privés": "8",
+              "Cliniques privées": "4",
+              "Cabinets paramédicaux": "23",
+              "Structures militaires et paramilitaires": "7"
+            },
+            {
+              "Région": "Fatick",
+              "District": "7",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "1",
+              "Hôpital niveau 1": "0",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "8",
+              "Postes de santé": "108",
+              "Cases de santé": "39",
+              "Sites communautaires": "51",
+              "Cabinets médicaux privés": "0",
+              "Cliniques privées": "1",
+              "Cabinets paramédicaux": "11",
+              "Structures militaires et paramilitaires": "8"
+            },
+            {
+              "Région": "Kaffrine",
+              "District": "4",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "0",
+              "Hôpital niveau 1": "1",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "4",
+              "Postes de santé": "86",
+              "Cases de santé": "106",
+              "Sites communautaires": "746",
+              "Cabinets médicaux privés": "0",
+              "Cliniques privées": "1",
+              "Cabinets paramédicaux": "3",
+              "Structures militaires et paramilitaires": "2"
+            },
+            {
+              "Région": "Kaolack",
+              "District": "4",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "1",
+              "Hôpital niveau 1": "0",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "4",
+              "Postes de santé": "107",
+              "Cases de santé": "230",
+              "Sites communautaires": "549",
+              "Cabinets médicaux privés": "5",
+              "Cliniques privées": "38",
+              "Cabinets paramédicaux": "8",
+              "Structures militaires et paramilitaires": "8"
+            },
+            {
+              "Région": "Kédougou",
+              "District": "3",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "0",
+              "Hôpital niveau 1": "0",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "3",
+              "Postes de santé": "33",
+              "Cases de santé": "83",
+              "Sites communautaires": "207",
+              "Cabinets médicaux privés": "0",
+              "Cliniques privées": "2",
+              "Cabinets paramédicaux": "1",
+              "Structures militaires et paramilitaires": "2"
+            },
+            {
+              "Région": "Kolda",
+              "District": "3",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "1",
+              "Hôpital niveau 1": "0",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "4",
+              "Postes de santé": "58",
+              "Cases de santé": "248",
+              "Sites communautaires": "159",
+              "Cabinets médicaux privés": "2",
+              "Cliniques privées": "0",
+              "Cabinets paramédicaux": "9",
+              "Structures militaires et paramilitaires": "6"
+            },
+            {
+              "Région": "Louga",
+              "District": "8",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "1",
+              "Hôpital niveau 1": "1",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "10",
+              "Postes de santé": "111",
+              "Cases de santé": "371",
+              "Sites communautaires": "135",
+              "Cabinets médicaux privés": "5",
+              "Cliniques privées": "6",
+              "Cabinets paramédicaux": "4",
+              "Structures militaires et paramilitaires": "8"
+            },
+            {
+              "Région": "Matam",
+              "District": "4",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "2",
+              "Hôpital niveau 1": "0",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "4",
+              "Postes de santé": "90",
+              "Cases de santé": "57",
+              "Sites communautaires": "255",
+              "Cabinets médicaux privés": "0",
+              "Cliniques privées": "0",
+              "Cabinets paramédicaux": "5",
+              "Structures militaires et paramilitaires": "2"
+            },
+            {
+              "Région": "Saint-Louis",
+              "District": "5",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "2",
+              "Hôpital niveau 1": "1",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "8",
+              "Postes de santé": "61",
+              "Cases de santé": "93",
+              "Sites communautaires": "68",
+              "Cabinets médicaux privés": "13",
+              "Cliniques privées": "16",
+              "Cabinets paramédicaux": "2",
+              "Structures militaires et paramilitaires": "11"
+            },
+            {
+              "Région": "Sédhiou",
+              "District": "3",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "0",
+              "Hôpital niveau 1": "1",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "3",
+              "Postes de santé": "111",
+              "Cases de santé": "177",
+              "Sites communautaires": "217",
+              "Cabinets médicaux privés": "0",
+              "Cliniques privées": "0",
+              "Cabinets paramédicaux": "3",
+              "Structures militaires et paramilitaires": "1"
+            },
+            {
+              "Région": "Tambacounda",
+              "District": "7",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "1",
+              "Hôpital niveau 1": "0",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "8",
+              "Postes de santé": "109",
+              "Cases de santé": "133",
+              "Sites communautaires": "290",
+              "Cabinets médicaux privés": "2",
+              "Cliniques privées": "6",
+              "Cabinets paramédicaux": "11",
+              "Structures militaires et paramilitaires": "9"
+            },
+            {
+              "Région": "Thiès",
+              "District": "9",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "1",
+              "Hôpital niveau 1": "2",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "2",
+              "Centres de santé": "9",
+              "Postes de santé": "164",
+              "Cases de santé": "334",
+              "Sites communautaires": "348",
+              "Cabinets médicaux privés": "39",
+              "Cliniques privées": "15",
+              "Cabinets paramédicaux": "53",
+              "Structures militaires et paramilitaires": "12"
+            },
+            {
+              "Région": "Ziguinchor",
+              "District": "5",
+              "Hôpital niveau 3": "0",
+              "Hôpital niveau 2": "2",
+              "Hôpital niveau 1": "0",
+              "EPS non hospitalier": "0",
+              "Hôpital privé": "0",
+              "Centres de santé": "5",
+              "Postes de santé": "119",
+              "Cases de santé": "110",
+              "Sites communautaires": "307",
+              "Cabinets médicaux privés": "8",
+              "Cliniques privées": "6",
+              "Cabinets paramédicaux": "1",
+              "Structures militaires et paramilitaires": "11"
+            },
+            {
+              "Région": "Sénégal",
+              "District": "76",
+              "Hôpital niveau 3": "11",
+              "Hôpital niveau 2": "14",
+              "Hôpital niveau 1": "10",
+              "EPS non hospitalier": "4",
+              "Hôpital privé": "3",
+              "Centres de santé": "101",
+              "Postes de santé": "1373",
+              "Cases de santé": "2126",
+              "Sites communautaires": "3512",
+              "Cabinets médicaux privés": "248",
+              "Cliniques privées": "106",
+              "Cabinets paramédicaux": "403",
+              "Structures militaires et paramilitaires": "123"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 13: Répartition des unités de nutrition et coins du nouveau-né par région",
+          "colonnes": [
+            "Région",
+            "Coins du nouveau-né fonctionnels",
+            "Coins Thérapie de Réhydratation Orale (TRO)",
+            "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)",
+            "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles",
+            "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)",
+            "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles",
+            "Unités kangourou fonctionnelles"
+          ],
+          "lignes": [
+            {
+              "Région": "Dakar",
+              "Coins du nouveau-né fonctionnels": "46",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "31",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "40",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "33",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "46",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "34",
+              "Unités kangourou fonctionnelles": "8"
+            },
+            {
+              "Région": "Diourbel",
+              "Coins du nouveau-né fonctionnels": "26",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "17",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "33",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "21",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "64",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "56",
+              "Unités kangourou fonctionnelles": "7"
+            },
+            {
+              "Région": "Fatick",
+              "Coins du nouveau-né fonctionnels": "34",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "18",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "46",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "51",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "74",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "91",
+              "Unités kangourou fonctionnelles": "14"
+            },
+            {
+              "Région": "Kaffrine",
+              "Coins du nouveau-né fonctionnels": "41",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "36",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "55",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "58",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "113",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "94",
+              "Unités kangourou fonctionnelles": "18"
+            },
+            {
+              "Région": "Kaolack",
+              "Coins du nouveau-né fonctionnels": "35",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "25",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "34",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "33",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "99",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "92",
+              "Unités kangourou fonctionnelles": "5"
+            },
+            {
+              "Région": "Kédougou",
+              "Coins du nouveau-né fonctionnels": "11",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "9",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "24",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "22",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "48",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "44",
+              "Unités kangourou fonctionnelles": "2"
+            },
+            {
+              "Région": "Kolda",
+              "Coins du nouveau-né fonctionnels": "18",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "11",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "26",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "24",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "90",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "72",
+              "Unités kangourou fonctionnelles": "3"
+            },
+            {
+              "Région": "Louga",
+              "Coins du nouveau-né fonctionnels": "53",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "32",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "43",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "36",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "96",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "61",
+              "Unités kangourou fonctionnelles": "12"
+            },
+            {
+              "Région": "Matam",
+              "Coins du nouveau-né fonctionnels": "22",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "22",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "46",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "48",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "82",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "77",
+              "Unités kangourou fonctionnelles": "0"
+            },
+            {
+              "Région": "Saint-Louis",
+              "Coins du nouveau-né fonctionnels": "62",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "63",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "68",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "63",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "129",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "103",
+              "Unités kangourou fonctionnelles": "23"
+            },
+            {
+              "Région": "Sédhiou",
+              "Coins du nouveau-né fonctionnels": "16",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "7",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "16",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "14",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "26",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "23",
+              "Unités kangourou fonctionnelles": "9"
+            },
+            {
+              "Région": "Tambacounda",
+              "Coins du nouveau-né fonctionnels": "44",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "43",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "55",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "55",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "75",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "77",
+              "Unités kangourou fonctionnelles": "19"
+            },
+            {
+              "Région": "Thiès",
+              "Coins du nouveau-né fonctionnels": "80",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "73",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "94",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "88",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "204",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "177",
+              "Unités kangourou fonctionnelles": "18"
+            },
+            {
+              "Région": "Ziguinchor",
+              "Coins du nouveau-né fonctionnels": "56",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "31",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "51",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "42",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "57",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "49",
+              "Unités kangourou fonctionnelles": "6"
+            },
+            {
+              "Région": "Sénégal",
+              "Coins du nouveau-né fonctionnels": "544",
+              "Coins Thérapie de Réhydratation Orale (TRO)": "418",
+              "Unité de Réhabilitation et d'Education Nutritionnelle (UREN)": "631",
+              "Unité de Réhabilitation et d'Education Nutritionnelle fonctionnelles": "588",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire (UREN-C)": "1203",
+              "Unités de Réhabilitation et d'Education Nutritionnelle/Communautaire fonctionnelles": "1050",
+              "Unités kangourou fonctionnelles": "144"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau n°14: Répartition du nombre de lits et leur taux d'occupation dans les centres de santé par région",
+          "colonnes": [
+            "Régions",
+            "Lits théoriques",
+            "Lits fonctionnels",
+            "Malades hospitalisés sortis",
+            "Journées d'hospitalisation des malades sortis",
+            "Taux d'occupation moyen (TOM) (%)"
+          ],
+          "lignes": [
+            {
+              "Régions": "Dakar",
+              "Lits théoriques": "458",
+              "Lits fonctionnels": "451",
+              "Malades hospitalisés sortis": "9808",
+              "Journées d'hospitalisation des malades sortis": "29949",
+              "Taux d'occupation moyen (TOM) (%)": "17,9"
+            },
+            {
+              "Régions": "Diourbel",
+              "Lits théoriques": "215",
+              "Lits fonctionnels": "222",
+              "Malades hospitalisés sortis": "8682",
+              "Journées d'hospitalisation des malades sortis": "11799",
+              "Taux d'occupation moyen (TOM) (%)": "15,0"
+            },
+            {
+              "Régions": "Fatick",
+              "Lits théoriques": "99",
+              "Lits fonctionnels": "98",
+              "Malades hospitalisés sortis": "1385",
+              "Journées d'hospitalisation des malades sortis": "2770",
+              "Taux d'occupation moyen (TOM) (%)": "7,7"
+            },
+            {
+              "Régions": "Kaffrine",
+              "Lits théoriques": "45",
+              "Lits fonctionnels": "712",
+              "Malades hospitalisés sortis": "60",
+              "Journées d'hospitalisation des malades sortis": "1463",
+              "Taux d'occupation moyen (TOM) (%)": "8,9"
+            },
+            {
+              "Régions": "Kaolack",
+              "Lits théoriques": "57",
+              "Lits fonctionnels": "57",
+              "Malades hospitalisés sortis": "2287",
+              "Journées d'hospitalisation des malades sortis": "6768",
+              "Taux d'occupation moyen (TOM) (%)": "32,5"
+            },
+            {
+              "Régions": "Kédougou",
+              "Lits théoriques": "25",
+              "Lits fonctionnels": "25",
+              "Malades hospitalisés sortis": "1805",
+              "Journées d'hospitalisation des malades sortis": "5089",
+              "Taux d'occupation moyen (TOM) (%)": "55,8"
+            },
+            {
+              "Régions": "Kolda",
+              "Lits théoriques": "41",
+              "Lits fonctionnels": "41",
+              "Malades hospitalisés sortis": "1081",
+              "Journées d'hospitalisation des malades sortis": "1728",
+              "Taux d'occupation moyen (TOM) (%)": "11,5"
+            },
+            {
+              "Régions": "Louga",
+              "Lits théoriques": "125",
+              "Lits fonctionnels": "129",
+              "Malades hospitalisés sortis": "2182",
+              "Journées d'hospitalisation des malades sortis": "3299",
+              "Taux d'occupation moyen (TOM) (%)": "7,2"
+            },
+            {
+              "Régions": "Matam",
+              "Lits théoriques": "55",
+              "Lits fonctionnels": "57",
+              "Malades hospitalisés sortis": "476",
+              "Journées d'hospitalisation des malades sortis": "1071",
+              "Taux d'occupation moyen (TOM) (%)": "5,3"
+            },
+            {
+              "Régions": "Saint-Louis",
+              "Lits théoriques": "139",
+              "Lits fonctionnels": "152",
+              "Malades hospitalisés sortis": "2138",
+              "Journées d'hospitalisation des malades sortis": "4707",
+              "Taux d'occupation moyen (TOM) (%)": "9,3"
+            },
+            {
+              "Régions": "Sedhiou",
+              "Lits théoriques": "44",
+              "Lits fonctionnels": "47",
+              "Malades hospitalisés sortis": "1197",
+              "Journées d'hospitalisation des malades sortis": "2453",
+              "Taux d'occupation moyen (TOM) (%)": "15,3"
+            },
+            {
+              "Régions": "Tambacounda",
+              "Lits théoriques": "130",
+              "Lits fonctionnels": "130",
+              "Malades hospitalisés sortis": "1063",
+              "Journées d'hospitalisation des malades sortis": "1365",
+              "Taux d'occupation moyen (TOM) (%)": "2,9"
+            },
+            {
+              "Régions": "Thiès",
+              "Lits théoriques": "293",
+              "Lits fonctionnels": "303",
+              "Malades hospitalisés sortis": "6076",
+              "Journées d'hospitalisation des malades sortis": "17059",
+              "Taux d'occupation moyen (TOM) (%)": "16,0"
+            },
+            {
+              "Régions": "Ziguinchor",
+              "Lits théoriques": "163",
+              "Lits fonctionnels": "163",
+              "Malades hospitalisés sortis": "2328",
+              "Journées d'hospitalisation des malades sortis": "9323",
+              "Taux d'occupation moyen (TOM) (%)": "15,7"
+            },
+            {
+              "Régions": "Sénégal",
+              "Lits théoriques": "1889",
+              "Lits fonctionnels": "1935",
+              "Malades hospitalisés sortis": "41220",
+              "Journées d'hospitalisation des malades sortis": "98843",
+              "Taux d'occupation moyen (TOM) (%)": "14,3"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "3.6. Logistique",
+      "texte": "Données sur les acquisitions d'équipements de laboratoire, roulants et d'imagerie médicale en 2017.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 15: Répartition des nouveaux équipements de laboratoire par région",
+          "colonnes": [
+            "Régions médicales",
+            "Désignation",
+            "Quantité"
+          ],
+          "lignes": [
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Spectrophotomètre",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Jeu de micropipettes",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Centrifugeuse",
+              "Quantité": "5"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Distillateur d'eau",
+              "Quantité": "3"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Analyseur automatique de gaz de sang",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Hémoglobinomètre",
+              "Quantité": "5"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Réfrigérateur",
+              "Quantité": "4"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Ophtalmoscope portatif",
+              "Quantité": "2"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Armoire banque de sang",
+              "Quantité": "2"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Stérilisateur de paillasse de 40 L",
+              "Quantité": "8"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Microscope",
+              "Quantité": "4"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Microscope avec platine",
+              "Quantité": "4"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Hotte à flux laminaire",
+              "Quantité": "2"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Étuve à CO2",
+              "Quantité": "2"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Étuve",
+              "Quantité": "3"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Hotte à flux laminaire pour spermiologie",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Centrifugeuse type BR4",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Compteur Piano 555.000",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Dakar",
+              "Désignation": "Système d'analyse du sperme (appareil ceros) avec accessoires",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Kaolack",
+              "Désignation": "Spectrophotomètre",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Kaolack",
+              "Désignation": "Appareil d'hémostase",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Kaolack",
+              "Désignation": "Distillateur d'eau",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Kaolack",
+              "Désignation": "Balance de précision",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Kaolack",
+              "Désignation": "Appareil d'électrophorèse capillaire",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Kaolack",
+              "Désignation": "Jeu de micropipettes",
+              "Quantité": "2"
+            },
+            {
+              "Régions médicales": "Kaolack",
+              "Désignation": "Minuterie électronique",
+              "Quantité": "2"
+            },
+            {
+              "Régions médicales": "Kaolack",
+              "Désignation": "Fauteuil de prélèvement",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Louga",
+              "Désignation": "Automate d'hématologie 26 paramètres",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Louga",
+              "Désignation": "Automate de biochimie",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Louga",
+              "Désignation": "Réfrigérateur pour la banque de sang",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Louga",
+              "Désignation": "Stérilisateur à vapeur de table de 40 L",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Saint-Louis",
+              "Désignation": "Appareil d'ionogramme",
+              "Quantité": "2"
+            },
+            {
+              "Régions médicales": "Saint-Louis",
+              "Désignation": "Automate de biochimie",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Saint-Louis",
+              "Désignation": "Spectrophotomètre",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Saint-Louis",
+              "Désignation": "Appareil d'hémostase",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Thiès",
+              "Désignation": "Appareil d'hématologie 18 paramètres",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Thiès",
+              "Désignation": "Appareil d'hémoglobine glyquée HbA1c",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Thiès",
+              "Désignation": "Distillateur d'eau",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Thiès",
+              "Désignation": "Etuve bactériologique",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Thiès",
+              "Désignation": "Microscope optique",
+              "Quantité": "1"
+            },
+            {
+              "Régions médicales": "Thiès",
+              "Désignation": "Réfrigérateur pour laboratoire",
+              "Quantité": "1"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 16: Répartition des nouvelles acquisitions d'ambulances, de motos et d'unités mobiles de soins en 2017",
+          "colonnes": [
+            "Région",
+            "ambulances médicalisées",
+            "Motos",
+            "Ambulances de réanimation",
+            "Unités mobiles de soins"
+          ],
+          "lignes": [
+            {
+              "Région": "Dakar",
+              "ambulances médicalisées": "31",
+              "Motos": "18",
+              "Ambulances de réanimation": "2",
+              "Unités mobiles de soins": "4"
+            },
+            {
+              "Région": "Diourbel",
+              "ambulances médicalisées": "13",
+              "Motos": "2",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Fatick",
+              "ambulances médicalisées": "7",
+              "Motos": "2",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Kaffrine",
+              "ambulances médicalisées": "8",
+              "Motos": "2",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Kaolack",
+              "ambulances médicalisées": "13",
+              "Motos": "3",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Kédougou",
+              "ambulances médicalisées": "3",
+              "Motos": "2",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Kolda",
+              "ambulances médicalisées": "4",
+              "Motos": "1",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Louga",
+              "ambulances médicalisées": "17",
+              "Motos": "1",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Matam",
+              "ambulances médicalisées": "13",
+              "Motos": "1",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Saint-Louis",
+              "ambulances médicalisées": "15",
+              "Motos": "1",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Sédhiou",
+              "ambulances médicalisées": "4",
+              "Motos": "1",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Tambacounda",
+              "ambulances médicalisées": "9",
+              "Motos": "4",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Thiès",
+              "ambulances médicalisées": "13",
+              "Motos": "4",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Ziguinchor",
+              "ambulances médicalisées": "10",
+              "Motos": "1",
+              "Ambulances de réanimation": "0",
+              "Unités mobiles de soins": "0"
+            },
+            {
+              "Région": "Sénégal",
+              "ambulances médicalisées": "160",
+              "Motos": "43",
+              "Ambulances de réanimation": "2",
+              "Unités mobiles de soins": "4"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 17: Répartition des nouvelles Acquisitions d'équipements d'imagerie médicale",
+          "colonnes": [
+            "Région",
+            "Appareil de Radiothérapie",
+            "Scanner",
+            "Lithotripteur",
+            "Appareil de mammographie",
+            "Table de radiologie numérique",
+            "Appareil de Radiographie dentaire",
+            "Appareil de Radiologie mobile",
+            "Echographes"
+          ],
+          "lignes": [
+            {
+              "Région": "Dakar",
+              "Appareil de Radiothérapie": "1",
+              "Scanner": "0",
+              "Lithotripteur": "1",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "5",
+              "Appareil de Radiographie dentaire": "1",
+              "Appareil de Radiologie mobile": "2",
+              "Echographes": "3"
+            },
+            {
+              "Région": "Diourbel",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "1",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "2",
+              "Table de radiologie numérique": "0",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "0"
+            },
+            {
+              "Région": "Fatick",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "1",
+              "Table de radiologie numérique": "1",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "2"
+            },
+            {
+              "Région": "Kaffrine",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "0",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "1"
+            },
+            {
+              "Région": "Kaolack",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "0",
+              "Appareil de Radiographie dentaire": "1",
+              "Appareil de Radiologie mobile": "1",
+              "Echographes": "1"
+            },
+            {
+              "Région": "Kédougou",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "1",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "1"
+            },
+            {
+              "Région": "Kolda",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "0",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "0"
+            },
+            {
+              "Région": "Louga",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "1",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "2"
+            },
+            {
+              "Région": "Matam",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "ND",
+              "Appareil de Radiographie dentaire": "ND",
+              "Appareil de Radiologie mobile": "1",
+              "Echographes": "1"
+            },
+            {
+              "Région": "Saint-Louis",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "1",
+              "Table de radiologie numérique": "2",
+              "Appareil de Radiographie dentaire": "1",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "1"
+            },
+            {
+              "Région": "Sédhiou",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "0",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "0"
+            },
+            {
+              "Région": "Tambacounda",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "1",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "1",
+              "Echographes": "1"
+            },
+            {
+              "Région": "Thiès",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "0",
+              "Table de radiologie numérique": "0",
+              "Appareil de Radiographie dentaire": "0",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "0"
+            },
+            {
+              "Région": "Ziguinchor",
+              "Appareil de Radiothérapie": "0",
+              "Scanner": "0",
+              "Lithotripteur": "0",
+              "Appareil de mammographie": "1",
+              "Table de radiologie numérique": "2",
+              "Appareil de Radiographie dentaire": "2",
+              "Appareil de Radiologie mobile": "0",
+              "Echographes": "0"
+            },
+            {
+              "Région": "Sénégal",
+              "Appareil de Radiothérapie": "1",
+              "Scanner": "1",
+              "Lithotripteur": "1",
+              "Appareil de mammographie": "5",
+              "Table de radiologie numérique": "13",
+              "Appareil de Radiographie dentaire": "5",
+              "Appareil de Radiologie mobile": "5",
+              "Echographes": "13"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "IV. Activités de services - 4.1. Complétude et promptitude des données issues du DHIS2",
+      "texte": "Évaluation du taux de complétude des rapports d'activités dans DHIS2 par région pour l'année 2017.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 18: Taux de complétude des rapports par région",
+          "colonnes": [
+            "Région/Rapport",
+            "Santé de la mère et du nouveau-né",
+            "Nutrition: Santé de l'Enfant",
+            "Santé de l'enfant: Rapport mensuel UREN",
+            "Santé de l'enfant: Rapport Mensuel UREN-C",
+            "Santé de l'enfant: Rapport mensuel CREN",
+            "PEV: Rapport mensuel de vaccination par stratégie",
+            "PEV: District Rapport mensuel Logistique",
+            "PEV: RM Rapport mensuel Logistique",
+            "PEV: PPS Rapport mensuel logistique",
+            "Rapport global: Finances",
+            "Rapport global: Morbidité et mortalité du centre de santé",
+            "Rapport global: Morbidité et mortalité du poste de santé",
+            "Rapport global: Activités curatives de centre de santé",
+            "Rapport global: Activités curatives de poste de santé"
+          ],
+          "lignes": [
+            {
+              "Région/Rapport": "Dakar",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "93,9",
+              "Santé de l'enfant: Rapport mensuel UREN": "88,8",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "78,2",
+              "Santé de l'enfant: Rapport mensuel CREN": "86,7",
+              "PEV: Rapport mensuel de vaccination par stratégie": "98",
+              "PEV: District Rapport mensuel Logistique": "100",
+              "PEV: RM Rapport mensuel Logistique": "100",
+              "PEV: PPS Rapport mensuel logistique": "91,5",
+              "Rapport global: Finances": "72,8",
+              "Rapport global: Morbidité et mortalité du centre de santé": "84,1",
+              "Rapport global: Morbidité et mortalité du poste de santé": "94,8",
+              "Rapport global: Activités curatives de centre de santé": "79,4",
+              "Rapport global: Activités curatives de poste de santé": "92,2"
+            },
+            {
+              "Région/Rapport": "Diourbel",
+              "Santé de la mère et du nouveau-né": "94,4",
+              "Nutrition: Santé de l'Enfant": "90,3",
+              "Santé de l'enfant: Rapport mensuel UREN": "86,5",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "59",
+              "Santé de l'enfant: Rapport mensuel CREN": "34,1",
+              "PEV: Rapport mensuel de vaccination par stratégie": "92,3",
+              "PEV: District Rapport mensuel Logistique": "77,1",
+              "PEV: RM Rapport mensuel Logistique": "100",
+              "PEV: PPS Rapport mensuel logistique": "88",
+              "Rapport global: Finances": "78",
+              "Rapport global: Morbidité et mortalité du centre de santé": "47,9",
+              "Rapport global: Morbidité et mortalité du poste de santé": "93,3",
+              "Rapport global: Activités curatives de centre de santé": "49",
+              "Rapport global: Activités curatives de poste de santé": "94,1"
+            },
+            {
+              "Région/Rapport": "Fatick",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "98",
+              "Santé de l'enfant: Rapport mensuel UREN": "96,4",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "63,6",
+              "Santé de l'enfant: Rapport mensuel CREN": "100",
+              "PEV: Rapport mensuel de vaccination par stratégie": "100",
+              "PEV: District Rapport mensuel Logistique": "60,7",
+              "PEV: RM Rapport mensuel Logistique": "0",
+              "PEV: PPS Rapport mensuel logistique": "87,8",
+              "Rapport global: Finances": "77,2",
+              "Rapport global: Morbidité et mortalité du centre de santé": "96,9",
+              "Rapport global: Morbidité et mortalité du poste de santé": "90,2",
+              "Rapport global: Activités curatives de centre de santé": "69,7",
+              "Rapport global: Activités curatives de poste de santé": "91,2"
+            },
+            {
+              "Région/Rapport": "Kaffrine",
+              "Santé de la mère et du nouveau-né": "99,8",
+              "Nutrition: Santé de l'Enfant": "94,8",
+              "Santé de l'enfant: Rapport mensuel UREN": "94,7",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "88,3",
+              "Santé de l'enfant: Rapport mensuel CREN": "83,3",
+              "PEV: Rapport mensuel de vaccination par stratégie": "97,8",
+              "PEV: District Rapport mensuel Logistique": "97,9",
+              "PEV: RM Rapport mensuel Logistique": "66,7",
+              "PEV: PPS Rapport mensuel logistique": "96,3",
+              "Rapport global: Finances": "82,4",
+              "Rapport global: Morbidité et mortalité du centre de santé": "93,8",
+              "Rapport global: Morbidité et mortalité du poste de santé": "94",
+              "Rapport global: Activités curatives de centre de santé": "91,7",
+              "Rapport global: Activités curatives de poste de santé": "95,3"
+            },
+            {
+              "Région/Rapport": "Kaolack",
+              "Santé de la mère et du nouveau-né": "99,2",
+              "Nutrition: Santé de l'Enfant": "92,4",
+              "Santé de l'enfant: Rapport mensuel UREN": "86,2",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "83",
+              "Santé de l'enfant: Rapport mensuel CREN": "72,9",
+              "PEV: Rapport mensuel de vaccination par stratégie": "96,1",
+              "PEV: District Rapport mensuel Logistique": "89,6",
+              "PEV: RM Rapport mensuel Logistique": "100",
+              "PEV: PPS Rapport mensuel logistique": "95,6",
+              "Rapport global: Finances": "64,2",
+              "Rapport global: Morbidité et mortalité du centre de santé": "85,4",
+              "Rapport global: Morbidité et mortalité du poste de santé": "94,8",
+              "Rapport global: Activités curatives de centre de santé": "93,8",
+              "Rapport global: Activités curatives de poste de santé": "86,7"
+            },
+            {
+              "Région/Rapport": "Kédougou",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "96,5",
+              "Santé de l'enfant: Rapport mensuel UREN": "93,2",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "95,1",
+              "Santé de l'enfant: Rapport mensuel CREN": "100",
+              "PEV: Rapport mensuel de vaccination par stratégie": "100",
+              "PEV: District Rapport mensuel Logistique": "100",
+              "PEV: RM Rapport mensuel Logistique": "100",
+              "PEV: PPS Rapport mensuel logistique": "94,9",
+              "Rapport global: Finances": "89,8",
+              "Rapport global: Morbidité et mortalité du centre de santé": "97,2",
+              "Rapport global: Morbidité et mortalité du poste de santé": "93,6",
+              "Rapport global: Activités curatives de centre de santé": "97,2",
+              "Rapport global: Activités curatives de poste de santé": "91,4"
+            },
+            {
+              "Région/Rapport": "Kolda",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "96,6",
+              "Santé de l'enfant: Rapport mensuel UREN": "99,6",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "63,3",
+              "Santé de l'enfant: Rapport mensuel CREN": "91,7",
+              "PEV: Rapport mensuel de vaccination par stratégie": "96,6",
+              "PEV: District Rapport mensuel Logistique": "75",
+              "PEV: RM Rapport mensuel Logistique": "0",
+              "PEV: PPS Rapport mensuel logistique": "91,8",
+              "Rapport global: Finances": "70,7",
+              "Rapport global: Morbidité et mortalité du centre de santé": "56,7",
+              "Rapport global: Morbidité et mortalité du poste de santé": "64",
+              "Rapport global: Activités curatives de centre de santé": "55",
+              "Rapport global: Activités curatives de poste de santé": "75,7"
+            },
+            {
+              "Région/Rapport": "Louga",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "74,2",
+              "Santé de l'enfant: Rapport mensuel UREN": "94",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "59,2",
+              "Santé de l'enfant: Rapport mensuel CREN": "64,2",
+              "PEV: Rapport mensuel de vaccination par stratégie": "98,5",
+              "PEV: District Rapport mensuel Logistique": "67,7",
+              "PEV: RM Rapport mensuel Logistique": "100",
+              "PEV: PPS Rapport mensuel logistique": "85,7",
+              "Rapport global: Finances": "57,8",
+              "Rapport global: Morbidité et mortalité du centre de santé": "93,3",
+              "Rapport global: Morbidité et mortalité du poste de santé": "76,6",
+              "Rapport global: Activités curatives de centre de santé": "71,2",
+              "Rapport global: Activités curatives de poste de santé": "74,3"
+            },
+            {
+              "Région/Rapport": "Matam",
+              "Santé de la mère et du nouveau-né": "94,9",
+              "Nutrition: Santé de l'Enfant": "84,8",
+              "Santé de l'enfant: Rapport mensuel UREN": "93,8",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "41,3",
+              "Santé de l'enfant: Rapport mensuel CREN": "100",
+              "PEV: Rapport mensuel de vaccination par stratégie": "98,5",
+              "PEV: District Rapport mensuel Logistique": "35,4",
+              "PEV: RM Rapport mensuel Logistique": "100",
+              "PEV: PPS Rapport mensuel logistique": "62,6",
+              "Rapport global: Finances": "64",
+              "Rapport global: Morbidité et mortalité du centre de santé": "85,4",
+              "Rapport global: Morbidité et mortalité du poste de santé": "89,1",
+              "Rapport global: Activités curatives de centre de santé": "75",
+              "Rapport global: Activités curatives de poste de santé": "81,5"
+            },
+            {
+              "Région/Rapport": "Saint-Louis",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "95,7",
+              "Santé de l'enfant: Rapport mensuel UREN": "100",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "83",
+              "Santé de l'enfant: Rapport mensuel CREN": "90",
+              "PEV: Rapport mensuel de vaccination par stratégie": "96,8",
+              "PEV: District Rapport mensuel Logistique": "43,3",
+              "PEV: RM Rapport mensuel Logistique": "0",
+              "PEV: PPS Rapport mensuel logistique": "77,5",
+              "Rapport global: Finances": "80,4",
+              "Rapport global: Morbidité et mortalité du centre de santé": "93,5",
+              "Rapport global: Morbidité et mortalité du poste de santé": "87,8",
+              "Rapport global: Activités curatives de centre de santé": "91,7",
+              "Rapport global: Activités curatives de poste de santé": "87,9"
+            },
+            {
+              "Région/Rapport": "Sédhiou",
+              "Santé de la mère et du nouveau-né": "96,6",
+              "Nutrition: Santé de l'Enfant": "97,6",
+              "Santé de l'enfant: Rapport mensuel UREN": "98,4",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "96,5",
+              "Santé de l'enfant: Rapport mensuel CREN": "100",
+              "PEV: Rapport mensuel de vaccination par stratégie": "96,1",
+              "PEV: District Rapport mensuel Logistique": "77,8",
+              "PEV: RM Rapport mensuel Logistique": "100",
+              "PEV: PPS Rapport mensuel logistique": "96",
+              "Rapport global: Finances": "100",
+              "Rapport global: Morbidité et mortalité du centre de santé": "100",
+              "Rapport global: Morbidité et mortalité du poste de santé": "96,2",
+              "Rapport global: Activités curatives de centre de santé": "75",
+              "Rapport global: Activités curatives de poste de santé": "98,1"
+            },
+            {
+              "Région/Rapport": "Tambacounda",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "96",
+              "Santé de l'enfant: Rapport mensuel UREN": "97,3",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "80,2",
+              "Santé de l'enfant: Rapport mensuel CREN": "95,2",
+              "PEV: Rapport mensuel de vaccination par stratégie": "97,6",
+              "PEV: District Rapport mensuel Logistique": "63,1",
+              "PEV: RM Rapport mensuel Logistique": "100",
+              "PEV: PPS Rapport mensuel logistique": "96,5",
+              "Rapport global: Finances": "73,2",
+              "Rapport global: Morbidité et mortalité du centre de santé": "100",
+              "Rapport global: Morbidité et mortalité du poste de santé": "94,2",
+              "Rapport global: Activités curatives de centre de santé": "85,4",
+              "Rapport global: Activités curatives de poste de santé": "94,9"
+            },
+            {
+              "Région/Rapport": "Thiès",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "98,1",
+              "Santé de l'enfant: Rapport mensuel UREN": "89,8",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "86,5",
+              "Santé de l'enfant: Rapport mensuel CREN": "70,2",
+              "PEV: Rapport mensuel de vaccination par stratégie": "99,8",
+              "PEV: District Rapport mensuel Logistique": "89,8",
+              "PEV: RM Rapport mensuel Logistique": "50",
+              "PEV: PPS Rapport mensuel logistique": "99,3",
+              "Rapport global: Finances": "74,5",
+              "Rapport global: Morbidité et mortalité du centre de santé": "90",
+              "Rapport global: Morbidité et mortalité du poste de santé": "96,7",
+              "Rapport global: Activités curatives de centre de santé": "99,1",
+              "Rapport global: Activités curatives de poste de santé": "97,1"
+            },
+            {
+              "Région/Rapport": "Ziguinchor",
+              "Santé de la mère et du nouveau-né": "100",
+              "Nutrition: Santé de l'Enfant": "100",
+              "Santé de l'enfant: Rapport mensuel UREN": "100",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "100",
+              "Santé de l'enfant: Rapport mensuel CREN": "83,3",
+              "PEV: Rapport mensuel de vaccination par stratégie": "98,5",
+              "PEV: District Rapport mensuel Logistique": "98,3",
+              "PEV: RM Rapport mensuel Logistique": "33,3",
+              "PEV: PPS Rapport mensuel logistique": "98",
+              "Rapport global: Finances": "92,1",
+              "Rapport global: Morbidité et mortalité du centre de santé": "98,3",
+              "Rapport global: Morbidité et mortalité du poste de santé": "96,9",
+              "Rapport global: Activités curatives de centre de santé": "98,3",
+              "Rapport global: Activités curatives de poste de santé": "99"
+            },
+            {
+              "Région/Rapport": "Sénégal",
+              "Santé de la mère et du nouveau-né": "98,9",
+              "Nutrition: Santé de l'Enfant": "93,4",
+              "Santé de l'enfant: Rapport mensuel UREN": "93,8",
+              "Santé de l'enfant: Rapport Mensuel UREN-C": "76,6",
+              "Santé de l'enfant: Rapport mensuel CREN": "80,5",
+              "PEV: Rapport mensuel de vaccination par stratégie": "97,8",
+              "PEV: District Rapport mensuel Logistique": "76,4",
+              "PEV: RM Rapport mensuel Logistique": "63,9",
+              "PEV: PPS Rapport mensuel logistique": "90,2",
+              "Rapport global: Finances": "75,4",
+              "Rapport global: Morbidité et mortalité du centre de santé": "86,3",
+              "Rapport global: Morbidité et mortalité du poste de santé": "91",
+              "Rapport global: Activités curatives de centre de santé": "79,3",
+              "Rapport global: Activités curatives de poste de santé": "90,3"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "4.2. Données des activités curatives",
+      "texte": "4.2.1. Activités curatives des postes de santé, centres de santé et structures sanitaires privées par régionRépartition du nombre de consultants et de consultations par tranche d'âge et par région.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 19: Consultants et consultations par tranche d'âge selon la région",
+          "colonnes": [
+            "Région",
+            "Type",
+            "0-11 mois",
+            "12-59 mois",
+            "5-14 ans",
+            "15-19 ans",
+            "20-25 ans",
+            "26-49 ans",
+            "50-59 ans",
+            ">= 60 ans",
+            "Âge ND",
+            "Total"
+          ],
+          "lignes": [
+            {
+              "Région": "Dakar",
+              "Type": "Consultants",
+              "0-11 mois": "193 420",
+              "12-59 mois": "419 456",
+              "5-14 ans": "288 166",
+              "15-19 ans": "175 535",
+              "20-25 ans": "234 362",
+              "26-49 ans": "384 834",
+              "50-59 ans": "122 774",
+              ">= 60 ans": "96 395",
+              "Âge ND": "29 510",
+              "Total": "1 944 452"
+            },
+            {
+              "Région": "Dakar",
+              "Type": "Consultations",
+              "0-11 mois": "193 774",
+              "12-59 mois": "419 456",
+              "5-14 ans": "290 073",
+              "15-19 ans": "177 823",
+              "20-25 ans": "238 643",
+              "26-49 ans": "397 836",
+              "50-59 ans": "127 473",
+              ">= 60 ans": "104 448",
+              "Âge ND": "32 026",
+              "Total": "1 981 552"
+            },
+            {
+              "Région": "Diourbel",
+              "Type": "Consultants",
+              "0-11 mois": "81 739",
+              "12-59 mois": "155 303",
+              "5-14 ans": "115 388",
+              "15-19 ans": "77 003",
+              "20-25 ans": "85 631",
+              "26-49 ans": "123 002",
+              "50-59 ans": "48 527",
+              ">= 60 ans": "54 686",
+              "Âge ND": "9 244",
+              "Total": "750 523"
+            },
+            {
+              "Région": "Diourbel",
+              "Type": "Consultations",
+              "0-11 mois": "87 061",
+              "12-59 mois": "161 955",
+              "5-14 ans": "120 747",
+              "15-19 ans": "81 599",
+              "20-25 ans": "92 032",
+              "26-49 ans": "132 350",
+              "50-59 ans": "55 546",
+              ">= 60 ans": "64 613",
+              "Âge ND": "11 251",
+              "Total": "807 154"
+            },
+            {
+              "Région": "Fatick",
+              "Type": "Consultants",
+              "0-11 mois": "59 708",
+              "12-59 mois": "110 266",
+              "5-14 ans": "62 985",
+              "15-19 ans": "38 362",
+              "20-25 ans": "41 042",
+              "26-49 ans": "73 531",
+              "50-59 ans": "29 458",
+              ">= 60 ans": "41 240",
+              "Âge ND": "4 861",
+              "Total": "461 453"
+            },
+            {
+              "Région": "Fatick",
+              "Type": "Consultations",
+              "0-11 mois": "63 674",
+              "12-59 mois": "116 224",
+              "5-14 ans": "66 109",
+              "15-19 ans": "40 480",
+              "20-25 ans": "44 458",
+              "26-49 ans": "78 716",
+              "50-59 ans": "36 765",
+              ">= 60 ans": "46 542",
+              "Âge ND": "5 650",
+              "Total": "498 618"
+            },
+            {
+              "Région": "Kaffrine",
+              "Type": "Consultants",
+              "0-11 mois": "79 926",
+              "12-59 mois": "122 644",
+              "5-14 ans": "51 420",
+              "15-19 ans": "35 486",
+              "20-25 ans": "42 745",
+              "26-49 ans": "78 266",
+              "50-59 ans": "28 302",
+              ">= 60 ans": "36 365",
+              "Âge ND": "2 367",
+              "Total": "477 521"
+            },
+            {
+              "Région": "Kaffrine",
+              "Type": "Consultations",
+              "0-11 mois": "82 524",
+              "12-59 mois": "126 748",
+              "5-14 ans": "53 471",
+              "15-19 ans": "36 859",
+              "20-25 ans": "44 314",
+              "26-49 ans": "81 105",
+              "50-59 ans": "30 471",
+              ">= 60 ans": "39 530",
+              "Âge ND": "2 647",
+              "Total": "497 669"
+            },
+            {
+              "Région": "Kaolack",
+              "Type": "Consultants",
+              "0-11 mois": "71 512",
+              "12-59 mois": "127 047",
+              "5-14 ans": "80 729",
+              "15-19 ans": "57 596",
+              "20-25 ans": "61 023",
+              "26-49 ans": "97 032",
+              "50-59 ans": "35 206",
+              ">= 60 ans": "39 539",
+              "Âge ND": "3 180",
+              "Total": "572 864"
+            },
+            {
+              "Région": "Kaolack",
+              "Type": "Consultations",
+              "0-11 mois": "71 512",
+              "12-59 mois": "127 389",
+              "5-14 ans": "81 541",
+              "15-19 ans": "58 041",
+              "20-25 ans": "63 162",
+              "26-49 ans": "99 656",
+              "50-59 ans": "37 028",
+              ">= 60 ans": "42 905",
+              "Âge ND": "3 343",
+              "Total": "584 577"
+            },
+            {
+              "Région": "Kédougou",
+              "Type": "Consultants",
+              "0-11 mois": "15 711",
+              "12-59 mois": "36 048",
+              "5-14 ans": "28 427",
+              "15-19 ans": "17 766",
+              "20-25 ans": "21 023",
+              "26-49 ans": "34 527",
+              "50-59 ans": "5 617",
+              ">= 60 ans": "6 013",
+              "Âge ND": "1 005",
+              "Total": "166 137"
+            },
+            {
+              "Région": "Kédougou",
+              "Type": "Consultations",
+              "0-11 mois": "16 127",
+              "12-59 mois": "36 427",
+              "5-14 ans": "29 145",
+              "15-19 ans": "18 054",
+              "20-25 ans": "21 402",
+              "26-49 ans": "35 470",
+              "50-59 ans": "6 130",
+              ">= 60 ans": "6 563",
+              "Âge ND": "1 131",
+              "Total": "170 449"
+            },
+            {
+              "Région": "Kolda",
+              "Type": "Consultants",
+              "0-11 mois": "35 681",
+              "12-59 mois": "72 726",
+              "5-14 ans": "59 392",
+              "15-19 ans": "34 146",
+              "20-25 ans": "37 354",
+              "26-49 ans": "66 317",
+              "50-59 ans": "16 859",
+              ">= 60 ans": "17 458",
+              "Âge ND": "2 862",
+              "Total": "342 795"
+            },
+            {
+              "Région": "Kolda",
+              "Type": "Consultations",
+              "0-11 mois": "35 772",
+              "12-59 mois": "72 890",
+              "5-14 ans": "59 392",
+              "15-19 ans": "34 146",
+              "20-25 ans": "37 354",
+              "26-49 ans": "66 317",
+              "50-59 ans": "16 859",
+              ">= 60 ans": "17 458",
+              "Âge ND": "2 862",
+              "Total": "343 050"
+            }
+          ]
+        }
+      ],
+      "images": []
+    }
+  ]
+}

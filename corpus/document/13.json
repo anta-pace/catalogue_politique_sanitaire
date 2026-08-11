@@ -1,0 +1,629 @@
+{
+  "metadata": {
+    "titre": "ETUDE SUR LES DÉPENSES CATASTROPHIQUES DE SANTÉ ET LEUR IMPACT SUR L'APPAUVRISSEMENT ET L'UTILISATION DES SERVICES AU SÉNÉGAL 2014 & 2018-2019",
+    "annee": "2021",
+    "source": "Ministère de la Santé et de l'Action Sociale (MSAS), Direction de la Planification, de la Recherche et des Statistiques, Cellule d'Economie de la Santé - République du Sénégal",
+    "type_document": "Rapport d'étude"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de couverture",
+      "texte": "RÉPUBLIQUE DU SÉNÉGAL - UN PEUPLE - UN BUT - UNE FOI. MINISTÈRE DE LA SANTÉ ET DE L'ACTION SOCIALE. Direction de la Planification, de la Recherche et des Statistiques. Cellule d'Economie de la Santé. ETUDE SUR LES DÉPENSES CATASTROPHIQUES DE SANTÉ ET LEUR IMPACT SUR L'APPAUVRISSEMENT ET L'UTILISATION DES SERVICES AU SÉNÉGAL 2014 & 2018-2019. 2021",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Drapeau du Sénégal",
+          "description": "Drapeau de la République du Sénégal avec les couleurs vert, jaune, rouge et une étoile verte au centre, accompagné du texte RÉPUBLIQUE DU SÉNÉGAL, UN PEUPLE - UN BUT - UNE FOI."
+        },
+        {
+          "type": "image",
+          "categorie": "logo",
+          "titre": "Logo du Ministère de la Santé et de l'Action Sociale",
+          "description": "Logo représentant un serpent rouge stylisé formant un cœur, accompagné du texte MINISTÈRE DE LA SANTÉ ET DE L'ACTION SOCIALE."
+        },
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Photographie illustrative",
+          "description": "Photographie composite en teinte verte représentant un stéthoscope, des billets de banque FCFA et des pièces de monnaie, illustrant le thème des dépenses de santé."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "Sommaire",
+      "texte": "REMERCIEMENTS 6. PRÉFACE 7. COMITE TECHNIQUE 8. SIGLES ET ABREVIATIONS 9. RESUME 10. INTRODUCTION 12. I. OBJECTIFS DE L'ÉTUDE 14. I.1. Objectif général 14. I.2. Objectifs spécifiques 14. II. PRESENTATION DU PAYS 14. III. METHODOLOGIE 15. III.1. Présentation des données 15. III.2. Définition et construction des variables de l'étude 15. IV. LIMITES DE L'ETUDE 19. V. ANALYSES DES RESULTATS 20. V.1. Besoin déclaré et utilisation des structures de santé 20. V.2. Evolution de quelques indicateurs de dépenses ménages entre 2014 et 2019 20. V.3. Structure des paiements directs par quintile 22. V.4. Part des paiements directs de santé en pourcentage de la capacité à payer par quintile 22. V.5. Part des paiements directs de santé en pourcentage des dépenses totales par quintile 23. V.6. Evolution des dépenses catastrophiques de santé en fonction du seuil considéré 23. V.7. Objet des paiements directs par milieu de résidence 25. V.8. Impact des paiements directs sur la pauvreté 25. V.9. Montant moyen à transférer 26. V.10. Les déterminants des dépenses catastrophiques de santé 27. VI. RECOMMANDATIONS 30. CONCLUSION 31. BIBLIOGRAPHIE 32. ANNEXES 33.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des tableaux",
+      "texte": "Tableau 1 : Besoin déclaré et utilisation des structures de santé 20. Tableau 2 : Évolutions de quelques indicateurs de dépenses ménages entre 2014 et 2019 21. Tableau 3 : Répartitions des dépenses de santé par quintile (2019) 21. Tableau 4 : Impact des paiements directs sur la pauvreté 26. Tableau 5 : Montants (moyen et total) à transférer 26. Tableau 6 : Résultats de l'estimation du modèle 29. Tableau 7 : Structure des paiements directs par quintile (Données graphique 1) 33. Tableau 8 : Part des paiements directs de santé en % de la capacité à payer parquintile (Données graphique 2) 33. Tableau 10: Dépenses catastrophiques de santé en fonction du seuilconsidéré (Données graphique 4) 33. Tableau 11 : Répartition des paiement directs par milieu de résidence (Donnéesgraphique 5) 33. Tableau 12 : Estimation des DCS par modèle logit 34.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Liste des graphiques",
+      "texte": "Graphique 1 : Structure des paiements directs par quintile 22. Graphique 2 : Part des paiements directs de santé en % de la capacité à payer par quintile 23. Graphique 3 : Part des paiements directs de santé en pourcentage des dépenses totales par quintile 23. Graphique 4 : Dépenses catastrophiques de santé en fonction du seuil considéré 24. Graphique 5 : Répartition des paiements directs par milieu de résidence 25.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "REMERCIEMENTS",
+      "texte": "L'élaboration de ce présent rapport sur les « Dépenses catastrophiques de Santé (DCS) et leur impact sur l'appauvrissement et l'utilisation des services au Sénégal, 2014 et 2019 » a été réalisée par un consultant recruté par l'Organisation Mondiale de la Santé (OMS) sur demande du Ministère de la Santé et de l'Action Sociale (MSAS) sous la supervision d'un Comité technique (CT). Sa réalisation a été essentiellement financée par l'OMS. Le MSAS saisit l'occasion pour adresser ses sincères remerciements aux autres structures de l'État et aux partenaires techniques et financiers qui n'ont ménagé aucun effort pour la réussite de cet exercice. Il y a lieu ici de magnifier les contributions techniques significatives de tous les experts qui ont participé aux travaux. Mention spéciale est faite: à l'équipe de l'OMS-Bureau de Dakar qui a financé l'étude; au Consultant mandaté par l'OMS pour réaliser l'étude; à la Cellule d'Économie de la Sante (CES) qui a assuré le suivi de la mission; aux membres du Comité technique de l'étude pour leur compétence et leur disponibilité; à l'équipe qui avait réalisé la première étude sur les DCS au Sénégal en 2012; à l'Agence Nationale de la Statistique et de la Démographie (ANSD); à l'Agence nationale de la couverture maladie universelle (ANACMU); au Point Focal de Global network for health financing (P4H); à l'United Nations of International Children's Emergency Fund (UNICEF). A toutes les personnes physiques ou morales qui n'ont ménagé aucun effort pour la réussite de cet important exercice, nous exprimons nos remerciements. Le Directeur de la Planifiaction de la Recherche et des Statistiques. Dr Youssoupha NDIAYE",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "PRÉFACE",
+      "texte": "Le Gouvernement du Sénégal a élevé, au rang de priorité nationale, la Couverture sanitaire universelle qui comprend deux dimensions : la protection contre les risques financiers liés à la maladies et l'accès équitable à des biens et services de santé de qualité. Ces eux dimensions sont prises en compte dans le Plan Sénégal Émergent dont l'axe 2 poursuit à terme, l'objectif « d'assurer à toute la population un accès à des services de santé de qualité sur la base d'un financement durable respectant les principes d'équité et de solidarité, indépendamment de la solvabilité des bénéficiaires ». Dans cette perspective, l'État s'est engagé dans différentes stratégies pour amoindrir les paiements directs, notamment la promotion des mutuelles de santé et la gratuité des soins des enfants âgés de 0 à 5 ans, de la prise en charge des personnes du troisième âge, de la dialyse et de la césarienne. A cela s'ajoute l'élaboration d'importants documents stratégiques tels que la Stratégie nationale de protection sociale 2013-2017, la Stratégie national de financement de la Santé, le Programme national de développement sanitaire ert sociale 2019-2028. Des mesures d'extension de la couverture du risque maladie aux groupes vulnérables du secteur informel et des zones rurales ont également été prises à travers la promotion des mutuelles communautaires de santé. La présente étude a été initié par le ministère de la Santé et de l'Action sociale, afin d'évaluer les progrès réalisés dans la protection financière des ménages. L'étude a permis de déterminer la prévalence et les facteurs favorisant l'occurrence des dépenses catastrophiques de santé au Sénégal ainsi que leur impact sur l'appauvrissement des ménages et l'utilisation des services de santé.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "signature",
+          "titre": "Cachet et signature du Ministre",
+          "description": "Cachet officiel rond du Ministère de la Santé et de l'Action Sociale de la République du Sénégal avec la mention 'Le Ministre', et signature manuscrite d'Abdoulaye Diouf SARR."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "COMITE TECHNIQUE",
+      "texte": "Liste des membres du Comité technique ayant participé à l'étude, avec leurs fonctions, structures et responsabilités.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Comité technique",
+          "colonnes": ["Nom et prénom", "Fonction", "Structure", "Responsabilité"],
+          "lignes": [
+            {"Nom et prénom": "Dr Youssoupha NDIAYE", "Fonction": "Directeur de la Planification, de la Recherche et des Statistiques", "Structure": "Direction de la Planification, de la Recherche et des Statistique/Ministère de la Santé et de l'Action Sociale (DPRS)", "Responsabilité": "C.T/E.S"},
+            {"Nom et prénom": "Mme. Thiané Guéye DIAW", "Fonction": "Coordonnatrice de la Cellule d'Economie de la Santé", "Structure": "Cellule d'Economie de la Santé(CES)/DPRS", "Responsabilité": "C.T/E.S"},
+            {"Nom et prénom": "Dr. Jeff KABINDA MAOTELA", "Fonction": "Coordinator Health System", "Structure": "Organisation Mondiale de la Sante (OMS)", "Responsabilité": "Point focal OMS"},
+            {"Nom et prénom": "M. Mame Abdoulaye GUEYE", "Fonction": "Point Focal de Global network for health financing (P4H)", "Structure": "German Federal Ministry for Economic Cooperation and Development (BMZ)", "Responsabilité": "CT"},
+            {"Nom et prénom": "M. Arona MBENGUE", "Fonction": "Economiste de la sante Chef de Division chargé des Études et Recherche", "Structure": "Agence Nationale de la Couverture Maladie Universelle (ANACMU)", "Responsabilité": "CT"},
+            {"Nom et prénom": "M. Magor SOW", "Fonction": "Economiste de la sante Chef de la Division Assistance Technique aux Mutuelles de Santé", "Structure": "ANACMU", "Responsabilité": "CT"},
+            {"Nom et prénom": "M. Malick DIOP", "Fonction": "Chef de la Division de la Comptabilité Nationale et des Synthèses et Etudes Analytiques (DCENSEA)", "Structure": "Agence Nationale de la Statistique et de la Démographie(ANSD)", "Responsabilité": "CT"},
+            {"Nom et prénom": "M. Alioune TAMBOURA", "Fonction": "Ingénieur statisticien Economiste au Bureau des Statistiques Sociales", "Structure": "ANSD", "Responsabilité": "CT"},
+            {"Nom et prénom": "Dr Aboubakry GOLLOCK", "Fonction": "Économiste de la santé, de l'innovation et de la propriété intellectuelle", "Structure": "consultant", "Responsabilité": ""},
+            {"Nom et prénom": "M. Pape Ibrahima NDOUR", "Fonction": "Ingénieur statisticien", "Structure": "Division du Système d'Information Sanitaire et Sociale/DPRS", "Responsabilité": "CT"},
+            {"Nom et prénom": "Mme Aïssatou Niang GUEYE", "Fonction": "Economiste", "Structure": "CES /DPRS", "Responsabilité": "E.S"},
+            {"Nom et prénom": "Mme Assiétou FALL", "Fonction": "Economiste de la santé", "Structure": "CES /DPRS", "Responsabilité": "E.S"},
+            {"Nom et prénom": "Mme Nguénar NDIAYE", "Fonction": "Economiste", "Structure": "CES /DPRS", "Responsabilité": "E.S"},
+            {"Nom et prénom": "M. Abdoulaye FAYE", "Fonction": "Statisticien Economiste", "Structure": "CES /DPRS", "Responsabilité": "E.S."},
+            {"Nom et prénom": "M. Ibrahima NGOM", "Fonction": "Gestionnaire de projet", "Structure": "CES /DPRS", "Responsabilité": "E.S."},
+            {"Nom et prénom": "M. Cheikh BA", "Fonction": "Technicien en enseignement administration", "Structure": "CES /DPRS", "Responsabilité": "E.S"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "SIGLES ET ABREVIATIONS",
+      "texte": "Liste des sigles et abréviations utilisés dans le document.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Sigles et abréviations",
+          "colonnes": ["Sigle", "Signification"],
+          "lignes": [
+            {"Sigle": "ANACMU", "Signification": "Agence nationale de la couverture maladie universelle"},
+            {"Sigle": "ANSD", "Signification": "Agence Nationale de la Statistique et de la Démographie"},
+            {"Sigle": "CES", "Signification": "Cellule Économie de la Santé"},
+            {"Sigle": "CMU", "Signification": "Couverture Maladie universelle"},
+            {"Sigle": "CNS", "Signification": "Comptes Nationaux de la Santé"},
+            {"Sigle": "COVID-19", "Signification": "Coronavirus Disease 2019"},
+            {"Sigle": "CSU", "Signification": "Couverture sanitaire universelle"},
+            {"Sigle": "CT", "Signification": "Comité technique"},
+            {"Sigle": "DCS", "Signification": "Dépense catastrophique de Santé"},
+            {"Sigle": "DPRS", "Signification": "Direction de la Planification, de la Recherche et des Statistiques"},
+            {"Sigle": "EDS", "Signification": "Enquête Démographique et de Santé"},
+            {"Sigle": "EHCVM", "Signification": "Enquête Harmonisée sur les Conditions de Vie des Ménages"},
+            {"Sigle": "FCFA", "Signification": "Franc de la Communauté Financière Africaine"},
+            {"Sigle": "L2S", "Signification": "Listening To Sénégal"},
+            {"Sigle": "MSAS", "Signification": "Ministère de la santé et de l'action sociale"},
+            {"Sigle": "ODD", "Signification": "Objectifs de Développement Durable"},
+            {"Sigle": "P4H", "Signification": "Réseau Mondial pour les Systèmes de Financement de la Santé et la Protection Sociale en Santé"},
+            {"Sigle": "PIB", "Signification": "Produit Interieur Brut"},
+            {"Sigle": "PNDSS", "Signification": "Plan National de Développement. Sanitaire et Social"},
+            {"Sigle": "PSE", "Signification": "Plan Sénégal Émergeant"},
+            {"Sigle": "SNFS", "Signification": "Stratégie nationale de Financement de la Santé du Sénégal"},
+            {"Sigle": "UNICEF", "Signification": "United Nations of International Children's Emergency Fund"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "RESUME",
+      "texte": "En 2012, une étude du Ministère en charge de la santé au Sénégal avait révélé que 2,59 % des ménages faisaient face à des dépenses catastrophiques de santé (DCS) au seuil de 40%. Or, le Sénégal s'est engagé à l'atteinte des ODD. Ainsi, cette étude a été initiée afin d'évaluer les progrès réalisés. Elle vise à déterminer la prévalence et les facteurs contribuant aux DCS au Sénégal ainsi que leur impact sur l'appauvrissement et l'utilisation des services. La méthodologie utilisée pour le calcul des DCS est celle préconisée par l'OMS (Ke Xu, 2005, Adam et Ke Xu, 2008) selon laquelle un ménage fait face à des dépenses catastrophiques de santé si ses dépenses totales de santé sont supérieures ou égales à 40% de sa capacité à payer. Une régression logistique a été effectuée pour la détermination des facteurs explicatifs des dépenses catastrophiques de santé. Les données utilisées sont issues des bases de l'Enquête harmonisée sur les Conditions de Vie des Ménages (EHCVM) de 2018/2019 d'une part et de l'Enquête de référence à l'Ecoute du Sénégal ou Listening To Sénégal (L2S) de 2014/2015, d'autre part. L'étude montre que la proportion de la population ayant déclaré une maladie ou une blessure a fortement diminué entre 2014 et 2019, 46,2% contre 23,5%. En revanche, la proportion des malades ou blessés ayant recouru à une structure de santé s'est nettement amélioré, passant de 23,5% en 2014 à 60,7% en 2019. Les paiements directs de santé des ménages sénégalais s'élevaient, en moyenne, à 95 190 FCFA en 2014 et à 154 833 FCFA en 2019. Cependant, bien que le volume des paiements directs de santé ait augmenté, la proportion de ménages ayant effectué ces paiements a baissé, passant de 81,2% en 2014 à 74,8% en 2019. Les dépenses en médicaments représentent 61,3% des dépenses de santé en 2014 contre 51,8% en 2019 et constituent le premier poste de dépenses de santé des ménages tant en milieu urbain qu'en milieu rural et quel que soit le niveau de bien-être du ménage. Au seuil de 40%, 1,4% des ménages en 2014 et 1,1% en 2019 ont fait face à des dépenses catastrophiques de santé, soit respectivement 22 711 et 18 941 ménages. L'étude réalisée en 2012 avait montré que 2,59% des ménages faisaient face à des dépenses catastrophiques de santé au seuil de 40% ce qui représentait environ 38 056 ménages. Ainsi, entre 2011 et 2019, le nombre de ménages faisant face à des DCS a été réduit de moitié et l'incidence des DCS divisé par 2,35. Cela constitue une avancée importante dans la protection financière des populations contre les risques de basculement dans la pauvreté consécutive aux paiements au point de délivrance des services de santé. En termes d'impact des DCS sur l'appauvrissement des ménages, l'étude a démontré que les paiements directs de santé ont fait basculer 1,3% des ménages en dessous du seuil de pauvreté. Le taux d'appauvrissement est plus élevé en milieu rural (1,9%) qu'en milieu urbain (0,8%). Pour sortir ces ménages de la pauvreté l'étude a estimé qu'un transfert d'en moyenne 348 590 FCFA avant paiement direct et de 324 115 FCFA après paiement direct devra être effectué par ménage. Les principaux déterminants des DCS mis en évidence par la régression logistique sont le niveau de bien-être et le milieu de résidence des ménages ainsi les caractéristiques socioéconomiques du chef de ménage (CM) que sont le sexe, le niveau d'instruction, le rapport au marché du travail et la situation de handicap. Ainsi les ménages les plus pauvres (quintile 1) courent 4,4 fois plus de risque de faire face à des dépenses catastrophiques de santé que les ménages les plus riches (quintile 5) et ceux résidant en milieu rural ont 3,3 fois plus de chance d'en effectuer que les ménages urbains. Le risque d'encourir à des DCS est (i) 1,9 fois plus grand pour les ménages dirigés par un homme comparativement à ceux dirigés par une femme ; (ii) 2,8 fois plus grand pour les ménages dont le chef ne travaille pas par rapport à ceux dont le chef travaille ; (iii) 1,2 fois plus grand pour les ménages dont le chef présente un handicap. Le risque de DCS est 3,2 fois moindre pour les ménages dont le chef a un niveau d'éducation du secondaire que pour ceux dont le Chef n'a aucun niveau d'instruction. Le statut d'assuré ou non n'est pas un déterminant significatif de l'occurrence des dépenses catastrophiques de santé. Les principales recommandations découlant des résultats de l'étude s'articulent autour de l'amélioration des politiques visant l'atteinte de la CSU à travers une plus grande prise en charge des dépenses de médicaments, un meilleur ciblage des bénéficiaires de l'assurance sociale et une définition de paquets de services gratuits concordant à leurs besoins spécifiques.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "INTRODUCTION",
+      "texte": "Le droit à la santé est l'un des droits fondamentaux de tout être humain. Ainsi, en septembre 2015, les États membres de l'Organisation des Nations Unies (ONU) ont convenu d'atteindre, à l'horizon 2030, dix-sept (17) objectifs du développement durable (ODD) dont le troisième est consacré à la santé et au bien-être. La cible 3.8 de l'ODD 3 consiste spécifiquement à « faire en sorte que chacun bénéficie d'une couverture sanitaire universelle, comprenant une protection contre les risques financiers et donnant accès à des services de santé essentiels de qualité et à des médicaments et vaccins essentiels sûrs, efficaces, de qualité et d'un coût abordable ». Pourtant à l'échelle mondiale, le Rapport des Nations Unies sur les ODD de 2020 indique qu'en 2017, le nombre de personnes couvertes par des services de santé essentiels était seulement estimé entre 2,5 et 3,7 milliards, soit entre un tiers (1/3) et la moitié (1/2) de la population mondiale. Seuls 12 % à 27 % d'habitants de pays à faible revenu étaient entièrement couverts contre le risque sanitaire cette année-là. De même, la proportion de la population mondiale dépensant plus de 10 % du budget du ménage pour le paiement direct des soins de santé est passée à 9,4 %, 11,7 % et 12,7 % respectivement en 2000, 2010 et 2015. Ainsi, le nombre de personnes ayant engagé, à leur charge, des dépenses directes en santé supérieures à 10 % de l'ensemble de la consommation ou du revenu du ménage est passé de 808 millions en 2010 à environ un (01) milliard en 2020. En Afrique subsaharienne, des études menées sur les dépenses catastrophiques de santé (DCS) ont révélé que leur incidence était de 8.66% au seuil de 40% au Burkina Faso en 2006 et de 2,4% au seuil de 10% en Côte d'ivoire en 2015. Au Sénégal, les résultats de l'étude menée en 2012 par le Ministère de la santé et de la prévention avait montré que 2,59 % des ménages sénégalais faisaient face à des DCS au seuil de 40% et que 1,78 % s'étaient appauvris du fait des paiements directs. Les rapports des Comptes de la Santé du Sénégal de 2013, 2014 et 2016, montrent, par ailleurs que les ménages continuent d'être la source la plus importante du financement de la santé du pays. Leur contribution représentait 55,17% des dépenses totales de santé en 2013, 46,9% en 2014, 49,5% en 2015 et 48,8% en 2016. L'analyse de la répartition des paiements directs des ménages entre les différentes rubriques de dépenses de santé montre que ceux-ci sont principalement destinés à l'achat de médicaments. Cette part importante des paiements des ménages dans les dépenses de santé traduit le lourd fardeau qu'ils supportent pour leurs soins de santé. En outre, la situation sanitaire actuelle du Sénégal est marquée par une transition épidémiologique avec la persistance des maladies infectieuses/parasitaires et la prévalence de plus en plus forte des maladies dites de modernité (maladies chroniques, dégénératives, métaboliques, etc.). Les coûts élevés et récurrents des traitements liés à la prise en charge de ces maladies favorisent la hausse des dépenses de santé supportées par les populations. De plus, cette étude sur les DCS, bien que portant sur les années 2014 et 2019, est réalisée dans un contexte particulier de pandémie de la COVID-19 qui révèle les conséquences d'une crise sanitaire sur l'activité économique, en général, et les revenus des ménages, en particulier : la vulnérabilité des ménages et leur risque d'appauvrissement sont accentués et la capacité de l'État et de ses partenaires à allouer davantage de ressources au système de santé et à assurer une couverture sanitaire adéquate à l'ensemble de la population est grandement affecté. De surcroît, la majorité des ménages sénégalais étant dépourvus d'assurance santé adéquate, la survenance d'un risque sanitaire engendre une perturbation des conditions de vie matérielles et financières. Cela amène certains ménages à renoncer aux services de santé ou à adopter des stratégies d'évitement des structures de santé (automédication, recourt à des soins alternatifs, etc.). De telles situations font basculer davantage de franges de la population dans la précarité et l'extrême vulnérabilité, les maintiennent en mauvaise santé et dans le cercle vicieux de la pauvreté. Conscient de l'importance de la protection financière des ménages dans le développement économique et la résilience des systèmes de santé, l'État du Sénégal a fait, ces dernières années, d'importants efforts (aux niveaux stratégique et opérationnel) pour réduire la part des paiements directs des populations dans leur prise en charge sanitaire. Au niveau stratégique, l'accès des populations à des services de santé de qualité sur la base d'un financement durable respectant les principes d'équité et de solidarité, indépendamment de la solvabilité des bénéficiaires est traduit par l'axe 2 du Plan Sénégal Émergent (PSE) « amélioration significative des conditions de vie des populations, une lutte plus soutenue contre les inégalités sociales tout en préservant la base de ressources et en favorisant l'émergence de territoires viables ». En plus du PSE, cadre de référence des politiques publiques, il faut citer d'autres documents stratégiques notamment la Stratégie Nationale de financement de la santé 2017, la Stratégie nationale de protection sociale 2013-2017, le Programme National de développement sanitaire et social 2019-2028, le Dossier d'Investissement 2018-2022, etc. Au niveau opérationnel, l'Etat s'est engagé dans différents chantiers pour la Couverture sanitaire universelle (CSU) à travers notamment la promotion des mutuelles de santé, la gratuité des soins pour les enfants âgés de 0 à 5 ans, de la prise en charge des personnes de 60 ans et plus (Plan SESAME), de la dialyse, de la césarienne, etc. A ces initiatives, s'ajoutent d'autres mesures de protection sociale et financière pour l'autonomisation des groupes vulnérables (carte d'égalité des chances, les bourses de sécurité familiale) qui facilitent l'accès aux soins à leurs bénéficiaires. Au regard du nombre et de l'ampleur des initiatives prises par l'État du Sénégal pour assurer une protection financière adéquate et durable des populations dans l'utilisation des biens et services de santé depuis 2012, il est nécessaire d'actualiser la première étude sur les DCS réalisée au Sénégal avec l'appui de l'OMS. C'est pourquoi, une décennie après, le Ministère de la Santé et de l'Action sociale (MSAS) avec l'appui de l'OMS lance une nouvelle étude en vue, en autres, d'évaluer les progrès réalisés jusque-là dans la prise en charge des dépenses de santé susceptibles de faire basculer les ménages dans la pauvreté. Au-delà des comparaisons temporelles, elle sera aussi l'occasion de comparer le Sénégal avec certains pays qui ont réalisé des études sur les DCS. Aussi, ce travail permettra aux décideurs de disposer de données probantes à même de faciliter la prise de décision en vue d'améliorer la protection financière des populations. Le présent rapport vise à présenter les principaux résultats de l'étude sur les DCS au Sénégal en 2014 et 2019. Il est structuré en quatre parties. La première présente les objectifs de l'étude, la deuxième expose la méthodologie, la troisième présente et analyse les résultats et la quatrième décline les implications en termes de politiques sous forme de recommandations.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "VII. OBJECTIFS DE L'ÉTUDE",
+      "texte": "VII.1. Objectif général : Évaluer les dépenses catastrophiques de santé au Sénégal et leur impact sur l'appauvrissement et l'utilisation des services de 2014 et 2019. VII.2. Objectifs spécifiques : De façon spécifique, il s'agira de : analyser la proportion des ménages sénégalais qui fait face aux dépenses catastrophiques de santé; analyser la proportion des ménages appauvris du fait des dépenses directes de santé; mesurer le degré d'utilisation des services de santé par les ménages appauvris du fait des dépenses directes; analyser les déterminants des dépenses catastrophiques de santé; calculer les transferts à verser aux ménages vulnérables et appauvris pour faire face aux dépenses de santé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "VIII. PRESENTATION DU PAYS",
+      "texte": "Pays Soudano-Sahélien situé à l'extrême ouest du continent africain entre 12°5 et 16°5 de latitude nord et 11°5 et 17°5 de longitude ouest ; le Sénégal est limité au nord par la République islamique de Mauritanie, à l'est par le Mali, au sud par la Guinée Bissau et la République de Guinée et bordé à l'ouest par l'Océan Atlantique avec une façade maritime de plus de 700 km de long sur l'océan. Le Sénégal couvre une superficie de 196 712 Km². Au plan socio-sanitaire, à l'instar de certains pays d'Afrique subsaharienne ayant entamé leur transition démographique, le mouvement de la population sénégalaise est marqué par une baisse de la mortalité et un recul timide de la fécondité, engendrant une augmentation de la population. En effet, la population du Sénégal est passée de 13 508 715 en 2013 à 15 726 037 habitants en 2018. Le taux de croissance démographique annuel intercensitaire est de 2,5%. Par ailleurs, la tendance baissière de la mortalité s'observe à travers le taux mortalité notamment des enfants de moins de 5 ans comme le montrent les résultats les différentes enquêtes démographiques et de santé (EDS). En outre, toujours selon les EDS avec un indice synthétique de fécondité de 4,7 enfants par femme, le rythme de croissance de la population reste à un niveau relativement important. Au plan macroéconomique, l'économie sénégalaise a enregistré des taux de croissance relativement élevés durant la période couverte par l'étude. Sur la période 2014-2018, correspondant à la première phase de mise en œuvre du PSE, le taux de croissance du PIB est de 6,6% en moyenne. Cependant, en 2019, le taux de croissance du PIB réel a connu un infléchissement jusqu'à 4,4%, en raison d'un ralentissement des activités observées dans tous les secteurs économiques, entre 2018 et 2019 (ANSD, 2019) : secteur primaire (4,5% contre 8,1%), secteur secondaire (3,7% contre 6,5%), secteur tertiaire (4,6% contre 5,4%).",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "IX. METHODOLOGIE",
+      "texte": "L'étude se base sur la méthodologie proposée par l'OMS pour le calcul des DCS et de l'iniquité dans l'utilisation des services (Ke Xu, 2005, Adam et Ke Xu, 2008). Selon cette méthodologie, un ménage fait face à des dépenses catastrophiques si ses dépenses totales de santé sont supérieures ou égales à 40% de sa capacité à payer. La capacité à payer d'un ménage est calculée à partir des dépenses totales et des dépenses d'alimentation ajustées à la taille du ménage. Cette section présente les données, donne une définition opérationnelle des variables clés de l'étude. Le modèle utilisé pour identifier les déterminants de DCS au Sénégal ainsi que ses résultats est présenté dans la section suivante. En marge du seuil de 40 % retenu par l'OMS, les seuils de 25% et 10% sont également utilisés à des fins d'analyses et de comparaisons. Ces derniers sont, en effet, appliqués dans d'autres études pour calculer les DCS et suivre les indicateurs de Couverture Santé Universelle (CSU) dans le cadre du suivi des Objectifs de Développement Durable (ODD). Les résultats de la présente étude pourront ainsi être comparés avec ceux d'une étude réalisée au Sénégal sur les DCS en 2019 (mais ne couvrant que trois régions du pays) d'une part et ceux d'études réalisées au niveau international en utilisant les taux de 10 % et 25 % d'autre part.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "IX.1. Présentation des données",
+      "texte": "Les données utilisées sont principalement issues des bases des enquêtes ménages réalisées au Sénégal et relatives aux dépenses et à la consommation. Ces données sont recueillies auprès de l'Agence Nationale de la Statistique et de la Démographie (ANSD) qui en a assuré la collecte dans le cadre de l'Enquête harmonisée sur les Conditions de Vie des Ménages (EHCVM) de 2018/2019 d'une part et de l'Enquête de référence à l'Ecoute du Sénégal ou Listening To Sénégal (L2S) de 2014/2015 d'autre part. La taille de l'échantillon des ménages de l'EHCVM est estimée à 7 176 ménages et assure une représentativité jusqu'au niveau régional alors que celle de L2S est de 1500 ménages avec un niveau de représentativité nationale. Ces deux enquêtes réalisées à l'échelle nationale sur les ménages représentatifs incluent des données à un niveau individuel et un niveau ménage. Au niveau individuel, les données collectées sont relatives aux caractéristiques socio-économiques (âge, sexe, éducation, lieu de résidence, etc.) et à l'utilisation des services de santé de l'individu. Au niveau ménage, les données sont relatives aux dépenses totales de consommation, aux dépenses alimentaires, aux paiements directs de santé, aux primes d'assurance maladie, au nombre de personnes vivant dans le ménage, etc. Notons que la base de données de l'Enquête harmonisée sur les Conditions de Vie des Ménages (EHCVM) de 2018/2019 est plus complète que celle de l'Enquête de référence à l'Écoute du Sénégal ou Listening To Sénégal (L2S) de 2014/2015. Certaines variables collectées par l'enquête L2S (notamment celles portant sur l'utilisation des services) étant agrégées, la structure de l'étude sur les DCS de 2011 est utilisée pour leur désagrégation et l'analyse détaillée.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "IX.2. Définition et construction des variables de l'étude",
+      "texte": "Pour faciliter les comparaisons, les définitions des variables, la démarche adoptée pour leur construction ainsi que les sigles utilisés pour les illustrer seront les mêmes que ceux de l'étude de 2011 et de la plupart des études commanditées par l'OMS sur les DCS. Toutes les variables liées aux dépenses seront converties en un montant mensuel.Besoins déclarés (illness) : Les besoins déclarés (illness) sont obtenus en recensant l'ensemble des maladies déclarées par les individus durant une période définie qui précédent l'enquête. La variable prend la valeur 1 si l'individu déclare une maladie (paludisme, fièvre, diarrhée, etc.) et 0 dans le cas contraire.Utilisation des services (utilization) : L'utilisation des services (utilization) est obtenue en combinant les variables relatives aux questions portant sur la consultation (oui ou non) d'un service de santé, d'un guérisseur, ou d'un marabout durant une période prédestinée et le genre de service de santé qui a fait l'objet de cette consultation. Si l'enquêté répond par l'affirmative à la première question et que le service de santé consulté est un hôpital, une clinique, un centre, poste ou case de santé, un cabinet de médecin, de dentiste ou de sage-femme, la variable prend la modalité 1 « utilisation de service de santé » et 0 autrement. Le taux d'utilisation est obtenu en calculant la moyenne pondérée de la variable sur toute la population.Hospitalisation (hospitalization) : La variable hospitalisation (hospitalization) est construite en utilisant le proxy « est ce que l'individu a effectué une dépense d'hospitalisation pour la maladie dont il souffre », s'il répond par oui, l'hypothèse faite est qu'il a utilisé un service d'hospitalisation et la variable prend 1 et 0 dans le cas contraire. Le taux d'hospitalisation est obtenu en calculant la moyenne sur tous les individus qui ont répondu par l'affirmative à cette question.Paiement directs (oop) : Les paiements directs de santé font référence aux paiements effectués par les ménages quand ils utilisent les services de santé. Ils sont généralement réalisés au point de délivrance du bien ou service de santé et sont nets de tout remboursement d'assurance. Les dépenses liées au transport et à la nutrition spéciale sont exclues des paiements directs. Par contre, les dépenses effectuées chez les prestataires traditionnels y sont incluses. Les paiements directs sont approchés par les dépenses de santé portant sur les périodes concernées. Ils sont composés des dépenses de consultations (oop_fee), de médicaments et pharmacopée traditionnelle (oop_drug), d'hospitalisation (oop_in), d'examens biologiques et analyses (oop_exam) et des autres dépenses de santé (oop_other).Dépenses de consommation des ménages (exp) : Les dépenses de consommation des ménages comprennent les paiements monétaires et les dépenses en nature pour tous les biens et les services, ainsi que la valeur de l'autoconsommation. Les dépenses de consommation des ménages sont ainsi égales à la somme des dépenses alimentaires et des dépenses non alimentaires (y compris les dépenses en nature et celles qualifiées d'exceptionnelles).Dépenses alimentaires (food) : Les dépenses alimentaires des ménages correspondent au montant consacré à tous types de nourriture par les ménages, plus la valeur de l'auto-consommation. Ces dépenses excluent celles réalisées sur les boissons alcoolisées et la consommation alimentaire hors ménage (par exemple celles effectuées à l'hôtel ou au restaurant sont exclues).Dépenses non alimentaires (nfood) : Elles sont composées des dépenses en produits non alimentaires. Elles excluent les dépenses de consommations en tabac. Par contre, les dépenses de scolarisation et de santé sont prises en compte.Dépenses exceptionnelles (depexc) : Les dépenses exceptionnelles correspondent à celles liées aux constructions de logements, à l'achat de terrain et de logement clef en main, aux cérémonies diverses (baptême, mariage, anniversaire…), aux fêtes religieuses, aux impôts, colliers, chaînes, bracelets, etc.), aux achats de mobiliers et équipements durables, aux achats de moyens de transports et des grosses réparations.Détermination des dépenses de subsistance des ménages et du seuil de pauvreté : Dans cette méthodologie, le seuil de pauvreté utilisé correspond aux dépenses de subsistance.Calcul des dépenses de subsistance d'un ménage : Les dépenses de subsistance des ménages correspondent au montant minimum requis pour un niveau de vie basique dans la société. La démarche adoptée le calcul de celles-ci est la suivante :Étape 1 : on génère la part des dépenses d'alimentation sur les dépenses totales (foodexph) pour chaque ménage en divisant les dépenses d'alimentation du ménage par ses dépenses totales : foodexph = foodh / exph.Étape 2 : on détermine la taille équivalente du ménage (eqsize) qui est construite pour prendre en compte les économies d'échelles : eqsizeh = hhsizeh^β. Où hhsize est la taille du ménage. β = 0,56 valeur du paramètre estimée dans une étude antérieure basée sur des enquêtes auprès des ménages de 59 pays.Dans les étapes suivantes, les différents calculs seront effectués pour déterminer la capacité à payer.Etape 3 : on divise les dépenses d'alimentation de chaque ménage par sa taille de ménage équivalente afin d'obtenir ses dépenses d'alimentation « équivalentes » (eqfoodh) : eqfoodh = foodh / eqsizeh.Etape 4 : on classe les ménages par centile et on identifie les valeurs de parts des dépenses d'alimentation sur les dépenses totales (foodexph) qui sont entre le 45e et le 55e centile dans la population. Ces valeurs sont notées respectivement food45 et food55.Etape 5 : on calcule la moyenne pondérée des dépenses d'alimentation pour les ménages qui sont 45ème et 55ème centile. Ceci établit le niveau des dépenses de subsistance par personne « équivalente », ce qui correspond aussi au seuil de pauvreté de la population considérée : pl = Σ(wh * eqfoodh) / Σwh où food45<foodexph<food55.Etape 6 : on calcule les dépenses de subsistance pour chaque ménage (seh) : seh = pl * eqsizeh.Détermination du seuil de pauvreté : Il y a plusieurs façons de définir la pauvreté mais aucune n'est parfaite compte tenu de la théorie et de la faisabilité en pratique. Le seuil de pauvreté peut être relatif, absolue (généralement entre 1$ et 2 $) ou approché par un proxy comme la dépense de subsistance. Dans cette étude, le seuil de pauvreté utilisé correspond aux dépenses de subsistance du ménage médian ; c'est-à-dire du ménage qui se situe au 50ème centile de part des dépenses d'alimentation sur les dépenses totales. A cet effet, les dépenses moyennes d'alimentation des ménages dont la part des dépenses d'alimentation sur les dépenses totales se situe entre le 45ème et le 55ème centile sont utilisées afin de minimiser les erreurs de mesure. Ainsi, un ménage est considéré pauvre (poorh) quand ses dépenses totales (exph) sont inférieures à ses dépenses de subsistance (seh) : poorh=1 if exph<seh ; poorh=0 if exph≥seh.Capacité à payer du ménage (ctp) : La capacité à payer d'un ménage correspond à ses dépenses de non-subsistance. C'est-à-dire ce qui reste au ménage après la satisfaction de ses besoins en dépenses de subsistance. ctph= exph – seh if seh ≤ foodh ; ctph= exph – foodh if seh > foodh.Paiements direct exprimés en part de la capacité à payer (oopctp) : Pour identifier les ménages qui font face à des dépenses catastrophiques de santé, une variable (oopctp) est créée. Elle représente le fardeau des paiements directs de santé défini comme le pourcentage des paiements directs sur la capacité à payer d'un ménage : oopctph = oophctph.Dépenses de santé catastrophiques (cata) : Un ménage fait face à des dépenses catastrophiques quand ses paiements directs de santé sont supérieurs ou égaux à 40% de sa capacité à payer (en d'autres termes à ses dépenses de subsistance). Ce seuil de 40% peut changer selon la situation du pays considéré. La variable pour désigner les DCS est construite comme une variable muette, où la valeur 1 indique que le ménage a fait face à des dépenses catastrophiques et la valeur 0 que le ménage n'a pas fait face à des dépenses catastrophiques. catah = 1 si ooph/ctph ≥ 0.4 ; catah = 0 si ooph/ctph < 0.4.Appauvrissement (impoor) et calcul des montants à transférer : Un ménage non-pauvre est appauvri par des paiements de santé lorsqu'il tombe en dessous du seuil de pauvreté après avoir effectué ces paiements. Ainsi, la variable impoor prend la valeur 1 si un ménage est appauvri, et 0 autrement: impoorh = 1 si exph ≥ seh et exph – ooph < seh ; impoorh = 0 autrement. La différence entre la proportion de personnes en dessous du seuil de pauvreté avant et après les paiements directs nous permet d'estimer leur incidence sur la pauvreté durant les périodes de revue. La proportion des ménages appauvris du fait des paiements directs de santé a été analysée selon le lieu de résidence de ménages et les quintiles de bien-être. Le calcul des gaps à combler pour éviter que le ménages ne basculent ou ne restent dans la pauvreté nous a permis de déterminer les montants à transférer aux ménages pour alléger le fardeau des dépenses de santé. Ces montants moyens à transférer seront évalués par quintile de ménage.Détermination des quintiles de dépense : Les quintiles de dépenses sont générés en classant par ordre croissant la variable des dépenses totales du ménage ajusté pour sa taille équivalente (eqexph). Cette dernière est calculée de façon suivante : eqexph = exph/eqsizeh.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "X. LIMITES DE L'ETUDE",
+      "texte": "L'étude présente quelques limites inhérentes à la nature de certaines données collectées et d'autres biais : La base de l'EHCVM est plus complète que celle de l'enquête L2S. Ainsi la nature agrégée des dépenses de santé de la base de l'enquête L2S n'a pas permis de calculer les moyennes de dépenses de santé selon la nature de certaines prestations reçues ; Les rubriques des dépenses de santé et leur périodicité de mesure sont différents pour les deux bases de données utilisées ce qui constitue une source de biais. Comme pour la plupart des données d'enquêtes collectées sur des évènements passés, l'omission volontaire ou involontaire de paiements réalisés lors de l'utilisation des services de santé peut constituer une source de biais dans la détermination des montants exacts des dépenses de santé. Cependant la réduction de l'effet de ces biais de mémoire a été pris en compte dans le traitement des bases; la différence de périodicité de collecte des données sur les besoins déclarés, l'utilisation des services et les dépenses de santé des ménages rend difficile l'établissement d'un lien direct entre ces variables.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "XI. ANALYSES DES RESULTATS",
+      "texte": "XI.1. Besoin déclaré et utilisation des structures de santé : L'analyse du tableau ci-dessous montre que la proportion de la population ayant déclaré avoir eu une maladie et/ou blessures a fortement diminué entre 2014 et 2019 en passant de 46,2% à 23,5%. En revanche, la proportion des malades ou blessés ayant recouru à une structure de santé sur la période sous revue, s'est nettement améliorée en passant de 23,5% en 2014 à 60,7% en 2019. Ce résultat s'explique par la baisse des barrières financières suite aux initiatives de CSU, l'amélioration de l'accessibilité géographique de services de santé avec notamment la construction d'infrastructures de santé et leur dotation en personnel de santé. En tout état de cause, ce résultat met en évidence une utilisation moyenne plus importante des services de santé modernes par les populations. L'examen selon les quintiles de dépenses révèle que le recours à une structure ou service de soins en santé augmente avec le niveau de bien-être. En effet, en 2019, 51,1% des personnes malades ou blessées des ménages du premier quintile ont recouru à un service de soins contre 71,2% de ceux des ménages du cinquième. Les résultats montrent aussi que l'utilisation des services d'hospitalisation augmente avec le bien être : de 1,7 % pour les ménages du premier quintile contre 3% pour ceux du cinquième quintile. Ces résultats viennent conforter ceux de l'étude sur les DCS réalisée en 2011 au Sénégal. Par ailleurs, l'utilisation des services et l'hospitalisation augmentent avec le niveau d'instruction en 2019.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1 : Besoin déclaré et utilisation des structures de santé",
+          "colonnes": ["Quintile", "Besoin déclaré 2014", "Besoin déclaré 2018/2019", "Utilisation 2014", "Utilisation 2018/2019", "Hospitalisation 2014", "Hospitalisation 2018/2019"],
+          "lignes": [
+            {"Quintile": "1", "Besoin déclaré 2014": "51,0", "Besoin déclaré 2018/2019": "20,1", "Utilisation 2014": "44,3", "Utilisation 2018/2019": "51,8", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "1,7"},
+            {"Quintile": "2", "Besoin déclaré 2014": "44,9", "Besoin déclaré 2018/2019": "21,1", "Utilisation 2014": "22,3", "Utilisation 2018/2019": "58,7", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "2,1"},
+            {"Quintile": "3", "Besoin déclaré 2014": "45,5", "Besoin déclaré 2018/2019": "23,6", "Utilisation 2014": "16,0", "Utilisation 2018/2019": "58,3", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "2,4"},
+            {"Quintile": "4", "Besoin déclaré 2014": "44,6", "Besoin déclaré 2018/2019": "25,4", "Utilisation 2014": "17,6", "Utilisation 2018/2019": "61,9", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "2,6"},
+            {"Quintile": "5", "Besoin déclaré 2014": "45,3", "Besoin déclaré 2018/2019": "27,9", "Utilisation 2014": "14,7", "Utilisation 2018/2019": "71,2", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "3,0"},
+            {"Quintile": "Aucun (niveau d'instruction)", "Besoin déclaré 2014": "44,9", "Besoin déclaré 2018/2019": "24,5", "Utilisation 2014": "25,6", "Utilisation 2018/2019": "60,7", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "2,4"},
+            {"Quintile": "Primaire (niveau d'instruction)", "Besoin déclaré 2014": "53,3", "Besoin déclaré 2018/2019": "21,5", "Utilisation 2014": "22,3", "Utilisation 2018/2019": "58,6", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "2,2"},
+            {"Quintile": "Secondaire (niveau d'instruction)", "Besoin déclaré 2014": "51,5", "Besoin déclaré 2018/2019": "22,2", "Utilisation 2014": "18,2", "Utilisation 2018/2019": "61,9", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "2,3"},
+            {"Quintile": "Universitaire (niveau d'instruction)", "Besoin déclaré 2014": "37,8", "Besoin déclaré 2018/2019": "24,8", "Utilisation 2014": "18,8", "Utilisation 2018/2019": "69,6", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "2,9"},
+            {"Quintile": "Total", "Besoin déclaré 2014": "46,2", "Besoin déclaré 2018/2019": "23,5", "Utilisation 2014": "23,5", "Utilisation 2018/2019": "60,7", "Hospitalisation 2014": "NA", "Hospitalisation 2018/2019": "2,3"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "XI.2. Evolution de quelques indicateurs de dépenses ménages entre 2014 et 2019",
+      "texte": "En 2014, un ménage Sénégalais dépensait en moyenne 3 668 736 F CFA par an contre 4 401 092 FCFA en 2019. En moyenne, les paiements directs ont augmenté sur la période sous revue en passant de 95 190 FCFA en 2014 à 154 833 FCFA en 2019. Cependant, la proportion de ménages ayant effectué des paiements directs a baissé. Elle passe de 81,2% en 2014 à 74,8% en 2019. Cette tendance baissière de la part des ménages qui ont effectué des paiements directs vient inverser celle haussière de ce même taux qui avait été constatée entre 2005 et 2011 et qui était passé de 86,52 % à 88,50 %. Ce résultat peut s'expliquer par les effets des politiques d'exemption partielles et universelles mis en place par l'Etat du Sénégal depuis quelques années. Par ailleurs le paiement des médicaments reste le premier poste de dépenses et représente 51,8% des dépenses de santé en 2019 contre 61,3% en 2014. L'analyse révèle que quel que soit le quintile de dépense considéré, le médicament est le premier poste de dépenses en santé des ménages. Les dépenses des ménages du cinquième quintile (139 258 F) dépassent en moyenne plus du quadruple de la dépense moyenne d'un ménage du premier quintile en médicaments. Cette différence est plus accentuée en considérant les dépenses en examens médicaux. Ce résultat pourrait s'expliquer par le pouvoir d'achat des quintiles les plus riches ainsi que leur plus grande propension à recourir aux officines pour se procurer les médicaments nécessaires au traitement de leur épisode morbide.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 2 : Évolutions de quelques indicateurs de dépenses ménages entre 2014 et 2019",
+          "colonnes": ["Indicateurs", "2014", "2019"],
+          "lignes": [
+            {"Indicateurs": "Dépenses totales par ménage", "2014": "3 668 736", "2019": "4 401 092"},
+            {"Indicateurs": "Paiement direct", "2014": "95 190", "2019": "154 833"},
+            {"Indicateurs": "Dépenses de consultation", "2014": "7 508", "2019": "19 282"},
+            {"Indicateurs": "Dépenses en médicaments (dont pharmacopée)", "2014": "45 481", "2019": "80 246"},
+            {"Indicateurs": "Dépenses d'hospitalisation", "2014": "7 550", "2019": "25 825"},
+            {"Indicateurs": "Dépenses en examen", "2014": "5 890", "2019": "27 162"},
+            {"Indicateurs": "Part des ménages qui ont effectué des paiements directs", "2014": "81,2", "2019": "74,8"},
+            {"Indicateurs": "Part des paiements sur les dépenses totales", "2014": "2,8", "2019": "3,3"},
+            {"Indicateurs": "Part des paiements directs dans la capacité à payer", "2014": "3,7", "2019": "8,3"},
+            {"Indicateurs": "Autres dépenses de santé", "2014": "7 728", "2019": "2 319"},
+            {"Indicateurs": "Part des ménages qui ont fait des dépenses catastrophiques", "2014": "1,4", "2019": "1,1"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 3 : Répartitions des dépenses de santé par quintile (2019)",
+          "colonnes": ["Quintile", "Consultation", "Examens", "Médicaments", "Hospitalisation", "Autres dépenses"],
+          "lignes": [
+            {"Quintile": "1", "Consultation": "6 578", "Examens": "4 583", "Médicaments": "31 368", "Hospitalisation": "5 272", "Autres dépenses": "426"},
+            {"Quintile": "2", "Consultation": "11 249", "Examens": "10 460", "Médicaments": "53 724", "Hospitalisation": "11 418", "Autres dépenses": "880"},
+            {"Quintile": "3", "Consultation": "15 886", "Examens": "17 858", "Médicaments": "75 721", "Hospitalisation": "17 292", "Autres dépenses": "914"},
+            {"Quintile": "4", "Consultation": "23 188", "Examens": "31 021", "Médicaments": "101 226", "Hospitalisation": "29 244", "Autres dépenses": "2 210"},
+            {"Quintile": "5", "Consultation": "39 524", "Examens": "71 915", "Médicaments": "139 258", "Hospitalisation": "65 925", "Autres dépenses": "7 166"},
+            {"Quintile": "Total", "Consultation": "19 282", "Examens": "27 162", "Médicaments": "80 246", "Hospitalisation": "25 825", "Autres dépenses": "2319"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "XI.3. Structure des paiements directs par quintile",
+      "texte": "L'examen de la structure des dépenses selon le quintile montre que, plus le ménage est pauvre, plus la part relative des dépenses en médicaments dans les dépenses de santé est importante. La part des paiements directs consacrée aux médicaments dans les dépenses de santé passe de 65% pour le quintile le plus pauvre (quintile 1) à 43% pour le quintile le plus riche (quintile 5). Inversement, plus le ménage est pauvre plus la part des dépenses d'hospitalisation dans les paiements directs est faible. Elle est 10,9 % pour le quintile le plus pauvre (quintile 1) alors pour le quintile le plus riche (quintile 5), il est de 20,4%. Ainsi, la part des paiements directs consacrée aux hospitalisations augmente ainsi avec le niveau de bien-être. Il est de même, pour la part des paiements directs liés aux examens médicaux qui passe de 9,5 % à 22,2 % du quintile 1 au quintile 5. La faible utilisation des services d'hospitalisation et de diagnostic par les pauvres pourrait s'expliquer à la fois par des problèmes d'accessibilité financière, géographique, de disponibilité de service mais aussi de l'adoption de stratégies consistant à éviter les hospitalisations et de certains services. De même, le recours à de médecines alternatives (tradipraticiens, marabouts, etc.) ou à l'automédication peut expliquer cette faible de la part des paiements directs dans les dépenses d'hospitalisation des plus pauvres. Il y a lieu de souligner qu'en ce concerne la consultation, la structure des paiements directs par quintile montre que les proportions sont relativement les mêmes pour tous les niveaux de bien-être. Elles sont de 13,6 % ; 12,8 %; 12,4 %, 12,4 % et 12,2 % pour respectivement les quintiles 1 ; 2 ; 3 ; 4 et 5. Ce résultat suggère qu'il y a une relative équité dans ce domaine et pourrait s'expliquer par le fait que la plupart des politiques de gratuité (Plan SESAME, enfants de moins de 5 ans, consultations pre-natale et post-natale, etc.) intègrent l'exemption partielle ou totale du ticket de la consultation.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 7 : Structure des paiements directs par quintile (Données graphique 1)",
+          "colonnes": ["Poste de dépense", "Quintile 1", "Quintile 2", "Quintile 3", "Quintile 4", "Quintile 5"],
+          "lignes": [
+            {"Poste de dépense": "Consultation", "Quintile 1": "13,6", "Quintile 2": "12,8", "Quintile 3": "12,4", "Quintile 4": "12,4", "Quintile 5": "12,2"},
+            {"Poste de dépense": "Examens médicaux", "Quintile 1": "9,5", "Quintile 2": "11,9", "Quintile 3": "14,0", "Quintile 4": "16,6", "Quintile 5": "22,2"},
+            {"Poste de dépense": "Médicaments", "Quintile 1": "65,0", "Quintile 2": "61,2", "Quintile 3": "59,3", "Quintile 4": "54,2", "Quintile 5": "43,0"},
+            {"Poste de dépense": "Hospitalisation", "Quintile 1": "10,9", "Quintile 2": "13,0", "Quintile 3": "13,5", "Quintile 4": "15,6", "Quintile 5": "20,4"},
+            {"Poste de dépense": "Autres dépenses", "Quintile 1": "0,9", "Quintile 2": "1,0", "Quintile 3": "0,7", "Quintile 4": "1,2", "Quintile 5": "2,2"}
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Graphique 1 : Structure des paiements directs par quintile",
+          "axes": {"x": "Quintile (1 à 5)", "y": "Pourcentage (%)"},
+          "donnees": [
+            {"quintile": "1", "consultation": "13,6", "examens_medicaux": "9,5", "medicaments": "65,0", "hospitalisation": "10,9", "autres_depenses": "0,9"},
+            {"quintile": "2", "consultation": "12,8", "examens_medicaux": "11,9", "medicaments": "61,2", "hospitalisation": "13,0", "autres_depenses": "1,0"},
+            {"quintile": "3", "consultation": "12,4", "examens_medicaux": "14,0", "medicaments": "59,3", "hospitalisation": "13,5", "autres_depenses": "0,7"},
+            {"quintile": "4", "consultation": "12,4", "examens_medicaux": "16,6", "medicaments": "54,2", "hospitalisation": "15,6", "autres_depenses": "1,2"},
+            {"quintile": "5", "consultation": "12,2", "examens_medicaux": "22,2", "medicaments": "43,0", "hospitalisation": "20,4", "autres_depenses": "2,2"}
+          ],
+          "tendance": "Plus le quintile de bien-être augmente, plus la part des médicaments diminue tandis que les parts des examens médicaux et de l'hospitalisation augmentent."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "XI.4. Part des paiements directs de santé en pourcentage de la capacité à payer par quintile",
+      "texte": "A l'analyse du graphique ci-dessous, il ressort nettement que la capacité des ménages à faire face aux dépenses de santé a augmenté. En effet, en 2019, 5,4% des ménages ont une capacité à faire face aux dépenses de santé contre 4,5 % en 2014. Hormis le premier quintile pour lequel la part des paiements directs de santé en pourcentage de la capacité à payer passe de 6,2% à 5,3%, la tendance à l'augmentation de la capacité des ménages à faire face aux dépenses de santé s'observe au niveau de tous les quintiles de bien-être.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 8 : Part des paiements directs de santé en % de la capacité à payer par quintile (Données graphique 2)",
+          "colonnes": ["Année", "Quintile 1", "Quintile 2", "Quintile 3", "Quintile 4", "Quintile 5", "Total"],
+          "lignes": [
+            {"Année": "2014", "Quintile 1": "6,2", "Quintile 2": "6,0", "Quintile 3": "4,6", "Quintile 4": "3,2", "Quintile 5": "2,3", "Total": "4,5"},
+            {"Année": "2019", "Quintile 1": "5,3", "Quintile 2": "6,1", "Quintile 3": "5,8", "Quintile 4": "5,3", "Quintile 5": "4,6", "Total": "5,4"}
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Graphique 2 : Part des paiements directs de santé en % de la capacité à payer par quintile",
+          "axes": {"x": "Quintile (1 à 5, Total)", "y": "Pourcentage (%)"},
+          "donnees": [
+            {"quintile": "1", "2014": "6,2", "2018-2019": "5,3"},
+            {"quintile": "2", "2014": "6,0", "2018-2019": "6,1"},
+            {"quintile": "3", "2014": "4,6", "2018-2019": "5,8"},
+            {"quintile": "4", "2014": "3,2", "2018-2019": "5,3"},
+            {"quintile": "5", "2014": "2,3", "2018-2019": "4,6"},
+            {"quintile": "Total", "2014": "4,5", "2018-2019": "5,4"}
+          ],
+          "tendance": "Augmentation globale de la part des paiements directs dans la capacité à payer entre 2014 et 2019, sauf pour le premier quintile qui connaît une baisse."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "XI.5. Part des paiements directs de santé en pourcentage des dépenses totales par quintile",
+      "texte": "Entre 2014 et 2019, la part des dépenses de santé dans les dépenses des ménages a augmenté pour les ménages des trois premiers quintiles alors que celle-ci a diminué pour les ménages deux derniers quintiles. Cela pourrait s'expliquer, d'une part, par la faiblesse relative du niveau des revenus et, d'autre part, par une faible couverture sociale des ménages des trois premiers quintiles par rapport aux deux autres.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 9 : Part des paiements directs de santé en % des dépenses totales par quintile (Données graphique 3)",
+          "colonnes": ["Année", "Quintile 1", "Quintile 2", "Quintile 3", "Quintile 4", "Quintile 5", "Total"],
+          "lignes": [
+            {"Année": "2014", "Quintile 1": "0,8", "Quintile 2": "2,6", "Quintile 3": "3,0", "Quintile 4": "3,6", "Quintile 5": "4,2", "Total": "2,8"},
+            {"Année": "2019", "Quintile 1": "2,8", "Quintile 2": "3,1", "Quintile 3": "3,4", "Quintile 4": "3,5", "Quintile 5": "3,6", "Total": "3,3"}
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Graphique 3 : Part des paiements directs de santé en pourcentage des dépenses totales par quintile",
+          "axes": {"x": "Quintile (1 à 5, Total)", "y": "Pourcentage (%)"},
+          "donnees": [
+            {"quintile": "1", "2014": "0,8", "2018-2019": "2,8"},
+            {"quintile": "2", "2014": "2,6", "2018-2019": "3,1"},
+            {"quintile": "3", "2014": "3,0", "2018-2019": "3,4"},
+            {"quintile": "4", "2014": "3,6", "2018-2019": "3,5"},
+            {"quintile": "5", "2014": "4,2", "2018-2019": "3,6"},
+            {"quintile": "Total", "2014": "2,8", "2018-2019": "3,3"}
+          ],
+          "tendance": "Augmentation de la part des dépenses de santé pour les trois premiers quintiles, diminution pour les deux derniers quintiles entre 2014 et 2019."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "XI.6. Evolution des dépenses catastrophiques de santé en fonction du seuil considéré",
+      "texte": "Au seuil de 40% retenu par l'OMS, 1,4% et 1,1% des ménages au Sénégal ont respectivement fait face à des dépenses catastrophiques en 2014 et 2019, soit respectivement 22 711 et 18 941 ménages. L'étude réalisée en 2011 avait montré que 2,59% des ménages faisaient face à des dépenses catastrophiques de santé au seuil de 40% ce qui représentait environ 38 056 ménages. Ainsi, entre 2011 et 2019, le nombre de ménages faisant face à des DCS a été réduit de moitié et l'incidence des DCS divisé par 2,35. Cela constitue une avancée importante dans la protection financière des populations contre les risques de basculement dans la pauvreté consécutive aux paiements au point de délivrance des services de santé. Cependant, l'incidence des DCS calculée dans cette étude est largement inférieure à celles d'études menées au Nigéria où, au seuil de 40%, elles ont été évaluées à plus de 6% (Okedo-Alex and al 2019, Onaka 2011). Dans d'autres pays d'Afrique de l'ouest également, des incidences plus élevées ont été observées au seuil de 40% : 2,43% au Ghana (Akazili 2017), 8,66% au Burkina Faso (Su and al 2006). Un résultat similaire à celui de l'étude a toutefois été trouvé au Libéria où l'incidence des dépenses catastrophiques de santé a été estimé à 1,4% au seuil de 40% (Gabani, 2019). Au seuil de 25 %, 5,9% et 3,8 % des ménages au Sénégal ont respectivement fait face à des dépenses catastrophiques en 2014 et 2019. En d'autres termes, les ménages pour lesquels les paiements directs par rapport à la capacité à payer du ménage dépassent 25% représentent 3,8% en 2019 contre 5,9% en 2014. Au seuil de 10%, pour les deux années considérées, 16,5% des ménages ont eu à faire face à des DCS. Autant au seuil de 10% qu'à celui de 25%, les résultats du calcul de l'incidence des DCS sont plus élevés que ceux de l'étude commanditée par l'ANACMU en 2019. En effet, les résultats de cette dernière indiquent que, au niveau des trois régions administratives de Tambacounda, Diourbel et Thiès étudiées, quand le seuil passe de 10% à 25% de la dépense totale des ménages, l'incidence des paiements catastrophiques diminue de 12% à 2,19%. Cette différence pourrait s'expliquer par trois raisons principales : la portée différente des deux études (nationale pour la présente et limitée à trois régions pour celle de l'ANACMU) ; les périodes de collecte différentes ; la forte pénétration des mutuelles de santé dans la région de Thiès considérée comme pionnière dans la mutualité au Sénégal qui peut favoriser une plus grande protection financière contre le risque santé et, par conséquent, contre les dépenses catastrophiques de santé dans l'étude de l'ANACMU. Par contre les incidences des DCS évalués dans l'étude, aux seuils de 25% et de 10%, sont moindres que celles calculées dans d'autres pays d'Afrique de l'ouest. Le niveau des DCS a été estimé au Togo à 13% au seuil de 25% et à 33% au seuil de 10% (Sanoussi et Ametoglo 2019) ; il est de 40,2% au seuil de 10% au Nigéria (Onaka 2011).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 10 : Dépenses catastrophiques de santé en fonction du seuil considéré (Données graphique 4)",
+          "colonnes": ["Seuil dépenses catastrophiques", "2014", "2019"],
+          "lignes": [
+            {"Seuil dépenses catastrophiques": "Seuil 10%", "2014": "16,5", "2019": "16,5"},
+            {"Seuil dépenses catastrophiques": "Seuil 25%", "2014": "5,9", "2019": "3,8"},
+            {"Seuil dépenses catastrophiques": "Seuil 40%", "2014": "1,4", "2019": "1,1"}
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Graphique 4 : Dépenses catastrophiques de santé en fonction du seuil considéré",
+          "axes": {"x": "Pourcentage (%)", "y": "Seuil (40%, 25%, 10%)"},
+          "donnees": [
+            {"seuil": "40%", "2014": "1,4", "2018-19": "1,1"},
+            {"seuil": "25%", "2014": "5,9", "2018-19": "3,8"},
+            {"seuil": "10%", "2014": "16,5", "2018-19": "16,5"}
+          ],
+          "tendance": "Diminution de l'incidence des dépenses catastrophiques de santé entre 2014 et 2019 aux seuils de 25% et 40%, stabilité au seuil de 10%."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "XI.7. Objet des paiements directs par milieu de résidence",
+      "texte": "Le graphique ci-dessous permet de voir nettement que les dépenses en médicaments constituent le premier poste de dépenses de santé des ménages tant en milieu urbain (48,6%) qu'en milieu rural (57,3%), et ce davantage en milieu rural ainsi que les consultations (14,0% contre 11,5%). Par contre les parts de dépenses en examens médicaux et en hospitalisation sont plus importants en milieu urbain (20,2% et 17,6% resp) qu'en milieu rural (13,0% et 15,0%). Ce résultat s'expliquerait par la proximité des infrastructures hospitalières et la diversité des services de diagnostic (examens médicaux) pour les populations résidentes dans le milieu urbain comparativement à ceux du monde rural.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 11 : Répartition des paiements directs par milieu de résidence (Données graphique 5)",
+          "colonnes": ["Milieu", "Consultation", "Examens médicaux", "Médicaments", "Hospitalisation", "Autres dépenses"],
+          "lignes": [
+            {"Milieu": "Urbain", "Consultation": "11,5", "Examens médicaux": "20,2", "Médicaments": "48,6", "Hospitalisation": "17,6", "Autres dépenses": "2,0"},
+            {"Milieu": "Rural", "Consultation": "14,0", "Examens médicaux": "13,0", "Médicaments": "57,3", "Hospitalisation": "15,0", "Autres dépenses": "0,6"}
+          ]
+        }
+      ],
+      "images": [
+        {
+          "type": "graphique",
+          "titre": "Graphique 5 : Répartition des paiements directs par milieu de résidence",
+          "axes": {"x": "Poste de dépense", "y": "Pourcentage (%)"},
+          "donnees": [
+            {"poste": "Consultation", "urbain": "11,5", "rural": "14,0"},
+            {"poste": "Examens médicaux", "urbain": "20,2", "rural": "13,0"},
+            {"poste": "Médicaments", "urbain": "48,6", "rural": "57,3"},
+            {"poste": "Hospitalisation", "urbain": "17,6", "rural": "15,0"},
+            {"poste": "Autres dépenses", "urbain": "2,0", "rural": "0,6"}
+          ],
+          "tendance": "Les médicaments et les consultations pèsent davantage dans les paiements directs en milieu rural, tandis que les examens médicaux et l'hospitalisation pèsent davantage en milieu urbain."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "XI.8. Impact des paiements directs sur la pauvreté",
+      "texte": "Cette section cherche à évaluer l'impact éventuel des paiements directs sur le niveau de vie des ménages. Pour ce faire, comme indiqué par méthodologie définit par l'OMS, un seuil de pauvreté est calculé (voir partie méthodologie). En suivant cette méthodologie, l'incidence de la pauvreté est de 10,5 % en 2019 et varie selon le milieu de résidence. En effet, 5,3 % des ménages urbains vivaient en dessous du seuil de pauvreté contre 16,4% des ménages ruraux. Pour appréhender l'impact des paiements directs de santé sur le niveau de vie des ménages, un deuxième taux de pauvreté est calculé en ne considérant que les dépenses totales hors paiements directs. A cet égard, les dépenses de subsistance du ménage sont comparées aux dépenses totales hors paiements directs. Si l'on enlève les paiements directs de la santé des dépenses totales des ménages, l'incidence de la pauvreté passe de 10,5 % à 11,7 % soit un appauvrissement de 1,2 point de pourcentage représentant un taux d'appauvrissement de 1,3% dû aux paiements directs de santé. Taux de pauvreté avant et après paiement direct par milieu de résidence en 2019 : Comme illustré par les résultats, les paiements directs de santé appauvrissent les ménages. Il est plus observé en milieu rural (1,9%) qu'en milieu urbain (0,8%) de plus de deux fois.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 4 : Impact des paiements directs sur la pauvreté",
+          "colonnes": ["Milieu", "Taux de pauvreté avant paiement direct", "Taux de pauvreté après paiement direct", "Taux d'appauvrissement"],
+          "lignes": [
+            {"Milieu": "Urbain", "Taux de pauvreté avant paiement direct": "5,3", "Taux de pauvreté après paiement direct": "6,1", "Taux d'appauvrissement": "0,8"},
+            {"Milieu": "Rural", "Taux de pauvreté avant paiement direct": "16,4", "Taux de pauvreté après paiement direct": "18,2", "Taux d'appauvrissement": "1,9"},
+            {"Milieu": "Total", "Taux de pauvreté avant paiement direct": "10,5", "Taux de pauvreté après paiement direct": "11,7", "Taux d'appauvrissement": "1,3"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "XI.9. Montant moyen à transférer",
+      "texte": "Dans la même démarche que l'étude sur les DCS de 2012, les montants à transférer aux ménages pour alléger le fardeau des dépenses de santé ont été estimés. Au regard du seuil de pauvreté calculé et en l'absence de paiements directs de santé, en 2019, seuls les ménages du 1er quintile étaient pauvres. Les résultats de l'étude ont cependant montré que certains ménages des 2ème, 3ème et 4ème quintile sont passés en dessous du seuil de pauvreté après avoir effectué des dépenses de santé en 2019. Pour sortir ces ménages de la pauvreté il faudra transférer en moyenne 348 590 F CFA par ménage avant paiement direct et 324 115 FCFA après paiement direct. Selon les quintiles de bien-être, les montants suivants devront être transférés, en moyenne, par ménage : 348 590 FCFA avant paiement direct et 324700 FCFA après paiement direct pour le premier quintile ; 165 843 FCFA après paiement direct par ménage pour le deuxième quintile ; 320 880 FCFA après paiement direct par ménage pour le troisième ; 604 724 FCFA après paiement direct par ménage pour le quatrième.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 5 : Montants (moyen et total) à transférer",
+          "colonnes": ["Quintile", "Montant moyen avant paiement direct", "Montant moyen après paiement direct", "Montant total avant paiement direct", "Montant total après paiement direct"],
+          "lignes": [
+            {"Quintile": "1", "Montant moyen avant paiement direct": "348 590", "Montant moyen après paiement direct": "324 700", "Montant total avant paiement direct": "65 311 995 093", "Montant total après paiement direct": "67 415 067 967"},
+            {"Quintile": "2", "Montant moyen avant paiement direct": "0", "Montant moyen après paiement direct": "165 843", "Montant total avant paiement direct": "0", "Montant total après paiement direct": "270 309 717"},
+            {"Quintile": "3", "Montant moyen avant paiement direct": "0", "Montant moyen après paiement direct": "320 880", "Montant total avant paiement direct": "0", "Montant total après paiement direct": "197 825 074"},
+            {"Quintile": "4", "Montant moyen avant paiement direct": "0", "Montant moyen après paiement direct": "604 724", "Montant total avant paiement direct": "0", "Montant total après paiement direct": "298 675 201"},
+            {"Quintile": "5", "Montant moyen avant paiement direct": "0", "Montant moyen après paiement direct": "0", "Montant total avant paiement direct": "0", "Montant total après paiement direct": "0"},
+            {"Quintile": "Total", "Montant moyen avant paiement direct": "348 590", "Montant moyen après paiement direct": "324 115", "Montant total avant paiement direct": "65 311 995 093", "Montant total après paiement direct": "68 181 877 959"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "XI.10. Les déterminants des dépenses catastrophiques de santé",
+      "texte": "XI.10.1. Modélisation : Pour la détermination des facteurs explicatifs des dépenses catastrophiques un modèle « logit » est indiqué surtout pour une variable binaire. Le modèle logit permet une interprétation aux variables explicatives au travers des paramètres β associés. Cependant, il convient de noter ce modèle présente comme inconvénient de ne pas tenir compte de l'hétéroscédasticité multiplicative. La spécification du modèle est la suivante : Pour chaque ménage i, la variable d'intérêt y, prend la valeur 1 si le ménage est classé comme un ménage qui fait face aux dépenses catastrophiques et 0 sinon, est considérée comme étant la manifestation d'une variable latente yi*. Avec un ensemble de variables explicatives, l'équation s'écrit: yi* = β'xi + μi, avec 1 si yi*>0 et 0 sinon. Où β' = (β1, β2, ... ββ) est le vecteur des coefficients et ββ le terme d'erreurs supposées indépendantes identiquement distribué (i.i.d.) et β' = (β1, β2, ... ββ), le vecteur des variables explicatives. P(yi=1) = P(yi*>0) = P(μi > -β'xi). Le choix de la loi logistique donne la loi de la variable qualitative yi, ce qui permet d'avoir la probabilité pour qu'un ménage subisse ou ne subisse pas des dépenses catastrophiques de santé. Comme la loi logistique est symétrique, alors P(yi=1) = P(μi < β'xi) = Λ(β'xi) = e^(β'xi) / (1+e^(β'xi)). Avec Λ la fonction de répartition de la loi logistique.XI.10.2. Les résultats de la modélisation : Les résultats corroborent l'analyse descriptive selon laquelle les ménages les plus pauvres (quintile 1) sont plus exposés aux dépenses catastrophiques de santé que les ménages des autres quintiles. A titre illustratif, les ménages du second quintile ont deux fois (2,4) moins de chance que ceux du premier de faire face à des dépenses catastrophiques. Les ménages du cinquième quintile ont 4,4 fois moins de chance que les plus pauvres de faire face à ces dépenses. Ce résultat est conforme à la théorie selon laquelle l'appartenance des ménages aux quintiles relativement plus riches (2, 3, 4 et 5) diminue le risque d'exposition du ménage à des dépenses catastrophiques par rapport aux ménages du premier quintile (Su and al 2006, Arsenault 2013, Sanoussi et Ametoglo 2019). Cette situation s'expliquerait par l'exposition des plus pauvres au renchérissement du coût de la maladie du fait des complications dues à un recours tardif aux soins lié à la faiblesse de leur revenu. Il s'y ajoute que ces ménages ont une plus forte propension à tomber malade du fait de la précarité de leur condition d'existence (promiscuité, défaut d'hygiène, manque d'information, etc.). En ce qui concerne le milieu de résidence, les résultats du modèle montrent qu'un ménage du milieu urbain court 3,3 fois moins le risque de faire face à des dépenses catastrophiques de santé qu'un ménage du milieu rural. Ce résultat est cohérent avec ceux d'études menées au Togo (Sanoussi et Ametoglo 2019) et au mali (Arsenault 2013). Cela pourrait s'expliquer par le niveau plus élevé du taux de pauvreté en milieu rural où les ménages se trouvent souvent dans une plus grande vulnérabilité et une moindre protection sociale qu'en milieu urbain. Comparativement aux ménages dirigés par une femme, ceux dirigés par un homme ont 1,9 fois plus de risques de faire face à une dépense catastrophique de santé. Ce résultat est contraire à ce qui a été observé au Togo où les ménages qui sont dirigés par des femmes ont une plus grande probabilité de réaliser des DCS (Sanoussi et Ametoglo 2019). Par contre il concorde avec les résultats de l'étude réalisée en 2019 dans les régions de Thiès, Diourbel et Tambacounda sur les DCS selon lesquels les ménages dirigés par une femme sont 24,9 % moins exposés aux dépenses catastrophiques de santé que ceux dirigés par les hommes. Il est possible d'avoir plusieurs interprétations de ce résultat : une relative grande autonomie financière des femmes chefs ménages ; les transferts que reçoivent les femmes chefs de ménages épouses d'émigrés qui les rendent moins susceptibles d'être exposés aux risques d'être exposé aux DCS ; une plus grande promptitude des femmes chefs de ménages à utiliser les services de santé dès l'apparition des premiers symptômes d'une maladies chez elles ou un des membres de leur famille comparativement au hommes chefs de famille ; l'existence de politiques de gratuité (soins prénataux et post-nataux, enfants de moins de 5 ans, etc.) qui réduisent les coûts des consultations et le risques des femmes chefs de ménages de basculer dans la pauvreté du fait des DCS. En termes de niveau d'instruction, les ménages dont le Chef de ménage (CM) a le niveau primaire (2,0) et secondaire (3,2) ont moins de risques de faire face à aux dépenses catastrophiques en santé qu'un ménage dont le CM n'a aucun niveau d'instruction. Cette situation pourrait s'expliquer la plus grande propension des personnes instruites à respecter et faire respecter dans leur famille les mesures préventives contre les maladies, à utiliser à temps les services de santé et à profiter des exemptions de soins dont ils ont droit dans les structures de santé. Le capital social peut aussi jouer en leur faveur. Entre autres, ces raisons pourraient contribuer à rendre les ménages dirigés par des instruits à être moins exposés aux DCS que les ménages dirigés par un non instruit. Concernant le statut par rapport au marché du travail, les ménages dont le CM travaille (2,8) ont moins de risques qu'un ménage dont le CM ne travaille pas de faire face à une dépense catastrophique en santé. En effet, le statut de travailleur s'accompagne souvent de revenus qui permettent d'avoir une protection sociale et/ou financière contre le risque de basculer dans la pauvreté du fait des paiements directs. Alors que la situation de précarité et de vulnérabilité économique et financière que vit les familles dont le CM est sans-emplois les expose encore plus particulièrement aux DCS. Un ménage dont le CM a un handicap présente 1,2 fois plus de risques d'être en situation de dépenses catastrophique en santé. Un constat important de cette étude est que le statut d'assuré ou non du chef de ménage n'est pas un déterminant significatif des dépenses catastrophiques de santé. Cela confirme les lacunes dans la protection assurantielle relatés dans la littérature ; la souscription à une assurance ne constitue pas, en effet, une protection intégrale contre les DCS. Au Togo, l'incidence des dépenses catastrophiques de santé chez des ménages assurés a été évaluée à 9,1% au seuil de 40%, à 21,01% au seuil de 25% et à 54,60% au seuil de 10% (Atake et Amendah 2018).",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 6 : Résultats de l'estimation du modèle",
+          "colonnes": ["Variable", "OR seuil 40%", "OR seuil 25%", "OR seuil 10%"],
+          "lignes": [
+            {"Variable": "Quintile 2 (Ref: premier quintile)", "OR seuil 40%": "0,421939***", "OR seuil 25%": "0,623895***", "OR seuil 10%": "0,952293"},
+            {"Variable": "Quintile 3", "OR seuil 40%": "0,574411**", "OR seuil 25%": "0,510136***", "OR seuil 10%": "0,719153***"},
+            {"Variable": "Quintile 4", "OR seuil 40%": "0,446619***", "OR seuil 25%": "0,427033***", "OR seuil 10%": "0,582189***"},
+            {"Variable": "Quintile 5", "OR seuil 40%": "0,228897***", "OR seuil 25%": "0,265074***", "OR seuil 10%": "0,374115***"},
+            {"Variable": "Milieu Urbain (Ref: rural)", "OR seuil 40%": "0,306356***", "OR seuil 25%": "0,515114***", "OR seuil 10%": "0,710434***"},
+            {"Variable": "Sexe CM Masculin (Ref: Féminin)", "OR seuil 40%": "0,516860***", "OR seuil 25%": "0,626703***", "OR seuil 10%": "0,752327***"},
+            {"Variable": "Niveau instruction CM Primaire (ref: Aucun)", "OR seuil 40%": "0,500264**", "OR seuil 25%": "0,856190", "OR seuil 10%": "1,003783"},
+            {"Variable": "Niveau instruction CM Secondaire", "OR seuil 40%": "0,315551**", "OR seuil 25%": "0,660139*", "OR seuil 10%": "0,706342***"},
+            {"Variable": "Niveau instruction CM Supérieur", "OR seuil 40%": "0,435569", "OR seuil 25%": "0,596324", "OR seuil 10%": "0,673893***"},
+            {"Variable": "Travail Oui (Ref: Non)", "OR seuil 40%": "0,353858***", "OR seuil 25%": "0,352660***", "OR seuil 10%": "0,579353***"},
+            {"Variable": "CM de plus 60 ans Oui (Ref: Non)", "OR seuil 40%": "0,540309***", "OR seuil 25%": "0,581765***", "OR seuil 10%": "0,867945**"},
+            {"Variable": "Handicap Oui (Ref: Non)", "OR seuil 40%": "1,238363", "OR seuil 25%": "1,520864***", "OR seuil 10%": "1,665196***"},
+            {"Variable": "Région Ziguinchor (Ref: Dakar)", "OR seuil 40%": "0,165186***", "OR seuil 25%": "0,257645***", "OR seuil 10%": "0,443515***"},
+            {"Variable": "Région Diourbel", "OR seuil 40%": "0,105574***", "OR seuil 25%": "0,354913***", "OR seuil 10%": "0,540087***"},
+            {"Variable": "Région Saint-Louis", "OR seuil 40%": "0,083389***", "OR seuil 25%": "0,194568***", "OR seuil 10%": "0,433910***"},
+            {"Variable": "Région Tambacounda", "OR seuil 40%": "0,151924***", "OR seuil 25%": "0,332428***", "OR seuil 10%": "0,582122***"},
+            {"Variable": "Région Kaolack", "OR seuil 40%": "0,143047***", "OR seuil 25%": "0,268391***", "OR seuil 10%": "0,622055***"},
+            {"Variable": "Région Thiès", "OR seuil 40%": "0,076841***", "OR seuil 25%": "0,272838***", "OR seuil 10%": "0,471219***"},
+            {"Variable": "Région Louga", "OR seuil 40%": "0,219043***", "OR seuil 25%": "0,367687***", "OR seuil 10%": "0,715040***"},
+            {"Variable": "Région Fatick", "OR seuil 40%": "0,213035***", "OR seuil 25%": "0,389833***", "OR seuil 10%": "0,615742***"},
+            {"Variable": "Région Kolda", "OR seuil 40%": "0,141520***", "OR seuil 25%": "0,264514***", "OR seuil 10%": "0,726674***"},
+            {"Variable": "Région Matam", "OR seuil 40%": "0,113229***", "OR seuil 25%": "0,284771***", "OR seuil 10%": "0,649409***"},
+            {"Variable": "Région Kaffrine", "OR seuil 40%": "0,090082***", "OR seuil 25%": "0,224469***", "OR seuil 10%": "0,513020***"},
+            {"Variable": "Région Kédougou", "OR seuil 40%": "0,025768***", "OR seuil 25%": "0,221553***", "OR seuil 10%": "0,601312***"},
+            {"Variable": "Région Sédhiou", "OR seuil 40%": "0,167658***", "OR seuil 25%": "0,174772***", "OR seuil 10%": "0,438982***"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 12 : Estimation des DCS par modèle logit",
+          "colonnes": ["Variable", "Coefficient DCS40%", "Std.Err DCS40%", "z DCS40%", "P>z DCS40%", "Coefficient DCS25%", "Std.Err DCS25%", "z DCS25%", "P>z DCS25%", "Coefficient DCS10%", "Std.Err DCS10%", "z DCS10%", "P>z DCS10%"],
+          "lignes": [
+            {"Variable": "Quintile 2", "Coefficient DCS40%": "-0,863", "Std.Err DCS40%": "0,284", "z DCS40%": "-3,04", "P>z DCS40%": "0,002", "Coefficient DCS25%": "-0,472", "Std.Err DCS25%": "0,153", "z DCS25%": "-3,08", "P>z DCS25%": "0,002", "Coefficient DCS10%": "-0,049", "Std.Err DCS10%": "0,083", "z DCS10%": "-0,59", "P>z DCS10%": "0,558"},
+            {"Variable": "Quintile 3", "Coefficient DCS40%": "-0,554", "Std.Err DCS40%": "0,255", "z DCS40%": "-2,18", "P>z DCS40%": "0,030", "Coefficient DCS25%": "-0,673", "Std.Err DCS25%": "0,163", "z DCS25%": "-4,14", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,330", "Std.Err DCS10%": "0,090", "z DCS10%": "-3,66", "P>z DCS10%": "0,000"},
+            {"Variable": "Quintile 4", "Coefficient DCS40%": "-0,806", "Std.Err DCS40%": "0,286", "z DCS40%": "-2,82", "P>z DCS40%": "0,005", "Coefficient DCS25%": "-0,851", "Std.Err DCS25%": "0,176", "z DCS25%": "-4,84", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,541", "Std.Err DCS10%": "0,097", "z DCS10%": "-5,55", "P>z DCS10%": "0,000"},
+            {"Variable": "Quintile 5", "Coefficient DCS40%": "-1,474", "Std.Err DCS40%": "0,409", "z DCS40%": "-3,61", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,328", "Std.Err DCS25%": "0,233", "z DCS25%": "-5,7", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,983", "Std.Err DCS10%": "0,128", "z DCS10%": "-7,7", "P>z DCS10%": "0,000"},
+            {"Variable": "Milieu Urbain", "Coefficient DCS40%": "-1,183", "Std.Err DCS40%": "0,217", "z DCS40%": "-5,45", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-0,663", "Std.Err DCS25%": "0,122", "z DCS25%": "-5,42", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,342", "Std.Err DCS10%": "0,066", "z DCS10%": "-5,18", "P>z DCS10%": "0,000"},
+            {"Variable": "Sexe CM Masculin", "Coefficient DCS40%": "-0,660", "Std.Err DCS40%": "0,205", "z DCS40%": "-3,22", "P>z DCS40%": "0,001", "Coefficient DCS25%": "-0,467", "Std.Err DCS25%": "0,123", "z DCS25%": "-3,79", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,285", "Std.Err DCS10%": "0,070", "z DCS10%": "-4,04", "P>z DCS10%": "0,000"},
+            {"Variable": "Niveau instruction Primaire", "Coefficient DCS40%": "-0,693", "Std.Err DCS40%": "0,322", "z DCS40%": "-2,15", "P>z DCS40%": "0,031", "Coefficient DCS25%": "-0,155", "Std.Err DCS25%": "0,171", "z DCS25%": "-0,91", "P>z DCS25%": "0,365", "Coefficient DCS10%": "0,004", "Std.Err DCS10%": "0,092", "z DCS10%": "0,04", "P>z DCS10%": "0,967"},
+            {"Variable": "Niveau instruction Secondaire", "Coefficient DCS40%": "-1,153", "Std.Err DCS40%": "0,480", "z DCS40%": "-2,4", "P>z DCS40%": "0,016", "Coefficient DCS25%": "-0,415", "Std.Err DCS25%": "0,229", "z DCS25%": "-1,81", "P>z DCS25%": "0,070", "Coefficient DCS10%": "-0,348", "Std.Err DCS10%": "0,119", "z DCS10%": "-2,92", "P>z DCS10%": "0,004"},
+            {"Variable": "Niveau instruction Supérieur", "Coefficient DCS40%": "-0,831", "Std.Err DCS40%": "0,759", "z DCS40%": "-1,1", "P>z DCS40%": "0,273", "Coefficient DCS25%": "-0,517", "Std.Err DCS25%": "0,412", "z DCS25%": "-1,26", "P>z DCS25%": "0,209", "Coefficient DCS10%": "-0,395", "Std.Err DCS10%": "0,194", "z DCS10%": "-2,03", "P>z DCS10%": "0,042"},
+            {"Variable": "Travail Oui", "Coefficient DCS40%": "-1,039", "Std.Err DCS40%": "0,206", "z DCS40%": "-5,04", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,042", "Std.Err DCS25%": "0,124", "z DCS25%": "-8,39", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,546", "Std.Err DCS10%": "0,071", "z DCS10%": "-7,65", "P>z DCS10%": "0,000"},
+            {"Variable": "CM de plus 60 ans Oui", "Coefficient DCS40%": "-0,616", "Std.Err DCS40%": "0,249", "z DCS40%": "-2,47", "P>z DCS40%": "0,013", "Coefficient DCS25%": "-0,542", "Std.Err DCS25%": "0,145", "z DCS25%": "-3,73", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,142", "Std.Err DCS10%": "0,077", "z DCS10%": "-1,84", "P>z DCS10%": "0,066"},
+            {"Variable": "Handicap Oui", "Coefficient DCS40%": "0,214", "Std.Err DCS40%": "0,212", "z DCS40%": "1,01", "P>z DCS40%": "0,312", "Coefficient DCS25%": "0,419", "Std.Err DCS25%": "0,124", "z DCS25%": "3,37", "P>z DCS25%": "0,001", "Coefficient DCS10%": "0,510", "Std.Err DCS10%": "0,069", "z DCS10%": "7,35", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Ziguinchor", "Coefficient DCS40%": "-1,801", "Std.Err DCS40%": "0,387", "z DCS40%": "-4,65", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,356", "Std.Err DCS25%": "0,246", "z DCS25%": "-5,51", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,813", "Std.Err DCS10%": "0,142", "z DCS10%": "-5,74", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Diourbel", "Coefficient DCS40%": "-2,248", "Std.Err DCS40%": "0,437", "z DCS40%": "-5,14", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,036", "Std.Err DCS25%": "0,219", "z DCS25%": "-4,73", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,616", "Std.Err DCS10%": "0,131", "z DCS10%": "-4,69", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Saint-Louis", "Coefficient DCS40%": "-2,484", "Std.Err DCS40%": "0,522", "z DCS40%": "-4,76", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,637", "Std.Err DCS25%": "0,289", "z DCS25%": "-5,67", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,835", "Std.Err DCS10%": "0,146", "z DCS10%": "-5,71", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Tambacounda", "Coefficient DCS40%": "-1,884", "Std.Err DCS40%": "0,416", "z DCS40%": "-4,53", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,101", "Std.Err DCS25%": "0,245", "z DCS25%": "-4,5", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,541", "Std.Err DCS10%": "0,142", "z DCS10%": "-3,81", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Kaolack", "Coefficient DCS40%": "-1,945", "Std.Err DCS40%": "0,416", "z DCS40%": "-4,68", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,315", "Std.Err DCS25%": "0,249", "z DCS25%": "-5,28", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,475", "Std.Err DCS10%": "0,131", "z DCS10%": "-3,63", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Thiès", "Coefficient DCS40%": "-2,566", "Std.Err DCS40%": "0,525", "z DCS40%": "-4,89", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,299", "Std.Err DCS25%": "0,241", "z DCS25%": "-5,4", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,752", "Std.Err DCS10%": "0,135", "z DCS10%": "-5,57", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Louga", "Coefficient DCS40%": "-1,518", "Std.Err DCS40%": "0,358", "z DCS40%": "-4,24", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,001", "Std.Err DCS25%": "0,236", "z DCS25%": "-4,24", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,335", "Std.Err DCS10%": "0,134", "z DCS10%": "-2,51", "P>z DCS10%": "0,012"},
+            {"Variable": "Région Fatick", "Coefficient DCS40%": "-1,546", "Std.Err DCS40%": "0,371", "z DCS40%": "-4,17", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-0,942", "Std.Err DCS25%": "0,228", "z DCS25%": "-4,13", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,485", "Std.Err DCS10%": "0,137", "z DCS10%": "-3,54", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Kolda", "Coefficient DCS40%": "-1,955", "Std.Err DCS40%": "0,444", "z DCS40%": "-4,4", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,330", "Std.Err DCS25%": "0,265", "z DCS25%": "-5,02", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,319", "Std.Err DCS10%": "0,135", "z DCS10%": "-2,37", "P>z DCS10%": "0,018"},
+            {"Variable": "Région Matam", "Coefficient DCS40%": "-2,178", "Std.Err DCS40%": "0,405", "z DCS40%": "-5,38", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,256", "Std.Err DCS25%": "0,228", "z DCS25%": "-5,51", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,432", "Std.Err DCS10%": "0,132", "z DCS10%": "-3,26", "P>z DCS10%": "0,001"},
+            {"Variable": "Région Kaffrine", "Coefficient DCS40%": "-2,407", "Std.Err DCS40%": "0,531", "z DCS40%": "-4,53", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,494", "Std.Err DCS25%": "0,286", "z DCS25%": "-5,22", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,667", "Std.Err DCS10%": "0,147", "z DCS10%": "-4,55", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Kédougou", "Coefficient DCS40%": "-3,659", "Std.Err DCS40%": "1,016", "z DCS40%": "-3,6", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,507", "Std.Err DCS25%": "0,294", "z DCS25%": "-5,13", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,509", "Std.Err DCS10%": "0,141", "z DCS10%": "-3,62", "P>z DCS10%": "0,000"},
+            {"Variable": "Région Sédhiou", "Coefficient DCS40%": "-1,786", "Std.Err DCS40%": "0,417", "z DCS40%": "-4,28", "P>z DCS40%": "0,000", "Coefficient DCS25%": "-1,744", "Std.Err DCS25%": "0,314", "z DCS25%": "-5,56", "P>z DCS25%": "0,000", "Coefficient DCS10%": "-0,823", "Std.Err DCS10%": "0,153", "z DCS10%": "-5,38", "P>z DCS10%": "0,000"}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "XII. RECOMMANDATIONS",
+      "texte": "Les résultats de l'étude suggèrent que des mesures fortes soient prises pour améliorer les politiques de réduction des paiements directs de santé qui sont sources de dépenses catastrophiques. Il s'agira notamment de : 1. Réaliser une étude approfondie sur les dépenses en médicaments des ménages en vue de produire des données probantes à même d'éclairer les décisions des autorités sur les politiques destinées à réduire les paiements directs liés à ce bien. 2. Promouvoir les prescriptions des médicaments génériques et lutter contre toute pratique allant dans le sens d'entraver leur large utilisation à travers : l'alignement du taux de remboursement des médicaments d'officine (y compris les médicaments de spécialité) sur celui des médicaments IB ; l'assurance d'un contrôle, par les mutuelles de santé ou les autres assureurs, des prescriptions grâce au recours aux services de médecins conseils pour inverser la tendance à la sur-prescription de médicaments. 3. Améliorer les programmes de gratuité à travers : l'amélioration du ciblage et de la prise en charge des ménages des quintiles les plus pauvres ; l'élargissement du paquet de services offerts aux bénéficiaires des différentes programmes d'assurance sociale aux services dont les dépenses sont les plus susceptibles de faire basculer les ménages dans la pauvreté ; la mise en place des dispositifs pour faciliter l'accès des plus pauvres aux services hospitaliers et examens médicaux ; l'intégration de certains médicaments dans les programmes de gratuité pour réduire leur part dans les dépenses de santé. 4. Mettre en place un programme de versement de transferts monétaires aux ménages faisant face à des DCS ; 5. Assurer une plus grande accessibilité géographique des structures de santé à travers la construction de nouvelles structures de santé pour rapprocher les populations des soins de santé et réduire les DCS liées à l'iniquité dans la répartition des établissements et services de santé entre le monde rural et les milieux urbains.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "CONCLUSION",
+      "texte": "Cette étude a permis de mettre en exergue la nature et l'impact des dépenses de santé notamment celles catastrophiques sur le bien-être du ménage après avoir déterminé le niveau de fréquentation des structures sanitaires. Les résultats de l'étude montrent que la part de la population ayant eu un problème de santé a fortement baissé entre 2014 et 2019 alors que la proportion de la population ayant recouru à un service de soins de santé en cas d'un problème de santé a sensiblement augmenté sur la période sous revue. En outre, il ressort de l'étude que le paiement des médicaments reste structurellement le premier poste de dépenses de santé au Sénégal et représente 51,8% des dépenses de santé en 2019 contre 61,3% en 2014. Ce résultat corrobore les constats fait jusque sur les dépenses de santé au Sénégal (études sur les DCS au Sénégal en 2012, études sur les CNS) d'où la nécessite de faire des études approfondies et spécifiques sur les médicaments. Par ailleurs, au Sénégal l'étude révèle qu'en 2019, 1,1% des ménages ont fait à une situation de dépenses catastrophiques. Les paiements directs contribueraient à appauvrir 1,3% de ménages et que les populations du monde rural, notamment ceux du milieu rural. Une comparaison par rapport aux résultats de l'étude de 2011 montre que des progrès, imputables aux politiques de sante menées ces dernières années, ont été enregistrés dans ce domaine.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "BIBLIOGRAPHIE",
+      "texte": "Adam Leive, Ke Xu (2008) : Comment les ménages font-ils face aux dépenses de santé à leur charge : données empiriques provenant de 15 pays d'Afrique (OMS) ; Bulletin de Organisation mondiale de la Santé ; Volume 86, novembre, 817-908. Akazili, J., McIntyre, D., Kanmiki, E. W., Gyapong, J., Oduro, A., Sankoh, O., & Ataguba, J. E. (2017) : Assessing the catastrophic effects of out-of-pocket healthcare payments prior to the uptake of a nationwide health insurance scheme in Ghana. Global health action, 10(1), 1289735. ANACMU (2021) Rapport sur la protection financière et l'impact du régime de la couverture maladie universelle sur les membres du secteur informel au Sénégal. Arsenault, C., Fournier, P., Philibert, A., Sissoko, K., Coulibaly, A., Tourigny, C., Traoré, M., & Dumont, A. (2013) : Emergency obstetric care in Mali : catastrophic spending and its impoverishing effects on households. Bulletin of the World Health Organization, volume 91(3), 207–216. Atake, E. H., & Amendah, D. D. (2018) : Porous safety net : catastrophic health expenditure and its determinants among insured households in Togo. BMC health services research, 18(1), 175. https://doi.org/10.1186/s12913-018-2974-4. Chima A. Onoka, Obinna E. Onwujekwe, Kara Hanson and Benjamin S. Uzochukwu (2011) : Examining catastrophic health expenditures at variable thresholds using household consumption expenditure diaries. Tropical Medicine and International Health, volume 16. Gabani, J., & Guinness, L. (2019) : Households forgoing healthcare as a measure of financial risk protection : an application to Liberia. International journal for equity in health, 18(1), 193. Gbayoro et al. (2019) : Analyse de la protection contre les risques financiers liés à la santé des ménages en Côte d'Ivoire de 2008 à 2015. Publié Livret du Programme des Résumés « Cinquième Conférence de l'Association Africaine d'Economie et Politique de la Santé (AfHEA) Garantir les Soins de Santé Primaires pour tous : base pour la Couverture Sanitaire Universelle (CSU) en Afrique» 11 – 14 Mars 2019, Accra. Ke Xu (2005) La distribution des paiements de santé et des dépenses catastrophiques : la méthodologie, EIP/HSF/DP.05.2 – Discussion Paper. MEFP (2014) : Plan Senegal Emergent (PSE). MSAS (2012) Rapport d'analyse des dépenses catastrophiques de sante et leur impact sur l'appauvrissement et l'utilisation des services au Sénégal en 2005 et 2011. MSAS (2015). Rapport final des comptes nationaux de la sante du Sénégal MSAS (2017). Rapport final des comptes nationaux de la sante du Sénégal. MSAS (2019) Plan National de Développement Sanitaire et Social (PNDSS) 2019-2028. MSAS (2020) Rapport des comptes de la santé 2014 – 2016 du Sénégal ONU (2020) Rapport sur les objectifs de développement durable 2020. Okedo-Alex IN, Akamike IC, Ezeanosike OB, Uneke CJ. (2019) : A review of the incidence and determinants of catastrophic health expenditure in Nigeria: Implications for universal health coverage. International Journal of Health Planning and Management. Sanoussi Yacobou and Ametoglo Muriel (2019) : Ampleur Et déterminants des dépenses catastrophiques de santé : cas des ménages togolais. http://dx.doi.org/10.2139/ssrn.3440106. Tin Tin Su, Bocar Kouyaté, Steffen Flessa (2006) : Catastrophic household expenditure for health care in a low-income society: a study from Nouna District, Burkina Faso, Bulletin of the World Health Organisation, 2006.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ANNEXES",
+      "texte": "Ensemble de tableaux de données complémentaires aux graphiques présentés dans le corps du rapport.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 7 : Structure des paiements directs par quintile (Données graphique 1)",
+          "colonnes": ["Poste de dépense", "1", "2", "3", "4", "5"],
+          "lignes": [
+            {"Poste de dépense": "Consultation", "1": "13,6", "2": "12,8", "3": "12,4", "4": "12,4", "5": "12,2"},
+            {"Poste de dépense": "Examens médicaux", "1": "9,5", "2": "11,9", "3": "14,0", "4": "16,6", "5": "22,2"},
+            {"Poste de dépense": "Médicaments", "1": "65,0", "2": "61,2", "3": "59,3", "4": "54,2", "5": "43,0"},
+            {"Poste de dépense": "Hospitalisation", "1": "10,9", "2": "13,0", "3": "13,5", "4": "15,6", "5": "20,4"},
+            {"Poste de dépense": "Autres dépenses", "1": "0,9", "2": "1,0", "3": "0,7", "4": "1,2", "5": "2,2"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 8 : Part des paiements directs de santé en % de la capacité à payer par quintile (Données graphique 2)",
+          "colonnes": ["Année/Quintile", "1", "2", "3", "4", "5", "Total"],
+          "lignes": [
+            {"Année/Quintile": "2014", "1": "6,2", "2": "6,0", "3": "4,6", "4": "3,2", "5": "2,3", "Total": "4,5"},
+            {"Année/Quintile": "2019", "1": "5,3", "2": "6,1", "3": "5,8", "4": "5,3", "5": "4,6", "Total": "5,4"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 9 : Part des paiements directs de santé en % des dépenses totales par quintile (Données graphique 3)",
+          "colonnes": ["Année/Quintile", "1", "2", "3", "4", "5", "Total"],
+          "lignes": [
+            {"Année/Quintile": "2014", "1": "0,8", "2": "2,6", "3": "3,0", "4": "3,6", "5": "4,2", "Total": "2,8"},
+            {"Année/Quintile": "2019", "1": "2,8", "2": "3,1", "3": "3,4", "4": "3,5", "5": "3,6", "Total": "3,3"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 10 : Dépenses catastrophiques de santé en fonction du seuil considéré (Données graphique 4)",
+          "colonnes": ["Seuil dépenses catastrophiques", "2014", "2019"],
+          "lignes": [
+            {"Seuil dépenses catastrophiques": "Seuil 10%", "2014": "16,5", "2019": "16,5"},
+            {"Seuil dépenses catastrophiques": "Seuil 25%", "2014": "5,9", "2019": "3,8"},
+            {"Seuil dépenses catastrophiques": "Seuil 40%", "2014": "1,4", "2019": "1,1"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 11 : Répartition des paiements directs par milieu de résidence (Données graphique 5)",
+          "colonnes": ["Milieu", "Consultation", "Examens médicaux", "Médicaments", "Hospitalisation", "Autres dépenses"],
+          "lignes": [
+            {"Milieu": "Urbain", "Consultation": "11,5", "Examens médicaux": "20,2", "Médicaments": "48,6", "Hospitalisation": "17,6", "Autres dépenses": "2,0"},
+            {"Milieu": "Rural", "Consultation": "14,0", "Examens médicaux": "13,0", "Médicaments": "57,3", "Hospitalisation": "15,0", "Autres dépenses": "0,6"}
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 12 : Estimation des DCS par modèle logit",
+          "colonnes": ["Variable", "DCS40% Coefficient", "DCS40% Std.Err", "DCS40% z", "DCS40% P>z", "DCS25% Coefficient", "DCS25% Std.Err", "DCS25% z", "DCS25% P>z", "DCS10% Coefficient", "DCS10% Std.Err", "DCS10% z", "DCS10% P>z"],
+          "lignes": [
+            {"Variable": "Voir Tableau 6 (section XI.10) pour le détail complet des coefficients par variable et par région", "DCS40% Coefficient": "", "DCS40% Std.Err": "", "DCS40% z": "", "DCS40% P>z": "", "DCS25% Coefficient": "", "DCS25% Std.Err": "", "DCS25% z": "", "DCS25% P>z": "", "DCS10% Coefficient": "", "DCS10% Std.Err": "", "DCS10% z": "", "DCS10% P>z": ""}
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Coordonnées",
+      "texte": "Ministère de la Santé et de l'Action sociale. Fann Résidence, 1 RUE Aimé Césaire. B.P. 4024 Dakar. Tél. +221 33 869 42 42. Fax. +221 33 869 42 49. www.sante.gouv.sn. N° VERT : 800 00 50 50. Samu : 1515. Direction de la Planification, de la Recherche et des Statistiques. Cellule d'Economie de la Santé.",
+      "tableaux": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,4177 @@
+{
+  "metadata": {
+    "titre": "Annuaire des statistiques sanitaires et sociales 2018",
+    "annee": "2018",
+    "source": "Ministère de la Santé et de l'Action sociale (MSAS) - Direction de la Planification, de la Recherche et des Statistiques (DPRS)",
+    "type_document": "Annuaire statistique"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Préface",
+      "texte": "Le Ministère de la Santé et de l'Action sociale (MSAS), à travers de la Direction de la Recherche et des Statistiques (DPRS), met régulièrement à la disposition des décideurs, les acteurs de terrain et des Partenaires Techniques et Financiers les données provenant des activités sanitaires et sociales. Ces données sont présentées dans un document national de référence appelé annuaire des statistiques sanitaires et sociales qui renseigne sur le niveau de réalisation des prestations de services afin d'apprécier les performances des formations sanitaires et sociales. L'annuaire statistique facilite également le suivi des indicateurs du Plan National de Développement Sanitaire et Social (PNDSS) et aide à la prise de décision. Des progrès sur la disponibilité des données sanitaires et sociales ont été réalisés en 2018 malgré le retard de leur saisie dans la plateforme nationale de gestion des données. Toutefois, j'invite l'ensemble des acteurs à s'investir davantage pour une meilleure qualité des données et leur disponibilité en temps réel. De cette manière, l'annuaire statistique sera disponible dans les délais permettant son exploitation. Je félicite et encourage tous ceux qui ont contribué à la production de cet important document. De même, je remercie l'ensemble des acteurs du système de santé et d'action sociale pour leur accompagnement constant dans la mise en œuvre de la politique nationale ainsi qu'à la réalisation de ce document. M. Abdoulaye Diouf SARR, Ministre de la Santé et de l'Action sociale.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Remerciements",
+      "texte": "Plusieurs personnes et institutions ont contribué à l'élaboration de cet annuaire statistique 2018. Qu'elles trouvent ici l'expression de notre gratitude. Il s'agit notamment : des acteurs du système de santé à tous les échelons de la pyramide sanitaire ; des participants aux différents ateliers de rédaction ; des partenaires sociaux ; des partenaires techniques et financiers ; des personnes ressources ; des membres de l'équipe de relecture. C'est grâce à leur engagement et aux efforts fournis dans la collecte des données, l'élaboration des rapports d'activités, la saisie et le contrôle de la qualité des données, que ce document a pu être produit et diffusé. Le directeur de la Planification, de la Recherche et des Statistiques.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Sigles et acronymes",
+      "texte": "ACPP : Acteur Communautaire de Prévention et de Promotion ; AE : Approvisionnement en eau ; AEP : Approvisionnement en eau potable ; ACS : Acteur Communautaire de Santé ; ACS : Acteur Communautaire de soins ; ACT : Artemisinin Combination Therapy ; Age ND : Age Non Déterminé ; AMIU : Aspiration Manuelle Intra-utérine ; ANSD : Agence Nationale de la Statistique et de la Démographie ; ARV : Anti Rétro Viraux ; ATB : Antibiotique ; ATM : Articulation temporo-mandibulaire ; ATPC : Assainissement Total Piloté par la Communauté ; ATPE : Aliment Thérapeutique Prêt à l'Emploi ; AVC : Accident Vasculaire Cérébral ; AVP : Accident de la Voie Publique ; BCG : Bacille de Calmette et Guérin ; BPH : Bonnes Pratiques d'Hygiène ; BPHA : Bonnes Pratiques d'Hygiène des Aliments ; BPP : Bonne Pratique Phytosanitaire ; BSF : Bourse de Sécurité Familiale ; CA : Chiffre d'Affaire ; CAA : Complications Attendues des Accouchements ; CDS : Comité de Développement Sanitaire ; CEC : Carte d'Egalité des Chances ; CM : Certificat Médical ; CMU : Couverture Maladie Universelle ; CNAO : Centre National d'Appareillage Orthopédique ; CNLS : Conseil National de Lutte contre le SIDA ; CNRS : Centre National de Réadaptation Sociale ; CNTS : Centre National de Transfusion Sanguine ; CPN : Consultation prénatale ; CPON : Consultation postnatale ; CPRS : Centre de Promotion et de Réinsertion sociale ; CREN : Centre de Récupération et d'Éducation Nutritionnelle ; DA : Denrées Alimentaires ; DAGE : Direction de l'Administration Générale et de l'Equipement ; DGAS : Direction Générale de l'Action Sociale ; DHIS2 : District Health Information Software, version 2 ; DIEM : Direction des Infrastructures, des Équipements et de la Maintenance ; DIU : Dispositif Intra Utérin ; DLSI : Division de la Lutte contre le SIDA et les IST ; DMS : Durée Moyenne de Séjour ; DP : Direction de la Prévention ; DPRS : Direction de la Planification, de la Recherche et des Statistiques ; DRH : Direction des Ressources Humaines ; DS : District Sanitaire ; DSDOM : Dispensateur de soins à Domicile ; DSISS : Division du Système d'Information Sanitaire et Social ; DSME : Direction de la Santé de la Mère et de l'Enfant ; PENTA : Vaccin (contre Diphtérie Tétanos Coqueluche Hépatite B Haemophilus influenzae B) ; ECD : Equipe Cadre de District ; ECG : Electro Cardiographie ; ECR : Equipe Cadre de Région ; EPS : Etablissement Public de Santé ; ERP : Etablissement Recevant du Public ; F : Féminin ; FAR : Femmes en Age de Reproduction ; FCFA : Franc de la Communauté Financière Africaine ; FDAL : Fin de Défécation à l'Air Libre ; FDS : Forces de Défense et de Sécurité ; GATPA : Gestion Active de la Troisième Phase de l'Accouchement ; GEA : Gastro entérite Aigue ; GEU : Grossesse Extra Utérine ; HBP : Hypertrophie Bénigne de la Prostate ; HBS : Anticorps Anti HBS ; VIH : Virus de l'Immunodéficience Humaine ; HPP : Hémorragie du Postpartum ; HRP : Hémorragie Rétro placentaire ; HTA : Hypertension Artérielle ; ICP : Infirmier Chef de poste ; IHS : Institut d'Hygiène Sociale ; IM : Intra Musculaire ; INN : Infection Néo Natale ; IRA : Infection Respiratoire Aigue ; IRL : Indice de Rotation des Lits ; IRM : Imagerie médicale ; ISF : Indice synthétique de fécondité ; IST : Infection Sexuellement Transmissible ; JEGESINAA : Concept wolof qui veut dire rapprocher les médicaments et produits sanitaires au niveau district ; JNM : Journée Nationale de Micronutriments ; JNV : Journée Nationale de Vaccination ; HepB : Vaccin contre le virus de l'Hépatite B ; LFI : Loi de Finance Initiale ; LFR : Loi de Finance Rectificative ; M : Masculin ; MAM : Malnutrition Aigüe Modérée ; MAMA : Méthode de l'Allaitement Maternel et de l'Aménorrhée ; MAO : Méthode d'Auto Observation ; MAPI : Manifestation Adverse Post Immunisation ; MAS : Malnutrition Aigüe Sévère ; MCD : Médecin Chef de District ; MCR : Médecin Chef de Région ; MDO : Maladie à Déclaration Obligatoire ; MEG : Médicaments Essentiels Génériques ; MILDA : Moustiquaire Imprégnée à Longue Durée d'Action ; MSAS : Ministère de la Santé et de l'Action sociale ; ODD : Objectif de Développement Durable ; ORL : Oto-Rhino-Laryngologie ; PCV : Vaccin Anti Pneumococcique Conjugué ; PDV : Perdus de vue ; PECADOM : Prise en charge à Domicile ; PEV : Programme Élargi de Vaccination ; PF : Planification Familiale ; PFA : Paralysie Flasque Aigue ; PNA : Pharmacie Nationale d'Approvisionnement ; PNBSF : Programme national de bourses de sécurité familiale ; PNDS : Plan National de Développement Sanitaire ; PNEL : Programme National d'Elimination de la Lèpre ; PNLP : Programme National de Lutte Contre le Paludisme ; PNT : Programme National de Lutte contre la Tuberculose ; PRA : Pharmacie Régionale d'Approvisionnement ; PS : Poste de Santé ; PT : Population Totale ; PTF : Partenaires Techniques et Financiers ; PTME : Prévention de la Transmission Mère/Enfant ; PVVIH : Personne vivant avec le VIH ; RGO : Reflux Gastro Esophagien ; RM : Région Médicale ; RR : Vaccin contre la Rougeole et la Rubéole ; RSS : Renforcement du Système de Santé ; RU : Rupture Utérine ; SAU : Service d'Accueil et d'Urgence ; SC : Sous Cutané ; SDAS : Service départemental de l'Action sociale ; SIDA : Syndrome de l'Immuno-Déficience Acquise ; SNISS : Système national d'information sanitaire ; SNP : Surveillance Nutritionnelle et Pondérale ; SP : Sulfadoxine Pyriméthamine ; SR : Santé de la Reproduction ; SRAJ : Santé de la Reproduction des Adolescents/Jeunes ; SRAS : Service régional de l'Action sociale ; SRO : Solution de Réhydratation Orale ; TB : Tuberculose ; TBM : Taux brut de mortalité ; TBN : Taux brut de natalité ; TBR : Taux brut de reproduction ; TCE : Traumatisme Cranio-Encéphalique ; TDO : Traitement directement observé ; TDR : Test de Diagnostic Rapide ; TEP : Tuberculose Extra Pulmonaire ; TME : Transmission Mère/Enfant ; TNR : Taux net de reproduction ; TOM : Taux d'Occupation Moyen ; TPBC+ : Tuberculose pulmonaire bactériologiquement confirmé ; TPCD : Tuberculose pulmonaire cliniquement diagnostiqué ; TPI : Traitement Préventif Intermittent ; TPM- : Tuberculose Pulmonaire à Microscopie négative ; TPM+ : Tuberculose Pulmonaire à Microscopie positive ; TRO : Thérapie de Réhydratation Orale ; UREN : Unité de Réhabilitation et d'Education Nutritionnelle ; UREN-C : Unité de Réhabilitation et d'Education Nutritionnelle / Communautaire ; USER : Unité Suivi-Évaluation et Recherche ; VAA : Vaccin Anti Amaril ; VAT : Vaccin Anti Tétanique ; VPI : Vaccin Poliomiélyte Inactivé ; VPO : Vaccin Anti Poliomyélitique Oral.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Introduction",
+      "texte": "Le Système National d'Information Sanitaire et Sociale (SNISS) est un dispositif constitué d'acteurs, d'outils et de méthodes qui interagissent à différentes étapes du processus de production de l'information sanitaire et sociale que sont la collecte des données individuelles ou primaires, l'agrégation, le stockage, l'analyse des données et leur partage. Les objectifs du SNISS sont de fournir l'information utile à tous les acteurs et utilisateurs du système de santé ainsi qu'aux secteurs connexes de la santé et de l'action sociale, de permettre à l'Etat d'avoir un outil d'aide à la prise de décision, de soutenir le processus de planification, de gestion et d'évaluation des programmes et des services de santé et d'action sociale. Les informations produites par le SNISS permettent non seulement d'établir un bilan, mais aussi d'évaluer les interventions menées dans les domaines de la santé et de l'action sociale. C'est dans ce cadre que l'annuaire des statistiques sanitaires et sociales est produit chaque année. Il s'agit d'un document de référence en matière d'information sanitaire et sociale, d'aide à la prise de décision et à la planification, car il permet aux utilisateurs d'accéder à des données statistiques complètes et de qualité. L'annuaire statistique contient des données qui permettent le suivi des indicateurs des Objectifs de Développement Durable (ODD) et du Plan National du Développement Sanitaire (PNDS). Le processus d'élaboration de l'annuaire intègre des activités d'audit de la qualité des données et de validations au niveau de chaque région médicale. Ces séances ont permis de vérifier la qualité et de valider les données disponibles dans les centres, postes, cases de santé et les hôpitaux. De même, cet annuaire a intégré les données des programmes de santé, des services de l'action sociale ainsi que celles de certaines structures privées de santé et celles relatives aux ressources humaines, aux médicaments, à l'hygiène, aux équipements et infrastructures.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "I. Organisation et fonctionnement du système de santé",
+      "texte": "1.1. Organisation du système de santéL'organisation du secteur socio-sanitaire du Sénégal est de type pyramidal à trois niveaux: central, intermédiaire et périphérique.1.1.1. Le niveau centralIl regroupe le Cabinet du Ministre, le Secrétariat général, les Directions générales, les Directions nationales, les Services rattachés et les Etablissements Publics de Santé de niveau 3. Les orientations générales et les priorités en matière de santé sont définies à ce niveau.1.1.2. Le niveau intermédiaireIl est constitué des Régions médicales, des Services régionaux de l'action sociale, des brigades régionales de l'hygiène et des Etablissements Publics de Santé de niveau 2. L'aire d'intervention de la région médicale correspond à celle administrative. La région médicale est chargée de la coordination, la supervision, l'inspection et le contrôle des structures sanitaires publiques et privées. Elle organise aussi la collaboration technique entre toutes les structures régionales de santé et les assiste dans leurs tâches d'administration, de gestion et de planification.1.1.3. Le niveau périphériqueIl est représenté par les districts sanitaires, les services départementaux de l'action sociale, les sous brigades d'hygiène, les Centres de Promotion et de Réinsertion Sociale et les Etablissements Publics de Santé de niveau 1. Le district sanitaire couvre une zone géographique pouvant épouser les contours d'un département entier ou une partie. Il est assimilé à une zone opérationnelle comprenant au moins un centre de santé, des postes de santé qui polarisent des cases de santé et maternités rurales. Il s'y applique la santé dans son aspect multidimensionnel (préventif, curatif, promotionnel et ré-adaptatif).1.2. Fonctionnement du système de santéLe fonctionnement du système de santé repose sur six piliers : (i) la structure organisationnelle, (ii) les prestations de service, (iii) les ressources humaines, (iv) le financement de la santé, (v) la gestion des médicaments et des produits essentiels, et (vi) le système d'information sanitaire et sociale.1.2.1. Structure organisationnelleLa gouvernance du système de santé est assurée par divers acteurs dont les rôles et responsabilités varient selon le niveau de la pyramide sanitaire. Elle consiste à l'application des politiques sanitaires, l'allocation et l'utilisation des ressources, l'élaboration et le suivi des cadres de performances.1.2.2. Prestations de servicesL'offre de soins épouse l'architecture de la pyramide sanitaire avec au sommet les hôpitaux de niveau 3, au niveau intermédiaire les hôpitaux de niveau 2 communément appelés hôpitaux régionaux et au niveau périphérique, les hôpitaux de niveau 1, les centres et postes de santé auxquels sont rattachées les cases de santé et maternités rurales isolées. Un paquet de services curatifs et promotionnels est assuré par un dispositif communautaire assez structuré regroupant les cases de santé et les sites communautaires. Ce schéma est complété par l'offre du secteur privé et des structures sanitaires des autres départements ministériels (Forces de Défense et de Sécurité (FDS), Éducation, Justice, etc.) à tous les échelons de la pyramide. S'agissant de la référence contre référence, elle est assurée au sommet de la pyramide par l'hôpital suivi du centre de santé et des postes de santé.1.2.3. Les autres prestationsLes établissements publics de santé non hospitaliers sont des centres spécialisés à vocation nationale qui offrent des services de spécialité pointue. Il s'agit du Service d'Assistance Médicale d'Urgence (SAMU) pour les Urgences pré-hospitalières, du Centre National d'Appareillage Orthopédique (CNAO) pour la Réhabilitation fonctionnelle, de la Pharmacie Nationale d'Approvisionnement (PNA) pour la Gestion des approvisionnements et des stocks de médicaments et du Centre National de Transfusion Sanguine (CNTS) pour la Transfusion sanguine et produits dérivés. En outre, d'autres prestations sont offertes par les différentes entités du Service National de l'hygiène brigades régionales, sous brigades et postes d'hygiène. Dans le volet de l'action sociale, l'offre est assurée par les Centres nationaux de Réadaptation sociale (CNRS), les Services régionaux de l'Action sociale (SRAS), les Services départementaux de l'Action sociale (SDAS) et les Centres de Promotion et de Réinsertion sociale (CPRS).1.2.4. Ressources humainesLe développement des ressources humaines est crucial pour l'offre de prestations en santé et action sociale. La prise en charge des ressources humaines de toutes les catégories professionnelles est assurée par l'Etat, les Collectivités territoriales, la Communauté et les Partenaires Techniques et Financiers.1.2.5. Financement de la santéLes principales sources de financement du secteur de la santé sont constituées par l'État, les Comités de Développement Sanitaire (CDS), les Collectivités territoriales et les Partenaires Techniques et Financiers. Le système d'allocation des ressources contribue aux disparités dans le financement des programmes et des services de santé et d'action sociale à différents échelons de la pyramide.1.2.6. Gestion des médicaments et produits essentielsLa Pharmacie Nationale d'Approvisionnement (PNA) a mis en œuvre plusieurs stratégies innovantes pour rendre disponibles et accessibles géographiquement et financièrement les médicaments et produits essentiels. Il s'agit principalement du renforcement du maillage territorial par la mise en place de onze (11) Pharmacies Régionales d'Approvisionnement (PRA) et d'un système de dépôt-vente dans le cadre de la stratégie dénommée « Jegesinaa, Yeksinaa ». Il s'y ajoute le modèle de « PRA Mobile » pour les régions dépourvues de locaux abritant une PRA (Kaffrine, Sédhiou et Kédougou).1.2.7. Système d'information sanitaire et socialeLe rôle du système d'information sanitaire et sociale consiste à collecter, stocker, analyser et évaluer la qualité des données en vue de produire et de diffuser des informations sanitaires et sociales, notamment l'annuaire des statistiques. Des données sanitaires et sociales exhaustives et de qualité permettent une bonne planification et une prise de décision.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "II. Ressources du système",
+      "texte": "2.1. Population",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 1: Population totale par sexe et populations cibles en santé maternelle par région",
+          "colonnes": [
+            "REGIONS",
+            "Hommes",
+            "Femmes",
+            "Ensemble",
+            "Naissances attendues : PTx0,0368",
+            "CAA: PTx0,0368x0,15",
+            "FAR (15-49ans): PTx0,2416"
+          ],
+          "lignes": [
+            {
+              "REGIONS": "Dakar",
+              "Hommes": "1 805 476",
+              "Femmes": "1 824 848",
+              "Ensemble": "3 630 324",
+              "Naissances attendues : PTx0,0368": "133 596",
+              "CAA: PTx0,0368x0,15": "20 039",
+              "FAR (15-49ans): PTx0,2416": "877 086"
+            },
+            {
+              "REGIONS": "Diourbel",
+              "Hommes": "841 256",
+              "Femmes": "905 240",
+              "Ensemble": "1 746 496",
+              "Naissances attendues : PTx0,0368": "64 271",
+              "CAA: PTx0,0368x0,15": "9 641",
+              "FAR (15-49ans): PTx0,2416": "421 953"
+            },
+            {
+              "REGIONS": "Fatick",
+              "Hommes": "417 634",
+              "Femmes": "423 660",
+              "Ensemble": "841 294",
+              "Naissances attendues : PTx0,0368": "30 960",
+              "CAA: PTx0,0368x0,15": "4 644",
+              "FAR (15-49ans): PTx0,2416": "203 257"
+            },
+            {
+              "REGIONS": "Kaffrine",
+              "Hommes": "337 391",
+              "Femmes": "341 564",
+              "Ensemble": "678 955",
+              "Naissances attendues : PTx0,0368": "24 986",
+              "CAA: PTx0,0368x0,15": "3 748",
+              "FAR (15-49ans): PTx0,2416": "164 036"
+            },
+            {
+              "REGIONS": "Kaolack",
+              "Hommes": "554 294",
+              "Femmes": "566 110",
+              "Ensemble": "1 120 404",
+              "Naissances attendues : PTx0,0368": "41 231",
+              "CAA: PTx0,0368x0,15": "6 185",
+              "FAR (15-49ans): PTx0,2416": "270 690"
+            },
+            {
+              "REGIONS": "Kédougou",
+              "Hommes": "92 404",
+              "Femmes": "85 865",
+              "Ensemble": "178 269",
+              "Naissances attendues : PTx0,0368": "6 560",
+              "CAA: PTx0,0368x0,15": "984",
+              "FAR (15-49ans): PTx0,2416": "43 070"
+            },
+            {
+              "REGIONS": "Kolda",
+              "Hommes": "390 054",
+              "Femmes": "382 019",
+              "Ensemble": "772 073",
+              "Naissances attendues : PTx0,0368": "28 412",
+              "CAA: PTx0,0368x0,15": "4 262",
+              "FAR (15-49ans): PTx0,2416": "186 533"
+            },
+            {
+              "REGIONS": "Louga",
+              "Hommes": "499 526",
+              "Femmes": "504 875",
+              "Ensemble": "1 004 401",
+              "Naissances attendues : PTx0,0368": "36 962",
+              "CAA: PTx0,0368x0,15": "5 544",
+              "FAR (15-49ans): PTx0,2416": "242 663"
+            },
+            {
+              "REGIONS": "Matam",
+              "Hommes": "335 866",
+              "Femmes": "344 220",
+              "Ensemble": "680 086",
+              "Naissances attendues : PTx0,0368": "25 027",
+              "CAA: PTx0,0368x0,15": "3 754",
+              "FAR (15-49ans): PTx0,2416": "164 309"
+            },
+            {
+              "REGIONS": "Saint-Louis",
+              "Hommes": "517 436",
+              "Femmes": "518 573",
+              "Ensemble": "1 036 009",
+              "Naissances attendues : PTx0,0368": "38 125",
+              "CAA: PTx0,0368x0,15": "5 719",
+              "FAR (15-49ans): PTx0,2416": "250 300"
+            },
+            {
+              "REGIONS": "Sédhiou",
+              "Hommes": "270 591",
+              "Femmes": "264 064",
+              "Ensemble": "534 655",
+              "Naissances attendues : PTx0,0368": "19 675",
+              "CAA: PTx0,0368x0,15": "2 951",
+              "FAR (15-49ans): PTx0,2416": "129 173"
+            },
+            {
+              "REGIONS": "Tambacounda",
+              "Hommes": "410 377",
+              "Femmes": "401 698",
+              "Ensemble": "812 075",
+              "Naissances attendues : PTx0,0368": "29 884",
+              "CAA: PTx0,0368x0,15": "4 483",
+              "FAR (15-49ans): PTx0,2416": "196 197"
+            },
+            {
+              "REGIONS": "Thiès",
+              "Hommes": "1 027 194",
+              "Femmes": "1 022 570",
+              "Ensemble": "2 049 764",
+              "Naissances attendues : PTx0,0368": "75 431",
+              "CAA: PTx0,0368x0,15": "11 315",
+              "FAR (15-49ans): PTx0,2416": "496 043"
+            },
+            {
+              "REGIONS": "Ziguinchor",
+              "Hommes": "329 235",
+              "Femmes": "312 019",
+              "Ensemble": "641 254",
+              "Naissances attendues : PTx0,0368": "23 598",
+              "CAA: PTx0,0368x0,15": "3 540",
+              "FAR (15-49ans): PTx0,2416": "154 927"
+            },
+            {
+              "REGIONS": "Sénégal",
+              "Hommes": "7 828 734",
+              "Femmes": "7 897 325",
+              "Ensemble": "15 726 059",
+              "Naissances attendues : PTx0,0368": "578 719",
+              "CAA: PTx0,0368x0,15": "86 808",
+              "FAR (15-49ans): PTx0,2416": "3 800 236"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 2: Populations cibles en santé infanto juvénile",
+          "colonnes": [
+            "REGIONS",
+            "0-6mois: PTx0,0206",
+            "0-11mois: PTx0,0351",
+            "0-23mois: PTX0,0690",
+            "0-24 mois: PTx0,1019",
+            "6-11 mois: PTx0,0176",
+            "6-23mois: PTx0,0484",
+            "6-59 mois: PTX0,1452",
+            "12-59 mois: PTX0,1296",
+            "24-59mois: PTX0,0957",
+            "36-59mois: PTX0,0628",
+            "0-36 mois: PTx0,1338",
+            "0-59mois: PTx0,1647",
+            "0-5 ans: PTx0,1922"
+          ],
+          "lignes": [
+            {
+              "REGIONS": "Dakar",
+              "0-6mois: PTx0,0206": "74 785",
+              "0-11mois: PTx0,0351": "127 424",
+              "0-23mois: PTX0,0690": "250 492",
+              "0-24 mois: PTx0,1019": "693 392",
+              "6-11 mois: PTx0,0176": "63 894",
+              "6-23mois: PTx0,0484": "175 708",
+              "6-59 mois: PTX0,1452": "527 123",
+              "12-59 mois: PTX0,1296": "470 490",
+              "24-59mois: PTX0,0957": "347 422",
+              "36-59mois: PTX0,0628": "227 984",
+              "0-36 mois: PTx0,1338": "485 737",
+              "0-59mois: PTx0,1647": "597 914",
+              "0-5 ans: PTx0,1922": "697 748"
+            },
+            {
+              "REGIONS": "Diourbel",
+              "0-6mois: PTx0,0206": "35 978",
+              "0-11mois: PTx0,0351": "61 302",
+              "0-23mois: PTX0,0690": "120 508",
+              "0-24 mois: PTx0,1019": "177 968",
+              "6-11 mois: PTx0,0176": "30 738",
+              "6-23mois: PTx0,0484": "84 530",
+              "6-59 mois: PTX0,1452": "253 591",
+              "12-59 mois: PTX0,1296": "226 346",
+              "24-59mois: PTX0,0957": "167 140",
+              "36-59mois: PTX0,0628": "109 680",
+              "0-36 mois: PTx0,1338": "233 681",
+              "0-59mois: PTx0,1647": "287 648",
+              "0-5 ans: PTx0,1922": "335 677"
+            },
+            {
+              "REGIONS": "Fatick",
+              "0-6mois: PTx0,0206": "17 331",
+              "0-11mois: PTx0,0351": "29 529",
+              "0-23mois: PTX0,0690": "58 049",
+              "0-24 mois: PTx0,1019": "85 728",
+              "6-11 mois: PTx0,0176": "14 807",
+              "6-23mois: PTx0,0484": "40 719",
+              "6-59 mois: PTX0,1452": "122 156",
+              "12-59 mois: PTX0,1296": "109 032",
+              "24-59mois: PTX0,0957": "80 512",
+              "36-59mois: PTX0,0628": "52 833",
+              "0-36 mois: PTx0,1338": "112 565",
+              "0-59mois: PTx0,1647": "138 561",
+              "0-5 ans: PTx0,1922": "161 697"
+            },
+            {
+              "REGIONS": "Kaffrine",
+              "0-6mois: PTx0,0206": "13 986",
+              "0-11mois: PTx0,0351": "23 831",
+              "0-23mois: PTX0,0690": "46 848",
+              "0-24 mois: PTx0,1019": "69 186",
+              "6-11 mois: PTx0,0176": "11 950",
+              "6-23mois: PTx0,0484": "32 861",
+              "6-59 mois: PTX0,1452": "98 584",
+              "12-59 mois: PTX0,1296": "87 993",
+              "24-59mois: PTX0,0957": "64 976",
+              "36-59mois: PTX0,0628": "42 638",
+              "0-36 mois: PTx0,1338": "90 844",
+              "0-59mois: PTx0,1647": "111 824",
+              "0-5 ans: PTx0,1922": "130 495"
+            },
+            {
+              "REGIONS": "Kaolack",
+              "0-6mois: PTx0,0206": "23 080",
+              "0-11mois: PTx0,0351": "39 326",
+              "0-23mois: PTX0,0690": "77 308",
+              "0-24 mois: PTx0,1019": "114 169",
+              "6-11 mois: PTx0,0176": "19 719",
+              "6-23mois: PTx0,0484": "57 925",
+              "6-59 mois: PTX0,1452": "162 683",
+              "12-59 mois: PTX0,1296": "145 204",
+              "24-59mois: PTX0,0957": "107 223",
+              "36-59mois: PTX0,0628": "70 361",
+              "0-36 mois: PTx0,1338": "149 910",
+              "0-59mois: PTx0,1647": "184 531",
+              "0-5 ans: PTx0,1922": "215 342"
+            },
+            {
+              "REGIONS": "Kédougou",
+              "0-6mois: PTx0,0206": "3 672",
+              "0-11mois: PTx0,0351": "6 257",
+              "0-23mois: PTX0,0690": "12 301",
+              "0-24 mois: PTx0,1019": "18 166",
+              "6-11 mois: PTx0,0176": "3 138",
+              "6-23mois: PTx0,0484": "8 628",
+              "6-59 mois: PTX0,1452": "25 885",
+              "12-59 mois: PTX0,1296": "23 104",
+              "24-59mois: PTX0,0957": "17 060",
+              "36-59mois: PTX0,0628": "11 195",
+              "0-36 mois: PTx0,1338": "23 852",
+              "0-59mois: PTx0,1647": "29 361",
+              "0-5 ans: PTx0,1922": "34 263"
+            },
+            {
+              "REGIONS": "Kolda",
+              "0-6mois: PTx0,0206": "15 905",
+              "0-11mois: PTx0,0351": "27 100",
+              "0-23mois: PTX0,0690": "53 273",
+              "0-24 mois: PTx0,1019": "78 674",
+              "6-11 mois: PTx0,0176": "13 588",
+              "6-23mois: PTx0,0484": "37 368",
+              "6-59 mois: PTX0,1452": "112 105",
+              "12-59 mois: PTX0,1296": "100 061",
+              "24-59mois: PTX0,0957": "73 887",
+              "36-59mois: PTX0,0628": "48 486",
+              "0-36 mois: PTx0,1338": "103 303",
+              "0-59mois: PTx0,1647": "127 160",
+              "0-5 ans: PTx0,1922": "148 392"
+            },
+            {
+              "REGIONS": "Louga",
+              "0-6mois: PTx0,0206": "20 691",
+              "0-11mois: PTx0,0351": "35 254",
+              "0-23mois: PTX0,0690": "69 304",
+              "0-24 mois: PTx0,1019": "102 348",
+              "6-11 mois: PTx0,0176": "17 677",
+              "6-23mois: PTx0,0484": "48 613",
+              "6-59 mois: PTX0,1452": "145 839",
+              "12-59 mois: PTX0,1296": "130 170",
+              "24-59mois: PTX0,0957": "96 121",
+              "36-59mois: PTX0,0628": "63 076",
+              "0-36 mois: PTx0,1338": "134 389",
+              "0-59mois: PTx0,1647": "165 425",
+              "0-5 ans: PTx0,1922": "193 046"
+            },
+            {
+              "REGIONS": "Matam",
+              "0-6mois: PTx0,0206": "14 010",
+              "0-11mois: PTx0,0351": "23 871",
+              "0-23mois: PTX0,0690": "46 926",
+              "0-24 mois: PTx0,1019": "69 301",
+              "6-11 mois: PTx0,0176": "11 970",
+              "6-23mois: PTx0,0484": "32 916",
+              "6-59 mois: PTX0,1452": "98 748",
+              "12-59 mois: PTX0,1296": "88 139",
+              "24-59mois: PTX0,0957": "65 084",
+              "36-59mois: PTX0,0628": "42 709",
+              "0-36 mois: PTx0,1338": "90 996",
+              "0-59mois: PTx0,1647": "112 010",
+              "0-5 ans: PTx0,1922": "130 713"
+            },
+            {
+              "REGIONS": "Saint-Louis",
+              "0-6mois: PTx0,0206": "21 342",
+              "0-11mois: PTx0,0351": "36 364",
+              "0-23mois: PTX0,0690": "71 485",
+              "0-24 mois: PTx0,1019": "105 569",
+              "6-11 mois: PTx0,0176": "18 234",
+              "6-23mois: PTx0,0484": "50 143",
+              "6-59 mois: PTX0,1452": "150 429",
+              "12-59 mois: PTX0,1296": "134 267",
+              "24-59mois: PTX0,0957": "99 146",
+              "36-59mois: PTX0,0628": "65 061",
+              "0-36 mois: PTx0,1338": "138 618",
+              "0-59mois: PTx0,1647": "170 631",
+              "0-5 ans: PTx0,1922": "199 121"
+            },
+            {
+              "REGIONS": "Sédhiou",
+              "0-6mois: PTx0,0206": "11 014",
+              "0-11mois: PTx0,0351": "18 766",
+              "0-23mois: PTX0,0690": "36 891",
+              "0-24 mois: PTx0,1019": "54 481",
+              "6-11 mois: PTx0,0176": "9 410",
+              "6-23mois: PTx0,0484": "25 877",
+              "6-59 mois: PTX0,1452": "77 632",
+              "12-59 mois: PTX0,1296": "69 291",
+              "24-59mois: PTX0,0957": "51 166",
+              "36-59mois: PTX0,0628": "33 576",
+              "0-36 mois: PTx0,1338": "71 537",
+              "0-59mois: PTx0,1647": "88 058",
+              "0-5 ans: PTx0,1922": "102 761"
+            },
+            {
+              "REGIONS": "Tambacounda",
+              "0-6mois: PTx0,0206": "16 729",
+              "0-11mois: PTx0,0351": "28 504",
+              "0-23mois: PTX0,0690": "56 033",
+              "0-24 mois: PTx0,1019": "82 750",
+              "6-11 mois: PTx0,0176": "14 293",
+              "6-23mois: PTx0,0484": "39 304",
+              "6-59 mois: PTX0,1452": "117 913",
+              "12-59 mois: PTX0,1296": "105 245",
+              "24-59mois: PTX0,0957": "77 716",
+              "36-59mois: PTX0,0628": "50 998",
+              "0-36 mois: PTx0,1338": "108 656",
+              "0-59mois: PTx0,1647": "133 749",
+              "0-5 ans: PTx0,1922": "156 081"
+            },
+            {
+              "REGIONS": "Thiès",
+              "0-6mois: PTx0,0206": "42 225",
+              "0-11mois: PTx0,0351": "71 947",
+              "0-23mois: PTX0,0690": "141 434",
+              "0-24 mois: PTx0,1019": "208 871",
+              "6-11 mois: PTx0,0176": "36 076",
+              "6-23mois: PTx0,0484": "99 209",
+              "6-59 mois: PTX0,1452": "297 626",
+              "12-59 mois: PTX0,1296": "265 649",
+              "24-59mois: PTX0,0957": "196 162",
+              "36-59mois: PTX0,0628": "128 725",
+              "0-36 mois: PTx0,1338": "274 258",
+              "0-59mois: PTx0,1647": "337 596",
+              "0-5 ans: PTx0,1922": "393 965"
+            },
+            {
+              "REGIONS": "Ziguinchor",
+              "0-6mois: PTx0,0206": "13 210",
+              "0-11mois: PTx0,0351": "22 508",
+              "0-23mois: PTX0,0690": "44 247",
+              "0-24 mois: PTx0,1019": "65 344",
+              "6-11 mois: PTx0,0176": "11 286",
+              "6-23mois: PTx0,0484": "31 037",
+              "6-59 mois: PTX0,1452": "93 110",
+              "12-59 mois: PTX0,1296": "83 107",
+              "24-59mois: PTX0,0957": "61 368",
+              "36-59mois: PTX0,0628": "40 271",
+              "0-36 mois: PTx0,1338": "85 800",
+              "0-59mois: PTx0,1647": "104 396",
+              "0-5 ans: PTx0,1922": "123 249"
+            },
+            {
+              "REGIONS": "Sénégal",
+              "0-6mois: PTx0,0206": "323 957",
+              "0-11mois: PTx0,0351": "551 985",
+              "0-23mois: PTX0,0690": "1 085 098",
+              "0-24 mois: PTx0,1019": "1 925 947",
+              "6-11 mois: PTx0,0176": "276 779",
+              "6-23mois: PTx0,0484": "764 839",
+              "6-59 mois: PTX0,1452": "2 283 424",
+              "12-59 mois: PTX0,1296": "2 038 097",
+              "24-59mois: PTX0,0957": "1 504 984",
+              "36-59mois: PTX0,0628": "987 597",
+              "0-36 mois: PTx0,1338": "2 104 147",
+              "0-59mois: PTx0,1647": "2 588 864",
+              "0-5 ans: PTx0,1922": "3 022 549"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 3: Répartition de la population cible par programme",
+          "colonnes": [
+            "REGIONS",
+            "9 ans: PTx0,0257",
+            "10 ans : PTx0,0251",
+            "11 ans: PTx0,0245",
+            "12 ans : PTx0,0239",
+            "13 ans: PTx0,0233",
+            "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172",
+            "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194",
+            "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045",
+            "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912",
+            "3ème âge (60 ans et plus): PTx0,0551"
+          ],
+          "lignes": [
+            {
+              "REGIONS": "Dakar",
+              "9 ans: PTx0,0257": "93 299",
+              "10 ans : PTx0,0251": "91 121",
+              "11 ans: PTx0,0245": "88 943",
+              "12 ans : PTx0,0239": "86 765",
+              "13 ans: PTx0,0233": "84 587",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "1 514 571",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "433 461",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "379 369",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "331 086",
+              "3ème âge (60 ans et plus): PTx0,0551": "200 031"
+            },
+            {
+              "REGIONS": "Diourbel",
+              "9 ans: PTx0,0257": "44 885",
+              "10 ans : PTx0,0251": "43 837",
+              "11 ans: PTx0,0245": "42 789",
+              "12 ans : PTx0,0239": "41 741",
+              "13 ans: PTx0,0233": "40 693",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "728 638",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "208 532",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "159 280",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "182 509",
+              "3ème âge (60 ans et plus): PTx0,0551": "96 232"
+            },
+            {
+              "REGIONS": "Fatick",
+              "9 ans: PTx0,0257": "21 621",
+              "10 ans : PTx0,0251": "21 116",
+              "11 ans: PTx0,0245": "20 612",
+              "12 ans : PTx0,0239": "20 107",
+              "13 ans: PTx0,0233": "19 602",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "350 988",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "100 451",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "76 726",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "87 915",
+              "3ème âge (60 ans et plus): PTx0,0551": "46 355"
+            },
+            {
+              "REGIONS": "Kaffrine",
+              "9 ans: PTx0,0257": "17 449",
+              "10 ans : PTx0,0251": "17 042",
+              "11 ans: PTx0,0245": "16 634",
+              "12 ans : PTx0,0239": "16 227",
+              "13 ans: PTx0,0233": "15 820",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "283 260",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "81 067",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "61 921",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "70 951",
+              "3ème âge (60 ans et plus): PTx0,0551": "37 410"
+            },
+            {
+              "REGIONS": "Kaolack",
+              "9 ans: PTx0,0257": "28 794",
+              "10 ans : PTx0,0251": "28 122",
+              "11 ans: PTx0,0245": "27 450",
+              "12 ans : PTx0,0239": "26 778",
+              "13 ans: PTx0,0233": "26 105",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "467 433",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "133 776",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "102 181",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "117 082",
+              "3ème âge (60 ans et plus): PTx0,0551": "61 734"
+            },
+            {
+              "REGIONS": "Kédougou",
+              "9 ans: PTx0,0257": "4 582",
+              "10 ans : PTx0,0251": "4 475",
+              "11 ans: PTx0,0245": "4 368",
+              "12 ans : PTx0,0239": "4 261",
+              "13 ans: PTx0,0233": "4 154",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "74 374",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "21 285",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "18 629",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "16 258",
+              "3ème âge (60 ans et plus): PTx0,0551": "9 823"
+            },
+            {
+              "REGIONS": "Kolda",
+              "9 ans: PTx0,0257": "19 842",
+              "10 ans : PTx0,0251": "19 379",
+              "11 ans: PTx0,0245": "18 916",
+              "12 ans : PTx0,0239": "18 453",
+              "13 ans: PTx0,0233": "17 989",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "322 109",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "92 186",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "80 682",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "70 413",
+              "3ème âge (60 ans et plus): PTx0,0551": "42 541"
+            },
+            {
+              "REGIONS": "Louga",
+              "9 ans: PTx0,0257": "25 813",
+              "10 ans : PTx0,0251": "25 210",
+              "11 ans: PTx0,0245": "24 608",
+              "12 ans : PTx0,0239": "24 005",
+              "13 ans: PTx0,0233": "23 403",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "419 036",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "119 925",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "104 960",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "91 601",
+              "3ème âge (60 ans et plus): PTx0,0551": "55 342"
+            },
+            {
+              "REGIONS": "Matam",
+              "9 ans: PTx0,0257": "17 478",
+              "10 ans : PTx0,0251": "17 070",
+              "11 ans: PTx0,0245": "16 662",
+              "12 ans : PTx0,0239": "16 254",
+              "13 ans: PTx0,0233": "15 846",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "283 732",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "81 202",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "71 069",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "62 024",
+              "3ème âge (60 ans et plus): PTx0,0551": "37 473"
+            },
+            {
+              "REGIONS": "Saint-Louis",
+              "9 ans: PTx0,0257": "26 625",
+              "10 ans : PTx0,0251": "26 004",
+              "11 ans: PTx0,0245": "25 382",
+              "12 ans : PTx0,0239": "24 761",
+              "13 ans: PTx0,0233": "24 139",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "432 223",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "123 699",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "108 263",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "94 484",
+              "3ème âge (60 ans et plus): PTx0,0551": "57 084"
+            },
+            {
+              "REGIONS": "Sédhiou",
+              "9 ans: PTx0,0257": "13 741",
+              "10 ans : PTx0,0251": "13 420",
+              "11 ans: PTx0,0245": "13 099",
+              "12 ans : PTx0,0239": "12 778",
+              "13 ans: PTx0,0233": "12 457",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "223 058",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "63 838",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "48 761",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "55 871",
+              "3ème âge (60 ans et plus): PTx0,0551": "29 459"
+            },
+            {
+              "REGIONS": "Tambacounda",
+              "9 ans: PTx0,0257": "20 870",
+              "10 ans : PTx0,0251": "20 383",
+              "11 ans: PTx0,0245": "19 896",
+              "12 ans : PTx0,0239": "19 409",
+              "13 ans: PTx0,0233": "18 921",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "338 798",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "96 962",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "84 862",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "74 061",
+              "3ème âge (60 ans et plus): PTx0,0551": "44 745"
+            },
+            {
+              "REGIONS": "Thiès",
+              "9 ans: PTx0,0257": "52 679",
+              "10 ans : PTx0,0251": "51 449",
+              "11 ans: PTx0,0245": "50 219",
+              "12 ans : PTx0,0239": "48 989",
+              "13 ans: PTx0,0233": "47 760",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "855 162",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "244 742",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "186 938",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "214 200",
+              "3ème âge (60 ans et plus): PTx0,0551": "112 942"
+            },
+            {
+              "REGIONS": "Ziguinchor",
+              "9 ans: PTx0,0257": "16 480",
+              "10 ans : PTx0,0251": "16 095",
+              "11 ans: PTx0,0245": "15 711",
+              "12 ans : PTx0,0239": "15 326",
+              "13 ans: PTx0,0233": "14 941",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "267 531",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "76 566",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "67 011",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "58 482",
+              "3ème âge (60 ans et plus): PTx0,0551": "35 333"
+            },
+            {
+              "REGIONS": "Sénégal",
+              "9 ans: PTx0,0257": "404 160",
+              "10 ans : PTx0,0251": "394 724",
+              "11 ans: PTx0,0245": "385 288",
+              "12 ans : PTx0,0239": "375 853",
+              "13 ans: PTx0,0233": "366 417",
+              "Santé Reproductive Adolescents(es)/ Jeunes (Moins de 14 ans): PTx0,4172": "6 560 912",
+              "Santé Reproductive Adolescents(es)/ Jeunes (10-14 ans): PTx0,1194": "1 877 691",
+              "Santé Reproductive Adolescents(es)/ Jeunes (15-19 ans): PTx0,1045": "1 643 373",
+              "Santé Reproductive Adolescents(es)/ Jeunes (20-24 ans) : PTx0,0912": "1 434 217",
+              "3ème âge (60 ans et plus): PTx0,0551": "866 506"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.2. Ressources humaines",
+      "texte": "Répartition des ressources humaines par catégorie socioprofessionnelle par région.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 4: Répartition des ressources humaines par catégorie socioprofessionnelle par région (Médecins)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Médecin généraliste",
+            "Médecin anatomo-pathologiste",
+            "Médecin anesthésiste-réanimateur",
+            "Médecin bactériologiste",
+            "Médecin biologiste",
+            "Médecin cancérologue",
+            "Médecin cardiologue"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Médecin généraliste": "89",
+              "Médecin anatomo-pathologiste": "5",
+              "Médecin anesthésiste-réanimateur": "56",
+              "Médecin bactériologiste": "3",
+              "Médecin biologiste": "30",
+              "Médecin cancérologue": "13",
+              "Médecin cardiologue": "40"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Médecin généraliste": "32",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "1",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Médecin généraliste": "10",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "0",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Médecin généraliste": "5",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "0",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Médecin généraliste": "7",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "0",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Médecin généraliste": "5",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "0",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Médecin généraliste": "3",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "1",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Médecin généraliste": "13",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "1",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Médecin généraliste": "11",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "0",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "1",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Médecin généraliste": "21",
+              "Médecin anatomo-pathologiste": "1",
+              "Médecin anesthésiste-réanimateur": "4",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "1",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "4"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Médecin généraliste": "9",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "0",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Médecin généraliste": "13",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "1",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Médecin généraliste": "15",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "5",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "0",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Médecin généraliste": "21",
+              "Médecin anatomo-pathologiste": "0",
+              "Médecin anesthésiste-réanimateur": "1",
+              "Médecin bactériologiste": "0",
+              "Médecin biologiste": "3",
+              "Médecin cancérologue": "0",
+              "Médecin cardiologue": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Médecin généraliste": "254",
+              "Médecin anatomo-pathologiste": "6",
+              "Médecin anesthésiste-réanimateur": "70",
+              "Médecin bactériologiste": "3",
+              "Médecin biologiste": "35",
+              "Médecin cancérologue": "13",
+              "Médecin cardiologue": "60"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 5: Répartition des ressources humaines par catégorie socioprofessionnelle par région (Médecins) (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Médecin chimiothérapeute",
+            "Médecin cytogénéticien",
+            "Médecin dermatologue-vénérologue",
+            "Médecin Diabétologue",
+            "Médecin Diététicien",
+            "Médecin du travail",
+            "Médecin endocrinologue"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Médecin chimiothérapeute": "7",
+              "Médecin cytogénéticien": "1",
+              "Médecin dermatologue-vénérologue": "24",
+              "Médecin Diabétologue": "4",
+              "Médecin Diététicien": "2",
+              "Médecin du travail": "9",
+              "Médecin endocrinologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "1",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "2",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "0",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "0",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "1",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "0",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "0",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "1",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "0",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "2",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "1",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "0",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "0",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "2",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "5",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "0",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Médecin chimiothérapeute": "0",
+              "Médecin cytogénéticien": "0",
+              "Médecin dermatologue-vénérologue": "3",
+              "Médecin Diabétologue": "0",
+              "Médecin Diététicien": "0",
+              "Médecin du travail": "1",
+              "Médecin endocrinologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Médecin chimiothérapeute": "7",
+              "Médecin cytogénéticien": "1",
+              "Médecin dermatologue-vénérologue": "37",
+              "Médecin Diabétologue": "4",
+              "Médecin Diététicien": "3",
+              "Médecin du travail": "14",
+              "Médecin endocrinologue": "1"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 6: Répartition des ressources humaines par catégorie socioprofessionnelle par région (Médecins) (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Médecin entomo parasitologue",
+            "Médecin épidémiologiste",
+            "Médecin gastro-entérologue",
+            "Médecin nutritionniste",
+            "Médecin gériatre",
+            "Médecin gynécologue obstétricien"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Médecin entomo parasitologue": "1",
+              "Médecin épidémiologiste": "5",
+              "Médecin gastro-entérologue": "18",
+              "Médecin nutritionniste": "2",
+              "Médecin gériatre": "4",
+              "Médecin gynécologue obstétricien": "65"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "10"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "1",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "4"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "0",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "1",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "9"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Médecin entomo parasitologue": "0",
+              "Médecin épidémiologiste": "0",
+              "Médecin gastro-entérologue": "1",
+              "Médecin nutritionniste": "0",
+              "Médecin gériatre": "0",
+              "Médecin gynécologue obstétricien": "4"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Médecin entomo parasitologue": "1",
+              "Médecin épidémiologiste": "5",
+              "Médecin gastro-entérologue": "20",
+              "Médecin nutritionniste": "2",
+              "Médecin gériatre": "4",
+              "Médecin gynécologue obstétricien": "109"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 7: Répartition des ressources humaines par catégorie socioprofessionnelle par région (Médecins) (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Médecin hématologue",
+            "Médecin infectiologue",
+            "Médecin interniste",
+            "Médecin kinésithérapeute",
+            "Médecin légiste",
+            "Médecin néphrologue",
+            "Médecin neurochirurgien"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Médecin hématologue": "5",
+              "Médecin infectiologue": "16",
+              "Médecin interniste": "13",
+              "Médecin kinésithérapeute": "2",
+              "Médecin légiste": "1",
+              "Médecin néphrologue": "11",
+              "Médecin neurochirurgien": "12"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "0",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "2",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "0",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "0",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "0",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "0",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "0",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "1",
+              "Médecin neurochirurgien": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "1",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "0",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "1",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "0",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "0",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "1",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "1",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "1",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "0",
+              "Médecin interniste": "2",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "1",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "0",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "0",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "0",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "1",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "1",
+              "Médecin interniste": "2",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "2",
+              "Médecin neurochirurgien": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Médecin hématologue": "0",
+              "Médecin infectiologue": "2",
+              "Médecin interniste": "0",
+              "Médecin kinésithérapeute": "0",
+              "Médecin légiste": "0",
+              "Médecin néphrologue": "1",
+              "Médecin neurochirurgien": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Médecin hématologue": "5",
+              "Médecin infectiologue": "22",
+              "Médecin interniste": "17",
+              "Médecin kinésithérapeute": "2",
+              "Médecin légiste": "1",
+              "Médecin néphrologue": "21",
+              "Médecin neurochirurgien": "14"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 8: Répartition des ressources humaines par catégorie socioprofessionnelle par région (Médecins) (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Médecin neurologue",
+            "Médecin Onco Pédiatre",
+            "Médecin onco-chimiothérapeute",
+            "Médecin onco-pneumologue",
+            "Médecin ophtalmologiste",
+            "Médecin oto rhino laryngologue"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Médecin neurologue": "15",
+              "Médecin Onco Pédiatre": "1",
+              "Médecin onco-chimiothérapeute": "3",
+              "Médecin onco-pneumologue": "2",
+              "Médecin ophtalmologiste": "25",
+              "Médecin oto rhino laryngologue": "18"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "1",
+              "Médecin oto rhino laryngologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Médecin neurologue": "1",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "1",
+              "Médecin oto rhino laryngologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "0",
+              "Médecin oto rhino laryngologue": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Médecin neurologue": "0",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "1",
+              "Médecin oto rhino laryngologue": "4"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Médecin neurologue": "2",
+              "Médecin Onco Pédiatre": "0",
+              "Médecin onco-chimiothérapeute": "0",
+              "Médecin onco-pneumologue": "0",
+              "Médecin ophtalmologiste": "1",
+              "Médecin oto rhino laryngologue": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Médecin neurologue": "18",
+              "Médecin Onco Pédiatre": "1",
+              "Médecin onco-chimiothérapeute": "3",
+              "Médecin onco-pneumologue": "2",
+              "Médecin ophtalmologiste": "29",
+              "Médecin oto rhino laryngologue": "29"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 9: Répartition des ressources humaines par catégorie socioprofessionnelle par région (Médecins) (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Médecin parasitologue",
+            "Médecin pédiatre",
+            "Médecin pédopsychiatre",
+            "Médecin physicien/ne",
+            "Médecin spécialiste physique et réadaptation",
+            "Médecin pneumologue",
+            "Médecin psychiatre"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Médecin parasitologue": "6",
+              "Médecin pédiatre": "77",
+              "Médecin pédopsychiatre": "2",
+              "Médecin physicien/ne": "3",
+              "Médecin spécialiste physique et réadaptation": "2",
+              "Médecin pneumologue": "13",
+              "Médecin psychiatre": "24"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "7",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "1",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "1",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "1",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "0",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "1",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "0",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "0",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "4",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "1",
+              "Médecin psychiatre": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "0",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "1",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "6",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "1",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "0",
+              "Médecin psychiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Médecin parasitologue": "0",
+              "Médecin pédiatre": "3",
+              "Médecin pédopsychiatre": "0",
+              "Médecin physicien/ne": "0",
+              "Médecin spécialiste physique et réadaptation": "0",
+              "Médecin pneumologue": "1",
+              "Médecin psychiatre": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Médecin parasitologue": "6",
+              "Médecin pédiatre": "102",
+              "Médecin pédopsychiatre": "2",
+              "Médecin physicien/ne": "4",
+              "Médecin spécialiste physique et réadaptation": "2",
+              "Médecin pneumologue": "15",
+              "Médecin psychiatre": "30"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 10: Répartition des ressources humaines par catégorie socioprofessionnelle par région (Médecins) (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Médecin radiologue",
+            "Médecin rhumatologue",
+            "Médecin sexologue",
+            "Médecin spécialiste des maladies infectieuses",
+            "Médecin spécialiste en Santé Publique",
+            "Médecin urgentiste",
+            "Docteur vétérinaire"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Médecin radiologue": "34",
+              "Médecin rhumatologue": "8",
+              "Médecin sexologue": "1",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "28",
+              "Médecin urgentiste": "8",
+              "Docteur vétérinaire": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Médecin radiologue": "1",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "5",
+              "Médecin urgentiste": "3",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Médecin radiologue": "0",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "7",
+              "Médecin urgentiste": "0",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Médecin radiologue": "0",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "3",
+              "Médecin urgentiste": "0",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Médecin radiologue": "0",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "3",
+              "Médecin urgentiste": "0",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Médecin radiologue": "0",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "0",
+              "Médecin urgentiste": "0",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Médecin radiologue": "1",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "4",
+              "Médecin urgentiste": "0",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Médecin radiologue": "1",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "0",
+              "Médecin urgentiste": "1",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Médecin radiologue": "1",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "1",
+              "Médecin urgentiste": "1",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Médecin radiologue": "2",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "3",
+              "Médecin urgentiste": "1",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Médecin radiologue": "0",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "0",
+              "Médecin urgentiste": "0",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Médecin radiologue": "0",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "1",
+              "Médecin urgentiste": "0",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Médecin radiologue": "3",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "9",
+              "Médecin urgentiste": "1",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Médecin radiologue": "2",
+              "Médecin rhumatologue": "0",
+              "Médecin sexologue": "0",
+              "Médecin spécialiste des maladies infectieuses": "0",
+              "Médecin spécialiste en Santé Publique": "2",
+              "Médecin urgentiste": "0",
+              "Docteur vétérinaire": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Médecin radiologue": "45",
+              "Médecin rhumatologue": "8",
+              "Médecin sexologue": "1",
+              "Médecin spécialiste des maladies infectieuses": "1",
+              "Médecin spécialiste en Santé Publique": "66",
+              "Médecin urgentiste": "15",
+              "Docteur vétérinaire": "2"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 11: Répartition des ressources humaines par catégorie socioprofessionnelle par région (Médecins) (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Chirurgien cardiologue",
+            "Chirurgien-dentiste",
+            "Chirurgien généraliste",
+            "Chirurgien maxilo facial",
+            "Chirurgien Oncologue",
+            "Chirurgien orthopédiste",
+            "Chirurgien pédiatre"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Chirurgien cardiologue": "9",
+              "Chirurgien-dentiste": "77",
+              "Chirurgien généraliste": "19",
+              "Chirurgien maxilo facial": "4",
+              "Chirurgien Oncologue": "5",
+              "Chirurgien orthopédiste": "27",
+              "Chirurgien pédiatre": "13"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "8",
+              "Chirurgien généraliste": "4",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "2",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "7",
+              "Chirurgien généraliste": "1",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "0",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "2",
+              "Chirurgien généraliste": "0",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "0",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "4",
+              "Chirurgien généraliste": "1",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "1",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "2",
+              "Chirurgien généraliste": "1",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "0",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "2",
+              "Chirurgien généraliste": "1",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "1",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Chirurgien cardiologue": "1",
+              "Chirurgien-dentiste": "3",
+              "Chirurgien généraliste": "0",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "1",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "3",
+              "Chirurgien généraliste": "1",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "1",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "8",
+              "Chirurgien généraliste": "4",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "1",
+              "Chirurgien pédiatre": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "1",
+              "Chirurgien généraliste": "1",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "0",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "4",
+              "Chirurgien généraliste": "0",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "1",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Chirurgien cardiologue": "2",
+              "Chirurgien-dentiste": "14",
+              "Chirurgien généraliste": "5",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "3",
+              "Chirurgien pédiatre": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Chirurgien cardiologue": "0",
+              "Chirurgien-dentiste": "4",
+              "Chirurgien généraliste": "1",
+              "Chirurgien maxilo facial": "0",
+              "Chirurgien Oncologue": "0",
+              "Chirurgien orthopédiste": "2",
+              "Chirurgien pédiatre": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Chirurgien cardiologue": "12",
+              "Chirurgien-dentiste": "139",
+              "Chirurgien généraliste": "39",
+              "Chirurgien maxilo facial": "4",
+              "Chirurgien Oncologue": "5",
+              "Chirurgien orthopédiste": "40",
+              "Chirurgien pédiatre": "15"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 12: Répartition des ressources humaines par catégorie socioprofessionnelle par région (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Chirurgien plastique",
+            "Chirurgien urologue",
+            "Chirurgien viscérale et digestive",
+            "Chirurgien Anatomiste",
+            "Sage-femme d'Etat",
+            "Infirmier diplômé d'Etat",
+            "Assistant infirmier"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Chirurgien plastique": "1",
+              "Chirurgien urologue": "24",
+              "Chirurgien viscérale et digestive": "9",
+              "Chirurgien Anatomiste": "1",
+              "Sage-femme d'Etat": "552",
+              "Infirmier diplômé d'Etat": "713",
+              "Assistant infirmier": "318"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "3",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "181",
+              "Infirmier diplômé d'Etat": "120",
+              "Assistant infirmier": "100"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "1",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "118",
+              "Infirmier diplômé d'Etat": "80",
+              "Assistant infirmier": "60"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "0",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "102",
+              "Infirmier diplômé d'Etat": "51",
+              "Assistant infirmier": "65"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "1",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "140",
+              "Infirmier diplômé d'Etat": "78",
+              "Assistant infirmier": "81"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "0",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "35",
+              "Infirmier diplômé d'Etat": "34",
+              "Assistant infirmier": "19"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "1",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "69",
+              "Infirmier diplômé d'Etat": "55",
+              "Assistant infirmier": "53"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "0",
+              "Chirurgien viscérale et digestive": "1",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "105",
+              "Infirmier diplômé d'Etat": "80",
+              "Assistant infirmier": "46"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "1",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "98",
+              "Infirmier diplômé d'Etat": "72",
+              "Assistant infirmier": "74"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "2",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "139",
+              "Infirmier diplômé d'Etat": "82",
+              "Assistant infirmier": "121"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "0",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "69",
+              "Infirmier diplômé d'Etat": "23",
+              "Assistant infirmier": "45"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "0",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "114",
+              "Infirmier diplômé d'Etat": "66",
+              "Assistant infirmier": "83"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "4",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "234",
+              "Infirmier diplômé d'Etat": "213",
+              "Assistant infirmier": "128"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Chirurgien plastique": "0",
+              "Chirurgien urologue": "1",
+              "Chirurgien viscérale et digestive": "0",
+              "Chirurgien Anatomiste": "0",
+              "Sage-femme d'Etat": "144",
+              "Infirmier diplômé d'Etat": "128",
+              "Assistant infirmier": "135"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Chirurgien plastique": "1",
+              "Chirurgien urologue": "38",
+              "Chirurgien viscérale et digestive": "10",
+              "Chirurgien Anatomiste": "1",
+              "Sage-femme d'Etat": "2100",
+              "Infirmier diplômé d'Etat": "1795",
+              "Assistant infirmier": "1328"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 13: Répartition des ressources humaines par catégorie socioprofessionnelle par région (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Pharmacien",
+            "Pharmacien Biologiste",
+            "Pharmacien généticien",
+            "Ingénieur biologiste",
+            "Ingénieur biomédical",
+            "Autres ingénieurs",
+            "Technicien supérieur en biochimie"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Pharmacien": "115",
+              "Pharmacien Biologiste": "27",
+              "Pharmacien généticien": "1",
+              "Ingénieur biologiste": "27",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "42",
+              "Technicien supérieur en biochimie": "5"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Pharmacien": "4",
+              "Pharmacien Biologiste": "2",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "1",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "1",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Pharmacien": "3",
+              "Pharmacien Biologiste": "1",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Pharmacien": "0",
+              "Pharmacien Biologiste": "1",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Pharmacien": "6",
+              "Pharmacien Biologiste": "1",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Pharmacien": "1",
+              "Pharmacien Biologiste": "0",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Pharmacien": "2",
+              "Pharmacien Biologiste": "1",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Pharmacien": "2",
+              "Pharmacien Biologiste": "1",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "1",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Pharmacien": "1",
+              "Pharmacien Biologiste": "1",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Pharmacien": "5",
+              "Pharmacien Biologiste": "6",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "2",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "1",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Pharmacien": "0",
+              "Pharmacien Biologiste": "0",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Pharmacien": "3",
+              "Pharmacien Biologiste": "0",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Pharmacien": "9",
+              "Pharmacien Biologiste": "3",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "2",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Pharmacien": "3",
+              "Pharmacien Biologiste": "0",
+              "Pharmacien généticien": "0",
+              "Ingénieur biologiste": "0",
+              "Ingénieur biomédical": "0",
+              "Autres ingénieurs": "0",
+              "Technicien supérieur en biochimie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Pharmacien": "154",
+              "Pharmacien Biologiste": "44",
+              "Pharmacien généticien": "1",
+              "Ingénieur biologiste": "32",
+              "Ingénieur biomédical": "1",
+              "Autres ingénieurs": "44",
+              "Technicien supérieur en biochimie": "7"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 14: Répartition des ressources humaines par catégorie socioprofessionnelle par région (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Technicien supérieur en biologie",
+            "Technicien en biologie",
+            "Technicien orthopédiste",
+            "Technicien de laboratoire",
+            "Technicien de laboratoire en prothèse dentaire",
+            "Technicien en imagerie médicale",
+            "Technicien en maintenance hospitalière"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Technicien supérieur en biologie": "94",
+              "Technicien en biologie": "23",
+              "Technicien orthopédiste": "1",
+              "Technicien de laboratoire": "41",
+              "Technicien de laboratoire en prothèse dentaire": "9",
+              "Technicien en imagerie médicale": "1",
+              "Technicien en maintenance hospitalière": "30"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Technicien supérieur en biologie": "15",
+              "Technicien en biologie": "5",
+              "Technicien orthopédiste": "0",
+              "Technicien de laboratoire": "8",
+              "Technicien de laboratoire en prothèse dentaire": "2",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "7"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Technicien supérieur en biologie": "5",
+              "Technicien en biologie": "5",
+              "Technicien orthopédiste": "0",
+              "Technicien de laboratoire": "4",
+              "Technicien de laboratoire en prothèse dentaire": "0",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "5"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Technicien supérieur en biologie": "3",
+              "Technicien en biologie": "1",
+              "Technicien orthopédiste": "0",
+              "Technicien de laboratoire": "1",
+              "Technicien de laboratoire en prothèse dentaire": "1",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Technicien supérieur en biologie": "6",
+              "Technicien en biologie": "1",
+              "Technicien orthopédiste": "2",
+              "Technicien de laboratoire": "1",
+              "Technicien de laboratoire en prothèse dentaire": "0",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "6"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Technicien supérieur en biologie": "0",
+              "Technicien en biologie": "2",
+              "Technicien orthopédiste": "0",
+              "Technicien de laboratoire": "0",
+              "Technicien de laboratoire en prothèse dentaire": "0",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Technicien supérieur en biologie": "4",
+              "Technicien en biologie": "6",
+              "Technicien orthopédiste": "0",
+              "Technicien de laboratoire": "0",
+              "Technicien de laboratoire en prothèse dentaire": "1",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Technicien supérieur en biologie": "8",
+              "Technicien en biologie": "1",
+              "Technicien orthopédiste": "1",
+              "Technicien de laboratoire": "4",
+              "Technicien de laboratoire en prothèse dentaire": "1",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Technicien supérieur en biologie": "8",
+              "Technicien en biologie": "5",
+              "Technicien orthopédiste": "0",
+              "Technicien de laboratoire": "2",
+              "Technicien de laboratoire en prothèse dentaire": "0",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "5"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Technicien supérieur en biologie": "10",
+              "Technicien en biologie": "1",
+              "Technicien orthopédiste": "3",
+              "Technicien de laboratoire": "4",
+              "Technicien de laboratoire en prothèse dentaire": "3",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "11"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Technicien supérieur en biologie": "0",
+              "Technicien en biologie": "0",
+              "Technicien orthopédiste": "0",
+              "Technicien de laboratoire": "1",
+              "Technicien de laboratoire en prothèse dentaire": "0",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Technicien supérieur en biologie": "7",
+              "Technicien en biologie": "0",
+              "Technicien orthopédiste": "1",
+              "Technicien de laboratoire": "3",
+              "Technicien de laboratoire en prothèse dentaire": "0",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Technicien supérieur en biologie": "27",
+              "Technicien en biologie": "5",
+              "Technicien orthopédiste": "1",
+              "Technicien de laboratoire": "5",
+              "Technicien de laboratoire en prothèse dentaire": "2",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "8"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Technicien supérieur en biologie": "6",
+              "Technicien en biologie": "5",
+              "Technicien orthopédiste": "2",
+              "Technicien de laboratoire": "7",
+              "Technicien de laboratoire en prothèse dentaire": "0",
+              "Technicien en imagerie médicale": "0",
+              "Technicien en maintenance hospitalière": "4"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Technicien supérieur en biologie": "193",
+              "Technicien en biologie": "60",
+              "Technicien orthopédiste": "11",
+              "Technicien de laboratoire": "81",
+              "Technicien de laboratoire en prothèse dentaire": "19",
+              "Technicien en imagerie médicale": "1",
+              "Technicien en maintenance hospitalière": "90"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 15: Répartition des ressources humaines par catégorie socioprofessionnelle par région (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Technicien Supérieur Biomédical",
+            "Technicien supérieur de laboratoire",
+            "Technicien supérieur du génie sanitaire",
+            "Technicien supérieur en diététique",
+            "Technicien supérieur en maintenance hospitalière",
+            "Technicien supérieur en anesthésie réanimation",
+            "Technicien supérieur en radiothérapie"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Technicien Supérieur Biomédical": "1",
+              "Technicien supérieur de laboratoire": "63",
+              "Technicien supérieur du génie sanitaire": "39",
+              "Technicien supérieur en diététique": "1",
+              "Technicien supérieur en maintenance hospitalière": "17",
+              "Technicien supérieur en anesthésie réanimation": "64",
+              "Technicien supérieur en radiothérapie": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "0",
+              "Technicien supérieur du génie sanitaire": "3",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "13",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "1",
+              "Technicien supérieur du génie sanitaire": "5",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "4",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "1",
+              "Technicien supérieur du génie sanitaire": "2",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "4",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "0",
+              "Technicien supérieur du génie sanitaire": "4",
+              "Technicien supérieur en diététique": "1",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "5",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "0",
+              "Technicien supérieur du génie sanitaire": "1",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "1",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "0",
+              "Technicien supérieur du génie sanitaire": "2",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "4",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "0",
+              "Technicien supérieur du génie sanitaire": "2",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "5",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "0",
+              "Technicien supérieur du génie sanitaire": "2",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "4",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "0",
+              "Technicien supérieur du génie sanitaire": "3",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "7",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "2",
+              "Technicien supérieur du génie sanitaire": "2",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "0",
+              "Technicien supérieur en anesthésie réanimation": "1",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "1",
+              "Technicien supérieur du génie sanitaire": "3",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "2",
+              "Technicien supérieur en anesthésie réanimation": "4",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "0",
+              "Technicien supérieur du génie sanitaire": "10",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "2",
+              "Technicien supérieur en anesthésie réanimation": "12",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Technicien Supérieur Biomédical": "0",
+              "Technicien supérieur de laboratoire": "6",
+              "Technicien supérieur du génie sanitaire": "5",
+              "Technicien supérieur en diététique": "0",
+              "Technicien supérieur en maintenance hospitalière": "1",
+              "Technicien supérieur en anesthésie réanimation": "5",
+              "Technicien supérieur en radiothérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Technicien Supérieur Biomédical": "1",
+              "Technicien supérieur de laboratoire": "74",
+              "Technicien supérieur du génie sanitaire": "83",
+              "Technicien supérieur en diététique": "2",
+              "Technicien supérieur en maintenance hospitalière": "22",
+              "Technicien supérieur en anesthésie réanimation": "133",
+              "Technicien supérieur en radiothérapie": "2"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 16: Répartition des ressources humaines par catégorie socioprofessionnelle par région (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Technicien supérieur en imagerie médicale",
+            "Technicien supérieur en néphrologie",
+            "Technicien supérieur en odontologie",
+            "Technicien supérieur en ophtalmologie",
+            "Technicien supérieur en ORL",
+            "Technicien supérieur en santé communautaire",
+            "Technicien supérieur en kinésithérapie"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Technicien supérieur en imagerie médicale": "66",
+              "Technicien supérieur en néphrologie": "23",
+              "Technicien supérieur en odontologie": "34",
+              "Technicien supérieur en ophtalmologie": "46",
+              "Technicien supérieur en ORL": "1",
+              "Technicien supérieur en santé communautaire": "5",
+              "Technicien supérieur en kinésithérapie": "39"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Technicien supérieur en imagerie médicale": "6",
+              "Technicien supérieur en néphrologie": "4",
+              "Technicien supérieur en odontologie": "5",
+              "Technicien supérieur en ophtalmologie": "7",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "3",
+              "Technicien supérieur en kinésithérapie": "8"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Technicien supérieur en imagerie médicale": "1",
+              "Technicien supérieur en néphrologie": "0",
+              "Technicien supérieur en odontologie": "4",
+              "Technicien supérieur en ophtalmologie": "5",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Technicien supérieur en imagerie médicale": "1",
+              "Technicien supérieur en néphrologie": "0",
+              "Technicien supérieur en odontologie": "0",
+              "Technicien supérieur en ophtalmologie": "2",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Technicien supérieur en imagerie médicale": "6",
+              "Technicien supérieur en néphrologie": "3",
+              "Technicien supérieur en odontologie": "5",
+              "Technicien supérieur en ophtalmologie": "6",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "1",
+              "Technicien supérieur en kinésithérapie": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Technicien supérieur en imagerie médicale": "1",
+              "Technicien supérieur en néphrologie": "0",
+              "Technicien supérieur en odontologie": "1",
+              "Technicien supérieur en ophtalmologie": "2",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "0"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Technicien supérieur en imagerie médicale": "3",
+              "Technicien supérieur en néphrologie": "1",
+              "Technicien supérieur en odontologie": "1",
+              "Technicien supérieur en ophtalmologie": "5",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Technicien supérieur en imagerie médicale": "3",
+              "Technicien supérieur en néphrologie": "1",
+              "Technicien supérieur en odontologie": "3",
+              "Technicien supérieur en ophtalmologie": "6",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Technicien supérieur en imagerie médicale": "2",
+              "Technicien supérieur en néphrologie": "1",
+              "Technicien supérieur en odontologie": "6",
+              "Technicien supérieur en ophtalmologie": "2",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Technicien supérieur en imagerie médicale": "6",
+              "Technicien supérieur en néphrologie": "2",
+              "Technicien supérieur en odontologie": "5",
+              "Technicien supérieur en ophtalmologie": "3",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "3"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Technicien supérieur en imagerie médicale": "1",
+              "Technicien supérieur en néphrologie": "0",
+              "Technicien supérieur en odontologie": "2",
+              "Technicien supérieur en ophtalmologie": "1",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "1"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Technicien supérieur en imagerie médicale": "3",
+              "Technicien supérieur en néphrologie": "6",
+              "Technicien supérieur en odontologie": "4",
+              "Technicien supérieur en ophtalmologie": "5",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "2"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Technicien supérieur en imagerie médicale": "10",
+              "Technicien supérieur en néphrologie": "2",
+              "Technicien supérieur en odontologie": "14",
+              "Technicien supérieur en ophtalmologie": "15",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "2",
+              "Technicien supérieur en kinésithérapie": "12"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Technicien supérieur en imagerie médicale": "4",
+              "Technicien supérieur en néphrologie": "4",
+              "Technicien supérieur en odontologie": "3",
+              "Technicien supérieur en ophtalmologie": "5",
+              "Technicien supérieur en ORL": "0",
+              "Technicien supérieur en santé communautaire": "0",
+              "Technicien supérieur en kinésithérapie": "5"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Technicien supérieur en imagerie médicale": "113",
+              "Technicien supérieur en néphrologie": "47",
+              "Technicien supérieur en odontologie": "87",
+              "Technicien supérieur en ophtalmologie": "110",
+              "Technicien supérieur en ORL": "1",
+              "Technicien supérieur en santé communautaire": "11",
+              "Technicien supérieur en kinésithérapie": "79"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 17: Répartition des ressources humaines par catégorie socioprofessionnelle par région (suite)",
+          "colonnes": [
+            "Catégories Socio-Professionnelles",
+            "Autres techniciens supérieurs",
+            "Autres techniciens",
+            "Officier d'hygiène",
+            "Sous-officier de l'Hygiène",
+            "Agent d'hygiène",
+            "Assistant social",
+            "Travailleur social",
+            "Autres agents"
+          ],
+          "lignes": [
+            {
+              "Catégories Socio-Professionnelles": "Dakar",
+              "Autres techniciens supérieurs": "151",
+              "Autres techniciens": "88",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "32",
+              "Agent d'hygiène": "120",
+              "Assistant social": "102",
+              "Travailleur social": "19",
+              "Autres agents": "4620"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Diourbel",
+              "Autres techniciens supérieurs": "11",
+              "Autres techniciens": "1",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "6",
+              "Agent d'hygiène": "16",
+              "Assistant social": "6",
+              "Travailleur social": "8",
+              "Autres agents": "529"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Fatick",
+              "Autres techniciens supérieurs": "6",
+              "Autres techniciens": "2",
+              "Officier d'hygiène": "1",
+              "Sous-officier de l'Hygiène": "1",
+              "Agent d'hygiène": "19",
+              "Assistant social": "5",
+              "Travailleur social": "5",
+              "Autres agents": "166"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaffrine",
+              "Autres techniciens supérieurs": "6",
+              "Autres techniciens": "1",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "0",
+              "Agent d'hygiène": "17",
+              "Assistant social": "6",
+              "Travailleur social": "9",
+              "Autres agents": "77"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kaolack",
+              "Autres techniciens supérieurs": "15",
+              "Autres techniciens": "5",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "2",
+              "Agent d'hygiène": "15",
+              "Assistant social": "8",
+              "Travailleur social": "3",
+              "Autres agents": "288"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kédougou",
+              "Autres techniciens supérieurs": "3",
+              "Autres techniciens": "4",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "2",
+              "Agent d'hygiène": "13",
+              "Assistant social": "1",
+              "Travailleur social": "4",
+              "Autres agents": "13"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Kolda",
+              "Autres techniciens supérieurs": "3",
+              "Autres techniciens": "6",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "2",
+              "Agent d'hygiène": "19",
+              "Assistant social": "4",
+              "Travailleur social": "5",
+              "Autres agents": "146"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Louga",
+              "Autres techniciens supérieurs": "9",
+              "Autres techniciens": "8",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "1",
+              "Agent d'hygiène": "22",
+              "Assistant social": "9",
+              "Travailleur social": "4",
+              "Autres agents": "349"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Matam",
+              "Autres techniciens supérieurs": "2",
+              "Autres techniciens": "1",
+              "Officier d'hygiène": "1",
+              "Sous-officier de l'Hygiène": "2",
+              "Agent d'hygiène": "34",
+              "Assistant social": "8",
+              "Travailleur social": "4",
+              "Autres agents": "156"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Saint Louis",
+              "Autres techniciens supérieurs": "13",
+              "Autres techniciens": "7",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "2",
+              "Agent d'hygiène": "26",
+              "Assistant social": "10",
+              "Travailleur social": "4",
+              "Autres agents": "356"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sédhiou",
+              "Autres techniciens supérieurs": "3",
+              "Autres techniciens": "5",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "1",
+              "Agent d'hygiène": "16",
+              "Assistant social": "3",
+              "Travailleur social": "1",
+              "Autres agents": "39"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Tambacounda",
+              "Autres techniciens supérieurs": "7",
+              "Autres techniciens": "3",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "3",
+              "Agent d'hygiène": "17",
+              "Assistant social": "6",
+              "Travailleur social": "2",
+              "Autres agents": "136"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Thiès",
+              "Autres techniciens supérieurs": "23",
+              "Autres techniciens": "32",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "5",
+              "Agent d'hygiène": "54",
+              "Assistant social": "20",
+              "Travailleur social": "4",
+              "Autres agents": "572"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Ziguinchor",
+              "Autres techniciens supérieurs": "8",
+              "Autres techniciens": "7",
+              "Officier d'hygiène": "0",
+              "Sous-officier de l'Hygiène": "3",
+              "Agent d'hygiène": "39",
+              "Assistant social": "12",
+              "Travailleur social": "2",
+              "Autres agents": "271"
+            },
+            {
+              "Catégories Socio-Professionnelles": "Sénégal",
+              "Autres techniciens supérieurs": "260",
+              "Autres techniciens": "170",
+              "Officier d'hygiène": "2",
+              "Sous-officier de l'Hygiène": "62",
+              "Agent d'hygiène": "427",
+              "Assistant social": "200",
+              "Travailleur social": "74",
+              "Autres agents": "7718"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.3. Ressources financières",
+      "texte": "Données relatives aux ressources financières du secteur de la santé pour l'année 2018.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Tableau 18: Synthèse du budget MSAS 2018",
+          "colonnes": [
+            "Rubriques",
+            "LFI 2018 Montants alloués (FCFA)",
+            "LFI 2018 Part du budget (%)",
+            "LFR 2018 Virements de crédits",
+            "LFR 2018 Reports de crédits",
+            "LFR 2018 Montants alloués (FCFA)",
+            "LFR 2018 Part du budget (%)"
+          ],
+          "lignes": [
+            {
+              "Rubriques": "Dépenses de personnel",
+              "LFI 2018 Montants alloués (FCFA)": "39 319 706 320",
+              "LFI 2018 Part du budget (%)": "23",
+              "LFR 2018 Virements de crédits": "",
+              "LFR 2018 Reports de crédits": "39 319 706 320",
+              "LFR 2018 Montants alloués (FCFA)": "42 086 606 320",
+              "LFR 2018 Part du budget (%)": "25"
+            },
+            {
+              "Rubriques": "Dépenses de fonctionnement",
+              "LFI 2018 Montants alloués (FCFA)": "9 430 866 000",
+              "LFI 2018 Part du budget (%)": "6",
+              "LFR 2018 Virements de crédits": "",
+              "LFR 2018 Reports de crédits": "9 601 963 103",
+              "LFR 2018 Montants alloués (FCFA)": "10 687 963 103",
+              "LFR 2018 Part du budget (%)": "6"
+            },
+            {
+              "Rubriques": "Transferts courants",
+              "LFI 2018 Montants alloués (FCFA)": "43 835 805 000",
+              "LFI 2018 Part du budget (%)": "26",
+              "LFR 2018 Virements de crédits": "",
+              "LFR 2018 Reports de crédits": "43 835 805 000",
+              "LFR 2018 Montants alloués (FCFA)": "43 835 805 000",
+              "LFR 2018 Part du budget (%)": "26"
+            },
+            {
+              "Rubriques": "Investissements exécutés par l'État - Financement intérieur",
+              "LFI 2018 Montants alloués (FCFA)": "20 130 568 000",
+              "LFI 2018 Part du budget (%)": "12",
+              "LFR 2018 Virements de crédits": "",
+              "LFR 2018 Reports de crédits": "20 130 568 000",
+              "LFR 2018 Montants alloués (FCFA)": "60 794 051 932",
+              "LFR 2018 Part du budget (%)": "36"
+            },
+            {
+              "Rubriques": "Investissements exécutés par l'État - Financement extérieur",
+              "LFI 2018 Montants alloués (FCFA)": "43 970 166 000",
+              "LFI 2018 Part du budget (%)": "26",
+              "LFR 2018 Virements de crédits": "",
+              "LFR 2018 Reports de crédits": "43 970 166 000",
+              "LFR 2018 Montants alloués (FCFA)": "60 794 051 932",
+              "LFR 2018 Part du budget (%)": "36"
+            },
+            {
+              "Rubriques": "Transferts en capital",
+              "LFI 2018 Montants alloués (FCFA)": "12 800 000 000",
+              "LFI 2018 Part du budget (%)": "8",
+              "LFR 2018 Virements de crédits": "",
+              "LFR 2018 Reports de crédits": "9 780 000 000",
+              "LFR 2018 Montants alloués (FCFA)": "10 063 000 000",
+              "LFR 2018 Part du budget (%)": "6"
+            },
+            {
+              "Rubriques": "Total budget MSAS",
+              "LFI 2018 Montants alloués (FCFA)": "169 487 111 320",
+              "LFI 2018 Part du budget (%)": "100",
+              "LFR 2018 Virements de crédits": "169 487 111 320",
+              "LFR 2018 Reports de crédits": "163 331 526 355",
+              "LFR 2018 Montants alloués (FCFA)": "167 467 426 355",
+              "LFR 2018 Part du budget (%)": "100"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 19: Bilan des recettes des centres et postes de santé par région (FCFA)",
+          "colonnes": [
+            "Régions",
+            "Solde antérieur",
+            "Accouchements",
+            "Consultations adultes",
+            "Consultations enfants malades",
+            "Consultations enfants sains",
+            "Consultations prénatales",
+            "Hospitalisations",
+            "Laboratoire"
+          ],
+          "lignes": [
+            {
+              "Régions": "Dakar",
+              "Solde antérieur": "259 562 788",
+              "Accouchements": "354 936 064",
+              "Consultations adultes": "888 160 950",
+              "Consultations enfants malades": "43 377 701",
+              "Consultations enfants sains": "4 138 032",
+              "Consultations prénatales": "200 865 430",
+              "Hospitalisations": "114 426 850",
+              "Laboratoire": "947 423 896"
+            },
+            {
+              "Régions": "Diourbel",
+              "Solde antérieur": "78 056 236",
+              "Accouchements": "96 140 267",
+              "Consultations adultes": "114 049 793",
+              "Consultations enfants malades": "18 383 608",
+              "Consultations enfants sains": "1 503 125",
+              "Consultations prénatales": "78 424 948",
+              "Hospitalisations": "51 602 290",
+              "Laboratoire": "106 353 747"
+            },
+            {
+              "Régions": "Fatick",
+              "Solde antérieur": "103 881 443",
+              "Accouchements": "29 286 620",
+              "Consultations adultes": "126 223 830",
+              "Consultations enfants malades": "21 549 562",
+              "Consultations enfants sains": "986 252",
+              "Consultations prénatales": "30 433 779",
+              "Hospitalisations": "14 910 800",
+              "Laboratoire": "13 432 560"
+            },
+            {
+              "Régions": "Kaffrine",
+              "Solde antérieur": "65 061 092",
+              "Accouchements": "41 007 600",
+              "Consultations adultes": "142 516 880",
+              "Consultations enfants malades": "34 736 884",
+              "Consultations enfants sains": "1 667 550",
+              "Consultations prénatales": "37 665 441",
+              "Hospitalisations": "22 700 178",
+              "Laboratoire": "34 183 105"
+            },
+            {
+              "Régions": "Kaolack",
+              "Solde antérieur": "84 613 147",
+              "Accouchements": "42 578 950",
+              "Consultations adultes": "54 322 697",
+              "Consultations enfants malades": "9 776 000",
+              "Consultations enfants sains": "1 285 002",
+              "Consultations prénatales": "36 108 860",
+              "Hospitalisations": "15 246 900",
+              "Laboratoire": "11 613 750"
+            },
+            {
+              "Régions": "Kédougou",
+              "Solde antérieur": "47 651 103",
+              "Accouchements": "609 000",
+              "Consultations adultes": "34 490 740",
+              "Consultations enfants malades": "6 266 715",
+              "Consultations enfants sains": "128 900",
+              "Consultations prénatales": "8 987 450",
+              "Hospitalisations": "6 343 700",
+              "Laboratoire": "54 294 129"
+            },
+            {
+              "Régions": "Kolda",
+              "Solde antérieur": "49 998 991",
+              "Accouchements": "348 900",
+              "Consultations adultes": "15 290 254",
+              "Consultations enfants malades": "4 099 180",
+              "Consultations enfants sains": "17 500",
+              "Consultations prénatales": "7 373 800",
+              "Hospitalisations": "2 168 800",
+              "Laboratoire": "1 474 600"
+            },
+            {
+              "Régions": "Louga",
+              "Solde antérieur": "73 639 500",
+              "Accouchements": "13 558 068",
+              "Consultations adultes": "38 576 873",
+              "Consultations enfants malades": "3 165 535",
+              "Consultations enfants sains": "481 050",
+              "Consultations prénatales": "15 528 525",
+              "Hospitalisations": "8 076 350",
+              "Laboratoire": "13 756 440"
+            },
+            {
+              "Régions": "Matam",
+              "Solde antérieur": "87 027 845",
+              "Accouchements": "14 634 820",
+              "Consultations adultes": "30 810 999",
+              "Consultations enfants malades": "3 161 100",
+              "Consultations enfants sains": "237 530",
+              "Consultations prénatales": "13 274 789",
+              "Hospitalisations": "5 592 150",
+              "Laboratoire": "7 258 400"
+            },
+            {
+              "Régions": "Saint-Louis",
+              "Solde antérieur": "149 473 007",
+              "Accouchements": "41 975 660",
+              "Consultations adultes": "63 853 208",
+              "Consultations enfants malades": "16 909 650",
+              "Consultations enfants sains": "38 396 060",
+              "Consultations prénatales": "37 534 405",
+              "Hospitalisations": "15 085 650",
+              "Laboratoire": "89 005 425"
+            },
+            {
+              "Régions": "Sédhiou",
+              "Solde antérieur": "16 662 740",
+              "Accouchements": "4 638 800",
+              "Consultations adultes": "20 291 645",
+              "Consultations enfants malades": "7 614 448",
+              "Consultations enfants sains": "4 735 919",
+              "Consultations prénatales": "12 528 065",
+              "Hospitalisations": "3 752 500",
+              "Laboratoire": "14 420 036"
+            },
+            {
+              "Régions": "Tambacounda",
+              "Solde antérieur": "85 214 404",
+              "Accouchements": "691 809",
+              "Consultations adultes": "43 374 400",
+              "Consultations enfants malades": "9 030 695",
+              "Consultations enfants sains": "463 300",
+              "Consultations prénatales": "17 078 400",
+              "Hospitalisations": "12 495 552",
+              "Laboratoire": "25 695 360"
+            },
+            {
+              "Régions": "Thiès",
+              "Solde antérieur": "220 563 575",
+              "Accouchements": "142 773 593",
+              "Consultations adultes": "162 652 745",
+              "Consultations enfants malades": "30 868 762",
+              "Consultations enfants sains": "5 982 023",
+              "Consultations prénatales": "105 879 645",
+              "Hospitalisations": "41 918 350",
+              "Laboratoire": "283 566 158"
+            },
+            {
+              "Régions": "Ziguinchor",
+              "Solde antérieur": "48 845 406",
+              "Accouchements": "4 438 849",
+              "Consultations adultes": "36 471 245",
+              "Consultations enfants malades": "6 781 418",
+              "Consultations enfants sains": "743 885",
+              "Consultations prénatales": "15 533 284",
+              "Hospitalisations": "18 506 350",
+              "Laboratoire": "89 491 560"
+            },
+            {
+              "Régions": "Sénégal",
+              "Solde antérieur": "1 370 251 277",
+              "Accouchements": "787 619 000",
+              "Consultations adultes": "357 454 242",
+              "Consultations enfants malades": "74 366 073",
+              "Consultations enfants sains": "50 558 717",
+              "Consultations prénatales": "201 828 588",
+              "Hospitalisations": "97 350 552",
+              "Laboratoire": "509 436 939"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 20: Bilan des recettes des centres et postes de santé par région (FCFA)(suite)",
+          "colonnes": [
+            "Régions",
+            "Médicaments",
+            "Pansement/ Injection",
+            "Planification familiale",
+            "Autres recettes",
+            "Total recettes"
+          ],
+          "lignes": [
+            {
+              "Régions": "Dakar",
+              "Médicaments": "1 295 954 594",
+              "Pansement/ Injection": "38 140 912",
+              "Planification familiale": "120 915 135",
+              "Autres recettes": "1 173 670 782",
+              "Total recettes": "5 182 010 346"
+            },
+            {
+              "Régions": "Diourbel",
+              "Médicaments": "527 377 456",
+              "Pansement/ Injection": "7 399 826",
+              "Planification familiale": "25 123 542",
+              "Autres recettes": "248 805 084",
+              "Total recettes": "1 275 163 686"
+            },
+            {
+              "Régions": "Fatick",
+              "Médicaments": "207 065 641",
+              "Pansement/ Injection": "2 250 819",
+              "Planification familiale": "10 989 730",
+              "Autres recettes": "109 131 181",
+              "Total recettes": "566 260 774"
+            },
+            {
+              "Régions": "Kaffrine",
+              "Médicaments": "385 671 888",
+              "Pansement/ Injection": "2 712 380",
+              "Planification familiale": "8 481 577",
+              "Autres recettes": "70 774 648",
+              "Total recettes": "782 118 131"
+            },
+            {
+              "Régions": "Kaolack",
+              "Médicaments": "440 111 533",
+              "Pansement/ Injection": "2 049 739",
+              "Planification familiale": "8 455 290",
+              "Autres recettes": "65 485 504",
+              "Total recettes": "687 034 225"
+            },
+            {
+              "Régions": "Kédougou",
+              "Médicaments": "189 184 612",
+              "Pansement/ Injection": "754 390",
+              "Planification familiale": "5 413 620",
+              "Autres recettes": "21 589 537",
+              "Total recettes": "328 062 793"
+            },
+            {
+              "Régions": "Kolda",
+              "Médicaments": "148 288 060",
+              "Pansement/ Injection": "835 225",
+              "Planification familiale": "3 952 250",
+              "Autres recettes": "13 648 650",
+              "Total recettes": "197 497 219"
+            },
+            {
+              "Régions": "Louga",
+              "Médicaments": "243 852 785",
+              "Pansement/ Injection": "1 833 650",
+              "Planification familiale": "4 589 440",
+              "Autres recettes": "16 280 082",
+              "Total recettes": "359 698 798"
+            },
+            {
+              "Régions": "Matam",
+              "Médicaments": "324 299 343",
+              "Pansement/ Injection": "1 332 400",
+              "Planification familiale": "2 034 835",
+              "Autres recettes": "27 433 710",
+              "Total recettes": "430 070 076"
+            },
+            {
+              "Régions": "Saint-Louis",
+              "Médicaments": "480 637 286",
+              "Pansement/ Injection": "3 387 680",
+              "Planification familiale": "21 802 650",
+              "Autres recettes": "122 592 299",
+              "Total recettes": "931 179 973"
+            },
+            {
+              "Régions": "Sédhiou",
+              "Médicaments": "242 711 451",
+              "Pansement/ Injection": "1 288 717",
+              "Planification familiale": "2 702 420",
+              "Autres recettes": "34 489 456",
+              "Total recettes": "349 173 457"
+            },
+            {
+              "Régions": "Tambacounda",
+              "Médicaments": "474 609 120",
+              "Pansement/ Injection": "1 871 000",
+              "Planification familiale": "3 024 315",
+              "Autres recettes": "73 607 612",
+              "Total recettes": "661 941 563"
+            },
+            {
+              "Régions": "Thiès",
+              "Médicaments": "1 144 336 538",
+              "Pansement/ Injection": "17 022 360",
+              "Planification familiale": "41 735 940",
+              "Autres recettes": "494 161 560",
+              "Total recettes": "2 470 897 674"
+            },
+            {
+              "Régions": "Ziguinchor",
+              "Médicaments": "314 768 533",
+              "Pansement/ Injection": "5 008 243",
+              "Planification familiale": "7 828 642",
+              "Autres recettes": "71 864 777",
+              "Total recettes": "571 436 786"
+            },
+            {
+              "Régions": "Sénégal",
+              "Médicaments": "2 981 362 271",
+              "Pansement/ Injection": "29 910 400",
+              "Planification familiale": "79 128 802",
+              "Autres recettes": "2 543 534 882",
+              "Total recettes": "7 712 550 466"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 21: Bilan des dépenses des centres et postes de santé par région (FCFA)",
+          "colonnes": [
+            "Région",
+            "Electricité",
+            "Frais bancaires",
+            "Frais/achat eau",
+            "Indemnité du dépositaire",
+            "Indemnité du vendeur ticket",
+            "Investissement",
+            "Maintenance frigo",
+            "Maintenance des locaux",
+            "Maintenance des motoS"
+          ],
+          "lignes": [
+            {
+              "Région": "Dakar",
+              "Electricité": "19 680 848",
+              "Frais bancaires": "8 064 236",
+              "Frais/achat eau": "10 247 910",
+              "Indemnité du dépositaire": "157 505 203",
+              "Indemnité du vendeur ticket": "360 146 833",
+              "Investissement": "504 702 527",
+              "Maintenance frigo": "6 158 694",
+              "Maintenance des locaux": "172 887 579",
+              "Maintenance des motoS": "3 530 325"
+            },
+            {
+              "Région": "Diourbel",
+              "Electricité": "14 879 106",
+              "Frais bancaires": "694 350",
+              "Frais/achat eau": "3 982 561",
+              "Indemnité du dépositaire": "50 309 265",
+              "Indemnité du vendeur ticket": "88 967 731",
+              "Investissement": "114 910 742",
+              "Maintenance frigo": "1 244 540",
+              "Maintenance des locaux": "28 307 675",
+              "Maintenance des motoS": "3 556 110"
+            },
+            {
+              "Région": "Fatick",
+              "Electricité": "11 961 141",
+              "Frais bancaires": "1 329 550",
+              "Frais/achat eau": "3 278 404",
+              "Indemnité du dépositaire": "49 409 718",
+              "Indemnité du vendeur ticket": "32 145 989",
+              "Investissement": "23 943 928",
+              "Maintenance frigo": "386 607",
+              "Maintenance des locaux": "28 223 680",
+              "Maintenance des motoS": "4 746 029"
+            },
+            {
+              "Région": "Kaffrine",
+              "Electricité": "4 498 769",
+              "Frais bancaires": "1 759 878",
+              "Frais/achat eau": "2 504 299",
+              "Indemnité du dépositaire": "37 600 089",
+              "Indemnité du vendeur ticket": "14 288 521",
+              "Investissement": "52 561 048",
+              "Maintenance frigo": "1 056 300",
+              "Maintenance des locaux": "13 683 715",
+              "Maintenance des motoS": "7 519 685"
+            },
+            {
+              "Région": "Kaolack",
+              "Electricité": "4 952 564",
+              "Frais bancaires": "345 473",
+              "Frais/achat eau": "2 086 830",
+              "Indemnité du dépositaire": "27 422 977",
+              "Indemnité du vendeur ticket": "42 827 347",
+              "Investissement": "42 857 472",
+              "Maintenance frigo": "526 959",
+              "Maintenance des locaux": "19 972 775",
+              "Maintenance des motoS": "6 531 088"
+            },
+            {
+              "Région": "Kédougou",
+              "Electricité": "1 863 700",
+              "Frais bancaires": "225 750",
+              "Frais/achat eau": "1 359 200",
+              "Indemnité du dépositaire": "12 091 415",
+              "Indemnité du vendeur ticket": "10 654 626",
+              "Investissement": "12 455 820",
+              "Maintenance frigo": "66 000",
+              "Maintenance des locaux": "10 603 700",
+              "Maintenance des motoS": "2 979 550"
+            },
+            {
+              "Région": "Kolda",
+              "Electricité": "3 494 515",
+              "Frais bancaires": "335 260",
+              "Frais/achat eau": "914 012",
+              "Indemnité du dépositaire": "18 192 669",
+              "Indemnité du vendeur ticket": "9 024 560",
+              "Investissement": "6 880 057",
+              "Maintenance frigo": "323 000",
+              "Maintenance des locaux": "3 820 273",
+              "Maintenance des motoS": "4 457 808"
+            },
+            {
+              "Région": "Louga",
+              "Electricité": "4 492 107",
+              "Frais bancaires": "1 780 600",
+              "Frais/achat eau": "1 372 344",
+              "Indemnité du dépositaire": "28 447 756",
+              "Indemnité du vendeur ticket": "18 476 389",
+              "Investissement": "16 688 197",
+              "Maintenance frigo": "442 745",
+              "Maintenance des locaux": "6 675 282",
+              "Maintenance des motoS": "3 898 965"
+            },
+            {
+              "Région": "Matam",
+              "Electricité": "1 751 940",
+              "Frais bancaires": "545 050",
+              "Frais/achat eau": "1 998 655",
+              "Indemnité du dépositaire": "27 708 155",
+              "Indemnité du vendeur ticket": "28 915 517",
+              "Investissement": "21 844 792",
+              "Maintenance frigo": "347 875",
+              "Maintenance des locaux": "10 608 745",
+              "Maintenance des motoS": "3 843 625"
+            },
+            {
+              "Région": "Saint-Louis",
+              "Electricité": "9 025 457",
+              "Frais bancaires": "875 700",
+              "Frais/achat eau": "5 147 429",
+              "Indemnité du dépositaire": "116 699 526",
+              "Indemnité du vendeur ticket": "91 202 897",
+              "Investissement": "28 614 942",
+              "Maintenance frigo": "670 410",
+              "Maintenance des locaux": "31 695 646",
+              "Maintenance des motoS": "5 211 105"
+            },
+            {
+              "Région": "Sédhiou",
+              "Electricité": "7 057 385",
+              "Frais bancaires": "1 792 750",
+              "Frais/achat eau": "1 109 150",
+              "Indemnité du dépositaire": "28 439 229",
+              "Indemnité du vendeur ticket": "8 134 995",
+              "Investissement": "11 392 287",
+              "Maintenance frigo": "351 991",
+              "Maintenance des locaux": "8 053 231",
+              "Maintenance des motoS": "4 153 674"
+            },
+            {
+              "Région": "Tambacounda",
+              "Electricité": "8 936 175",
+              "Frais bancaires": "2 417 029",
+              "Frais/achat eau": "2 745 687",
+              "Indemnité du dépositaire": "26 769 620",
+              "Indemnité du vendeur ticket": "26 616 430",
+              "Investissement": "50 130 897",
+              "Maintenance frigo": "907 130",
+              "Maintenance des locaux": "15 623 374",
+              "Maintenance des motoS": "5 035 350"
+            },
+            {
+              "Région": "Thiès",
+              "Electricité": "20 285 174",
+              "Frais bancaires": "3 676 695",
+              "Frais/achat eau": "7 873 167",
+              "Indemnité du dépositaire": "135 787 489",
+              "Indemnité du vendeur ticket": "81 883 098",
+              "Investissement": "136 606 299",
+              "Maintenance frigo": "833 900",
+              "Maintenance des locaux": "50 684 482",
+              "Maintenance des motoS": "7 390 642"
+            },
+            {
+              "Région": "Ziguinchor",
+              "Electricité": "14 197 347",
+              "Frais bancaires": "562 400",
+              "Frais/achat eau": "2 352 915",
+              "Indemnité du dépositaire": "55 563 335",
+              "Indemnité du vendeur ticket": "54 911 570",
+              "Investissement": "22 899 536",
+              "Maintenance frigo": "687 925",
+              "Maintenance des locaux": "15 126 569",
+              "Maintenance des motoS": "5 184 710"
+            },
+            {
+              "Région": "Sénégal",
+              "Electricité": "127 076 228",
+              "Frais bancaires": "24 404 721",
+              "Frais/achat eau": "46 972 563",
+              "Indemnité du dépositaire": "771 946 446",
+              "Indemnité du vendeur ticket": "868 196 503",
+              "Investissement": "1 046 488 544",
+              "Maintenance frigo": "14 004 076",
+              "Maintenance des locaux": "415 966 726",
+              "Maintenance des motoS": "68 038 666"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 22: Bilan des dépenses des centres et postes de santé par région (FCFA) (suite)",
+          "colonnes": [
+            "Région",
+            "Médicaments",
+            "Outils de gestion",
+            "Achat gaz",
+            "Caisse de solidarité",
+            "Carburant liaison district",
+            "Carburant stratégies avancées",
+            "Autres dépenses",
+            "Total dépenses"
+          ],
+          "lignes": [
+            {
+              "Région": "Dakar",
+              "Médicaments": "1 064 232 464",
+              "Outils de gestion": "114 774 739",
+              "Achat gaz": "4 755 339",
+              "Caisse de solidarité": "61 365 310",
+              "Carburant liaison district": "31 904 460",
+              "Carburant stratégies avancées": "27 121 449",
+              "Autres dépenses": "2 791 307 533",
+              "Total dépenses": "5 338 385 449"
+            },
+            {
+              "Région": "Diourbel",
+              "Médicaments": "311 706 417",
+              "Outils de gestion": "27 233 145",
+              "Achat gaz": "1 915 716",
+              "Caisse de solidarité": "15 065 528",
+              "Carburant liaison district": "13 286 686",
+              "Carburant stratégies avancées": "11 754 311",
+              "Autres dépenses": "429 448 193",
+              "Total dépenses": "1 117 262 076"
+            },
+            {
+              "Région": "Fatick",
+              "Médicaments": "194 707 981",
+              "Outils de gestion": "18 057 053",
+              "Achat gaz": "3 822 524",
+              "Caisse de solidarité": "6 381 675",
+              "Carburant liaison district": "11 367 318",
+              "Carburant stratégies avancées": "5 585 305",
+              "Autres dépenses": "172 305 252",
+              "Total dépenses": "567 652 154"
+            },
+            {
+              "Région": "Kaffrine",
+              "Médicaments": "363 834 347",
+              "Outils de gestion": "14 208 661",
+              "Achat gaz": "3 167 790",
+              "Caisse de solidarité": "3 996 605",
+              "Carburant liaison district": "13 134 130",
+              "Carburant stratégies avancées": "8 659 035",
+              "Autres dépenses": "213 089 155",
+              "Total dépenses": "755 562 027"
+            },
+            {
+              "Région": "Kaolack",
+              "Médicaments": "277 882 826",
+              "Outils de gestion": "16 245 700",
+              "Achat gaz": "2 119 615",
+              "Caisse de solidarité": "4 050 720",
+              "Carburant liaison district": "12 522 395",
+              "Carburant stratégies avancées": "6 514 270",
+              "Autres dépenses": "192 049 584",
+              "Total dépenses": "658 908 595"
+            },
+            {
+              "Région": "Kédougou",
+              "Médicaments": "149 953 834",
+              "Outils de gestion": "5 837 953",
+              "Achat gaz": "2 629 370",
+              "Caisse de solidarité": "2 049 499",
+              "Carburant liaison district": "3 269 100",
+              "Carburant stratégies avancées": "2 937 100",
+              "Autres dépenses": "40 642 485",
+              "Total dépenses": "259 619 102"
+            },
+            {
+              "Région": "Kolda",
+              "Médicaments": "66 656 438",
+              "Outils de gestion": "6 267 925",
+              "Achat gaz": "2 608 750",
+              "Caisse de solidarité": "3 054 670",
+              "Carburant liaison district": "3 810 525",
+              "Carburant stratégies avancées": "4 591 978",
+              "Autres dépenses": "48 198 499",
+              "Total dépenses": "182 630 939"
+            },
+            {
+              "Région": "Louga",
+              "Médicaments": "149 127 977",
+              "Outils de gestion": "4 673 020",
+              "Achat gaz": "2 001 681",
+              "Caisse de solidarité": "4 983 800",
+              "Carburant liaison district": "7 364 147",
+              "Carburant stratégies avancées": "5 769 216",
+              "Autres dépenses": "84 805 821",
+              "Total dépenses": "341 000 047"
+            },
+            {
+              "Région": "Matam",
+              "Médicaments": "205 163 872",
+              "Outils de gestion": "9 067 496",
+              "Achat gaz": "1 376 409",
+              "Caisse de solidarité": "2 815 290",
+              "Carburant liaison district": "6 524 060",
+              "Carburant stratégies avancées": "2 573 695",
+              "Autres dépenses": "79 549 820",
+              "Total dépenses": "404 634 996"
+            },
+            {
+              "Région": "Saint-Louis",
+              "Médicaments": "330 220 917",
+              "Outils de gestion": "23 270 859",
+              "Achat gaz": "1 593 685",
+              "Caisse de solidarité": "13 403 562",
+              "Carburant liaison district": "12 049 363",
+              "Carburant stratégies avancées": "7 929 417",
+              "Autres dépenses": "175 335 264",
+              "Total dépenses": "852 946 179"
+            },
+            {
+              "Région": "Sédhiou",
+              "Médicaments": "96 178 616",
+              "Outils de gestion": "8 067 122",
+              "Achat gaz": "3 415 375",
+              "Caisse de solidarité": "3 129 895",
+              "Carburant liaison district": "6 425 950",
+              "Carburant stratégies avancées": "6 748 255",
+              "Autres dépenses": "56 841 130",
+              "Total dépenses": "251 291 035"
+            },
+            {
+              "Région": "Tambacounda",
+              "Médicaments": "317 913 671",
+              "Outils de gestion": "8 304 736",
+              "Achat gaz": "5 720 945",
+              "Caisse de solidarité": "4 995 005",
+              "Carburant liaison district": "7 747 500",
+              "Carburant stratégies avancées": "6 966 950",
+              "Autres dépenses": "163 979 447",
+              "Total dépenses": "654 809 946"
+            },
+            {
+              "Région": "Thiès",
+              "Médicaments": "669 539 932",
+              "Outils de gestion": "35 775 297",
+              "Achat gaz": "3 766 247",
+              "Caisse de solidarité": "20 003 138",
+              "Carburant liaison district": "24 506 012",
+              "Carburant stratégies avancées": "16 259 563",
+              "Autres dépenses": "753 218 471",
+              "Total dépenses": "1 968 089 606"
+            },
+            {
+              "Région": "Ziguinchor",
+              "Médicaments": "199 361 753",
+              "Outils de gestion": "16 198 609",
+              "Achat gaz": "8 365 180",
+              "Caisse de solidarité": "2 276 087",
+              "Carburant liaison district": "8 827 982",
+              "Carburant stratégies avancées": "4 871 780",
+              "Autres dépenses": "144 778 500",
+              "Total dépenses": "556 166 198"
+            },
+            {
+              "Région": "Sénégal",
+              "Médicaments": "4 396 481 045",
+              "Outils de gestion": "307 982 315",
+              "Achat gaz": "47 258 626",
+              "Caisse de solidarité": "147 570 784",
+              "Carburant liaison district": "162 739 628",
+              "Carburant stratégies avancées": "118 282 324",
+              "Autres dépenses": "5 345 549 154",
+              "Total dépenses": "13 908 958 349"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 23: Répartition des recettes issues des activités des EPS de niveau 3 (en FCFA)",
+          "colonnes": [
+            "EPS",
+            "Consultations",
+            "Hospitalisations",
+            "Analyses de laboratoires",
+            "Vente de médicaments",
+            "Total recettes"
+          ],
+          "lignes": [
+            {
+              "EPS": "Hôpital Principal de Dakar (HPD)",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Analyses de laboratoires": "",
+              "Vente de médicaments": "",
+              "Total recettes": ""
+            },
+            {
+              "EPS": "Hôpital Aristide le Dantec (HALD)",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Analyses de laboratoires": "388 334 135",
+              "Vente de médicaments": "",
+              "Total recettes": "3 805 775 704"
+            },
+            {
+              "EPS": "Centre Hospitalier universitaire de Fann",
+              "Consultations": "507 125 212",
+              "Hospitalisations": "465 323 398",
+              "Analyses de laboratoires": "1 121 630 315",
+              "Vente de médicaments": "3 484 183 028",
+              "Total recettes": "5 658 589 228"
+            },
+            {
+              "EPS": "Hôpital Abass Ndao",
+              "Consultations": "189 021 625",
+              "Hospitalisations": "229 361 412",
+              "Analyses de laboratoires": "442 275 650",
+              "Vente de médicaments": "196 990 625",
+              "Total recettes": "1 650 713 142"
+            },
+            {
+              "EPS": "Hôpital d'Enfant Albert Royer (HEAR)",
+              "Consultations": "385 678 050",
+              "Hospitalisations": "157 587 250",
+              "Analyses de laboratoires": "129 925 769",
+              "Vente de médicaments": "96 600 200",
+              "Total recettes": "1 021 734 934"
+            },
+            {
+              "EPS": "Hôpital général Idrissa Pouye",
+              "Consultations": "793 870 340",
+              "Hospitalisations": "499 110 259",
+              "Analyses de laboratoires": "1 047 324 578",
+              "Vente de médicaments": "1 314 990 139",
+              "Total recettes": "4 854 721 142"
+            },
+            {
+              "EPS": "Centre hospitalier national Pikine",
+              "Consultations": "398 022 150",
+              "Hospitalisations": "360 039 000",
+              "Analyses de laboratoires": "1 318 499 493",
+              "Vente de médicaments": "",
+              "Total recettes": "2 333 999 458"
+            },
+            {
+              "EPS": "Hôpital psychiatrique de Thiaroye",
+              "Consultations": "70 714 500",
+              "Hospitalisations": "117 455 250",
+              "Analyses de laboratoires": "7 230 000",
+              "Vente de médicaments": "86 461 500",
+              "Total recettes": "347 397 350"
+            },
+            {
+              "EPS": "Hôpital Matlaboul fawzeini de Touba",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Analyses de laboratoires": "",
+              "Vente de médicaments": "",
+              "Total recettes": "1 393 345 227"
+            },
+            {
+              "EPS": "Hôpital d'Enfants de Diamniadio",
+              "Consultations": "208 317 116",
+              "Hospitalisations": "194 105 961",
+              "Analyses de laboratoires": "257 778 136",
+              "Vente de médicaments": "127 422 652",
+              "Total recettes": "970 807 758"
+            },
+            {
+              "EPS": "Centre national d'appareillage orthopédique (CNAO)",
+              "Consultations": "137 783 320",
+              "Hospitalisations": "",
+              "Analyses de laboratoires": "185 823 810",
+              "Vente de médicaments": "",
+              "Total recettes": "323 607 130"
+            },
+            {
+              "EPS": "Centre National de Transfusion Sanguine (CNTS)",
+              "Consultations": "13 531 500",
+              "Hospitalisations": "25 981 000",
+              "Analyses de laboratoires": "184 101 550",
+              "Vente de médicaments": "",
+              "Total recettes": "369 806 388"
+            },
+            {
+              "EPS": "SAMU",
+              "Consultations": "70 166 027",
+              "Hospitalisations": "",
+              "Analyses de laboratoires": "10 365 000",
+              "Vente de médicaments": "",
+              "Total recettes": "86 341 027"
+            },
+            {
+              "EPS": "PNA",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Analyses de laboratoires": "885 777 192",
+              "Vente de médicaments": "5 810 000",
+              "Total recettes": "21 204 941 032"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 24: Répartition des recettes issues des activités des EPS hospitaliers de niveau 2",
+          "colonnes": [
+            "EPS",
+            "Consultations",
+            "Hospitalisations",
+            "Autres produits internes",
+            "Total"
+          ],
+          "lignes": [
+            {
+              "EPS": "CHR de Thiès",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "261 192 386",
+              "Total": "2 312 776 901"
+            },
+            {
+              "EPS": "CHR de Diourbel",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "42 072 494",
+              "Total": "537 395 725"
+            },
+            {
+              "EPS": "CH de Ndioum",
+              "Consultations": "33 165 750",
+              "Hospitalisations": "21 264 450",
+              "Autres produits internes": "35 956 973",
+              "Total": "297 409 333"
+            },
+            {
+              "EPS": "CH Ourossogui",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "41 647 665",
+              "Total": "692 079 604"
+            },
+            {
+              "EPS": "CHR Matam",
+              "Consultations": "36 478 200",
+              "Hospitalisations": "19 806 700",
+              "Autres produits internes": "28 200 096",
+              "Total": "371 021 246"
+            },
+            {
+              "EPS": "CHR de Louga",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "",
+              "Total": "1 034 855 253"
+            },
+            {
+              "EPS": "CHR de Kolda",
+              "Consultations": "84 359 500",
+              "Hospitalisations": "69 649 100",
+              "Autres produits internes": "28 301 231",
+              "Total": "733 219 838"
+            },
+            {
+              "EPS": "CH La Paix",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "78 443 825",
+              "Total": "513 417 455"
+            },
+            {
+              "EPS": "CHR de Ziguinchor",
+              "Consultations": "81 019 500",
+              "Hospitalisations": "30 836 200",
+              "Autres produits internes": "79 871 212",
+              "Total": "915 500 058"
+            },
+            {
+              "EPS": "CHR de Fatick",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "67 228 071",
+              "Total": "455 623 663"
+            },
+            {
+              "EPS": "CHR Kaolack",
+              "Consultations": "162 167 800",
+              "Hospitalisations": "78 743 755",
+              "Autres produits internes": "29 645 297",
+              "Total": "1 235 024 427"
+            },
+            {
+              "EPS": "CHR de Saint Louis",
+              "Consultations": "243 431 750",
+              "Hospitalisations": "87 181 147",
+              "Autres produits internes": "46 939 318",
+              "Total": "1 518 384 845"
+            },
+            {
+              "EPS": "CHR Tambacounda",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "88 007 177",
+              "Total": "558 469 777"
+            },
+            {
+              "EPS": "Hôpital privé Barthimée",
+              "Consultations": "42 345 790",
+              "Hospitalisations": "29 174 200",
+              "Autres produits internes": "38 253 040",
+              "Total": "314 986 265"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Tableau 25: Répartition des recettes issues des activités des EPS hospitaliers de niveau 1",
+          "colonnes": [
+            "EPS",
+            "Consultations",
+            "Hospitalisations",
+            "Autres produits internes",
+            "Total"
+          ],
+          "lignes": [
+            {
+              "EPS": "EPS1 Linguère",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "",
+              "Total": "401 367 146"
+            },
+            {
+              "EPS": "EPS1 Sédhiou",
+              "Consultations": "14 698 850",
+              "Hospitalisations": "9 752 600",
+              "Autres produits internes": "31 686 400",
+              "Total": "129 565 505"
+            },
+            {
+              "EPS": "EPS1 Tivaouane",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "123 819 350",
+              "Total": "541 181 050"
+            },
+            {
+              "EPS": "EPS1 Kaffrine",
+              "Consultations": "61 996 100",
+              "Hospitalisations": "55 643 750",
+              "Autres produits internes": "2 298 981",
+              "Total": "398 474 881"
+            },
+            {
+              "EPS": "EPS1 Institut d'hygiène sociale",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "",
+              "Total": "547 793 644"
+            },
+            {
+              "EPS": "Roi Baudouin",
+              "Consultations": "218 787 553",
+              "Hospitalisations": "33 024 003",
+              "Autres produits internes": "80 522 421",
+              "Total": "787 222 097"
+            },
+            {
+              "EPS": "EPS1 Ndamatou",
+              "Consultations": "178 779 360",
+              "Hospitalisations": "54 296 325",
+              "Autres produits internes": "56 285 107",
+              "Total": "1 099 491 917"
+            },
+            {
+              "EPS": "EPS1 Richard Toll",
+              "Consultations": "29 821 950",
+              "Hospitalisations": "11 671 300",
+              "Autres produits internes": "27 238 945",
+              "Total": "278 458 181"
+            },
+            {
+              "EPS": "EPS1 Mbour",
+              "Consultations": "",
+              "Hospitalisations": "",
+              "Autres produits internes": "",
+              "Total": "959 714 736"
+            },
+            {
+              "EPS": "EPS1 Youssou Mbargane Diop",
+              "Consultations": "86 801 700",
+              "Hospitalisations": "32 136 250",
+              "Autres produits internes": "2 850 492",
+              "Total": "491 719 142"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "2.4. Médicaments et produits essentiels",
+      "texte": "Acheminement, distribution et bilans sur la disponibilité des médicaments et produits essentiels.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Répartition des produits essentiels par centre d'activité",
+          "colonnes": [
+            "Centres d'activité (SIEGE+PRA)",
+            "Produits de lutte contre la Tuberculose",
+            "Produits de lutte contre le VIH Sida",
+            "Produits de lutte contre le Paludisme",
+            "Produits anticancéreux",
+            "VACCINS / SERUMS HORS PEV",
+            "Contraceptifs",
+            "Dialyse",
+            "Insuline",
+            "Autres Médicaments essentiels génériques",
+            "TOTAL"
+          ],
+          "lignes": [
+            {
+              "Centres d'activité (SIEGE+PRA)": "Magasin central",
+              "Produits de lutte contre la Tuberculose": "155 308 447",
+              "Produits de lutte contre le VIH Sida": "904 098 325",
+              "Produits de lutte contre le Paludisme": "",
+              "Produits anticancéreux": "591 227 408",
+              "VACCINS / SERUMS HORS PEV": "278 957 930",
+              "Contraceptifs": "39 744 000",
+              "Dialyse": "501 296 989",
+              "Insuline": "167 811 234",
+              "Autres Médicaments essentiels génériques": "3 592 950 651",
+              "TOTAL": "6 231 394 984"
+            },
+            {
+              "Centres d'activité (SIEGE+PRA)": "Dakar",
+              "Produits de lutte contre la Tuberculose": "2 658 256",
+              "Produits de lutte contre le VIH Sida": "174 013 409",
+              "Produits de lutte contre le Paludisme": "19 847 974",
+              "Produits anticancéreux": "298 181 766",
+              "VACCINS / SERUMS HORS PEV": "7 670 211",
+              "Contraceptifs": "",
+              "Dialyse": "",
+              "Insuline": "119 742 328",
+              "Autres Médicaments essentiels génériques": "556 332 312",
+              "TOTAL": "1 178 446 256"
+            },
+            {
+              "Centres d'activité (SIEGE+PRA)": "Diourbel",
+              "Produits de lutte contre la Tuberculose": "5 957 469",
+              "Produits de lutte contre le VIH Sida": "17 432 652",
+              "Produits de lutte contre le Paludisme": "5 296 354",
+              "Produits anticancéreux": "",
+              "VACCINS / SERUMS HORS PEV": "3 189 838",
+              "Contraceptifs": "800 611",
+              "Dialyse": "1",
+              "Insuline": "",
+              "Autres Médicaments essentiels génériques": "",
+              "TOTAL": ""
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "Organigramme et Carte sanitaire",
+      "texte": "Organisation administrative et représentation territoriale des structures de santé et d'action sociale.",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "carte",
+          "titre": "Carte administrative du Sénégal - Découpage sanitaire",
+          "description": "Carte présentant les régions administratives et médicales du Sénégal (Dakar, Thiès, Diourbel, Fatick, Kaolack, Kaffrine, Louga, Saint-Louis, Matam, Tambacounda, Kédougou, Kolda, Sédhiou, Ziguinchor) avec des indicateurs et statistiques de répartition des structures."
+        }
+      ]
+    }
+  ]
+}

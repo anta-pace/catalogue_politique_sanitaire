@@ -1,0 +1,1351 @@
+{
+  "metadata": {
+    "titre": "MANUEL DES PROCEDURES OPERATIONNELLES STANDARDS DE GESTION DES MEDICAMENTS DES MALADIES TROPICALES NEGLIGEES A CHIMIOPREVENTION (MTN-CP) AU SENEGAL",
+    "annee": "2020",
+    "source": "Ministère de la Santé et de l'Action sociale, République du Sénégal",
+    "type_document": "Manuel de procédures opérationnelles standards"
+  },
+  "contenu": [
+    {
+      "type": "section",
+      "titre": "Page de garde",
+      "texte": "RÉPUBLIQUE DU SÉNÉGALUN PEUPLE - UN BUT - UNE FOIMINISTÈRE DE LA SANTE ET DE L'ACTION SOCIALEMANUEL DES PROCEDURES OPERATIONNELLES STANDARDS DE GESTION DES MEDICAMENTS DES MALADIES TROPICALES NEGLIGEES A CHIMIOPREVENTION (MTN-CP) AU SENEGAL\"Un Sénégal exempt de MTN pour un développement durable\"PATH | fhi360 | THE ACCESS AND DELIVERY PARTNERSHIP | Organisation mondiale de la Santé | THE SCIENCE OF HEALTHY LIVES | Sightsavers",
+      "tableaux": [],
+      "images": [
+        {
+          "type": "image",
+          "categorie": "photo",
+          "titre": "Produits phares MTN et logos des partenaires",
+          "description": "Image de garde montrant des emballages de médicaments (Ectizan 3 mg, Albendazole 400 mg, Mectizan) et les logos des institutions partenaires (MSAS, PATH, FHI360, ADP, OMS, Sightsavers, etc.)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "titre": "PREFACE",
+      "texte": "Les Maladies Tropicales Négligées (MTN) constituent un véritable problème de santé publique au Sénégal. Elles sont co-endémiques dans pratiquement toutes les régions et constituent un lourd fardeau pour les populations. En effet, elles ont un impact négatif sur la croissance économique car responsables d'invalidités temporaires ou définitives, de difformités parfois stigmatisantes, d'anémies chroniques et de mauvais état nutritionnel chez les enfants d'âge scolaire réduisant ainsi leurs performances.Le Sénégal s'est engagé, à l'instar des pays de la sous-région, à lutter efficacement contre ces maladies. Les objectifs visés à l'horizon 2025 sont : le contrôle, l'élimination ou l'éradication conformément à la feuille de route mondiale. Dans la perspective d'agir plus vite pour réduire l'impact de ces MTN, trois (3) plans stratégiques ont été élaborés et dix maladies sont ciblées dans la lutte. Il s'agit de :Cinq (5) maladies à Chimiothérapie Préventive de Masse (CPM): Trachome, Filariose Lymphatique, Onchocercose, bilharzioses et Géo helminthiases;Huit maladies (8) à Prise en Charge de Cas: lèpre, rage, dracunculose, leishmaniose, mycétomes, gale, envenimation par morsure de serpent et dengue.Sous l'impulsion de l'OMS, de nouveaux partenaires s'impliquent dans la mise en œuvre de stratégies de lutte efficientes et réalistes mettant l'accent sur la rationalisation des ressources disponibles ainsi que sur la pleine utilisation de moyens diagnostiques et thérapeutiques efficaces.Le Sénégal s'est résolument engagé, à travers ce manuel de gestion des médicaments à :mettre en place des directives de référence sur la chaîne d'approvisionnement spécifiques aux MTN et des procédures opérationnelles standard (POS),renforcer les compétences des gestionnaires de la chaîne d'approvisionnement, à tous les niveaux, en matière de gestion efficiente et d'utilisation rationnelle des médicaments donnés gratuitement pour la chimiothérapie préventive.La collaboration déjà établie avec l'autorité de réglementation pharmaceutique, la Pharmacie Nationale d'approvisionnement, les partenaires et l'engagement des professionnels de santé à tous les niveaux et d'autres acteurs de développement, nous autorisent à croire à une chaîne d'approvisionnement résiliente (dans un système de santé résilient) et donc à un avenir meilleur, dans un Sénégal émergent où le fardeau des Maladies Tropicales Négligées sera considérablement allégé.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "REMERCIEMENTS",
+      "texte": "La révision de ces procédures opérationnelles standard de gestion des médicaments MTN a été possible grâce au financement de PATH à travers le projet Access Delivery and Partnership (ADP) et la participation des experts techniques venant de diverses structures du Ministère de la Santé et de l'Action sociale et des Partenaires Techniques et Financiers.Liste par structure:Direction Générale de la Santé (DGS)Direction de la Lutte contre la Maladie (DLM)Conseiller technique en Approvisionnement du Ministère de la Santé et de l'action SocialeConseiller technique en Politique pharmaceutiqueLa Direction de la Pharmacie et du Médicament (DPM)Programme National de lutte contre les MTN (PNLMTN)Région Médicale (RM) de ThièsRégion Médicale de MatamDistrict Sanitaire de LougaDistrict Sanitaire de MakacoulibantangDistrict Sanitaire KaolackDistrict Sanitaire de ThièsPharmacie Nationale d'Approvisionnement (PNA)Laboratoire National de Contrôle des Médicaments (LNCM)Centre Antipoison (CAP)Programme National de lutte contre la Tuberculose (PNT)Programme National de lutte contre le Paludisme (PNLP)Pharmacie Régionale d'Approvisionnement (PRA) de LougaOMSPATH/ADPUSAID/FHI 360OMVS/PGIREENDA SANTESIGHTSAVERSENFUNDSPEAKUP AFRICAWORLD VISION",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "ABREVIATIONS",
+      "texte": "",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Liste des abréviations",
+          "colonnes": [
+            "Axe",
+            "Signification"
+          ],
+          "lignes": [
+            {
+              "Axe": "AMM",
+              "Signification": "Autorisation de Mise sur le Marché"
+            },
+            {
+              "Axe": "BL",
+              "Signification": "Bordereau de Livraison"
+            },
+            {
+              "Axe": "BRH",
+              "Signification": "BRH: Brigade Régionale d'Hygiène"
+            },
+            {
+              "Axe": "DCI",
+              "Signification": "Dénomination Commune Internationale"
+            },
+            {
+              "Axe": "DL",
+              "Signification": "Délai de Livraison"
+            },
+            {
+              "Axe": "DMM",
+              "Signification": "Distribution de masse des médicaments"
+            },
+            {
+              "Axe": "DPM",
+              "Signification": "Direction de la Pharmacie et du Médicament"
+            },
+            {
+              "Axe": "DS",
+              "Signification": "District Sanitaire"
+            },
+            {
+              "Axe": "DSISS",
+              "Signification": "Division du système d'information sanitaire et social"
+            },
+            {
+              "Axe": "EPIRF",
+              "Signification": "Epidemiological Data Reporting Form"
+            },
+            {
+              "Axe": "ESPEN",
+              "Signification": "Projet spécial élargi pour l'élimination des maladies tropicales négligées"
+            },
+            {
+              "Axe": "FEFO",
+              "Signification": "First Expired First Out"
+            },
+            {
+              "Axe": "FIFO",
+              "Signification": "First In First Out"
+            },
+            {
+              "Axe": "ICP",
+              "Signification": "Infirmier Chef de Poste"
+            },
+            {
+              "Axe": "JAP",
+              "Signification": "Joint Application Package"
+            },
+            {
+              "Axe": "LNME",
+              "Signification": "Liste nationale des Médicaments Essentiels"
+            },
+            {
+              "Axe": "LQAS",
+              "Signification": "LQAS: Lot quality assurance sampling, méthode statistique d'échantillonnage par lots"
+            },
+            {
+              "Axe": "MCD",
+              "Signification": "Médecin Chef de District"
+            },
+            {
+              "Axe": "MCR",
+              "Signification": "Médecin Chef de Région"
+            },
+            {
+              "Axe": "MSAS",
+              "Signification": "Ministère de la Santé et de l'Action sociale"
+            },
+            {
+              "Axe": "MTN",
+              "Signification": "Maladies Tropicales Négligées"
+            },
+            {
+              "Axe": "NTD",
+              "Signification": "Neglected Tropical Disease"
+            },
+            {
+              "Axe": "OMS",
+              "Signification": "Organisation Mondiale de la Santé"
+            },
+            {
+              "Axe": "PE",
+              "Signification": "Personne Eligible"
+            },
+            {
+              "Axe": "PNA",
+              "Signification": "Pharmacie Nationale d'Approvisionnement"
+            },
+            {
+              "Axe": "PNLMNT",
+              "Signification": "Programme National de Lutte contre les Maladies Tropicales Négligées"
+            },
+            {
+              "Axe": "POS",
+              "Signification": "Procédure Opérationnelle Standard"
+            },
+            {
+              "Axe": "PPS",
+              "Signification": "Point de prestation de services"
+            },
+            {
+              "Axe": "RM",
+              "Signification": "Région Médicale"
+            },
+            {
+              "Axe": "TAS",
+              "Signification": "Transmission Assessment Survey"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "SOMMAIRE",
+      "texte": "PREFACEREMERCIEMENTSABREVIATIONSSOMMAIREINTRODUCTIONPOS 1: SOUMISSION DES FORMULAIRES DE DEMANDE COMMUNE DE MÉDICAMENTS DES MALADIES TROPICALES NEGLIGEES A CHIMIOPREVENTION (MTN-CP)I. INTRODUCTIONII. MODES OPERATOIRES NORMALISES SUR LA SOUMISSION DES FORMULAIRESPOS 2: AVIS D'EXPÉDITION ET APPROBATION DES MÉDICAMENTS DESTINÉS AU TRAITEMENT DES MALADIES TROPICALES NEGLIGÉESI. INTRODUCTIONII. MODES OPERATOIRES NORMALISES SUR L'EXPEDITION ET L'ACCORD DU FEU VERTPOS 3: DÉDOUANEMENT ET LIVRAISON DE MÉDICAMENTS POUR LES MALADIES TROPICALES NÉGLIGÉES (MTN)I. INTRODUCTIONII. MODES OPÉRATOIRES NORMALISÉS SUR LE DÉDOUANEMENT ET LA LIVRAISONPOS 4: TRANSPORT DES MEDICAMENTS POUR LES MALADIES TROPICALES NEGLIGEES (MTN) DES ENTREPOTS MEDICAUX CENTRAUX VERS LES REGIONS, OU DES REGIONS VERS LES POINTS DE DISTRIBUTION AU NIVEAU DES DISTRICTSI. INTRODUCTIONII. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DU NIVEAU CENTRAL VERS LES RÉGIONSIII. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES RÉGIONS JUSQU'AUX DISTRICTSIV. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES DISTRICTS JUSQU'AUX POINTS DE PRESTATION DES SOINSPOS 5: GESTION DES STOCKS DE MÉDICAMENTS DESTINÉS AU TRAITEMENT DES MALADIES TROPICALES NÉGLIGÉES (MTN)I. MODES OPERATOIRES SUR LE STOCKAGE DES MEDICAMENTSII. MODES OPERATOIRES NORMALISES SUR LA REALISATION DE L'INVENTAIRE PHYSIQUEIII. MODES OPERATOIRES NORMALISES SUR LA SORTIE DE MEDICAMENTS DE L'ENTREPOTIV. MODES OPERATOIRES NORMALISES SUR LA GESTION DES MEDICAMENTS A DATE DE PEREMPTION PROCHEV. MODES OPERATOIRES NORMALISES SUR LA GESTION DES MEDICAMENTS ENDOMMAGES OU PERIMESPOS 6: STOCKAGE DES MÉDICAMENTS POUR LE TRAITEMENT DES MALADIES TROPICALES NÉGLIGÉES (MTN) À CHIMIOTHERAPIE PRÉVENTIVEI. INTRODUCTIONII. MODES OPERATOIRES SUR LE STOCKAGE DES MEDICAMENTSIII. MODES OPERATOIRES NORMALISES SUR LE STOCKAGE AU NIVEAU RÉGIONAL OU AU NIVEAU DISTRICTPOS 7: MÉTHODE DE GESTION SELON LE PRINCIPE DU « PREMIER PÉRIMÉ, PREMIER SORTI » (FEFO)I. INTRODUCTIONII. MODES OPERATOIRES SUR LE RENFORCEMENT DE LA VISIBILITÉ DES DATES DE PÉREMPTIONPOS 8: LOGISTIQUE DE RECYCLAGE DES MÉDICAMENTS ET PRODUITS DIAGNOSTIQUES À UTILISER POUR LUTTER CONTRE LES MALADIES TROPICALES NÉGLIGÉESI. INTRODUCTIONPOS 9: RETIRER LES MÉDICAMENTS PÉRIMÉS ET INUTILISABLES DU STOCKI. INTRODUCTIONII. MODES OPERATOIRES NORMALISES SUR LE RETRAIT DES MÉDICAMENTS PÉRIMÉS ET INUTILISABLES DU STOCKPOS 10: GESTION DES DÉCHETS SANITAIRES POUR LES MÉDICAMENTS DES MALADIES TROPICALES NÉGLIGÉESI. INTRODUCTIONII. MODES OPERATOIRES SUR LA CENTRALISATION ET DESTRUCTION DES DECHETSPOS 11: SOUMISSION, PAR LE PROGRAMME NATIONAL DE LUTTE CONTRE LES MALADIES TROPICALES NÉGLIGÉES, DES PRÉVISIONS ET DE LA QUANTIFICATION DES DONS DE MÉDICAMENTS DESTINÉS À LA CHIMIOPRÉVENTION DE CES MALADIESI. INTRODUCTIONII. MODES OPERATOIRES SUR LES PREVISIONS ET LA QUANTIFICATION DES MEDICAMENTSPOS 12: PHARMACOVIGILANCE DES MEDICAMENTS POUR LES MALADIES TROPICALES NEGLIGEES : GUIDE DES PROCEDURES DE NOTIFICATION DES EFFETS INDESIRABLESIII. INTRODUCTIONIV. DÉFINITION ET OBJECTIFSV. CONCEPTS DE BASEVI. NOTIFICATION ET TRANSMISSION DE LA FICHELISTE DES OUTILS DE GESTION DES MEDICAMENTS CONTRE LES MTNBIBLIOGRAPHIE",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "INTRODUCTION GENERAL",
+      "texte": "Les contraintes rencontrées dans la chaine d'approvisionnement des médicaments posent des défis majeurs pour les programmes actuels de prévention et de traitement des maladies tropicales négligées (MTN). Plusieurs partenaires et initiatives travaillent à l'atteinte des objectifs de contrôle et d'élimination des MTN au niveau mondial. Cependant, l'expansion rapide des activités de lutte contre les MTN, ces dernières années, n'a pas été sans conséquence au sein du système pharmaceutique / sanitaire au niveau mondial.Ainsi, au cours des cinq dernières années, des défis liés à la chaîne d'approvisionnement et à la gestion des médicaments ont été observés dans de nombreux pays mettant en œuvre une chimiothérapie préventive (PC) en termes de gaspillage de médicaments, affectant la communication d'informations sur l'utilisation des médicaments donnés et la responsabilité vis-à-vis des donneurs pharmaceutiques. Lors de la réunion des responsables de programme MTN de Kigali en juillet 2018 et lors des missions conjointes d'assistance technique à la chaîne d'approvisionnement menées dans certains pays de la région Afrique, la nécessité de directives de référence sur la chaîne d'approvisionnement spécifiques aux MTN et de procédures opérationnelles standard (POS) et le renforcement de capacités des gestionnaires de la chaîne d'approvisionnement pour une gestion efficiente et une utilisation rationnelle des médicaments donnés par le PCT ont été identifiées. A cet égard, l'OMS et les experts techniques du NTD Supply Chain Forum ont élaboré un ensemble de procédures opérationnelles standard (SCM) de gestion de la chaîne d'approvisionnement ciblant 11 principaux domaines de préoccupation englobant le cycle de vie du Programme mondial de donation de l'OMS, le dossier de demande commune de médicaments, la gestion des déchets, la gestion des médicaments inutilisés et périmés jusqu'à la quantification et prévision des besoins pour la prochaine demande de médicaments.Afin de garantir que les POS répondent aux besoins du pays et adressent les défis actuels de la chaine d'approvisionnement des médicaments MTN, le Sénégal a organisé deux ateliers de révision et de validation du présent document avec un pool de spécialistes de la chaîne d'approvisionnement, de gestionnaires de programme, de partenaires de mise en œuvre et du personnel de l'OMS en charge des médicaments essentiels et produits pharmaceutiques afin d'examiner et modifier les POS rédigées pour permettre l'adhésion, l'intégration et l'appropriation pour une utilisation efficace.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 1: SOUMISSION DES FORMULAIRES DE DEMANDE COMMUNE DE MÉDICAMENTS DES MALADIES TROPICALES NEGLIGEES A CHIMIOPREVENTION (MTN-CP)",
+      "texte": "I. INTRODUCTIONDans le cadre des efforts mondiaux entrepris pour accélérer l'expansion de la chimioprévention (CP) pour l'élimination de la filariose lymphatique, de l'onchocercose et la lutte contre les schistosomiases et les géohelminthiases, l'Organisation Mondiale de la Santé (OMS) en collaboration avec les firmes pharmaceutiques facilite l'approvisionnement :en albendazole comprimés de 400 mg (GSK), pour les programmes nationaux d'élimination de la filariose lymphatique et les programmes nationaux de lutte contre les géohelminthiases;en praziquantel, comprimés de 600 mg (Merck), destiné aux enfants d'âge scolaire et les adultes exposés aux risques, pour les programmes nationaux de lutte contre la schistosomiase;en ivermectine, comprimés de 3 mg en collaboration avec MDP (Mectizan Donation Program), pour les programmes de donation de médicaments contre l'onchocercose et la filariose lymphatique.Un mécanisme commun et un ensemble de formulaires ont été conçus pour faciliter le processus de demande de médicaments, d'examen et de rapports, ainsi que pour améliorer la coordination et l'intégration des activités entre les différents programmes de lutte contre les maladies tropicales négligées. Cet outil basé sur Excel est conçu pour aider les pays à quantifier le nombre de comprimés de médicaments pertinents nécessaires pour atteindre la population cible prévue et les districts au cours de l'année pour laquelle les médicaments sont demandés.Le résultat de l'outil est une demande commune de médicaments pour la chimioprévention qui, peut-être imprimée, signée et soumise à l'OMS pour solliciter de tels médicaments.II. MODES OPERATOIRES NORMALISES SUR LA SOUMISSION DES FORMULAIRES",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Première étape: Processus de Demande Commune de médicaments (JRSM)",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Population totale par district",
+              "Modes opératoires": "Le coordonnateur du programme MTN prend contact avec le chef de la DSISS pour disposer des données sur les populations de tous les districts (sur un format Excel ou Word bien rangé). Il assure le suivi avec le chef de la DSISS afin de disposer des données dans les délais.",
+              "Délais": "10 à 11 mois avant la période prévue pour la DMM."
+            },
+            {
+              "Actions requises/Données requises": "Endémicité district/Maladie",
+              "Modes opératoires": "Le coordonnateur national du PNLMTN exploite ou fait exploiter par ses collaborateurs, les résultats des différentes enquêtes/études/évaluations disponibles au service et auprès des partenaires (cartographie, enquête d'impact, TAS, Pré-TAS, enquête de surveillance) et dresse une compilation des données de prévalence par district et région.",
+              "Délais": "10 à 11 mois avant la période prévue pour la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Médicaments disponibles et utilisables",
+              "Modes opératoires": "Le coordonnateur du PNLMTN adresse une correspondance à la PNA pour collecter les résultats des inventaires récents (de préférence un mois avant commande) et assure le suivi avec la PNA afin de disposer des données dans les délaisLe Pharmacien du programme met à la disposition du coordonnateur MTN, toutes les commandes de produits non encore livrées ou en cours de livraison.Le coordonnateur collecte auprès des partenaires tous les engagements financiers destinés à l'achat de médicaments et les traduit en quantités à comptabiliser dans les « médicaments disponibles ».Ces quantités déjà disponibles seront soustraites des besoins globaux pour avoir la quantité à commander via l'OMS.",
+              "Délais": "10 à 11 mois avant la période prévue pour la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Deuxième étape : Rapport de traitement (JRF)",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Nombre de personnes traitées par district",
+              "Modes opératoires": "Le gestionnaire des données du programme se charge du remplissage du rapport de traitement après l'atelier national de validation des données de campagne.",
+              "Délais": "10 à 11 mois avant la période prévue pour la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Troisième étape : Rapport de données épidémiologiques (EPIRF)",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Données de morbidité (administratives) et données d'enquêtes/études",
+              "Modes opératoires": "Le Coordonnateur du PNLMTN demande au Coordonnateur du programme FL/ONCHO le rapport annuel de prise en charge des cas de morbidité.Le coordonnateur du programme FL/ONCHO met à la disposition du coordonnateur MTN le rapport annuel de prise en charge des cas de morbiditéLes données d'enquêtes/évaluations/études requises à ce niveau sont déjà collectées à la section « endémicité district/maladie »A partir des documents et informations ci-dessus, Le responsable du suivi-évaluation du programme MTN remplit le formulaire EPIRF",
+              "Délais": "10 à 11 mois avant la période prévue pour la campagne"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Quatrième étape: Plan de travail annuel",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Répertorier les objectifs et Activités MTN avec les périodes, les responsables, les budgets et les partenaires",
+              "Modes opératoires": "Le coordonnateur national du programme MTN planifie et organise l'atelier d'élaboration et de validation du plan de travail du programme avec toutes les parties prenantes.Le planificateur remplit le formulaire PTA/OMS à partir du PTA/MTN.",
+              "Délais": "Avant le 15 février de chaque année"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Cinquième étape: Validation des formulaires du dossier de demande de médicaments",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Remplissage des formulaires",
+              "Modes opératoires": "Le coordonnateur MTN convoque un comité chargé de valider les formulaires de la JAPCe comité devra intégrer impérativement les coordonnateurs des MTN, le gestionnaire des données, le responsable du suivi-évaluation, le pharmacien du programme, le planificateur, un représentant de la PNA, un représentant de l'OMS et des autres partenairesHormis les formulaires renseignés, un rapport devra être dressé rendant compte du déroulement et des résultats clés.",
+              "Délais": "10 mois au plus tard avant la période prévue pour la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Validation des formulaires",
+              "Modes opératoires": "Le comité de suivi valide les formulaires remplis.",
+              "Délais": "48 H après soumission des quatre formulaires remplis au comité de validation"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Sixième étape: Soumission du formulaire JAP via OMS/ESPEN portail",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Envoi de la demande commune de médicaments MTN",
+              "Modes opératoires": "Une fois les formulaires validés, le coordonnateur soumet les documents au Directeur de la lutte contre la maladie pour validationAussitôt après la validation, le coordonnateur signe les formulaires et soumet la demande par courrier électronique (mail, portail/ESPEN) et physique à l'OMSEn cas de feedbacks (update), le coordonnateur convoque une rencontre d'urgence du comité de validation pour apporter les réponses nécessaires et soumettre à nouveau la réponse du pays selon le processus décrit plus haut.le coordonnateur archive (physique et électronique) toute la documentation relative à la requête de médicaments",
+              "Délais": "48H après la validation des formulaires"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Septième étape : Suivi de la demande de médicaments",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Suivi de la demande",
+              "Modes opératoires": "Le coordonnateur met en place au niveau du programme un dispositif de suivi du statut de la commande auprès de l'OMS, donateur, ou fournisseur (lien, échange de mail ou appel)",
+              "Délais": "De la soumission jusqu'à la livraison."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 2: AVIS D'EXPÉDITION ET APPROBATION DES MÉDICAMENTS DESTINÉS AU TRAITEMENT DES MALADIES TROPICALES NEGLIGÉES",
+      "texte": "I. INTRODUCTIONLa préparation à l'avance de l'arrivée de l'expédition permet de rationaliser la livraison des médicaments au magasin ou à l'entrepôt médical central. La disponibilité des documents de libération à l'arrivée de l'expédition facilite le dédouanement.La disponibilité de l'espace et du personnel pour le déchargement de l'expédition est essentielle pour la réception en temps voulu des médicaments dans le magasin ou l'entrepôt médical central.II. MODES OPERATOIRES NORMALISES SUR L'EXPEDITION ET L'ACCORD DU FEU VERT",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Première étape: Émission de l'avis d'expédition",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Pré-alerte/Avis d'expédition",
+              "Modes opératoires": "Le donateur prépare le chargement sur la base des informations précisées dans le formulaire de demande de médicaments et notifie ensuite au coordonnateur du programme national ou à l'OMS par courriel, l'arrivée imminente de la commande au port d'entrée du pays demandeur.Le donateur fournit les documents d'expédition à l'OMS par courriel ou par courrier express tels que demandés par le pays dans le formulaire de demande de médicament. Cet avis contient des informations sur la date estimée de livraison et tous les documents d'expédition, y compris:La facture;Le bordereau de connaissement (disponible après le départ du bateau du port d'origine) ou le bordereau d'expédition aérienne;La liste de colisage;Le certificat d'origine;Le certificat d'analyse;Le certificat de donation",
+              "Délais": "4 mois avant la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Deuxième étape: Préparation anticipée du dédouanement et de l'enlèvement",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Obtention d'une AMM",
+              "Modes opératoires": "Le cas échéant, le Coordonnateur MTN soumet au cabinet du MSAS un projet de courrier informant l'OMS de l'exigence de disposer d'une AMM avant arrivée du produit au pays avec les informations relatives à la constitution et soumission du dossier de demande d'AMM, accompagné d'une note technique et de la série de documents.L'OMS s'organise avec les fournisseurs donateurs pour transmettre au pays ledit document au plus tard un mois avant la date estimée de l'arrivée des produits au premier port d'entrée.",
+              "Délais": "4 mois avant la campagne DMM"
+            },
+            {
+              "Actions requises/Données requises": "Obtention d'une autorisation d'importer des médicaments",
+              "Modes opératoires": "Le Coordonnateur du programme MTN soumet une demande d'autorisation d'importation à la DPM accompagnée du paquet de documents requis et assure le suivi avec la DPM pour une diligence dans le traitement et la délivrance du document.",
+              "Délais": "4 mois avant la campagne DMM"
+            },
+            {
+              "Actions requises/Données requises": "Obtention d'une exonération des taxes",
+              "Modes opératoires": "le Coordonnateur programme MTN soumet au cabinet du MSAS un projet de demande d'exonération accompagné d'une note technique et de la série de documents (facture, liste de colisage, convention/accord avec donateur, etc.) et ce dernier le transfère au ministère des finances et du budget pour approbation.Le coordonnateur suit la transmission du courrier et la réponse issue du ministère des finances et du budget.",
+              "Délais": "4 mois avant la campagne DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Troisième étape: Préparation anticipée de la livraison des médicaments",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Transmission du dossier aux transitaires",
+              "Modes opératoires": "Le Coordonnateur transmet aux compagnies transitaires contractualisées par l'OMS ou les donateurs, le paquet des documents requis pour les opérations de dédouanement/enlèvement et ceci par courrier avec accusé de réception.Il fait archiver dans le programme des copies de tous les documents transmis.",
+              "Délais": "4 mois avant la campagne DMM"
+            },
+            {
+              "Actions requises/Données requises": "Préparation des espaces de stockage (locaux, personnel, frais) par le Programme/PNA/OMS, pour la livraison au magasin central",
+              "Modes opératoires": "Le pharmacien responsable du programme partage avec le pharmacien de la PNA l'avis d'expédition.Le pharmacien point focal à la PNA planifie ou vérifie la disponibilité des locaux pour la réception et le stockage de la commande à la date estimée, à défaut, il devra proposer une alternative valide, en collaboration avec le programme MTN.Le pharmacien responsable de la PNA en coordination avec le pharmacien du programme MTN aménage un espace suffisant respectant les normes de bonnes pratiques de stockage pour la réception des médicaments.Le pharmacien responsable de la PNA Mobilise un personnel dédié pour la manutention.Ces préalables réglés, le pharmacien point focal à la PNA, confirme à son tour par écrit, le local prévu, planifie et quantifie le personnel requis aux opérations de déchargement et propose un budget au programme MTN pour prendre en charge les opérations.",
+              "Délais": "4 mois avant la campagne DMM"
+            },
+            {
+              "Actions requises/Données requises": "Préparation de la logistique roulante (véhicule, personnel, frais, budget) transitaire/MTN/PNA",
+              "Modes opératoires": "Le coordonnateur du MTN envoie un email à l'OMS pour une mise en relation de la compagnie transitaire avec les services du MTN.A partir de cet instant, le coordonnateur MTN vérifie les capacités du transitaire à mobiliser le nombre requis de camions pour enlever la livraison dans les délais évitant ainsi des charges supplémentaires (frais d'entreposage, frais de location de conteneurs). Le cas échéant, le coordonnateur exprime sa demande au transitaire par écrit et celui-ci répond par écrit en confirmant la disponibilité des véhicules requis en s'engageant.",
+              "Délais": "4 mois avant la campagne DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Quatrième étape: Acceptation de l'expédition par le Coordonnateur du PNLMTN, accord du FEU VERT",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Notification du feu vert",
+              "Modes opératoires": "Le coordonnateur du programme national notifie son feu vert à l'OMS qui répond dans les deux semaines qui suivent sa réception.Le coordonnateur du programme national donne le quitus à l'OMS (par courrier ou email) pour l'expédition des médicaments des MTN.Le donateur réserve l'expédition, assure son transport (par voie aérienne ou par voie maritime) et le notifie à l'OMS qui informe le pays.",
+              "Délais": "3 mois avant la campagne DMM"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 3: DÉDOUANEMENT ET LIVRAISON DE MÉDICAMENTS POUR LES MALADIES TROPICALES NÉGLIGÉES (MTN)",
+      "texte": "I. INTRODUCTIONLe dédouanement et la livraison des médicaments pour les maladies tropicales négligées sont les étapes finales de la réception de ces médicaments dans un pays. Le présent document résume les processus clés pour le donateur comme pour les bénéficiaires de ces médicaments.Le premier processus porte sur le dédouanement. C'est la procédure qui consiste à faire en sorte que les médicaments soient libérés aux ports d'entrées avant la livraison aux destinataires.Le second processus concerne la livraison des médicaments à la PNA.NB: Au Sénégal, aucun médicament ne peut être dispensé à titre gratuit ou onéreux s'il n'a pas reçu, au préalable, une Autorisation de Mise sur le Marché (AMM) délivrée par la Direction de la Pharmacie et du Médicament (DPM). Toutefois, les programmes nationaux peuvent accéder à des médicaments grâce à la procédure d'importation faisant objet de don.II. MODES OPÉRATOIRES NORMALISÉS SUR LE DÉDOUANEMENT ET LA LIVRAISON",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Première étape: Processus de Dédouanement",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Transmission du dossier aux transitaires",
+              "Modes opératoires": "Le Coordonnateur transmet aux compagnies transitaires contractualisées par l'OMS ou les donateurs, par courrier avec accusé de réception, le paquet des documents requis (documents d'expédition, AMM, autorisation d'importation, lettre d'exonération) pour les opérations de dédouanement/enlèvement et ceci (cf. section avis d'expédition/feu vert).",
+              "Délais": "3 mois avant DMM"
+            },
+            {
+              "Actions requises/Données requises": "Suivi du chargement",
+              "Modes opératoires": "Le transitaire se rapproche des services douaniers au besoin, pour s'informer de l'exigence éventuelle de documents complémentaires. Au cas échéant, il informe le programme MTN dans les délais pour l'obtention des dits documents.Après réception du « feu vert » pour l'embarquement, le donateur/fournisseur/OMS maintient une communication avec le transitaire (et le programme MTN) dont le but est de suivre le chargement et de pouvoir le situer jusqu' à l'arrivée au port du pays.",
+              "Délais": "3 mois avant DMM"
+            },
+            {
+              "Actions requises/Données requises": "Arrivée du chargement",
+              "Modes opératoires": "Le transitaire est notifié par le donateur/fournisseur/OMS, de l'arrivée du chargement.Le transitaire informe le programme MTN de l'arrivée du chargement et lui fournit un calendrier prévisionnel de dédouanement et de livraison. Ensuite, il se rapproche immédiatement du programme pour entamer les procédures afin d'enlever les produits dans les délais.Le programme MTN s'organise en mobilisant le point focal approvisionnement ou le gestionnaire, pour apporter toute l'assistance nécessaire au transitaire.Le programme informe la PNA de l'arrivée du chargement afin que cette dernière commence à anticiper la livraison.",
+              "Délais": "Au plus tard 2 mois avant DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Deuxième étape: Processus d'enlèvement",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Démarches administratives du transitaire",
+              "Modes opératoires": "Le transitaire, après être entré en possession des documents requis, se rapproche, sur indications du coordonnateur MTN, des services ou personnes responsables pour l'obtention des cachets et signatures nécessaires à l'établissement des formulaires de déclaration.",
+              "Délais": "Dans les 24H suivant l'arrivée du chargement"
+            },
+            {
+              "Actions requises/Données requises": "Déclaration et Enlèvement pour livraison",
+              "Modes opératoires": "Le transitaire s'approche des services douaniers et portuaires, s'acquitte des formalités de déclaration et des redevances pour l'obtention du bon d'enlèvement.Muni du bon d'enlèvement, le transitaire organise avec ses transporteurs un enlèvement rapide des produits du port pour les acheminer aux aires de stockage du programme (PNA).Le transitaire confirme au programme MTN et à la PNA la livraison des produits aux dates et heures indiquées.",
+              "Délais": "Dans les 48H suivant l'arrivée du chargement (idéal)"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Troisième étape: Processus de Livraison",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Acceptation de la livraison",
+              "Modes opératoires": "La PNA fournit au transitaire et au PNLMTN les détails nécessaires sur l'entrepôt, notamment l'itinéraire exact et les instructions sur le processus de déchargement.",
+              "Délais": "24H avant l'enlèvement pour livraison"
+            },
+            {
+              "Actions requises/Données requises": "Préparation livraison",
+              "Modes opératoires": "La PNA vérifie le dépôt ou l'entrepôt pour la réception des médicaments.",
+              "Délais": "24H avant l'enlèvement pour livraison"
+            },
+            {
+              "Actions requises/Données requises": "Livraison",
+              "Modes opératoires": "Le transitaire transporte le chargement du produit jusqu'à l'entrepôt de la PNA.Le transitaire décharge le chargement dans l'entrepôt de la PNA et vérifie que le scellé sur le conteneur n'est pas brisé. Si le scellé est brisé : demander au chauffeur de noter le scellé brisé sur le bon de livraison; lorsque cela est possible, prendre une photo du scellé brisé afin de créer une preuve visuelle.",
+              "Délais": "Immédiatement après enlèvement des produits pour livraison / Dans les 24H suivant l'enlèvement pour livraison"
+            },
+            {
+              "Actions requises/Données requises": "Réception des produits à la PNA",
+              "Modes opératoires": "La PNA vérifie le nombre de colis/ palettes livrés et signe le bordereau de livraison soumis par le transitaire. NB/si possible, prendre des photos de chaque palette reçue pour aider à confirmer les palettes manquantes.Ensuite, la PNA convoque la commission de réception. Celle-ci procède alors à la réception proprement dite et produit à l'issue le rapport d'arrivée-produits.La PNA établit le PV de réception et en transmet copie au PNLMTN.Le cas échéant, le PNLMTN peut contacter le transitaire du donateur afin de faire une notification officielle sur la base des informations contenues dans le PV (exemple des constats d'anomalies avec précision des recommandations ou conduites à tenir).Le PNLMTN a la possibilité et la responsabilité de demander des médicaments de remplacement, conformément aux exigences de la demande initiale.",
+              "Délais": "Immédiatement à la réception des produits"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 4: TRANSPORT DES MEDICAMENTS POUR LES MALADIES TROPICALES NEGLIGEES (MTN) DES ENTREPOTS MEDICAUX CENTRAUX VERS LES REGIONS, OU DES REGIONS VERS LES POINTS DE DISTRIBUTION AU NIVEAU DES DISTRICTS",
+      "texte": "I. INTRODUCTIONLe transport des médicaments, de l'étape du dédouanement jusqu'aux points de distribution, comprend de nombreuses étapes et requiert du temps et se fait généralement par voie routière, mais aussi par aérienne et maritime. Une planification et des procédures minutieuses s'avèrent nécessaires pour que des médicaments appropriés et en quantité suffisante arrivent à destination.La récupération de médicaments excédentaires dans un lieu « x » pour répondre aux besoins dans un lieu « y » (se trouvant peut-être à l'autre bout du pays) peut se révéler très onéreuse et entraîner des retards importants dans la programmation de la distribution de masse de médicaments (DMM).Il est important d'avoir bien à l'avance les informations pertinentes sur le lieu où l'on a besoin de médicaments, la quantité nécessaire et le délai de livraison.PlanificationLes principaux facteurs requis pour bien acheminer des médicaments sont, sans s'y limiter :Le budget (Frais de manutention, transport, stockage, sécurité);Une autorité compétente (Coordonnateur MTN est chargé de prendre des décisions sur la base des feuilles de route des différents programmes. Il est chargé de vérifier la conformité du chargement);La sécurité (veiller à ce que les médicaments soient transportés en toute sécurité, sans être endommagés ni volés);La documentation (Processus détaillés et des formulaires signés renvoyés à ceux qui les ont initiés, aux fins d'archivage (ce que l'on entend par « boucler la boucle »);Les conditions environnementales (Veiller à ce que les moyens de transport utilisés soient appropriés afin de préserver le chargement de tout dégât ou détérioration et d'assurer son arrivée dans un état jugé intact.II. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DU NIVEAU CENTRAL VERS LES RÉGIONS",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Première étape: Préparation du transport du niveau central vers les régions",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Planification/Coordination",
+              "Modes opératoires": "Le responsable de l'entrepôt central (PNA) en collaboration avec le pharmacien du PNLMTN soumet à la validation du coordonnateur MTN un plan de distribution des médicaments sur base des quantités arrêtées par district lors de la préparation de la commande selon les besoins pour la DMM. Ce plan contient nécessairement: la quantité de médicaments à livrer par district destinataire, regroupée par PRA ou site régional de stockage, la date, les temps de trajet approximatifs pour chaque livraison dans un entrepôt régional, tout en tenant compte des temps d'arrêt appropriés pour se reposer, de la nécessité d'éviter la conduite de nuit et du mauvais état des routes.Le PNLMTN informe les acteurs régionaux (MCR) à travers le partage du plan de distribution des médicaments;Le PNLMTN doit obtenir l'approbation du MCR en ce qui concerne le plan de distribution, le budget de transport et sécuriser le financement;La PNA informe l'entrepôt régional de la livraison prévue et vérifie avec le responsable de la PRA ou du dépôt régional la disponibilité de l'espace requis pour le stockage;Le coordonnateur national du programme MTN met à la disposition de la PNA un budget pour la mise en place des médicaments au niveau des PRA (manutention, carburant, PEC personnels, etc..).",
+              "Délais": "1 mois avant la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Regroupement/rangement des cartons dans l'entrepôt central selon la destination",
+              "Modes opératoires": "Le responsable de l'entrepôt central regroupe les cartons par lot contenant les produits en fonction des besoins quantitatifs indiqués dans le plan de distribution;Le responsable de l'entrepôt fait procéder au décompte méthodique d'abord des cartons entiers complets, ensuite des boîtes/pots/flacons dans les cartons ouverts et ceci grâce à un système de double comptage pour réduire le risque d'erreur;Il est chargé de combler les vides dans les cartons avec du matériel d'emballage pour éviter que les produits ne soient endommagés ;Le responsable du magasin de stockage veille à ce que les stocks les plus proche de la date de péremption (principe « FEFO ») et les boites déjà ouvertes soient livrés en premier ;Le responsable fait étiqueter ou mentionner au marqueur sur chaque carton ou boite la destination (PRA/Région) dans l'optique d'une deuxième vérification;Le responsable du magasin de stockage doit consigner tout produit endommagé ou périmé dans un registre d'entrepôt ou fiche de stock et le retirer du stock (cf POS 9).",
+              "Délais": "48H avant le chargement"
+            },
+            {
+              "Actions requises/Données requises": "Préparation de la logistique et des documents de transport à l'entrepôt central",
+              "Modes opératoires": "Le chef du parc logistique de la PNA doit faire procéder aux vérifications d'usage des véhicules de transport, identifier et confirmer l'identité des personnes qui auront accès au chargement pendant le transport (si elles doivent voyager dans le camion);Il communique par écrit au service administratif la liste des véhicules mobilisables pour l'activité;Le Service Administratif et Financier (SAF), s'assure de la disponibilité du personnel requis pour le chargement des camions, du budget requis et fait établir les ordres de mission;Le SAF confirme les noms des personnes qui ont accès au chargement;Le SAF s'assure que l'itinéraire laisse suffisamment de temps pour le repos et la sécurité (éviter de rouler la nuit, utiliser les voies habituelles en évitant les routes en mauvais état);Le responsable de l'entrepôt prépare les fiches de pointage et les formulaires de transport (bordereaux de livraison ou lettres de transports selon le nombre de copies requis).",
+              "Délais": "24 heures avant le chargement"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Deuxième étape: Transport du niveau central vers les régions",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Comptage et chargement des véhicules à l'entrepôt central",
+              "Modes opératoires": "Le responsable du magasin de stockage, accompagné de son équipe, procède au chargement des camions;Il supervise et guide le chargement avec un respect de l'ordre retenu lors du regroupement/rangement des lots par région;Le convoyeur vérifie le respect du principe du « premier entré, dernier sorti » en conformité avec l'itinéraire logique si plus d'une région seront servies par le même camion;Le responsable de l'entrepôt, en présence du convoyeur fait procéder au double comptage/pointage;Après avoir validé les quantités chargées, le responsable du magasin de stockage de la PNA, le convoyeur confirment le chargement en signant les bordereaux de livraison établis;Après départ du convoi, le gestionnaire de stock de la PNA, sous la supervision du responsable du magasin, met à jour la fiche de stock en renseignant la sortie et en inscrivant le nouveau solde.",
+              "Délais": "24 heures avant le chargement"
+            },
+            {
+              "Actions requises/Données requises": "Convoyage vers la PRA",
+              "Modes opératoires": "Après chargement et avant départ, le chauffeur doit veiller à la stabilité du chargement;Le chauffeur doit bien verrouiller les portes du véhicule pour prévenir le vol et les dégâts que les intempéries peuvent causer aux produits;Tout chargement, dont la livraison prend plus d'un jour, doit être sécurisé et inspecté visuellement chaque soir après l'arrêt du camion et chaque matin à son départ par le convoyeur, avec la documentation appropriée;Le chauffeur ou convoyeur doit systématiquement signaler à la PNA et au PNLMNT, par téléphone les incidents survenus en cours de route. Par la suite, le chauffeur mentionne l'incident sur le carnet de bord.",
+              "Délais": "20 jours avant DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Troisième étape: Déchargement aux PRA",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Déchargement aux PRA",
+              "Modes opératoires": "À l'arrivée, le convoyeur présente le bordereau de livraison (BL) au destinataire à chaque PRA.Sous le contrôle du pharmacien de la PRA, le convoyeur décharge selon le plan de distribution et le principe du « dernier entré, premier sorti »;Le même principe de double comptage est utilisé avec des fiches de pointage;Le responsable de la PRA fait procéder au décompte méthodique, d'abord des cartons entiers complets, ensuite des boîtes/pots/flacons dans les cartons ouverts et ceci grâce à un système de double comptage pour réduire le risque d'erreur.",
+              "Délais": "Au plus tard 18 jours avant DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Quatrième étape : Réception/confirmation livraison/stockage dans la PRA",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Réception des médicaments aux PRA",
+              "Modes opératoires": "Si la documentation est incomplète ou manquante, il doit contacter le responsable du magasin central de la PNA pour des orientations;Le pharmacien chef de la PRA doit vérifier la conformité entre le contenu du bordereau et la livraison;Après vérification, le destinataire appose sa signature et son cachet;Toute anomalie sera consignée dans le PV de réception établi par le pharmacien chef de la PRA;Le convoyeur doit recevoir et déposer à la PNA des copies signées du BL et du PV de réception, à titre de preuve de livraison et indiquer la date de livraison selon le format (jj/mm/aaaa);Au plus tard, 72 heures après réception des PV, la PNA s'organise pour réajuster les stocks le cas échéant;Le responsable du dépôt central fait la situation des livraisons (BL signés/PV de réception signé), archive toute la documentation et partage le rapport de livraison avec le programme national MTN;Le pharmacien chef de la PRA s'organise, lors de la livraison, à ranger les produits par lot, selon les districts destinataires, tels que déchargés du camion (pour faciliter plus tard l'enlèvement ou la distribution aux districts);Après rangement dans le stock, le pharmacien chef de la PRA met à jour la fiche de stock en renseignant l'entrée et en inscrivant le nouveau solde.",
+              "Délais": "Au plus tard 18 jours avant DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "III. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES RÉGIONS JUSQU'AUX DISTRICTS - Première étape : Préparation",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Planification/Coordination régionale",
+              "Modes opératoires": "Dès réception des médicaments, le pharmacien chef de la PRA en accord avec le MCR, transmet aux districts, par courrier, le plan de répartition et les informe de la disponibilité des médicaments et de la date de distribution;Le MCD doit prendre en compte dans la micro planification du budget les paramètres suivants: livraison, réception, mise en place au niveau des points de prestations de service (PPS) des médicaments.",
+              "Délais": "Au plus tard 15 jours avant DMM"
+            },
+            {
+              "Actions requises/Données requises": "Contrôle des lots selon le district",
+              "Modes opératoires": "Le pharmacien chef de la PRA vérifie une dernière fois le rangement des lots par district sur la base de l'étiquetage et la conformité des quantités ;Le pharmacien chef de la PRA prépare les documents de livraison par district.",
+              "Délais": "48 heures avant la livraison"
+            },
+            {
+              "Actions requises/Données requises": "Préparation de la logistique à la PRA",
+              "Modes opératoires": "Le pharmacien chef de la PRA vérifie avec le chauffeur la disponibilité, la fonctionnalité des véhicules et la disponibilité des ressources pour prendre en charge les opérations de livraison aux dépôts de districts;",
+              "Délais": "24 heures avant la livraison"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "III. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES RÉGIONS JUSQU'AUX DISTRICTS - Deuxième étape: Transfert aux districts",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Comptage et chargement à la PRA",
+              "Modes opératoires": "Le pharmacien de la PRA, accompagné de son équipe, procède au chargement des camions;Il supervise et guide le chargement avec un respect de l'ordre retenu lors du regroupement/rangement des lots par région;Le convoyeur vérifie le respect du principe du « premier entré, dernier sorti » en conformité avec l'itinéraire logique si plus d'une région seront servies par le même camion;Le pharmacien de la PRA, en présence du convoyeur fait procéder au double comptage/pointage;Après avoir validé les quantités chargées, le pharmacien de la PRA et le convoyeur confirment le chargement en signant les bordereaux de livraison établis;Après départ du convoi, le gestionnaire de stock de la PRA, sous la supervision du pharmacien de la PRA, met à jour la fiche de stock en renseignant la sortie et en inscrivant le nouveau solde.",
+              "Délais": "Au plus tard 13 jours avant DMM"
+            },
+            {
+              "Actions requises/Données requises": "Convoyage vers le district",
+              "Modes opératoires": "Après chargement et avant départ, le chauffeur doit veiller à la stabilité du chargement;Le chauffeur doit bien verrouiller les portes du véhicule pour prévenir le vol et les dégâts que les intempéries peuvent causer aux produits;Tout chargement, dont la livraison prend plus d'un jour, doit être sécurisé et inspecté visuellement chaque soir après l'arrêt du camion et chaque matin à son départ par le convoyeur, avec la documentation appropriée;Le chauffeur ou convoyeur doit systématiquement signaler à la PRA et au point focal du PNLMNT, par téléphone les incidents survenus en cours de route. Par la suite, le chauffeur mentionne l'incident sur le carnet de bord.",
+              "Délais": "Au plus tard 13 jours avant la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "III. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES RÉGIONS JUSQU'AUX DISTRICTS - Troisième étape: Déchargement et réception au dépôt de district",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Déchargement au dépôt de district",
+              "Modes opératoires": "À l'arrivée, le chauffeur/convoyeur de la PRA présente le bordereau de livraison au pharmacien/dépositaire de district;Le pharmacien/dépositaire de district contrôle lui-même le déchargement et vérifie la conformité entre les quantités inscrites sur le BL et les quantités livrées.",
+              "Délais": "Au plus tard 13 jours avant la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Réception et confirmation livraison",
+              "Modes opératoires": "Si la documentation est incomplète ou manquante, ou s'il y'a différence entre le BL et les quantités physiques, le convoyeur contacte le pharmacien chef de la PRA pour des orientations;Après vérification conforme, le pharmacien/dépositaire de district range le stock dans le dépôt, renseigne ses outils (fiche de stock, registre d'entrepôt) et archive toute la documentation.",
+              "Délais": "Au plus tard 13 jours avant la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "IV. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES DISTRICTS JUSQU'AUX POINTS DE PRESTATION DES SOINS - Première étape : Préparation au dépôt de district",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Planification/Coordination District",
+              "Modes opératoires": "5 Jours avant le démarrage de la DMM, le MCD doit assurer la mise en place des médicaments au niveau des PPS;Le MCD doit s'assurer que le responsable du dépôt du district est informé de la livraison prévue et que le dépôt dispose d'un espace de stockage. Consulter les modes opératoires normalisés concernant le « stockage » ;Le MCD doit se baser sur la micro planification de la DMM pour élaborer un plan de distribution par PPS;Le MCD doit partager le plan de répartition des médicaments avec le responsable du dépôt de district et informer les ICP sur le calendrier de passage.Le responsable du dépôt doit établir les BL par PPS;Ce plan devrait inclure les temps de trajet approximatifs pour chaque livraison de niveau district en tenant parallèlement compte des temps d'arrêt appropriés pour se reposer, de la nécessité d'éviter la conduite de nuit et utiliser les voies de circulation habituelles.Obtenir l'approbation nécessaire du MCD en ce qui concerne le plan de distribution et le budget du transport",
+              "Délais": "5 Jours avant le démarrage de la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Contrôle des lots selon le PPS",
+              "Modes opératoires": "48 heures avant la date de livraison retenue pour les PPS, le MCD ou le point focal MTN du district fait vérifier, en présence du dépositaire, le rangement des lots par PPS.Le responsable du dépôt doit indiquer clairement le nombre de boîtes de chaque type de médicaments acheminés vers chaque PPS.Le responsable du dépôt détermine le nombre total de cartons ou de boîtes à livrer à chaque PPS et remplit les bordereaux de livraison:s'assurer que des bordereaux sont établis pour chaque PPS;déterminer le nombre total de cartons/boites à livrer à chaque PPS;s'assurer que les bordereaux sont apprêtés pour chaque personne désignée au niveau PPS;24 heures avant l'acheminement vers les PPS, le responsable du dépôt regroupe les cartons/boites contenant les produits en fonction des besoins en quantité figurant dans le plan de distribution;le responsable du dépôt doit étiqueter ou mentionner avec un marqueur chaque carton/boite selon le PPS de destination dans l'optique d'une deuxième vérification;le responsable du dépôt doit s'assurer que les stocks les plus anciens et déjà ouverts sont classés en premier. Consulter à cet effet les modes opératoires normalisés sur le principe du « premier périmé, premier sorti » (« FEFO »);Tout produit endommagé ou périmé devrait être consigné dans un registre et retiré du stock. Voir les modes opératoires normalisés sur la « gestion des déchets ».",
+              "Délais": "48 heures avant la date de livraison"
+            },
+            {
+              "Actions requises/Données requises": "Préparation de la logistique pour la livraison aux PPS",
+              "Modes opératoires": "Le MCD doit veiller à ce que les moyens de transport répondent aux normes acceptables de transport de médicaments contre les MTN (par exemple, état de fonctionnement, protection appropriée contre les intempéries).24 heures avant livraison, MCD ou le point focal MTN vérifie avec leur gestionnaire et chauffeurs la disponibilité, la fonctionnalité de leurs véhicules et la disponibilité des ressources pour prendre en charge la livraison aux PPS;",
+              "Délais": "48 heures avant la date de livraison"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "IV. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES DISTRICTS JUSQU'AUX POINTS DE PRESTATION DES SOINS - Deuxième étape : Enlèvement et transport aux PPS",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Comptage et chargement des produits au dépôt de district",
+              "Modes opératoires": "Le pharmacien du district ou dépositaire, en présence du point focal MTN et du chauffeur/convoyeur, procède au double comptage/pointage;Le pharmacien responsable du dépôt district fait procéder au chargement avec l'aide des manutentionnaires. Il supervise le chargement et contrôle lui-même le respect du principe « premier entré, dernier sorti », en conformité avec l'itinéraire logique selon la localisation des PPS;Le pharmacien ou dépositaire du DS vérifie la conformité entre les quantités comptées et celles inscrites sur les BL par PPS;Après avoir validé les quantités chargées, le Le pharmacien ou dépositaire du DS remplit le bordereau de livraison avant le départ du chargement;Le pharmacien ou dépositaire du DS confirme le chargement en signant et cachetant (avec cachet district) les copies requises du bordereau de livraison, récupère son exemplaire et laisse les autres au convoyeur.Le pharmacien ou dépositaire du DS du district met à jour la fiche de stock, en renseignant les sorties par PPS, recalculant le stock et en inscrivant le nouveau solde.",
+              "Délais": "10 à 5 jours avant DMM"
+            },
+            {
+              "Actions requises/Données requises": "Convoyage vers les PPS",
+              "Modes opératoires": "Après chargement et avant départ, le chauffeur du véhicule du district doit veiller à la stabilité de le chargement (au moyen de palettes et de sangles);Le pharmacien ou dépositaire du DS doit bien verrouiller les portes du véhicule pour prévenir le vol et les dégâts que les intempéries peuvent causer aux produits.Le pharmacien ou dépositaire du DS doit respecter l'itinéraire et les consignes de sécurité indiquées par le responsable du dépôt du district.Tout chargement dont la livraison prend plus d'un jour doit être sécurisé et inspecté visuellement chaque soir après l'arrêt de la logistique adapté et chaque matin à son départ par le convoyeur ou chauffeur, avec la documentation appropriée.Le pharmacien ou dépositaire du DS doit systématiquement signaler au MCD et aux autorités administratives de la zone, par téléphone les incidents survenus en cours de route. Par la suite, il mentionne l'incident sur le carnet de bord;",
+              "Délais": "10 à 5 jours avant DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "IV. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES DISTRICTS JUSQU'AUX POINTS DE PRESTATION DES SOINS - Troisième étape: Déchargement au dépôt du PPS",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Déchargement au dépôt du PPS",
+              "Modes opératoires": "A l'arrivée, le convoyeur décharge conformément au plan de distribution, en appliquant le principe du « premier entré, dernier sorti »Le convoyeur doit présenter le bordereau de livraison à l'ICP de chaque PPS. Ces documents doivent indiquer le titre, le nom, la signature et la date, selon le format (jj/mm/aaaa);Le responsable de la structure avec l'appui du dépositaire doit inspecter et compter les cartons ou boites scellés et non scellés, puis signer le BL préparé (Se référer à cet effet aux modes opératoires normalisés concernant la « gestion des stocks »);Le responsable du PPS contrôle ou délègue le contrôle du déchargement et vérifie la conformité entre les quantités inscrites sur le BL et les quantités déchargées ;Le responsable du dépôt du PPS doit aménager un lieu indiqué pour l'entreposage des médicaments jusqu'au démarrage de la campagne DMM (consulter les modes opératoires normalisés sur le « stockage » et le principe du « premier périmé, premier sorti »);Le cas échéant, le budget pour la prise en charge des manutentionnaires chargés du déchargement devra être prévu (disponible avec le gestionnaire du DS ou le responsable du PPS).Tout produit endommagé ou périmé doit être inventorié et consigné dans un registre et retourné au district. Voir les modes opératoires normalisés sur la « gestion des déchets ».",
+              "Délais": "5 jours avant DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "IV. MODES OPERATOIRES NORMALISES SUR LE TRANSPORT DES DISTRICTS JUSQU'AUX POINTS DE PRESTATION DES SOINS - Quatrième étape : Réception et confirmation livraison",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Réception et confirmation livraison au PPS",
+              "Modes opératoires": "Après vérification de la conformité, le dépositaire signe le BL, range le stock dans un endroit sécurisé. et renseigne ses outils (fiche de stock);Le responsable de la structure doit vérifier la documentation. En cas d'anomalie, il la notifie (téléphone ou mail) au responsable du dépôt du DS et au MCD. L'anomalie sera consignée dans le PV de réception établi par la commission de réceptionLe dépositaire du PPS met à jour la fiche de stock, en renseignant l'entrée et en inscrivant le nouveau solde.Le convoyeur doit remettre au responsable du dépôt de district une copie du BL signé à titre de preuve de livraison.Le MCD partage le rapport de livraison en annexant les BLs aux MCR, PRA.",
+              "Délais": "5 jours avant DMM"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 5: GESTION DES STOCKS DE MÉDICAMENTS DESTINÉS AU TRAITEMENT DES MALADIES TROPICALES NÉGLIGÉES (MTN)",
+      "texte": "I. MODES OPERATOIRES SUR LE STOCKAGE DES MEDICAMENTS",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Première étape: Aménagement du local de stockage",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Maintien des conditions normales pour le local de stockage",
+              "Modes opératoires": "L'espace de stockage doit être suffisant pour stocker les quantités requises avant l'arrivée des médicaments.Les responsables de programme, de la PNA, des PRA ou dépôts de district doivent s'assurer que l'espace disponible pour le stockage peut contenir les volumes de médicaments en respectant les distances requises:piles au moins à 10 centimètres du sol ;piles au moins à 30 centimètres des murs ou d'autres piles de produits pharmaceutiques;piles ne dépassant pas 2,5 mètres de haut.être propre et bien entretenu (les responsables des locaux doivent quotidiennement faire balayer et dépoussiérer le local de stockage pour un maintien des conditions minimales d'hygiène et de salubrité);être aéré et sec (les responsables des locaux maintiennent quotidiennement aérés et secs les espaces de stockage pour ne pas exposer les médicaments à des températures importantes (maximum de 25 à 30°C) et aussi éviter que l'humidité altère la qualité des produits);Assurer la disponibilité et la fonctionnalité des appareils de mesure de la température et de l'humidité;Mettre à jour les feuilles de température et humidité;être sécurisé, les responsables des stocks doivent :*limiter l'accès au local et ainsi éviter les risques de vol,* identifier une liste d'agents seuls autorisés à entrer dans les locaux et à être en contact avec les stocks;*limiter le nombre de clés de l'installation de stockage et conserver une liste des personnes détentrices des clés,*garantir l'intégrité et la sécurité de l'accès des locaux grâce à l'installation de portes, fenêtres avec barreaux métalliques et cadenas adaptés;*équiper les locaux avec des extincteurs en état ou des bacs de sable pour lutter contre les incendies,être bien organisé :Les responsables des locaux doivent équiper les locaux de dispositifs ou meubles de rangement adaptés selon les formes et les volumes des produits, ceci pour permettre un bon rangement des médicaments et pour les retrouver plus facilement au moment de la livraison/distribution.",
+              "Délais": "Un mois avant la réception des médicaments"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Deuxième étape: Stockage des produits",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Normes de stockage/ conservation des stocks",
+              "Modes opératoires": "En règle générale, tous les médicaments utilisables doivent être conservés:au moins à 10 centimètres du sol;au moins à 30 centimètres des murs ou d'autres piles de produits pharmaceutiques;en piles ne dépassant pas 2,5 mètres de haut (en laissant un espace entre la dernière pile et le plafond).Stocker les différents médicaments et les différentes formes du même médicament dans des piles séparées (par exemple, séparez les comprimés des formules pédiatriques).Ne pas mettre ensemble des cartons ouverts de médicaments ayant des numéros de lot différents.Conserver les médicaments de manière à faciliter le principe de distribution « premier périmé, premier sorti » (se référer aux procédures opérationnelles standard relatives au principe « FEFO/FIFO »). En d'autres termes, le médicament dont la date de péremption est la plus proche doit être utilisé en premier.Après chaque sortie ou réception de médicaments, toutes les piles doivent être réorganisées pour maintenir l'ordre « premier périmé, premier sorti ou premier entré en stock, premier sorti (FEFO/FIFO) comme décrit ci-dessus.Disposer les cartons de manière à ce que les étiquettes d'identification et les dates de péremption soient visibles.Les médicaments ne doivent pas être exposés directement à la lumière du soleil.Séparer les médicaments endommagés ou périmés des médicaments pouvant être utilisés. Marquer clairement l'inscription suivante sur les médicaments endommagés ou périmés: « NE PAS UTILISER - Produits endommagés ou périmés » (voir la section sur la gestion des médicaments endommagés ou périmés).",
+              "Délais": "Pendant toute la durée de stockage"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "II. MODES OPERATOIRES NORMALISES SUR LA REALISATION DE L'INVENTAIRE PHYSIQUE",
+          "colonnes": [
+            "Rubrique",
+            "Description"
+          ],
+          "lignes": [
+            {
+              "Rubrique": "Rempli par",
+              "Description": "Le coordonnateur du programme national, le gestionnaire de la chaîne d'approvisionnement, les points focaux de district ou les superviseurs de l'équipe de distribution communautaire."
+            },
+            {
+              "Rubrique": "Objectif",
+              "Description": "Dénombrer les quantités de stock utilisables disponibles pour la distribution.Mettre en relief les disparités entre les approvisionnements réels et les soldes de stock portés sur la fiche de stock.Détecter les produits endommagés ou périmés. Détecter les écarts de stock ou le détournement."
+            },
+            {
+              "Rubrique": "Quand intervenir",
+              "Description": "Au moins une fois par an.Avant d'établir une nouvelle commande.Immédiatement après la campagne d'administration massive de médicaments (DMM). Chaque fois que des écarts sont constatés dans le stock disponible et utilisable."
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Inventaire des stocks : Processus étape par étape",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Planification de l'inventaire",
+              "Modes opératoires": "A tous les niveaux de stockage (PNA, PRA, Dépôt district, Dépôt PPS), le responsable de la structure planifie la réalisation de l'inventaire en précisant la date, le lieu et l'heure.Un inventaire physique est fait au moins une fois par an, avant et après chaque campagne de DMM, mais aussi avant la commande de nouveaux produits pour renseigner les formulaires JAP;Le responsable identifie et informe, dans les délais, les agents impliqués dans l'inventaire (deux (2) personnes au moins sont requises pour cet exercice);Pour éviter un conflit d'intérêts, la personne en charge du stock ne doit pas participer au processus de comptage, mais doit être disponible sur le site pour aider à identifier les stocks;Le pharmacien responsable de la PNA en coordination avec le pharmacien responsable des médicaments du programme, prépare ou fait préparer les documents, outils nécessaires à l'exercice d'inventaire et prend ou fait prendre les dispositions logistiques et financières (le cas échéant) pour la réalisation de l'inventaire.",
+              "Délais": "2 mois avant DMM / Au plus tard 1 mois après DMM"
+            },
+            {
+              "Actions requises/Données requises": "Rangement/ regroupement des produits",
+              "Modes opératoires": "Disposer les médicaments selon la date de péremption et la date d'arrivée (FEFO/FIFO), en entreposant les médicaments plus anciens à l'avant et les médicaments les plus récents à l'arrière.Tous les flacons partiellement utilisés doivent être séparés des flacons non ouverts.Séparer les médicaments endommagés ou périmés des stocks utilisables.regrouper les flacons selon leur date de péremption pour faciliter le comptage.",
+              "Délais": "Lors des inventaires physiques"
+            },
+            {
+              "Actions requises/Données requises": "Comptage des produits",
+              "Modes opératoires": "Une équipe d'au moins deux personnes est chargée de l'inventaire physique d'une installation définie de stockage.Le comptage est réalisé dans un seul emplacement à la fois et les produits sont enregistrés séparément par groupe de dates d'expiration. Une personne doit compter et l'autre doit renseigner le formulaire d'inventaire/fiche de stock.Séparer et compter tout médicament périmé ou endommagé :Enregistrer la quantité de produits endommagés ou périmés dans la colonne « Pertes/ajustements » du formulaire d'inventaire/fiche de stock.Donner les causes de la péremption ou des dommages dans la colonne observation;Compter d'abord les cartons scellés/complets. Multiplier le nombre de cartons par le nombre de boites permettra de déterminer la quantité réelle en stock;Compter le nombre de boites dans les cartons ouverts;Compter toutes les boîtes de comprimés ouvertes et divisez le nombre total de boîtes ouvertes par deux. Cela vous donnera une estimation des boîtes pleines à partir du stock combiné de boîtes ouvertes en stockNe pas mélanger et ne pas compléter les boîtes ouvertes en une seule.Marquer clairement la date de péremption, avec de grands chiffres foncés sur le devant de chaque boîte.Réorganiser les cartons selon les dates d'expiration suivant le principe de distribution FEFO/FIFO, les médicaments plus anciens à l'avant et les médicaments plus récents à l'arrière.Veiller à ce que les boîtes ouvertes sortent en premier lors du prochain cycle de la campagne DMM.",
+              "Délais": "Lors des inventaires physiques"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "III. MODES OPERATOIRES NORMALISES SUR LA SORTIE DE MEDICAMENTS DE L'ENTREPOT",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Enlèvement au niveau de la PNA",
+              "Modes opératoires": "Niveau central (cf POS 4 transport section Central vers PRA)",
+              "Délais": "1 mois avant la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Enlèvement au niveau des PRA",
+              "Modes opératoires": "Niveau régional (cf POS 4 transport section PRA vers DS)",
+              "Délais": "15 jours avant la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Enlèvement au niveau du district",
+              "Modes opératoires": "Niveau district sanitaire (cf POS 4 transport section DS vers PPS)",
+              "Délais": "5 à 7 jours avant la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Dotation par équipe/village",
+              "Modes opératoires": "Niveau communautaire:Infirmier-Chef de poste: établit le bon de sortie par village conformément à la clé de répartition et l'envoie au responsable du dépôt du Poste.Dépositaire du Poste de santé: il prépare les lots par village conformément à la clé de répartition, prépare pour chaque village un bordereau de livraison ou bon de transfert (à faire signer par les chefs d'équipe). Il délivre aux chefs d'équipes des villages les médicaments 48 heures avant le début de la campagne, renseigne sa fiche de stock en mentionnant les différentes sorties par village, en recalculant le stock et en inscrivant le nouveau solde.",
+              "Délais": "48H avant la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "IV. MODES OPERATOIRES NORMALISES SUR LA GESTION DES MEDICAMENTS A DATE DE PEREMPTION PROCHE",
+          "colonnes": [
+            "Durée de conservation restante",
+            "Mesures à prendre avant la DMM",
+            "Mesures à prendre pendant et après la DMM"
+          ],
+          "lignes": [
+            {
+              "Durée de conservation restante": "Moins de 12 mois (Catégorie A - Action prioritaire requise)",
+              "Mesures à prendre avant la DMM": "Sur la base de la feuille de route, le Coordonnateur du programme identifie les districts à traiter, informe les régions de la stratégie de traitement.Le pharmacien responsable de la PRA regroupe au niveau de la PRA tous les médicaments restants de la campagne de DMM précédente après collecte auprès des districts.Sépare des autres stocks le lot qui doit expirer.Utiliser tous les produits de ce lot en premier lors de la prochaine campagne de DMM.Pour une meilleure application de ces procédures, le PNLMTN convoque une commission spéciale, composée des parties prenantes. Celle-ci prendra les mesures idoines en fonction de la durée de vie restante du médicament.",
+              "Mesures à prendre pendant et après la DMM": "Acteurs:Coordonnateur du programme: traite l'information émanant du niveau opérationnel concernant les districts en rupture de médicaments ou en manque de produits et donne des directives sur le redéploiement des stocks disponibles tout en priorisant les médicaments en date de péremption proche (catégorie A).Pharmacien responsable du programme: il travaille en coordination avec le pharmacien responsable de la PRA et les autres acteurs du niveau opérationnel pour l'inventaire du stock restant et séparer selon la date de péremption.Pharmacien responsable du programme: il travaille en coordination avec le coordinateur du programme pour satisfaire les besoins exprimés par le niveau opérationnel.Niveau régional - Région médicale (PF/MCR): il reçoit l'expression de besoin du district et le transmet au niveau central.Niveau district - Point focal/MCD: fait une expression de besoins qu'il envoie au point focal de la région médicale.Rechercher des possibilités d'utiliser les médicaments dans d'autres districts/zones où la distribution n'a pas encore commencé ou s'est achevée.Si une telle utilisation n'est pas possible, signaler immédiatement la quantité en renseignant sur le formulaire le nombre de flacons, le lot, ou encore la date de péremption, puis soumettre le formulaire rempli au coordonnateur du programme de lutte contre les MTN ou à son mandataire.Si une grande quantité de ce stock est présente dans le pays (plus de 1000 boites), il faut le signaler immédiatement à l'OMS. Dans le cas de Zithromax, il convient aussi de le signaler à l'ITI."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "V. MODES OPERATOIRES NORMALISES SUR LA GESTION DES MEDICAMENTS ENDOMMAGES OU PERIMES",
+      "texte": "(voir les modes opératoires normalisés sur le « retrait des médicaments périmés/inutilisables » et sur la « gestion des déchets »)1. Les médicaments endommagés ou périmés ne doivent en aucun cas être administrés à des patients. Ceci s'applique aux cas suivants :2. Le médicament est périmé ou endommagé (par exemple, feuilleté, cassé).3. Les flacons ou les boites contenant le médicament sont endommagés (par exemple, le flacon ou la boite est percé(e) ou n'est plus étanche).4. Les flacons de médicament qui n'ont pas de date de péremption ou dont l'étiquette est illisible.5. Si un médicament est trouvé dans l'un des états énumérés ci-dessus ou dans un tout autre état connexe suggérant que ce médicament peut être soit endommagé, soit expiré, il faut en aviser immédiatement le coordonnateur du programme national.",
+      "tableaux": [],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 6: STOCKAGE DES MÉDICAMENTS POUR LE TRAITEMENT DES MALADIES TROPICALES NÉGLIGÉES (MTN) À CHIMIOTHERAPIE PRÉVENTIVE",
+      "texte": "I. INTRODUCTIONL'arrivée à l'entrepôt central ou régional des médicaments pour les MTN est un aspect essentiel de la gestion de la chaîne d'approvisionnement en médicaments des MTN. Elle constitue la première étape du processus permettant d'assurer la gestion efficace et efficiente d'une distribution de masse de médicaments (DMM). L'acheminement rapide et sûr des médicaments, à partir de leur arrivée à l'entrepôt approprié, permet de faire en sorte que les médicaments conservent un niveau de qualité élevé jusqu'au moment où ils seront distribués dans le cadre d'une DMM. Il importe également de protéger les stocks contre les pertes, les vols et le gaspillage. Une gestion efficace de l'information est la clé à actionner pour atteindre ces objectifs.Il convient d'élaborer et d'appliquer des méthodes adéquates pour que les conditions d'entreposage appropriées soient remplies. Les médicaments des MTN doivent être stockés dans des conditions qui permettent de préserver l'innocuité de ces produits et leur valeur. Il est indiqué de prendre des précautions contre les effets de la température, de l'humidité, de la chaleur et de la lumière.II. MODES OPERATOIRES SUR LE STOCKAGE DES MEDICAMENTS",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Fiche de rôle et responsabilités pour le stockage central",
+          "colonnes": [
+            "Niveau",
+            "Partie responsable",
+            "Niveau d'autorité requis"
+          ],
+          "lignes": [
+            {
+              "Niveau": "Exécuté par",
+              "Partie responsable": "Le Coordonnateur du programme national ou le responsable de la chaine d'approvisionnement des médicaments MTN est chargé de réceptionner les médicaments. La PNA est chargée du stockage des médicaments au dépôt central",
+              "Niveau d'autorité requis": "Pouvoir de signature pour réceptionner les médicaments auprès de l'agent de dédouanement.Pouvoir de signature pour l'enlèvement des médicaments soit en vue de leur distribution aux sites sur le terrain, soit aux fins de destruction."
+            },
+            {
+              "Niveau": "But",
+              "Partie responsable": "Réceptionner les médicaments ou produits de diagnostic reçus en donation ou achetés.Stocker les médicaments ou les produits de diagnostics en lieu sûr jusqu'à ce que les équipes de distribution sur le terrain en aient besoin.Allouer et transmettre les quantités de médicaments ou de produits de diagnostic qu'il faut aux points de distribution.Réceptionner les médicaments ou produits de diagnostic restants dans l'entrepôt après la DMM ou post-enquête d'évaluation.",
+              "Niveau d'autorité requis": "N/A"
+            },
+            {
+              "Niveau": "Moment d'exécution",
+              "Partie responsable": "Avant la réception de nouveaux médicaments.À la réception de nouveaux médicaments.Après la DMM ou post-enquête d'évaluation si les stocks sont renvoyés au niveau central",
+              "Niveau d'autorité requis": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Première étape: Stockage au niveau de la PNA",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Préparation arrivée des médicaments ou produits de diagnostic",
+              "Modes opératoires": "POS Dédouanement/Livraison; Etape Réception des médicaments à la PNA",
+              "Délais": "24H avant l'enlèvement des médicaments aux ports/aéroport"
+            },
+            {
+              "Actions requises/Données requises": "Inspection/Comptage",
+              "Modes opératoires": "Procéder à la réception quantitative et qualitative des produitsSigner les BL,Renseigner le document de constat d'anomalies;Etablir le PV de réception;Transmettre des copies au PNLMTN/archiver les copies des documents à la PNA;",
+              "Délais": "Lors de la réception des produits"
+            },
+            {
+              "Actions requises/Données requises": "Réception",
+              "Modes opératoires": "En cas de livraison de quantités excédentaires, le PNLMTN informe le transitaire du fournisseur pour qu'il vienne reprendre la marchandise excédentaire sous huitaine.Le transitaire informe à son tour le fournisseur qui devra émettre une nouvelle facture conforme;Le cas échéant, le PNLMTN peut faire part au donateur de sa volonté de garder le stock excédentaire. Dans ce cas il engage des négociations avec le donateur pour en fixer les conditions.",
+              "Délais": "Dans les 24H suivant l'enlèvement des médicaments aux ports/aéroport"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Deuxième étape: Contrôle de la qualité et des conditions de stockage",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Contrôle qualité des médicaments (BPD)*",
+              "Modes opératoires": "Se conformer au protocole pour l'évaluation de la qualité des lots de médicaments (mise en quarantaine, prélèvement des échantillons pour un contrôle qualité au niveau du laboratoire national de contrôle des médicaments. Les frais liés au contrôle sont pris en charge par le PNLMTN.La PNA, en collaboration avec le LNCM, documente les activités et résultats du CQ, prépare et soumet le rapport à l'attention du partenaire et du programme national de lutte contre les MTN.",
+              "Délais": "48H après réception des produits"
+            },
+            {
+              "Actions requises/Données requises": "Rangement (CF POS Gestion des Stock)",
+              "Modes opératoires": "Le gestionnaire du stock de la PNA organise les cartons ou les boîtes selon les dates de péremption en respectant le principe de distribution selon le principe « FEFO ». (En cas de stockage de cartons ouvert);La PNA distribue les bouteilles ouvertes en premier lors de la prochaine campagne de DMM.",
+              "Délais": "Après réception et lors de la livraison"
+            },
+            {
+              "Actions requises/Données requises": "Surveillance des conditions de stockages (CF POS Gestion des Stock)",
+              "Modes opératoires": "Le gestionnaire de stock de la PNA procède à une surveillance quotidienne pour maintenir le contrôle de la température matin et soir, la sécurité et veille à ce que les boîtes restent bien empilées.Il consigne les résultats de la surveillance sur une fiche de la température",
+              "Délais": "Tous les jours"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "III. MODES OPERATOIRES NORMALISES SUR LE STOCKAGE AU NIVEAU RÉGIONAL OU AU NIVEAU DISTRICT",
+          "colonnes": [
+            "Rubrique",
+            "Description"
+          ],
+          "lignes": [
+            {
+              "Rubrique": "Exécuté par",
+              "Description": "Le MCR ou le PF/MTN de la région et la PRA réceptionnent et stockent les médicaments et produits de diagnostic au dépôt régional. Le MCD/PF MTN district et le responsable dépôt district réceptionnent et stockent les médicaments et produits de diagnostic au dépôt district"
+            },
+            {
+              "Rubrique": "Niveau d'autorité requis",
+              "Description": "Pouvoir de signature pour réceptionner les médicaments auprès des superviseurs de la santé, des responsables de la santé au niveau district, etc.Pouvoir de signature pour l'enlèvement des médicaments soit pour les distribuer à d'autres sites sur le terrain, soit pour les détruire."
+            },
+            {
+              "Rubrique": "But",
+              "Description": "Réceptionner les médicaments ou produits de diagnostic reçus en donation ou achetés.Stocker les médicaments ou les produits de diagnostics en lieu sûr jusqu'à ce que les équipes de distribution sur le terrain en aient besoin.Allouer et transmettre les quantités de médicaments ou de produits de diagnostic qu'il faut aux points de distribution.Réceptionner les médicaments ou produits de diagnostic restants dans l'entrepôt après la DMM ou post-enquête d'évaluation."
+            },
+            {
+              "Rubrique": "Moment d'exécution",
+              "Description": "À la réception de nouveaux médicaments.Après la DMM, si les stocks sont renvoyés au niveau régional ou district."
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Stockage, contrôle de la qualité et des conditions de stockage (Niveau Régional et District)",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Préparation arrivée des médicaments ou produits de diagnostic",
+              "Modes opératoires": "Le pharmacien de la PRA/DS ou le dépositaire de district, s'assure de la disponibilité de l'espace et des palettes, ainsi que des registres ou fiches de stock nécessaires.Le pharmacien de la PRA/DS ou le dépositaire de district, assure la liaison avec le point focal MTN et vérifie régulièrement l'état d'avancement de la livraison et le moment où elle est prévue,Le responsable de la PRA coordonne l'acheminement jusqu'au dépôt district avec le MCR / PF MTN, la PRA doit acheminer les produits au niveau des districts.Le pharmacien de la PRA/DS ou le dépositaire de district, s'assure de la disponibilité du personnel pour décharger les produits et entreposer le stock. La PRA est chargée de la prise en charge des frais liés à la manutention et au stockage des médicaments et produits de diagnostic.Le pharmacien de la PRA/DS ou le dépositaire de district identifie ou confirme les noms des personnes qui auront accès au stock.",
+              "Délais": "1 mois avant DMM"
+            },
+            {
+              "Actions requises/Données requises": "Inspection/ Comptage / Réception",
+              "Modes opératoires": "Procéder à la réception quantitative et qualitative des produitsSigner les BL, Renseigner le document de constat d'anomalies;Etablir le PV de réception;Transmettre des copies au PNLMTN/archiver les copies des documents;En cas de livraison de quantités excédentaires, le pharmacien de la PRA/DS ou le dépositaire de district retourne le surplus au convoyeur/livreur ;",
+              "Délais": "Lors de la réception / livraison des produits"
+            },
+            {
+              "Actions requises/Données requises": "Rangement à tous les niveaux",
+              "Modes opératoires": "Le responsable du stock fait un tri selon le type de médicament, puis par lot et par date de péremption, en déplaçant les bouteilles plus anciennes déjà en stock vers l'avant de l'étagère de stockage (se référer aux modes opératoires normalisés concernant le principe « FEFO »).Le responsable du stock écrit clairement la date d'expiration en grands caractères foncés sur toutes les faces de chaque carton ou boîte et veille que les inscriptions soient visibles sur toutes les faces des boites.Le responsable du stock s'assure que les médicaments soient conservés au frais, au sec, à l'abri de la lumière directe et à une hauteur appropriée pour faciliter l'accès et éviter tout dommage. Se référer aux modes opératoires normalisés concernant la gestion des stocks.Le responsable du stock remplit les fiches de stock, le cas échéant.Le responsable du stock inscrit sur toutes les bouteilles restantes la mention « ouverte le jj/mm/aaaa » avec les initiales de la personne faisant le marquage.Le responsable du stock veille à ce que les boîtes ouvertes soient distribuées en premier lors du prochain tour de la DMM.",
+              "Délais": "Après réception et lors de la livraison"
+            },
+            {
+              "Actions requises/Données requises": "Monitorage de la température et de l'humidité",
+              "Modes opératoires": "Le responsable du local de stockage fait le monitorage quotidien (matin et soir) de la température et de l'humidité, veille à la sécurité et s'assure que les boîtes demeurent bien empilées.Le responsable du local de stockage consigne les résultats de la surveillance de la température et de l'humidité sur une fiche appropriée.",
+              "Délais": "Tous les jours"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 7: MÉTHODE DE GESTION SELON LE PRINCIPE DU « PREMIER PÉRIMÉ, PREMIER SORTI » (FEFO)",
+      "texte": "I. INTRODUCTIONL'un des meilleurs moyens d'améliorer la gestion de la durée de conservation des médicaments dans une installation de stockage consiste à classer et à distribuer ces médicaments en fonction de leur date de péremption et non suivant leur date d'arrivée à l'entrepôt.Le principe du « premier périmé, premier sorti » (FEFO) consiste à gérer les médicaments d'une installation de stockage selon leur date de péremption, afin d'optimiser leur emploi. Autrement dit, les médicaments dont la date de péremption est la plus proche sont utilisés en premier, peu importe la date à laquelle ils ont été réceptionnés à l'entrepôt. Le « E » en anglais réfère à la date de péremption du produit, qui est fixée par le fabricant. Le principe FEFO est une pratique sûre et largement utilisée.Il s'agit là d'un principe de gestion qui permet de réduire au minimum le risque de perte causé par la péremption, en veillant à ce que les stocks plus anciens soient épuisés en premier. Une gestion appropriée selon le principe FEFO aide aussi à réduire l'exposition des médicaments à des conditions extrêmes (à des températures élevées par exemple) et à préserver autant que possible l'activité des médicaments.Pour une bonne application du principe FEFO, les flacons et les cartons doivent porter des étiquettes indiquant clairement leurs numéros de lot et leurs dates de péremption.II. MODES OPERATOIRES SUR LE RENFORCEMENT DE LA VISIBILITÉ DES DATES DE PÉREMPTION",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Fiche technique FEFO",
+          "colonnes": [
+            "Axe",
+            "Description"
+          ],
+          "lignes": [
+            {
+              "Axe": "Tâche",
+              "Description": "Gérer et distribuer les médicaments selon la méthode de gestion fondée sur le principe FEFO"
+            },
+            {
+              "Axe": "Renseigné par",
+              "Description": "Le pharmacien responsable de l'entrepôt, le technicien en pharmacie ou les gestionnaires des entrepôts et dépôts médicaux, à tous les niveaux (central, régional, district et PPS)."
+            },
+            {
+              "Axe": "But",
+              "Description": "Veiller à ce que le médicament soit distribué avant sa date de péremption.Veiller à ce que la priorité soit donnée aux médicaments dont la date de péremption est la plus proche."
+            },
+            {
+              "Axe": "Quand faut-il réaliser l'activité?",
+              "Description": "Chaque fois qu'un médicament des maladies tropicales négligées arrive dans le lieu de stockage (voir également les modes opératoires normalisés concernant le transport, le stockage et la gestion des stocks).Chaque fois que le responsable du lieu de stockage envisage de transférer les médicaments vers un autre lieu de stockage ou de les utiliser pour une campagne de distribution de masse de médicaments (DMM).Après une DMM, dès que la décision est prise de stocker les médicaments jusqu'à la prochaine campagne (voir à cet effet les modes opératoires normalisés concernant la gestion des stocks et la gestion des déchets)."
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Modes opératoires sur le renforcement de la visibilité des dates de péremption",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Etiquetage ou marquage",
+              "Modes opératoires": "A la réception de nouveaux médicaments et avant rangement ou lors des inventaires, le responsable du lieu de stockage mentionne les dates de péremption sur la face extérieure de chaque carton ou de chaque boîte en utilisant un marqueur à encre noire et en veillant à ce que les dates soient lisibles à distance. Voir l'illustration à la figure 1 ci-dessous.Lorsque la date de péremption d'un médicament n'indique pas un jour précis, il convient généralement de considérer le dernier jour du mois inscrit sur la boîte (par exemple, si la boîte indique « Septembre 2021 », alors la date de péremption sera le 30 septembre 2021).",
+              "Délais": "Immédiatement à la réception de nouveaux médicaments"
+            },
+            {
+              "Actions requises/Données requises": "Rangement/organisation du stock et sorties selon les dates de péremption / Remplissage des fiches de stocks",
+              "Modes opératoires": "Les médicaments déjà périmés ne doivent être ni réceptionnés ni livrés (voir à cet effet les modes opératoires normalisés concernant le transport et le stockage). Ils doivent être éliminés le plus tôt possible dans des conditions optimales de sécurité (voir à cet effet les modes opératoires normalisés concernant la gestion des déchets et la gestion des stocks).Les cartons ou les boites doivent être disposés en tenant compte du principe FEFO :Entreposer les cartons ou boites par molécule;Tenir compte de la date de péremption: la plus proche devant ou au-dessus des stocks du même médicament qui se périmeront plus tard;Les boites déjà ouvertes doivent être identifiées et rangées de sorte à faciliter leur utilisation en premier, quelle que soit la date de péremption;Procéder aux vérifications systématiques et réorganiser les piles de médicaments chaque fois que de nouveaux stocks arrivent dans le lieu de stockage;Consigner les dates de péremption et les quantités sur les fiches de stock de chaque médicament;Partager les quantités en stock aux gestionnaires des programmes de lutte contre les maladies tropicales négligées ou à leurs mandataires",
+              "Délais": "Dans les 24H suivant la réception des médicaments"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 8: LOGISTIQUE DE RECYCLAGE DES MÉDICAMENTS ET PRODUITS DIAGNOSTIQUES À UTILISER POUR LUTTER CONTRE LES MALADIES TROPICALES NÉGLIGÉES",
+      "texte": "I. INTRODUCTIONLes présents modes opératoires normalisés (POS) serviront de boussole aux pays lors du processus de définition de la logistique devant être utilisée pour le recyclage des médicaments contre les maladies tropicales négligées (MTN). Ceci englobe le retour ou transfert de ces médicaments du niveau opérationnel vers le niveau central de la chaîne d'approvisionnement. La planification de la logistique de recyclage est tout aussi importante que la planification de la distribution et doit être élaborée dans le cadre de la distribution de masse de médicaments (DMM).Les présents (POS) sont liés à plusieurs autres modes opératoires normalisés concernant la gestion des stocks, le transport, le principe du « premier périmé, premier sorti » (FEFO) et la gestion des déchets, dans le but d'éviter la répétition du même langage dans chaque mode opératoire normalisé. Veuillez donc vous référer à ces POS pour plus de détails sur les prochaines étapes. Les éléments surlignés en vert ont trait à des formulaires ou aux autres documents nécessaires pour une logistique de recyclage efficace.Les présents POS s'appliquent également aux produits de diagnostic de MTN inutilisés.Objectifs du POS de la logistique de recyclage:- Assurer l'intégrité du système de la chaîne d'approvisionnement des médicaments MTN achetés et ou reçu en donation dans le pays.- Sécuriser les médicaments des MTN (Empêcher le vol et la commercialisation)- Effectuer une bonne quantification des besoins en médicaments de la DMM (Veiller à ce que le pays ne gaspille pas ses ressources en achetant ou en demandant excessivement ou trop peu de médicaments pour couvrir ses besoins en matière de DMM et ce, que ce soit auprès de l'OMS, auprès de centrales d'achat ou auprès d'autres fournisseurs) à intégrer dans les annexes.Résultats attendus:- Absence de détournement de médicaments des MTN à partir des dépôts désignés avant et après la DMM;- Absence de médicaments périmés;- Absence de gaspillage de médicaments;- Les médicaments des MTN sont stockés de manière appropriée pour être utilisés lors de la campagne suivante la DMM;- Les médicaments des MTN inutilisables sont correctement acheminés vers l'élimination conformément à la politique gouvernementale.Note: les médicaments utilisés lors des campagnes DMM ne sont pas destinés aux soins de routine ou au diagnostic clinique. NE PAS émettre ni distribuer de médicaments DMM à d'autres fins que l'administration massive de médicaments pendant une campagne d'DMM liée aux MTN.",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Première étape: Planification de la gestion des retours (LOGISTIQUE INVERSE) au niveau central",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Elaboration de la stratégie de gestion des retours",
+              "Modes opératoires": "Le coordonnateur du PNLMTN élabore ou fait élaborer un plan de gestion des retours (logistique inverse) décrivant clairement les stratégies, identifiant les acteurs, les rôles, le timing, les outils/supports de collecte, de rapportage et quantifiant également la logistique et le budget.",
+              "Délais": "6 à 10 mois avant la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Remise des ressources et des outils aux responsables de structures",
+              "Modes opératoires": "Le Coordonnateur du PNLMTN procède à la répartition et à la remise des ressources et des outils pour la LOG INV aux responsables des structures à l'occasion des opérations de transferts des médicaments, outils et budgets.",
+              "Délais": "1 mois avant la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Formation sur la LOG INV",
+              "Modes opératoires": "Des modules ayant trait à la gestion de la logistique inverse sont dispensés aux acteurs lors des sessions de formation sur la DMM.",
+              "Délais": "1 semaine avant la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Deuxième étape: Collecte/transfert/traitement",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Collecte dans l'aire du PPS",
+              "Modes opératoires": "Dans les 24 heures après la DMM, les distributeurs communautaires ou enseignants font le décompte des médicaments restants et les enregistrent sur un formulaire de retour de médicament ou fiche de transfert, en précisant les quantités utilisables, endommagées ou périmées ; Les numéros de lot doivent également être fournis.Ils remettent, contre décharge, ces médicaments accompagnés de la fiche de transfert au dépositaire du PPS ou à l'ICP.Le dépositaire du PPS ou l'ICP étiquète et emballe, séparément les médicaments « utilisables », « endommagés », « périmés » ou « inutilisables » (voir les MON concernant la gestion des déchets).Le dépositaire du poste ou l'ICP collecte les boîtes vides et modifie les étiquettes (à l'aide d'un marqueur foncé ou plus clair) en vue de leur destruction selon la politique de gestion des déchets du pays (voir les modes opératoires normalisés relatifs à la gestion des déchets).Le dépositaire du poste/ICP fait le décompte du nombre total de médicaments administrés et la quantité de médicaments restants, endommagés ou périmés à transférer au MCD/PF MTN ou au pharmacien/dépositaire du district.Le dépositaire du PPS ou l'ICP remet, contre décharge, ces médicaments accompagnés de la fiche de transfert au pharmacien/dépositaire du DS ou au point focal MTN.",
+              "Délais": "24 heures après la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Collecte dans l'aire du DS",
+              "Modes opératoires": "Le pharmacien/dépositaire du district garde temporairement les médicaments retournés par les PPS et enregistre les quantités reçues, y compris les numéros de lot.",
+              "Délais": "72 heures après la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Collecte et stockage à l'aire du DS",
+              "Modes opératoires": "S'il s'agit d'une installation de stockage officielle où les médicaments seront conservés, pour être utilisés lors des prochaines campagnes DMM, le responsable du dépôt du district met à jour le registre des stocks et prépare un rapport sur l'état des stocks des quantités disponibles, des dates d'expiration, des déchets pour la PRA et PNLMNT.Les médicaments sont ensuite emballés et stockés (voir les modes opératoires normalisés sur la gestion des stocks et le principe « FEFO »).Le MCD, aidé par le pharmacien/dépositaire et le point focal MTN, confirme le nombre total de médicaments administrés par rapport aux médicaments reçus; prend note de toute anomalie ou de tout stock manquant pour le suivi et envoie un rapport au PF régional MTN/PRA.",
+              "Délais": "1 semaine après la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Transfert à la PRA",
+              "Modes opératoires": "Le MCD retourne tous les médicaments collectés à la PRA ou au dépôt régional accompagnés des documents requis et déchargés (BL de retour ou fiche de transfert spéciale).",
+              "Délais": "15 Jours après la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Traitement/Stockage/enregistrement à la PRA",
+              "Modes opératoires": "Le responsable de la PRA, après avoir collecté les stocks retournés par tous les DS, procède au tri en séparant les médicaments utilisables (péremption lointaine, péremption proche) des médicaments non utilisables (périmés, avariés, endommagés, altérés).Il enregistre les quantités reçues de chaque district (et unité de mise en œuvre le cas échéant).Il prend note s'il y'a lieu, des lacunes dans les données et les signale au coordonnateur national de la lutte contre les maladies tropicales négligées pour suivi.Il assemble les quantités UTILISABLES en étiquetant de façon visible les dates de péremption.Ensuite il les range selon le principe « FEFO/FIFO » et les enregistre sur la fiche de stock avec les numéros de lot; ces médicament seront conservés pour la prochaine DMM.Il retire les médicaments INUTILISABLES du stock et les met en quarantaine ou en isolement en attendant la destruction en collaboration avec la BRH et la RM.Il prépare également le rapport sur l'état des stocks et le transmet au Coordonnateur du PNLMTN.",
+              "Délais": "1 mois après la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Aide-mémoire : Guide pour remplir les formulaires de retour et de transfert des médicaments",
+          "colonnes": [
+            "Étape",
+            "Instructions Actions",
+            "Points de données"
+          ],
+          "lignes": [
+            {
+              "Étape": "1",
+              "Instructions Actions": "État/région/district/poste de santé d'origine du transfert",
+              "Points de données": "Ex: Région de Thiès"
+            },
+            {
+              "Étape": "2",
+              "Instructions Actions": "Point de distribution du district/point DMM d'où provient le transfert",
+              "Points de données": "Ex: District Sanitaire de Thiès"
+            },
+            {
+              "Étape": "3",
+              "Instructions Actions": "Inscrivez le nom de la structure où les médicaments MTN doivent être retournés ou transférés à ce stade.",
+              "Points de données": "structure de réception: PRA de Thiès"
+            },
+            {
+              "Étape": "4",
+              "Instructions Actions": "Écrivez le nom de la structure qui retourne ou transfère les médicaments des MTN.",
+              "Points de données": "structure qui retourne ou qui transfère des médicaments: District sanitaire de Nioro du rip"
+            },
+            {
+              "Étape": "5",
+              "Instructions Actions": "Pour chaque médicament retourné ou transféré : Description, dosage et forme pharmaceutique de l'article: Écrire le nom et la description du médicament.",
+              "Points de données": "Description et forme pharmaceutique du médicament: Praziquantel, comprimés de 600 mg, Comprimé, Tablette, opercule, flacon, tube, etc."
+            },
+            {
+              "Étape": "6",
+              "Instructions Actions": "Unité: Écrire la plus petite unité de mesure du médicament des MTN.",
+              "Points de données": "Unité: Comprimé"
+            },
+            {
+              "Étape": "7",
+              "Instructions Actions": "N° de lot: Inscrivez le numéro de lot des médicaments retournés ou transférés.",
+              "Points de données": "N° de lot: EPA22221"
+            },
+            {
+              "Étape": "8",
+              "Instructions Actions": "Date d'expiration: Inscrivez la date de péremption des médicaments retournés ou transférés.",
+              "Points de données": "Date d'expiration: Décembre 2024 ou 12/2024"
+            },
+            {
+              "Étape": "9",
+              "Instructions Actions": "Quantité retournée ou transférée: Inscrivez la quantité de médicaments des MTN retournés ou transférés.",
+              "Points de données": "Quantité retournée ou transférée: 600 comprimés, opercules, tubes ou flacons."
+            },
+            {
+              "Étape": "10",
+              "Instructions Actions": "Raison du retour ou transfert: Écrivez la raison pour laquelle le produit est retourné.",
+              "Points de données": "Raison du retour ou transfert: Endommagé, expiré, inutilisé ou redistribué."
+            },
+            {
+              "Étape": "12",
+              "Instructions Actions": "Agent de retour ou transfert d'articles : La personne qui retourne ou transfère les médicaments des MTN inscrit son nom et sa signature, son numéro de téléphone portable et la date.",
+              "Points de données": "Khouma 00221 77 225 48 97, 16/11/2019"
+            },
+            {
+              "Étape": "13",
+              "Instructions Actions": "Agent approbateur du retour ou transfert d'articles: La personne qui approuve le retour ou le transfert inscrit son nom, sa signature, son numéro de mobile et la date.",
+              "Points de données": "Omar Seck, 083XXXXXXXXXXXX, 16/11/2019"
+            },
+            {
+              "Étape": "14",
+              "Instructions Actions": "Transporteur : Le conducteur transportant les médicaments des MTN inscrit son nom, sa signature, son numéro de portable, la date et le numéro d'immatriculation de son véhicule.",
+              "Points de données": "El hadji Sonko, 77 0000 0000, 16/11/19, LG 1114 XY"
+            },
+            {
+              "Étape": "15",
+              "Instructions Actions": "structure de réception: La personne qui reçoit les médicaments des MTN retournés ou transférés inscrit son nom, sa signature, son numéro de téléphone portable et la date.",
+              "Points de données": "Bocar Diop, 77 2200 3636 17/11/19"
+            },
+            {
+              "Étape": "16",
+              "Instructions Actions": "Remarques: Elles sont rédigées par l'agent récepteur pour accuser réception de la quantité et confirmer l'état des médicaments retournés.",
+              "Points de données": "Par exemple: complet, incomplet, non étiqueté, mal emballé, etc."
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 9: RETIRER LES MÉDICAMENTS PÉRIMÉS ET INUTILISABLES DU STOCK",
+      "texte": "I. INTRODUCTIONObjet: les présents modes opératoires normalisés portent sur le retrait des médicaments périmés ou inutilisables de l'entrepôt et sur la mise à jour des registres d'inventaire.Les médicaments périmés comprennent tout médicament dont la date de péremption fixée à la fabrication est dépassée, car ils ne peuvent plus être distribués à la population ayant besoin d'un traitement.Les médicaments inutilisables correspondent à tous les produits endommagés (endommagés par l'eau, contaminés ou exposés à des variations de température prolongées) et des produits qui risquent d'entrer en péremption avant la prochaine Distribution massive de médicaments (DMM).Les médicaments manquants perdus (Volés ou égarés) sont à consigner dans le formulaire d'inventaire physique (voir annexe).Il est important de suivre les lignes directrices pour :- Faire en sorte qu'aucun médicament périmé ne soit utilisé lors des campagnes de DMM;- Réduire les coûts de stockage;- Confirmer l'inventaire du stock disponible utilisable lors des campagnes DMM;- Certifier les stocks disponibles après les campagnes DMM en vue de leur utilisation dans la quantification pour la demande de médicaments contre les maladies tropicales négligées (MTN) qui sera effectuée l'année suivante.II. MODES OPERATOIRES NORMALISES SUR LE RETRAIT DES MÉDICAMENTS PÉRIMÉS ET INUTILISABLES DU STOCK",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Fiche de rôle et objet du retrait des médicaments périmés",
+          "colonnes": [
+            "Rubrique",
+            "Description"
+          ],
+          "lignes": [
+            {
+              "Rubrique": "Effectué par",
+              "Description": "Le Pharmacien du PNLMTN, Le gestionnaire du stock de la PNA/PRA"
+            },
+            {
+              "Rubrique": "But",
+              "Description": "veiller à ce que les quantités en stock reflètent ce qui est disponible pour la distribution et libérer un espace d'entreposage précieux afin de stocker des produits utilisables."
+            },
+            {
+              "Rubrique": "Quand faut-il le faire ?",
+              "Description": "Apres chaque campagne (après avoir terminé le processus de la logistique inverse) et à chaque inventaire"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Processus de retrait des médicaments périmés et inutilisables du stock",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Première étape: Identification des produits inutilisables",
+              "Modes opératoires": "Avant la préparation des commandes annuelles, ou pendant la préparation des stocks pour la DMM ou pour les besoins des rapports post DMM, le Pharmacien du PNLMTN, le gestionnaire du stock de la PNA/PRA identifient les produits périmés, endommagés, avariés, altérés (inutilisable);Ils peuvent se baser sur les registres d'inventaire ou fiches de stock à jour mais aussi (et plus recommandé) par la pratique de l'inventaire physique.",
+              "Délais": "1 à 2 mois après la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Deuxième étape: Tri des produits inutilisables (Séparation)",
+              "Modes opératoires": "Le Pharmacien du PNLMTN, le gestionnaire du stock de la PNA/PRA séparent les produits affectés des produits utilisables en attendant l'approbation;Une fois que le produits périmés et inutilisables ont été approuvés, le Pharmacien du PNLMTN, le gestionnaire du stock de la PNA/PRA les retirent et les conservent dans un « entrepôt pour produits périmés et inutilisables », en attendant leur destruction.",
+              "Délais": "1 à 2 mois après la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Troisième étape: Enregistrement et rapportage des médicaments inutilisables",
+              "Modes opératoires": "Le Pharmacien du PNLMTN, le gestionnaire du stock de la PNA/PRA mettent à jour la fiche de stock en retranchant les quantités périmées et inutilisables approuvées de la fiche de stock appropriée.Pour les articles ou produits périmés, porter la mention « PERIME »,Pour les articles ou produits endommagés ou inutilisables, porter la mention « DETERIORE »,Pour les articles ou produits perdus (volés ou égarés), porter la mention « PERDU ».",
+              "Délais": "1 à 2 mois après la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Troisième étape: Rapportage",
+              "Modes opératoires": "Le Pharmacien du PNLMTN, le gestionnaire du stock de la PNA/PRA adresse au responsable du programme de lutte contre les MTN un rapport sur les médicaments retirés du stock.",
+              "Délais": "1 à 2 mois après la DMM"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 10: GESTION DES DÉCHETS SANITAIRES POUR LES MÉDICAMENTS DES MALADIES TROPICALES NÉGLIGÉES",
+      "texte": "I. INTRODUCTIONLa gestion des déchets sanitaires fait référence au processus de gestion des médicaments périmés, endommagés ou inutilisables.Les présents modes opératoires normalisés (MON) sont liés à plusieurs autres MON notamment sur la logistique de recyclage. Les éléments surlignés en vert ont trait à des formulaires ou aux autres documents nécessaires à une gestion efficace des déchets sanitaires pour les médicaments des maladies tropicales négligées (MTN).Objectif: des modes opératoires normalisés concernant la gestion des déchets sanitaires s'avèrent nécessaires pour éviter de distribuer et d'administrer des produits périmés, endommagés ou autrement inutilisables aux communautés que nous desservons, d'autant plus que l'accessibilité à de tels médicaments peut entraîner de graves conséquences pour la santé en l'absence d'une prise en charge efficace des cas. Toutes les parties prenantes devraient veiller à ce que les médicaments périmés, endommagés ou autrement inutilisables soient tenus hors de portée de personnes non autorisées et renvoyés dans un endroit sûr en vue de leur élimination dans des conditions optimales de sécurité.En règle générale, la gestion des médicaments, des déchets et d'autres produits connexes comporte cinq étapes clés, à savoir :- la séparation des médicaments, déchets et autres produits connexes en divers composants, avec notamment un stockage réutilisable et sûr dans des conteneurs appropriés;- le transport des déchets vers les sites de traitement et d'élimination;- le conditionnement des médicaments qui nécessitent un traitement avant leur élimination finale;- l'élimination ou la destruction finale des médicaments;- la publication d'un rapport après élimination ou destruction.La surveillance post-campagne: prévention/réduction du risque d'utilisation des produits (périmés ou pas) à d'autres fins (voir section sur la pharmacovigilance).II. MODES OPERATOIRES SUR LA CENTRALISATION ET DESTRUCTION DES DECHETS",
+      "tableaux": [
+        {
+          "type": "tableau",
+          "titre": "Première étape: Centralisation des déchets",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais/timing"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Transfert au poste de santé et centre de santé",
+              "Modes opératoires": "Cf POS LOGISTIQUE INVERSE",
+              "Délais/timing": "Dans les 24 heures après la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Centralisation des déchets",
+              "Modes opératoires": "Cf POS LOGISTIQUE INVERSE",
+              "Délais/timing": "72 heures après la DMM"
+            }
+          ]
+        },
+        {
+          "type": "tableau",
+          "titre": "Deuxième étape: Destruction",
+          "colonnes": [
+            "Actions requises/Données requises",
+            "Modes opératoires",
+            "Délais"
+          ],
+          "lignes": [
+            {
+              "Actions requises/Données requises": "Destruction au niveau Régional",
+              "Modes opératoires": "La PRA, le point focal MTN/RM centralisent et trient tous les déchets provenant des sites de distribution des districts.Si les déchets doivent être détruits par la brigade régionale d'hygiène, la PRA et le point focal MTN/RM transfèrent au responsable de la brigade régionale d'hygiène les déchets déjà triés, accompagnés du formulaire de transmission adapté.",
+              "Délais": "15 jours après l'achèvement de la DMM"
+            },
+            {
+              "Actions requises/Données requises": "Destruction par la BRH",
+              "Modes opératoires": "La brigade régionale d'hygiène procède à l'élimination/ destruction selon les directives nationales en vigueur en présence du point focal MTN/RM et de la PRA et produit le certificat de destruction;Un PV de destruction est élaboré par la BRH et signé par tous les membres de la commission de destruction;Ces 2 documents sont établis en autant d'exemplaires que d'institutions représentées ou concernées.",
+              "Délais": "15 jours après l'achèvement de la DMM"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "type": "section",
+      "titre": "POS 11: SOUMISSION, PAR LE PROGRAMME NATIONAL DE LUTTE CONTRE LES MALADIES TROPICALES NÉGLIGÉES, DES PRÉVISIONS ET DE LA QUANTIFICATION DES DONS DE MÉDICAMENTS DESTINÉS À LA CHIMIOPRÉVENTION DE CES MALADIES",
+      "texte": "I. INTRODUCTION",
+      "tableaux": [],
+      "images": []
+    }
+  ]
+}
